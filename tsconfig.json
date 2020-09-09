@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es3",
+    "module": "commonjs",
+    "lib": [
+      "ES5"
+    ],
+    "declaration": true,
+    "outDir": "./lib",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true
+  },
+  "include": ["./index.ts"],
+  "exclude": ["node_modules", "**/__tests__/*"]
+}
