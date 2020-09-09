@@ -4,7 +4,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "dependencies": {
-    "wtf_wikipedia": "^8.4.0"
+    "wtf_wikipedia": "https://github.com/wvanderp/wtf_wikipedia"
   },
   "devDependencies": {
     "@types/node": "^14.6.4",
