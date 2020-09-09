@@ -1,4 +1,4 @@
-import propertiesJson from './data/properties.json';
+import propertiesJson from '../data/properties.json';
 
 export interface Property {
     id: string;
