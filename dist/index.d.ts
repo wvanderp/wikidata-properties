@@ -8,3 +8,4 @@ export interface Property {
 }
 export declare const properties: Property[];
 export declare const getProperty: (propertyID: string) => Property | null;
+export declare const datatypeTypes: string[];
