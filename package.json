@@ -1,12 +1,22 @@
 {
   "name": "wikidata-properties",
+  "description": "A list of all wikidata properties",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wvanderp/wikidata-properties/issues"
+  },
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wvanderp/wikidata-properties.git"
+  },
+  "homepage": "https://github.com/wvanderp/wikidata-properties",
   "dependencies": {},
   "devDependencies": {
     "wtf_wikipedia": "^8.5.1",
-    "@types/node": "^14.10.1",
+    "@types/node": "^14.10.3",
     "copyfiles": "^2.3.0",
     "parcel": "^1.12.4",
     "rimraf": "^3.0.2",
