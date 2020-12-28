@@ -1,0 +1,2332 @@
+[
+    {
+        "code": "aa",
+        "autonym": "Qafár af",
+        "name": "Afar"
+    },
+    {
+        "code": "ab",
+        "autonym": "Аҧсшәа",
+        "name": "Abkhazian"
+    },
+    {
+        "code": "abs",
+        "autonym": "bahasa ambon",
+        "name": "Ambonese Malay"
+    },
+    {
+        "code": "ace",
+        "autonym": "Acèh",
+        "name": "Achinese"
+    },
+    {
+        "code": "ady",
+        "autonym": "адыгабзэ",
+        "name": "Adyghe"
+    },
+    {
+        "code": "ady-cyrl",
+        "autonym": "адыгабзэ",
+        "name": "Adyghe (Cyrillic script)"
+    },
+    {
+        "code": "aeb",
+        "autonym": "تونسي/Tûnsî",
+        "name": "Tunisian Arabic"
+    },
+    {
+        "code": "aeb-arab",
+        "autonym": "تونسي",
+        "name": "Tunisian Arabic (Arabic script)"
+    },
+    {
+        "code": "aeb-latn",
+        "autonym": "Tûnsî",
+        "name": "Tunisian Arabic (Latin script)"
+    },
+    {
+        "code": "af",
+        "autonym": "Afrikaans",
+        "name": "Afrikaans"
+    },
+    {
+        "code": "ak",
+        "autonym": "Akan",
+        "name": "Akan"
+    },
+    {
+        "code": "aln",
+        "autonym": "Gegë",
+        "name": "Gheg Albanian"
+    },
+    {
+        "code": "als",
+        "autonym": "Alemannisch",
+        "name": "Alemannisch"
+    },
+    {
+        "code": "alt",
+        "autonym": "алтай тил",
+        "name": "Southern Altai"
+    },
+    {
+        "code": "am",
+        "autonym": "አማርኛ",
+        "name": "Amharic"
+    },
+    {
+        "code": "ami",
+        "autonym": "Pangcah",
+        "name": "Amis"
+    },
+    {
+        "code": "an",
+        "autonym": "aragonés",
+        "name": "Aragonese"
+    },
+    {
+        "code": "ang",
+        "autonym": "Ænglisc",
+        "name": "Old English"
+    },
+    {
+        "code": "anp",
+        "autonym": "अङ्गिका",
+        "name": "Angika"
+    },
+    {
+        "code": "ar",
+        "autonym": "العربية",
+        "name": "Arabic"
+    },
+    {
+        "code": "arc",
+        "autonym": "ܐܪܡܝܐ",
+        "name": "Aramaic"
+    },
+    {
+        "code": "arn",
+        "autonym": "mapudungun",
+        "name": "Mapuche"
+    },
+    {
+        "code": "arq",
+        "autonym": "جازايرية",
+        "name": "Algerian Arabic"
+    },
+    {
+        "code": "ary",
+        "autonym": "الدارجة",
+        "name": "Moroccan Arabic"
+    },
+    {
+        "code": "arz",
+        "autonym": "مصرى",
+        "name": "Egyptian Arabic"
+    },
+    {
+        "code": "as",
+        "autonym": "অসমীয়া",
+        "name": "Assamese"
+    },
+    {
+        "code": "ase",
+        "autonym": "American sign language",
+        "name": "American Sign Language"
+    },
+    {
+        "code": "ast",
+        "autonym": "asturianu",
+        "name": "Asturian"
+    },
+    {
+        "code": "atj",
+        "autonym": "Atikamekw",
+        "name": "Atikamekw"
+    },
+    {
+        "code": "av",
+        "autonym": "авар",
+        "name": "Avaric"
+    },
+    {
+        "code": "avk",
+        "autonym": "Kotava",
+        "name": "Kotava"
+    },
+    {
+        "code": "awa",
+        "autonym": "अवधी",
+        "name": "Awadhi"
+    },
+    {
+        "code": "ay",
+        "autonym": "Aymar aru",
+        "name": "Aymara"
+    },
+    {
+        "code": "az",
+        "autonym": "azərbaycanca",
+        "name": "Azerbaijani"
+    },
+    {
+        "code": "azb",
+        "autonym": "تۆرکجه",
+        "name": "South Azerbaijani"
+    },
+    {
+        "code": "ba",
+        "autonym": "башҡортса",
+        "name": "Bashkir"
+    },
+    {
+        "code": "ban",
+        "autonym": "Basa Bali",
+        "name": "Balinese"
+    },
+    {
+        "code": "ban-bali",
+        "autonym": "ᬩᬲᬩᬮᬶ",
+        "name": "ᬩᬲᬩᬮᬶ"
+    },
+    {
+        "code": "bar",
+        "autonym": "Boarisch",
+        "name": "Bavarian"
+    },
+    {
+        "code": "bat-smg",
+        "autonym": "žemaitėška",
+        "name": "Samogitian"
+    },
+    {
+        "code": "bbc",
+        "autonym": "Batak Toba",
+        "name": "Batak Toba"
+    },
+    {
+        "code": "bbc-latn",
+        "autonym": "Batak Toba",
+        "name": "Batak Toba (Latin script)"
+    },
+    {
+        "code": "bcc",
+        "autonym": "جهلسری بلوچی",
+        "name": "Southern Balochi"
+    },
+    {
+        "code": "bcl",
+        "autonym": "Bikol Central",
+        "name": "Central Bikol"
+    },
+    {
+        "code": "be",
+        "autonym": "беларуская",
+        "name": "Belarusian"
+    },
+    {
+        "code": "be-tarask",
+        "autonym": "беларуская (тарашкевіца)‎",
+        "name": "Belarusian (Taraškievica orthography)"
+    },
+    {
+        "code": "be-x-old",
+        "autonym": "беларуская (тарашкевіца)‎",
+        "name": "Belarusian (Taraškievica orthography)"
+    },
+    {
+        "code": "bg",
+        "autonym": "български",
+        "name": "Bulgarian"
+    },
+    {
+        "code": "bgn",
+        "autonym": "روچ کپتین بلوچی",
+        "name": "Western Balochi"
+    },
+    {
+        "code": "bh",
+        "autonym": "भोजपुरी",
+        "name": "Bhojpuri"
+    },
+    {
+        "code": "bho",
+        "autonym": "भोजपुरी",
+        "name": "Bhojpuri"
+    },
+    {
+        "code": "bi",
+        "autonym": "Bislama",
+        "name": "Bislama"
+    },
+    {
+        "code": "bjn",
+        "autonym": "Banjar",
+        "name": "Banjar"
+    },
+    {
+        "code": "bm",
+        "autonym": "bamanankan",
+        "name": "Bambara"
+    },
+    {
+        "code": "bn",
+        "autonym": "বাংলা",
+        "name": "Bangla"
+    },
+    {
+        "code": "bo",
+        "autonym": "བོད་ཡིག",
+        "name": "Tibetan"
+    },
+    {
+        "code": "bpy",
+        "autonym": "বিষ্ণুপ্রিয়া মণিপুরী",
+        "name": "Bishnupriya"
+    },
+    {
+        "code": "bqi",
+        "autonym": "بختیاری",
+        "name": "Bakhtiari"
+    },
+    {
+        "code": "br",
+        "autonym": "brezhoneg",
+        "name": "Breton"
+    },
+    {
+        "code": "brh",
+        "autonym": "Bráhuí",
+        "name": "Brahui"
+    },
+    {
+        "code": "bs",
+        "autonym": "bosanski",
+        "name": "Bosnian"
+    },
+    {
+        "code": "btm",
+        "autonym": "Batak Mandailing",
+        "name": "Batak Mandailing"
+    },
+    {
+        "code": "bto",
+        "autonym": "Iriga Bicolano",
+        "name": "Iriga Bicolano"
+    },
+    {
+        "code": "bug",
+        "autonym": "ᨅᨔ ᨕᨘᨁᨗ",
+        "name": "Buginese"
+    },
+    {
+        "code": "bxr",
+        "autonym": "буряад",
+        "name": "Russia Buriat"
+    },
+    {
+        "code": "ca",
+        "autonym": "català",
+        "name": "Catalan"
+    },
+    {
+        "code": "cbk-zam",
+        "autonym": "Chavacano de Zamboanga",
+        "name": "Chavacano"
+    },
+    {
+        "code": "cdo",
+        "autonym": "Mìng-dĕ̤ng-ngṳ̄",
+        "name": "Min Dong Chinese"
+    },
+    {
+        "code": "ce",
+        "autonym": "нохчийн",
+        "name": "Chechen"
+    },
+    {
+        "code": "ceb",
+        "autonym": "Cebuano",
+        "name": "Cebuano"
+    },
+    {
+        "code": "ch",
+        "autonym": "Chamoru",
+        "name": "Chamorro"
+    },
+    {
+        "code": "cho",
+        "autonym": "Choctaw",
+        "name": "Choctaw"
+    },
+    {
+        "code": "chr",
+        "autonym": "ᏣᎳᎩ",
+        "name": "Cherokee"
+    },
+    {
+        "code": "chy",
+        "autonym": "Tsetsêhestâhese",
+        "name": "Cheyenne"
+    },
+    {
+        "code": "ckb",
+        "autonym": "کوردی",
+        "name": "Central Kurdish"
+    },
+    {
+        "code": "co",
+        "autonym": "corsu",
+        "name": "Corsican"
+    },
+    {
+        "code": "cps",
+        "autonym": "Capiceño",
+        "name": "Capiznon"
+    },
+    {
+        "code": "cr",
+        "autonym": "Nēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣ",
+        "name": "Cree"
+    },
+    {
+        "code": "crh",
+        "autonym": "qırımtatarca",
+        "name": "Crimean Turkish"
+    },
+    {
+        "code": "crh-cyrl",
+        "autonym": "къырымтатарджа (Кирилл)‎",
+        "name": "Crimean Tatar (Cyrillic script)"
+    },
+    {
+        "code": "crh-latn",
+        "autonym": "qırımtatarca (Latin)‎",
+        "name": "Crimean Tatar (Latin script)"
+    },
+    {
+        "code": "cs",
+        "autonym": "čeština",
+        "name": "Czech"
+    },
+    {
+        "code": "csb",
+        "autonym": "kaszëbsczi",
+        "name": "Kashubian"
+    },
+    {
+        "code": "cu",
+        "autonym": "словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ",
+        "name": "Church Slavic"
+    },
+    {
+        "code": "cv",
+        "autonym": "Чӑвашла",
+        "name": "Chuvash"
+    },
+    {
+        "code": "cy",
+        "autonym": "Cymraeg",
+        "name": "Welsh"
+    },
+    {
+        "code": "da",
+        "autonym": "dansk",
+        "name": "Danish"
+    },
+    {
+        "code": "de",
+        "autonym": "Deutsch",
+        "name": "German"
+    },
+    {
+        "code": "de-at",
+        "autonym": "Österreichisches Deutsch",
+        "name": "Austrian German"
+    },
+    {
+        "code": "de-ch",
+        "autonym": "Schweizer Hochdeutsch",
+        "name": "Swiss High German"
+    },
+    {
+        "code": "de-formal",
+        "autonym": "Deutsch (Sie-Form)‎",
+        "name": "German (formal address)"
+    },
+    {
+        "code": "din",
+        "autonym": "Thuɔŋjäŋ",
+        "name": "Dinka"
+    },
+    {
+        "code": "diq",
+        "autonym": "Zazaki",
+        "name": "Zazaki"
+    },
+    {
+        "code": "dsb",
+        "autonym": "dolnoserbski",
+        "name": "Lower Sorbian"
+    },
+    {
+        "code": "dtp",
+        "autonym": "Dusun Bundu-liwan",
+        "name": "Central Dusun"
+    },
+    {
+        "code": "dty",
+        "autonym": "डोटेली",
+        "name": "Doteli"
+    },
+    {
+        "code": "dv",
+        "autonym": "ދިވެހިބަސް",
+        "name": "Divehi"
+    },
+    {
+        "code": "dz",
+        "autonym": "ཇོང་ཁ",
+        "name": "Dzongkha"
+    },
+    {
+        "code": "ee",
+        "autonym": "eʋegbe",
+        "name": "Ewe"
+    },
+    {
+        "code": "egl",
+        "autonym": "Emiliàn",
+        "name": "Emilian"
+    },
+    {
+        "code": "el",
+        "autonym": "Ελληνικά",
+        "name": "Greek"
+    },
+    {
+        "code": "eml",
+        "autonym": "emiliàn e rumagnòl",
+        "name": "Emiliano-Romagnolo"
+    },
+    {
+        "code": "en",
+        "autonym": "English",
+        "name": "English"
+    },
+    {
+        "code": "en-ca",
+        "autonym": "Canadian English",
+        "name": "Canadian English"
+    },
+    {
+        "code": "en-gb",
+        "autonym": "British English",
+        "name": "British English"
+    },
+    {
+        "code": "eo",
+        "autonym": "Esperanto",
+        "name": "Esperanto"
+    },
+    {
+        "code": "es",
+        "autonym": "español",
+        "name": "Spanish"
+    },
+    {
+        "code": "es-419",
+        "autonym": "español de América Latina",
+        "name": "Latin American Spanish"
+    },
+    {
+        "code": "es-formal",
+        "autonym": "español (formal)‎",
+        "name": "español (formal)‎"
+    },
+    {
+        "code": "et",
+        "autonym": "eesti",
+        "name": "Estonian"
+    },
+    {
+        "code": "eu",
+        "autonym": "euskara",
+        "name": "Basque"
+    },
+    {
+        "code": "ext",
+        "autonym": "estremeñu",
+        "name": "Extremaduran"
+    },
+    {
+        "code": "fa",
+        "autonym": "فارسی",
+        "name": "Persian"
+    },
+    {
+        "code": "ff",
+        "autonym": "Fulfulde",
+        "name": "Fulah"
+    },
+    {
+        "code": "fi",
+        "autonym": "suomi",
+        "name": "Finnish"
+    },
+    {
+        "code": "fit",
+        "autonym": "meänkieli",
+        "name": "Tornedalen Finnish"
+    },
+    {
+        "code": "fiu-vro",
+        "autonym": "võro",
+        "name": "võro"
+    },
+    {
+        "code": "fj",
+        "autonym": "Na Vosa Vakaviti",
+        "name": "Fijian"
+    },
+    {
+        "code": "fkv",
+        "autonym": "kvääni",
+        "name": "Kvensk"
+    },
+    {
+        "code": "fo",
+        "autonym": "føroyskt",
+        "name": "Faroese"
+    },
+    {
+        "code": "fr",
+        "autonym": "français",
+        "name": "French"
+    },
+    {
+        "code": "frc",
+        "autonym": "français cadien",
+        "name": "Cajun French"
+    },
+    {
+        "code": "frp",
+        "autonym": "arpetan",
+        "name": "Arpitan"
+    },
+    {
+        "code": "frr",
+        "autonym": "Nordfriisk",
+        "name": "Northern Frisian"
+    },
+    {
+        "code": "fur",
+        "autonym": "furlan",
+        "name": "Friulian"
+    },
+    {
+        "code": "fy",
+        "autonym": "Frysk",
+        "name": "Western Frisian"
+    },
+    {
+        "code": "ga",
+        "autonym": "Gaeilge",
+        "name": "Irish"
+    },
+    {
+        "code": "gag",
+        "autonym": "Gagauz",
+        "name": "Gagauz"
+    },
+    {
+        "code": "gan",
+        "autonym": "贛語",
+        "name": "Gan Chinese"
+    },
+    {
+        "code": "gan-hans",
+        "autonym": "赣语（简体）‎",
+        "name": "Gan (Simplified)"
+    },
+    {
+        "code": "gan-hant",
+        "autonym": "贛語（繁體）‎",
+        "name": "Gan (Traditional)"
+    },
+    {
+        "code": "gcr",
+        "autonym": "kriyòl gwiyannen",
+        "name": "Guianan Creole"
+    },
+    {
+        "code": "gd",
+        "autonym": "Gàidhlig",
+        "name": "Scottish Gaelic"
+    },
+    {
+        "code": "gl",
+        "autonym": "galego",
+        "name": "Galician"
+    },
+    {
+        "code": "glk",
+        "autonym": "گیلکی",
+        "name": "Gilaki"
+    },
+    {
+        "code": "gn",
+        "autonym": "Avañe'ẽ",
+        "name": "Guarani"
+    },
+    {
+        "code": "gom",
+        "autonym": "गोंयची कोंकणी / Gõychi Konknni",
+        "name": "Goan Konkani"
+    },
+    {
+        "code": "gom-deva",
+        "autonym": "गोंयची कोंकणी",
+        "name": "Goan Konkani (Devanagari script)"
+    },
+    {
+        "code": "gom-latn",
+        "autonym": "Gõychi Konknni",
+        "name": "Goan Konkani (Latin script)"
+    },
+    {
+        "code": "gor",
+        "autonym": "Bahasa Hulontalo",
+        "name": "Gorontalo"
+    },
+    {
+        "code": "got",
+        "autonym": "𐌲𐌿𐍄𐌹𐍃𐌺",
+        "name": "Gothic"
+    },
+    {
+        "code": "grc",
+        "autonym": "Ἀρχαία ἑλληνικὴ",
+        "name": "Ancient Greek"
+    },
+    {
+        "code": "gsw",
+        "autonym": "Alemannisch",
+        "name": "Swiss German"
+    },
+    {
+        "code": "gu",
+        "autonym": "ગુજરાતી",
+        "name": "Gujarati"
+    },
+    {
+        "code": "gv",
+        "autonym": "Gaelg",
+        "name": "Manx"
+    },
+    {
+        "code": "ha",
+        "autonym": "Hausa",
+        "name": "Hausa"
+    },
+    {
+        "code": "hak",
+        "autonym": "客家語/Hak-kâ-ngî",
+        "name": "Hakka Chinese"
+    },
+    {
+        "code": "haw",
+        "autonym": "Hawaiʻi",
+        "name": "Hawaiian"
+    },
+    {
+        "code": "he",
+        "autonym": "עברית",
+        "name": "Hebrew"
+    },
+    {
+        "code": "hi",
+        "autonym": "हिन्दी",
+        "name": "Hindi"
+    },
+    {
+        "code": "hif",
+        "autonym": "Fiji Hindi",
+        "name": "Fiji Hindi"
+    },
+    {
+        "code": "hif-latn",
+        "autonym": "Fiji Hindi",
+        "name": "Fiji Hindi (Latin script)"
+    },
+    {
+        "code": "hil",
+        "autonym": "Ilonggo",
+        "name": "Hiligaynon"
+    },
+    {
+        "code": "ho",
+        "autonym": "Hiri Motu",
+        "name": "Hiri Motu"
+    },
+    {
+        "code": "hr",
+        "autonym": "hrvatski",
+        "name": "Croatian"
+    },
+    {
+        "code": "hrx",
+        "autonym": "Hunsrik",
+        "name": "Hunsrik"
+    },
+    {
+        "code": "hsb",
+        "autonym": "hornjoserbsce",
+        "name": "Upper Sorbian"
+    },
+    {
+        "code": "ht",
+        "autonym": "Kreyòl ayisyen",
+        "name": "Haitian Creole"
+    },
+    {
+        "code": "hu",
+        "autonym": "magyar",
+        "name": "Hungarian"
+    },
+    {
+        "code": "hu-formal",
+        "autonym": "magyar (formal)‎",
+        "name": "magyar (formal)‎"
+    },
+    {
+        "code": "hy",
+        "autonym": "հայերեն",
+        "name": "Armenian"
+    },
+    {
+        "code": "hyw",
+        "autonym": "Արեւմտահայերէն",
+        "name": "Western Armenian"
+    },
+    {
+        "code": "hz",
+        "autonym": "Otsiherero",
+        "name": "Herero"
+    },
+    {
+        "code": "ia",
+        "autonym": "interlingua",
+        "name": "Interlingua"
+    },
+    {
+        "code": "id",
+        "autonym": "Bahasa Indonesia",
+        "name": "Indonesian"
+    },
+    {
+        "code": "ie",
+        "autonym": "Interlingue",
+        "name": "Interlingue"
+    },
+    {
+        "code": "ig",
+        "autonym": "Igbo",
+        "name": "Igbo"
+    },
+    {
+        "code": "ii",
+        "autonym": "ꆇꉙ",
+        "name": "Sichuan Yi"
+    },
+    {
+        "code": "ik",
+        "autonym": "Iñupiak",
+        "name": "Inupiaq"
+    },
+    {
+        "code": "ike-cans",
+        "autonym": "ᐃᓄᒃᑎᑐᑦ",
+        "name": "Eastern Canadian (Aboriginal syllabics)"
+    },
+    {
+        "code": "ike-latn",
+        "autonym": "inuktitut",
+        "name": "Eastern Canadian (Latin script)"
+    },
+    {
+        "code": "ilo",
+        "autonym": "Ilokano",
+        "name": "Iloko"
+    },
+    {
+        "code": "inh",
+        "autonym": "ГӀалгӀай",
+        "name": "Ingush"
+    },
+    {
+        "code": "io",
+        "autonym": "Ido",
+        "name": "Ido"
+    },
+    {
+        "code": "is",
+        "autonym": "íslenska",
+        "name": "Icelandic"
+    },
+    {
+        "code": "it",
+        "autonym": "italiano",
+        "name": "Italian"
+    },
+    {
+        "code": "iu",
+        "autonym": "ᐃᓄᒃᑎᑐᑦ/inuktitut",
+        "name": "Inuktitut"
+    },
+    {
+        "code": "ja",
+        "autonym": "日本語",
+        "name": "Japanese"
+    },
+    {
+        "code": "jam",
+        "autonym": "Patois",
+        "name": "Jamaican Creole English"
+    },
+    {
+        "code": "jbo",
+        "autonym": "la .lojban.",
+        "name": "Lojban"
+    },
+    {
+        "code": "jut",
+        "autonym": "jysk",
+        "name": "Jutish"
+    },
+    {
+        "code": "jv",
+        "autonym": "Jawa",
+        "name": "Javanese"
+    },
+    {
+        "code": "ka",
+        "autonym": "ქართული",
+        "name": "Georgian"
+    },
+    {
+        "code": "kaa",
+        "autonym": "Qaraqalpaqsha",
+        "name": "Kara-Kalpak"
+    },
+    {
+        "code": "kab",
+        "autonym": "Taqbaylit",
+        "name": "Kabyle"
+    },
+    {
+        "code": "kbd",
+        "autonym": "Адыгэбзэ",
+        "name": "Kabardian"
+    },
+    {
+        "code": "kbd-cyrl",
+        "autonym": "Адыгэбзэ",
+        "name": "Kabardian (Cyrillic script)"
+    },
+    {
+        "code": "kbp",
+        "autonym": "Kabɩyɛ",
+        "name": "Kabiye"
+    },
+    {
+        "code": "kea",
+        "autonym": "Kabuverdianu",
+        "name": "Kabuverdianu"
+    },
+    {
+        "code": "kg",
+        "autonym": "Kongo",
+        "name": "Kongo"
+    },
+    {
+        "code": "khw",
+        "autonym": "کھوار",
+        "name": "Khowar"
+    },
+    {
+        "code": "ki",
+        "autonym": "Gĩkũyũ",
+        "name": "Kikuyu"
+    },
+    {
+        "code": "kiu",
+        "autonym": "Kırmancki",
+        "name": "Kirmanjki"
+    },
+    {
+        "code": "kj",
+        "autonym": "Kwanyama",
+        "name": "Kuanyama"
+    },
+    {
+        "code": "kjp",
+        "autonym": "ဖၠုံလိက်",
+        "name": "Eastern Pwo"
+    },
+    {
+        "code": "kk",
+        "autonym": "қазақша",
+        "name": "Kazakh"
+    },
+    {
+        "code": "kk-arab",
+        "autonym": "قازاقشا (تٴوتە)‏",
+        "name": "Kazakh (Arabic script)"
+    },
+    {
+        "code": "kk-cn",
+        "autonym": "قازاقشا (جۇنگو)‏",
+        "name": "Kazakh (China)"
+    },
+    {
+        "code": "kk-cyrl",
+        "autonym": "қазақша (кирил)‎",
+        "name": "Kazakh (Cyrillic script)"
+    },
+    {
+        "code": "kk-kz",
+        "autonym": "қазақша (Қазақстан)‎",
+        "name": "Kazakh (Kazakhstan)"
+    },
+    {
+        "code": "kk-latn",
+        "autonym": "qazaqşa (latın)‎",
+        "name": "Kazakh (Latin script)"
+    },
+    {
+        "code": "kk-tr",
+        "autonym": "qazaqşa (Türkïya)‎",
+        "name": "Kazakh (Turkey)"
+    },
+    {
+        "code": "kl",
+        "autonym": "kalaallisut",
+        "name": "Kalaallisut"
+    },
+    {
+        "code": "km",
+        "autonym": "ភាសាខ្មែរ",
+        "name": "Khmer"
+    },
+    {
+        "code": "kn",
+        "autonym": "ಕನ್ನಡ",
+        "name": "Kannada"
+    },
+    {
+        "code": "ko",
+        "autonym": "한국어",
+        "name": "Korean"
+    },
+    {
+        "code": "ko-kp",
+        "autonym": "조선말",
+        "name": "Korean (North Korea)"
+    },
+    {
+        "code": "koi",
+        "autonym": "перем коми",
+        "name": "Komi-Permyak"
+    },
+    {
+        "code": "kr",
+        "autonym": "Kanuri",
+        "name": "Kanuri"
+    },
+    {
+        "code": "krc",
+        "autonym": "къарачай-малкъар",
+        "name": "Karachay-Balkar"
+    },
+    {
+        "code": "kri",
+        "autonym": "Krio",
+        "name": "Krio"
+    },
+    {
+        "code": "krj",
+        "autonym": "Kinaray-a",
+        "name": "Kinaray-a"
+    },
+    {
+        "code": "krl",
+        "autonym": "karjal",
+        "name": "Karelian"
+    },
+    {
+        "code": "ks",
+        "autonym": "कॉशुर / کٲشُر",
+        "name": "Kashmiri"
+    },
+    {
+        "code": "ks-arab",
+        "autonym": "کٲشُر",
+        "name": "Kashmiri (Arabic script)"
+    },
+    {
+        "code": "ks-deva",
+        "autonym": "कॉशुर",
+        "name": "Kashmiri (Devanagari script)"
+    },
+    {
+        "code": "ksh",
+        "autonym": "Ripoarisch",
+        "name": "Colognian"
+    },
+    {
+        "code": "ku",
+        "autonym": "kurdî",
+        "name": "Kurdish"
+    },
+    {
+        "code": "ku-arab",
+        "autonym": "كوردي (عەرەبی)‏",
+        "name": "Kurdish (Arabic script)"
+    },
+    {
+        "code": "ku-latn",
+        "autonym": "kurdî (latînî)‎",
+        "name": "Kurdish (Latin script)"
+    },
+    {
+        "code": "kum",
+        "autonym": "къумукъ",
+        "name": "Kumyk"
+    },
+    {
+        "code": "kv",
+        "autonym": "коми",
+        "name": "Komi"
+    },
+    {
+        "code": "kw",
+        "autonym": "kernowek",
+        "name": "Cornish"
+    },
+    {
+        "code": "ky",
+        "autonym": "Кыргызча",
+        "name": "Kyrgyz"
+    },
+    {
+        "code": "la",
+        "autonym": "Latina",
+        "name": "Latin"
+    },
+    {
+        "code": "lad",
+        "autonym": "Ladino",
+        "name": "Ladino"
+    },
+    {
+        "code": "lb",
+        "autonym": "Lëtzebuergesch",
+        "name": "Luxembourgish"
+    },
+    {
+        "code": "lbe",
+        "autonym": "лакку",
+        "name": "Lak"
+    },
+    {
+        "code": "lez",
+        "autonym": "лезги",
+        "name": "Lezghian"
+    },
+    {
+        "code": "lfn",
+        "autonym": "Lingua Franca Nova",
+        "name": "Lingua Franca Nova"
+    },
+    {
+        "code": "lg",
+        "autonym": "Luganda",
+        "name": "Ganda"
+    },
+    {
+        "code": "li",
+        "autonym": "Limburgs",
+        "name": "Limburgish"
+    },
+    {
+        "code": "lij",
+        "autonym": "Ligure",
+        "name": "Ligurian"
+    },
+    {
+        "code": "liv",
+        "autonym": "Līvõ kēļ",
+        "name": "Livonian"
+    },
+    {
+        "code": "lki",
+        "autonym": "لەکی",
+        "name": "Laki"
+    },
+    {
+        "code": "lld",
+        "autonym": "Ladin",
+        "name": "Ladin"
+    },
+    {
+        "code": "lmo",
+        "autonym": "lumbaart",
+        "name": "Lombard"
+    },
+    {
+        "code": "ln",
+        "autonym": "lingála",
+        "name": "Lingala"
+    },
+    {
+        "code": "lo",
+        "autonym": "ລາວ",
+        "name": "Lao"
+    },
+    {
+        "code": "loz",
+        "autonym": "Silozi",
+        "name": "Lozi"
+    },
+    {
+        "code": "lrc",
+        "autonym": "لۊری شومالی",
+        "name": "Northern Luri"
+    },
+    {
+        "code": "lt",
+        "autonym": "lietuvių",
+        "name": "Lithuanian"
+    },
+    {
+        "code": "ltg",
+        "autonym": "latgaļu",
+        "name": "Latgalian"
+    },
+    {
+        "code": "lus",
+        "autonym": "Mizo ţawng",
+        "name": "Mizo"
+    },
+    {
+        "code": "luz",
+        "autonym": "لئری دوٙمینی",
+        "name": "Southern Luri"
+    },
+    {
+        "code": "lv",
+        "autonym": "latviešu",
+        "name": "Latvian"
+    },
+    {
+        "code": "lzh",
+        "autonym": "文言",
+        "name": "Literary Chinese"
+    },
+    {
+        "code": "lzz",
+        "autonym": "Lazuri",
+        "name": "Laz"
+    },
+    {
+        "code": "mad",
+        "autonym": "Madhurâ",
+        "name": "Madurese"
+    },
+    {
+        "code": "mai",
+        "autonym": "मैथिली",
+        "name": "Maithili"
+    },
+    {
+        "code": "map-bms",
+        "autonym": "Basa Banyumasan",
+        "name": "Basa Banyumasan"
+    },
+    {
+        "code": "mdf",
+        "autonym": "мокшень",
+        "name": "Moksha"
+    },
+    {
+        "code": "mg",
+        "autonym": "Malagasy",
+        "name": "Malagasy"
+    },
+    {
+        "code": "mh",
+        "autonym": "Ebon",
+        "name": "Marshallese"
+    },
+    {
+        "code": "mhr",
+        "autonym": "олык марий",
+        "name": "Eastern Mari"
+    },
+    {
+        "code": "mi",
+        "autonym": "Māori",
+        "name": "Maori"
+    },
+    {
+        "code": "min",
+        "autonym": "Minangkabau",
+        "name": "Minangkabau"
+    },
+    {
+        "code": "mk",
+        "autonym": "македонски",
+        "name": "Macedonian"
+    },
+    {
+        "code": "ml",
+        "autonym": "മലയാളം",
+        "name": "Malayalam"
+    },
+    {
+        "code": "mn",
+        "autonym": "монгол",
+        "name": "Mongolian"
+    },
+    {
+        "code": "mni",
+        "autonym": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+        "name": "Manipuri"
+    },
+    {
+        "code": "mnw",
+        "autonym": "ဘာသာ မန်",
+        "name": "Mon"
+    },
+    {
+        "code": "mo",
+        "autonym": "молдовеняскэ",
+        "name": "Moldovan"
+    },
+    {
+        "code": "mr",
+        "autonym": "मराठी",
+        "name": "Marathi"
+    },
+    {
+        "code": "mrh",
+        "autonym": "Mara",
+        "name": "Mara"
+    },
+    {
+        "code": "mrj",
+        "autonym": "кырык мары",
+        "name": "Western Mari"
+    },
+    {
+        "code": "ms",
+        "autonym": "Bahasa Melayu",
+        "name": "Malay"
+    },
+    {
+        "code": "mt",
+        "autonym": "Malti",
+        "name": "Maltese"
+    },
+    {
+        "code": "mus",
+        "autonym": "Mvskoke",
+        "name": "Muscogee"
+    },
+    {
+        "code": "mwl",
+        "autonym": "Mirandés",
+        "name": "Mirandese"
+    },
+    {
+        "code": "my",
+        "autonym": "မြန်မာဘာသာ",
+        "name": "Burmese"
+    },
+    {
+        "code": "myv",
+        "autonym": "эрзянь",
+        "name": "Erzya"
+    },
+    {
+        "code": "mzn",
+        "autonym": "مازِرونی",
+        "name": "Mazanderani"
+    },
+    {
+        "code": "na",
+        "autonym": "Dorerin Naoero",
+        "name": "Nauru"
+    },
+    {
+        "code": "nah",
+        "autonym": "Nāhuatl",
+        "name": "Nāhuatl"
+    },
+    {
+        "code": "nan",
+        "autonym": "Bân-lâm-gú",
+        "name": "Min Nan Chinese"
+    },
+    {
+        "code": "nap",
+        "autonym": "Napulitano",
+        "name": "Neapolitan"
+    },
+    {
+        "code": "nb",
+        "autonym": "norsk bokmål",
+        "name": "Norwegian Bokmål"
+    },
+    {
+        "code": "nds",
+        "autonym": "Plattdüütsch",
+        "name": "Low German"
+    },
+    {
+        "code": "nds-nl",
+        "autonym": "Nedersaksies",
+        "name": "Low Saxon"
+    },
+    {
+        "code": "ne",
+        "autonym": "नेपाली",
+        "name": "Nepali"
+    },
+    {
+        "code": "new",
+        "autonym": "नेपाल भाषा",
+        "name": "Newari"
+    },
+    {
+        "code": "ng",
+        "autonym": "Oshiwambo",
+        "name": "Ndonga"
+    },
+    {
+        "code": "nia",
+        "autonym": "Li Niha",
+        "name": "Nias"
+    },
+    {
+        "code": "niu",
+        "autonym": "Niuē",
+        "name": "Niuean"
+    },
+    {
+        "code": "nl",
+        "autonym": "Nederlands",
+        "name": "Dutch"
+    },
+    {
+        "code": "nl-informal",
+        "autonym": "Nederlands (informeel)‎",
+        "name": "Nederlands (informeel)‎"
+    },
+    {
+        "code": "nn",
+        "autonym": "norsk nynorsk",
+        "name": "Norwegian Nynorsk"
+    },
+    {
+        "code": "no",
+        "autonym": "norsk",
+        "name": "Norwegian"
+    },
+    {
+        "code": "nod",
+        "autonym": "ᨣᩴᩤᨾᩮᩥᩬᨦ",
+        "name": "Northern Thai"
+    },
+    {
+        "code": "nov",
+        "autonym": "Novial",
+        "name": "Novial"
+    },
+    {
+        "code": "nqo",
+        "autonym": "ߒߞߏ",
+        "name": "N’Ko"
+    },
+    {
+        "code": "nrm",
+        "autonym": "Nouormand",
+        "name": "Norman"
+    },
+    {
+        "code": "nso",
+        "autonym": "Sesotho sa Leboa",
+        "name": "Northern Sotho"
+    },
+    {
+        "code": "nv",
+        "autonym": "Diné bizaad",
+        "name": "Navajo"
+    },
+    {
+        "code": "ny",
+        "autonym": "Chi-Chewa",
+        "name": "Nyanja"
+    },
+    {
+        "code": "nys",
+        "autonym": "Nyunga",
+        "name": "Nyungar"
+    },
+    {
+        "code": "oc",
+        "autonym": "occitan",
+        "name": "Occitan"
+    },
+    {
+        "code": "olo",
+        "autonym": "livvinkarjala",
+        "name": "Livvi-Karelian"
+    },
+    {
+        "code": "om",
+        "autonym": "Oromoo",
+        "name": "Oromo"
+    },
+    {
+        "code": "or",
+        "autonym": "ଓଡ଼ିଆ",
+        "name": "Odia"
+    },
+    {
+        "code": "os",
+        "autonym": "Ирон",
+        "name": "Ossetic"
+    },
+    {
+        "code": "ota",
+        "autonym": "لسان توركى",
+        "name": "Ottoman Turkish"
+    },
+    {
+        "code": "pa",
+        "autonym": "ਪੰਜਾਬੀ",
+        "name": "Punjabi"
+    },
+    {
+        "code": "pag",
+        "autonym": "Pangasinan",
+        "name": "Pangasinan"
+    },
+    {
+        "code": "pam",
+        "autonym": "Kapampangan",
+        "name": "Pampanga"
+    },
+    {
+        "code": "pap",
+        "autonym": "Papiamentu",
+        "name": "Papiamento"
+    },
+    {
+        "code": "pcd",
+        "autonym": "Picard",
+        "name": "Picard"
+    },
+    {
+        "code": "pdc",
+        "autonym": "Deitsch",
+        "name": "Pennsylvania German"
+    },
+    {
+        "code": "pdt",
+        "autonym": "Plautdietsch",
+        "name": "Plautdietsch"
+    },
+    {
+        "code": "pfl",
+        "autonym": "Pälzisch",
+        "name": "Palatine German"
+    },
+    {
+        "code": "pi",
+        "autonym": "पालि",
+        "name": "Pali"
+    },
+    {
+        "code": "pih",
+        "autonym": "Norfuk / Pitkern",
+        "name": "Norfuk / Pitkern"
+    },
+    {
+        "code": "pl",
+        "autonym": "polski",
+        "name": "Polish"
+    },
+    {
+        "code": "pms",
+        "autonym": "Piemontèis",
+        "name": "Piedmontese"
+    },
+    {
+        "code": "pnb",
+        "autonym": "پنجابی",
+        "name": "Western Punjabi"
+    },
+    {
+        "code": "pnt",
+        "autonym": "Ποντιακά",
+        "name": "Pontic"
+    },
+    {
+        "code": "prg",
+        "autonym": "Prūsiskan",
+        "name": "Prussian"
+    },
+    {
+        "code": "ps",
+        "autonym": "پښتو",
+        "name": "Pashto"
+    },
+    {
+        "code": "pt",
+        "autonym": "português",
+        "name": "Portuguese"
+    },
+    {
+        "code": "pt-br",
+        "autonym": "português do Brasil",
+        "name": "Brazilian Portuguese"
+    },
+    {
+        "code": "qu",
+        "autonym": "Runa Simi",
+        "name": "Quechua"
+    },
+    {
+        "code": "qug",
+        "autonym": "Runa shimi",
+        "name": "Chimborazo Highland Quichua"
+    },
+    {
+        "code": "rgn",
+        "autonym": "Rumagnôl",
+        "name": "Romagnol"
+    },
+    {
+        "code": "rif",
+        "autonym": "Tarifit",
+        "name": "Riffian"
+    },
+    {
+        "code": "rm",
+        "autonym": "rumantsch",
+        "name": "Romansh"
+    },
+    {
+        "code": "rmf",
+        "autonym": "kaalengo tšimb",
+        "name": "Finnish Kalo"
+    },
+    {
+        "code": "rmy",
+        "autonym": "romani čhib",
+        "name": "Vlax Romani"
+    },
+    {
+        "code": "rn",
+        "autonym": "Kirundi",
+        "name": "Rundi"
+    },
+    {
+        "code": "ro",
+        "autonym": "română",
+        "name": "Romanian"
+    },
+    {
+        "code": "roa-rup",
+        "autonym": "armãneashti",
+        "name": "Aromanian"
+    },
+    {
+        "code": "roa-tara",
+        "autonym": "tarandíne",
+        "name": "Tarantino"
+    },
+    {
+        "code": "ru",
+        "autonym": "русский",
+        "name": "Russian"
+    },
+    {
+        "code": "rue",
+        "autonym": "русиньскый",
+        "name": "Rusyn"
+    },
+    {
+        "code": "rup",
+        "autonym": "armãneashti",
+        "name": "Aromanian"
+    },
+    {
+        "code": "ruq",
+        "autonym": "Vlăheşte",
+        "name": "Megleno-Romanian"
+    },
+    {
+        "code": "ruq-cyrl",
+        "autonym": "Влахесте",
+        "name": "Megleno-Romanian (Cyrillic script)"
+    },
+    {
+        "code": "ruq-latn",
+        "autonym": "Vlăheşte",
+        "name": "Megleno-Romanian (Latin script)"
+    },
+    {
+        "code": "rw",
+        "autonym": "Kinyarwanda",
+        "name": "Kinyarwanda"
+    },
+    {
+        "code": "rwr",
+        "autonym": "मारवाड़ी",
+        "name": "Marwari (India)"
+    },
+    {
+        "code": "sa",
+        "autonym": "संस्कृतम्",
+        "name": "Sanskrit"
+    },
+    {
+        "code": "sah",
+        "autonym": "саха тыла",
+        "name": "Sakha"
+    },
+    {
+        "code": "sat",
+        "autonym": "ᱥᱟᱱᱛᱟᱲᱤ",
+        "name": "Santali"
+    },
+    {
+        "code": "sc",
+        "autonym": "sardu",
+        "name": "Sardinian"
+    },
+    {
+        "code": "scn",
+        "autonym": "sicilianu",
+        "name": "Sicilian"
+    },
+    {
+        "code": "sco",
+        "autonym": "Scots",
+        "name": "Scots"
+    },
+    {
+        "code": "sd",
+        "autonym": "سنڌي",
+        "name": "Sindhi"
+    },
+    {
+        "code": "sdc",
+        "autonym": "Sassaresu",
+        "name": "Sassarese Sardinian"
+    },
+    {
+        "code": "sdh",
+        "autonym": "کوردی خوارگ",
+        "name": "Southern Kurdish"
+    },
+    {
+        "code": "se",
+        "autonym": "davvisámegiella",
+        "name": "Northern Sami"
+    },
+    {
+        "code": "sei",
+        "autonym": "Cmique Itom",
+        "name": "Seri"
+    },
+    {
+        "code": "ses",
+        "autonym": "Koyraboro Senni",
+        "name": "Koyraboro Senni"
+    },
+    {
+        "code": "sg",
+        "autonym": "Sängö",
+        "name": "Sango"
+    },
+    {
+        "code": "sgs",
+        "autonym": "žemaitėška",
+        "name": "Samogitian"
+    },
+    {
+        "code": "sh",
+        "autonym": "srpskohrvatski / српскохрватски",
+        "name": "Serbo-Croatian"
+    },
+    {
+        "code": "shi",
+        "autonym": "Tašlḥiyt/ⵜⴰⵛⵍⵃⵉⵜ",
+        "name": "Tachelhit"
+    },
+    {
+        "code": "shi-latn",
+        "autonym": "Tašlḥiyt",
+        "name": "Tachelhit (Latin script)"
+    },
+    {
+        "code": "shi-tfng",
+        "autonym": "ⵜⴰⵛⵍⵃⵉⵜ",
+        "name": "Tachelhit (Tifinagh script)"
+    },
+    {
+        "code": "shn",
+        "autonym": "ၽႃႇသႃႇတႆး ",
+        "name": "Shan"
+    },
+    {
+        "code": "shy-latn",
+        "autonym": "tacawit",
+        "name": "Shawiya (Latin script)"
+    },
+    {
+        "code": "si",
+        "autonym": "සිංහල",
+        "name": "Sinhala"
+    },
+    {
+        "code": "simple",
+        "autonym": "Simple English",
+        "name": "Simple English"
+    },
+    {
+        "code": "sjd",
+        "autonym": "Кӣллт са̄мь кӣлл",
+        "name": "Kildin Sami"
+    },
+    {
+        "code": "sje",
+        "autonym": "bidumsámegiella",
+        "name": "Pite Sami"
+    },
+    {
+        "code": "sju",
+        "autonym": "ubmejesámiengiälla",
+        "name": "Ume Sami"
+    },
+    {
+        "code": "sk",
+        "autonym": "slovenčina",
+        "name": "Slovak"
+    },
+    {
+        "code": "skr",
+        "autonym": "سرائیکی",
+        "name": "Saraiki"
+    },
+    {
+        "code": "skr-arab",
+        "autonym": "سرائیکی",
+        "name": "Saraiki (Arabic script)"
+    },
+    {
+        "code": "sl",
+        "autonym": "slovenščina",
+        "name": "Slovenian"
+    },
+    {
+        "code": "sli",
+        "autonym": "Schläsch",
+        "name": "Lower Silesian"
+    },
+    {
+        "code": "sm",
+        "autonym": "Gagana Samoa",
+        "name": "Samoan"
+    },
+    {
+        "code": "sma",
+        "autonym": "åarjelsaemien",
+        "name": "Southern Sami"
+    },
+    {
+        "code": "smj",
+        "autonym": "julevsámegiella",
+        "name": "Lule Sami"
+    },
+    {
+        "code": "smn",
+        "autonym": "anarâškielâ",
+        "name": "Inari Sami"
+    },
+    {
+        "code": "sms",
+        "autonym": "nuõrttsääʹmǩiõll",
+        "name": "Skolt Sami"
+    },
+    {
+        "code": "sn",
+        "autonym": "chiShona",
+        "name": "Shona"
+    },
+    {
+        "code": "so",
+        "autonym": "Soomaaliga",
+        "name": "Somali"
+    },
+    {
+        "code": "sq",
+        "autonym": "shqip",
+        "name": "Albanian"
+    },
+    {
+        "code": "sr",
+        "autonym": "српски / srpski",
+        "name": "Serbian"
+    },
+    {
+        "code": "sr-ec",
+        "autonym": "српски (ћирилица)‎",
+        "name": "Serbian (Cyrillic script)"
+    },
+    {
+        "code": "sr-el",
+        "autonym": "srpski (latinica)‎",
+        "name": "Serbian (Latin script)"
+    },
+    {
+        "code": "srn",
+        "autonym": "Sranantongo",
+        "name": "Sranan Tongo"
+    },
+    {
+        "code": "srq",
+        "autonym": "mbia cheë",
+        "name": "Sirionó"
+    },
+    {
+        "code": "ss",
+        "autonym": "SiSwati",
+        "name": "Swati"
+    },
+    {
+        "code": "st",
+        "autonym": "Sesotho",
+        "name": "Southern Sotho"
+    },
+    {
+        "code": "stq",
+        "autonym": "Seeltersk",
+        "name": "Saterland Frisian"
+    },
+    {
+        "code": "sty",
+        "autonym": "себертатар",
+        "name": "себертатар"
+    },
+    {
+        "code": "su",
+        "autonym": "Sunda",
+        "name": "Sundanese"
+    },
+    {
+        "code": "sv",
+        "autonym": "svenska",
+        "name": "Swedish"
+    },
+    {
+        "code": "sw",
+        "autonym": "Kiswahili",
+        "name": "Swahili"
+    },
+    {
+        "code": "szl",
+        "autonym": "ślůnski",
+        "name": "Silesian"
+    },
+    {
+        "code": "szy",
+        "autonym": "Sakizaya",
+        "name": "Sakizaya"
+    },
+    {
+        "code": "ta",
+        "autonym": "தமிழ்",
+        "name": "Tamil"
+    },
+    {
+        "code": "tay",
+        "autonym": "Tayal",
+        "name": "Tayal"
+    },
+    {
+        "code": "tcy",
+        "autonym": "ತುಳು",
+        "name": "Tulu"
+    },
+    {
+        "code": "te",
+        "autonym": "తెలుగు",
+        "name": "Telugu"
+    },
+    {
+        "code": "tet",
+        "autonym": "tetun",
+        "name": "Tetum"
+    },
+    {
+        "code": "tg",
+        "autonym": "тоҷикӣ",
+        "name": "Tajik"
+    },
+    {
+        "code": "tg-cyrl",
+        "autonym": "тоҷикӣ",
+        "name": "Tajik (Cyrillic script)"
+    },
+    {
+        "code": "tg-latn",
+        "autonym": "tojikī",
+        "name": "Tajik (Latin script)"
+    },
+    {
+        "code": "th",
+        "autonym": "ไทย",
+        "name": "Thai"
+    },
+    {
+        "code": "ti",
+        "autonym": "ትግርኛ",
+        "name": "Tigrinya"
+    },
+    {
+        "code": "tk",
+        "autonym": "Türkmençe",
+        "name": "Turkmen"
+    },
+    {
+        "code": "tl",
+        "autonym": "Tagalog",
+        "name": "Tagalog"
+    },
+    {
+        "code": "tly",
+        "autonym": "толышә зывон",
+        "name": "Talysh"
+    },
+    {
+        "code": "tn",
+        "autonym": "Setswana",
+        "name": "Tswana"
+    },
+    {
+        "code": "to",
+        "autonym": "lea faka-Tonga",
+        "name": "Tongan"
+    },
+    {
+        "code": "tpi",
+        "autonym": "Tok Pisin",
+        "name": "Tok Pisin"
+    },
+    {
+        "code": "tr",
+        "autonym": "Türkçe",
+        "name": "Turkish"
+    },
+    {
+        "code": "tru",
+        "autonym": "Ṫuroyo",
+        "name": "Turoyo"
+    },
+    {
+        "code": "trv",
+        "autonym": "Seediq",
+        "name": "Taroko"
+    },
+    {
+        "code": "ts",
+        "autonym": "Xitsonga",
+        "name": "Tsonga"
+    },
+    {
+        "code": "tt",
+        "autonym": "татарча/tatarça",
+        "name": "Tatar"
+    },
+    {
+        "code": "tt-cyrl",
+        "autonym": "татарча",
+        "name": "Tatar (Cyrillic script)"
+    },
+    {
+        "code": "tt-latn",
+        "autonym": "tatarça",
+        "name": "Tatar (Latin script)"
+    },
+    {
+        "code": "tum",
+        "autonym": "chiTumbuka",
+        "name": "Tumbuka"
+    },
+    {
+        "code": "tw",
+        "autonym": "Twi",
+        "name": "Twi"
+    },
+    {
+        "code": "ty",
+        "autonym": "reo tahiti",
+        "name": "Tahitian"
+    },
+    {
+        "code": "tyv",
+        "autonym": "тыва дыл",
+        "name": "Tuvinian"
+    },
+    {
+        "code": "tzm",
+        "autonym": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
+        "name": "Central Atlas Tamazight"
+    },
+    {
+        "code": "udm",
+        "autonym": "удмурт",
+        "name": "Udmurt"
+    },
+    {
+        "code": "ug",
+        "autonym": "ئۇيغۇرچە / Uyghurche",
+        "name": "Uyghur"
+    },
+    {
+        "code": "ug-arab",
+        "autonym": "ئۇيغۇرچە",
+        "name": "Uyghur (Arabic script)"
+    },
+    {
+        "code": "ug-latn",
+        "autonym": "Uyghurche",
+        "name": "Uyghur (Latin script)"
+    },
+    {
+        "code": "uk",
+        "autonym": "українська",
+        "name": "Ukrainian"
+    },
+    {
+        "code": "ur",
+        "autonym": "اردو",
+        "name": "Urdu"
+    },
+    {
+        "code": "uz",
+        "autonym": "oʻzbekcha/ўзбекча",
+        "name": "Uzbek"
+    },
+    {
+        "code": "uz-cyrl",
+        "autonym": "ўзбекча",
+        "name": "Uzbek (Cyrillic script)"
+    },
+    {
+        "code": "uz-latn",
+        "autonym": "oʻzbekcha",
+        "name": "Uzbek (Latin script)"
+    },
+    {
+        "code": "ve",
+        "autonym": "Tshivenda",
+        "name": "Venda"
+    },
+    {
+        "code": "vec",
+        "autonym": "vèneto",
+        "name": "Venetian"
+    },
+    {
+        "code": "vep",
+        "autonym": "vepsän kel’",
+        "name": "Veps"
+    },
+    {
+        "code": "vi",
+        "autonym": "Tiếng Việt",
+        "name": "Vietnamese"
+    },
+    {
+        "code": "vls",
+        "autonym": "West-Vlams",
+        "name": "West Flemish"
+    },
+    {
+        "code": "vmf",
+        "autonym": "Mainfränkisch",
+        "name": "Main-Franconian"
+    },
+    {
+        "code": "vo",
+        "autonym": "Volapük",
+        "name": "Volapük"
+    },
+    {
+        "code": "vot",
+        "autonym": "Vaďďa",
+        "name": "Votic"
+    },
+    {
+        "code": "vro",
+        "autonym": "võro",
+        "name": "Võro"
+    },
+    {
+        "code": "wa",
+        "autonym": "walon",
+        "name": "Walloon"
+    },
+    {
+        "code": "war",
+        "autonym": "Winaray",
+        "name": "Waray"
+    },
+    {
+        "code": "wo",
+        "autonym": "Wolof",
+        "name": "Wolof"
+    },
+    {
+        "code": "wuu",
+        "autonym": "吴语",
+        "name": "Wu Chinese"
+    },
+    {
+        "code": "xal",
+        "autonym": "хальмг",
+        "name": "Kalmyk"
+    },
+    {
+        "code": "xh",
+        "autonym": "isiXhosa",
+        "name": "Xhosa"
+    },
+    {
+        "code": "xmf",
+        "autonym": "მარგალური",
+        "name": "Mingrelian"
+    },
+    {
+        "code": "xsy",
+        "autonym": "saisiyat",
+        "name": "Saisiyat"
+    },
+    {
+        "code": "yi",
+        "autonym": "ייִדיש",
+        "name": "Yiddish"
+    },
+    {
+        "code": "yo",
+        "autonym": "Yorùbá",
+        "name": "Yoruba"
+    },
+    {
+        "code": "yue",
+        "autonym": "粵語",
+        "name": "Cantonese"
+    },
+    {
+        "code": "za",
+        "autonym": "Vahcuengh",
+        "name": "Zhuang"
+    },
+    {
+        "code": "zea",
+        "autonym": "Zeêuws",
+        "name": "Zeelandic"
+    },
+    {
+        "code": "zgh",
+        "autonym": "ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ",
+        "name": "Standard Moroccan Tamazight"
+    },
+    {
+        "code": "zh",
+        "autonym": "中文",
+        "name": "Chinese"
+    },
+    {
+        "code": "zh-classical",
+        "autonym": "文言",
+        "name": "Classical Chinese"
+    },
+    {
+        "code": "zh-cn",
+        "autonym": "中文（中国大陆）‎",
+        "name": "Chinese (China)"
+    },
+    {
+        "code": "zh-hans",
+        "autonym": "中文（简体）‎",
+        "name": "Simplified Chinese"
+    },
+    {
+        "code": "zh-hant",
+        "autonym": "中文（繁體）‎",
+        "name": "Traditional Chinese"
+    },
+    {
+        "code": "zh-hk",
+        "autonym": "中文（香港）‎",
+        "name": "Chinese (Hong Kong)"
+    },
+    {
+        "code": "zh-min-nan",
+        "autonym": "Bân-lâm-gú",
+        "name": "Chinese (Min Nan)"
+    },
+    {
+        "code": "zh-mo",
+        "autonym": "中文（澳門）‎",
+        "name": "Chinese (Macau)"
+    },
+    {
+        "code": "zh-my",
+        "autonym": "中文（马来西亚）‎",
+        "name": "Chinese (Malaysia)"
+    },
+    {
+        "code": "zh-sg",
+        "autonym": "中文（新加坡）‎",
+        "name": "Chinese (Singapore)"
+    },
+    {
+        "code": "zh-tw",
+        "autonym": "中文（台灣）‎",
+        "name": "Chinese (Taiwan)"
+    },
+    {
+        "code": "zh-yue",
+        "autonym": "粵語",
+        "name": "Cantonese"
+    },
+    {
+        "code": "zu",
+        "autonym": "isiZulu",
+        "name": "Zulu"
+    },
+    {
+        "code": "dag",
+        "autonym": null,
+        "name": "Dagbani"
+    }
+]
