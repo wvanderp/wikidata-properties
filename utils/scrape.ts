@@ -1,6 +1,8 @@
 import wtf from "wtf_wikipedia";
 import * as fs from 'fs';
 import axios from 'axios';
+
+import siteDetails from './siteDetails';
 // ---------------------------------------------------------------------
 // types
 
@@ -92,4 +94,6 @@ async function getLanguages(url: string, name: string) {
 
 	await getLanguages(monoUrl, 'MonolingualLanguages');
 	await getLanguages(labelUrl, 'LabelLanguages');
+
+	await siteDetails();
 })()
