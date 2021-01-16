@@ -341,6 +341,15 @@
         "languageCode": "ba",
         "group": "wikibooks"
     },
+    "bclwiktionary": {
+        "shortName": "Bikol Central",
+        "name": "Bikol Central",
+        "id": "bclwiktionary",
+        "pageUrl": "//bcl.wiktionary.org/wiki/$1",
+        "apiUrl": "//bcl.wiktionary.org/w/api.php",
+        "languageCode": "bcl",
+        "group": "wiktionary"
+    },
     "bewikibooks": {
         "shortName": "беларуская",
         "name": "беларуская",
@@ -924,6 +933,15 @@
         "pageUrl": "//de.wiktionary.org/wiki/$1",
         "apiUrl": "//de.wiktionary.org/w/api.php",
         "languageCode": "de",
+        "group": "wiktionary"
+    },
+    "diqwiktionary": {
+        "shortName": "Zazaki",
+        "name": "Zazaki",
+        "id": "diqwiktionary",
+        "pageUrl": "//diq.wiktionary.org/wiki/$1",
+        "apiUrl": "//diq.wiktionary.org/w/api.php",
+        "languageCode": "diq",
         "group": "wiktionary"
     },
     "dvwiktionary": {
@@ -2976,6 +2994,15 @@
         "pageUrl": "//ne.wiktionary.org/wiki/$1",
         "apiUrl": "//ne.wiktionary.org/w/api.php",
         "languageCode": "ne",
+        "group": "wiktionary"
+    },
+    "niawiktionary": {
+        "shortName": "Li Niha",
+        "name": "Li Niha",
+        "id": "niawiktionary",
+        "pageUrl": "//nia.wiktionary.org/wiki/$1",
+        "apiUrl": "//nia.wiktionary.org/w/api.php",
+        "languageCode": "nia",
         "group": "wiktionary"
     },
     "nlwikibooks": {
@@ -7728,6 +7755,15 @@
         "pageUrl": "//skr.wikipedia.org/wiki/$1",
         "apiUrl": "//skr.wikipedia.org/w/api.php",
         "languageCode": "skr",
+        "group": "wikipedia"
+    },
+    "niawiki": {
+        "shortName": "Li Niha",
+        "name": "Li Niha",
+        "id": "niawiki",
+        "pageUrl": "//nia.wikipedia.org/wiki/$1",
+        "apiUrl": "//nia.wikipedia.org/w/api.php",
+        "languageCode": "nia",
         "group": "wikipedia"
     }
 }

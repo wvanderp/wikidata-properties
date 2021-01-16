@@ -910,6 +910,11 @@
         "name": "Kabiye"
     },
     {
+        "code": "kcg",
+        "autonym": "Tyap",
+        "name": "Tyap"
+    },
+    {
         "code": "kea",
         "autonym": "Kabuverdianu",
         "name": "Kabuverdianu"
@@ -1736,12 +1741,12 @@
     },
     {
         "code": "shi",
-        "autonym": "Tašlḥiyt/ⵜⴰⵛⵍⵃⵉⵜ",
+        "autonym": "Taclḥit",
         "name": "Tachelhit"
     },
     {
         "code": "shi-latn",
-        "autonym": "Tašlḥiyt",
+        "autonym": "Taclḥit",
         "name": "Tachelhit (Latin script)"
     },
     {
