@@ -4319,6 +4319,15 @@
         "languageCode": "tr",
         "group": "wikisource"
     },
+    "trwikivoyage": {
+        "shortName": "Türkçe",
+        "name": "Türkçe",
+        "id": "trwikivoyage",
+        "pageUrl": "//tr.wikivoyage.org/wiki/$1",
+        "apiUrl": "//tr.wikivoyage.org/w/api.php",
+        "languageCode": "tr",
+        "group": "wikivoyage"
+    },
     "trwiktionary": {
         "shortName": "Türkçe",
         "name": "Türkçe",
