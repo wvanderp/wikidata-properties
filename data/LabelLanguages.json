@@ -435,6 +435,11 @@
         "name": "Danish"
     },
     {
+        "code": "dag",
+        "autonym": "Dagbanli",
+        "name": "Dagbani"
+    },
+    {
         "code": "de",
         "autonym": "Deutsch",
         "name": "German"
@@ -2328,10 +2333,5 @@
         "code": "zu",
         "autonym": "isiZulu",
         "name": "Zulu"
-    },
-    {
-        "code": "dag",
-        "autonym": null,
-        "name": "Dagbani"
     }
 ]
