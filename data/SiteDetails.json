@@ -2789,6 +2789,15 @@
         "languageCode": "ml",
         "group": "wiktionary"
     },
+    "mniwiktionary": {
+        "shortName": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+        "name": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+        "id": "mniwiktionary",
+        "pageUrl": "//mni.wiktionary.org/wiki/$1",
+        "apiUrl": "//mni.wiktionary.org/w/api.php",
+        "languageCode": "mni",
+        "group": "wiktionary"
+    },
     "mnwikibooks": {
         "shortName": "монгол",
         "name": "монгол",
@@ -7478,6 +7487,15 @@
         "languageCode": "en",
         "group": "special"
     },
+    "sourceswiki": {
+        "shortName": "Multilingual Wikisource",
+        "name": "Multilingual Wikisource",
+        "id": "sourceswiki",
+        "pageUrl": "//wikisource.org/wiki/$1",
+        "apiUrl": "//wikisource.org/w/api.php",
+        "languageCode": "en",
+        "group": "special"
+    },
     "specieswiki": {
         "shortName": "specieswiki",
         "name": "specieswiki",
@@ -7773,6 +7791,24 @@
         "pageUrl": "//nia.wikipedia.org/wiki/$1",
         "apiUrl": "//nia.wikipedia.org/w/api.php",
         "languageCode": "nia",
+        "group": "wikipedia"
+    },
+    "altwiki": {
+        "shortName": "алтай тил",
+        "name": "алтай тил",
+        "id": "altwiki",
+        "pageUrl": "//alt.wikipedia.org/wiki/$1",
+        "apiUrl": "//alt.wikipedia.org/w/api.php",
+        "languageCode": "alt",
+        "group": "wikipedia"
+    },
+    "mniwiki": {
+        "shortName": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+        "name": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+        "id": "mniwiki",
+        "pageUrl": "//mni.wikipedia.org/wiki/$1",
+        "apiUrl": "//mni.wikipedia.org/w/api.php",
+        "languageCode": "mni",
         "group": "wikipedia"
     }
 }

@@ -2333,5 +2333,180 @@
         "code": "zu",
         "autonym": "isiZulu",
         "name": "Zulu"
+    },
+    {
+        "code": "bag",
+        "autonym": null,
+        "name": "Tuki"
+    },
+    {
+        "code": "bas",
+        "autonym": null,
+        "name": "Basaa"
+    },
+    {
+        "code": "bax",
+        "autonym": null,
+        "name": "Bamun"
+    },
+    {
+        "code": "bbj",
+        "autonym": null,
+        "name": "Ghomala"
+    },
+    {
+        "code": "bfd",
+        "autonym": null,
+        "name": "Bafut"
+    },
+    {
+        "code": "bkc",
+        "autonym": null,
+        "name": "Baka"
+    },
+    {
+        "code": "bkh",
+        "autonym": null,
+        "name": "Bakako"
+    },
+    {
+        "code": "bkm",
+        "autonym": null,
+        "name": "Kom"
+    },
+    {
+        "code": "bqz",
+        "autonym": null,
+        "name": "Mka'a"
+    },
+    {
+        "code": "byv",
+        "autonym": null,
+        "name": "Medumba"
+    },
+    {
+        "code": "dua",
+        "autonym": null,
+        "name": "Duala"
+    },
+    {
+        "code": "eto",
+        "autonym": null,
+        "name": "Eton"
+    },
+    {
+        "code": "etu",
+        "autonym": null,
+        "name": "Ejagham"
+    },
+    {
+        "code": "ewo",
+        "autonym": null,
+        "name": "Ewondo"
+    },
+    {
+        "code": "fmp",
+        "autonym": null,
+        "name": "Fe'Fe'"
+    },
+    {
+        "code": "gya",
+        "autonym": null,
+        "name": "Gbaya"
+    },
+    {
+        "code": "isu",
+        "autonym": null,
+        "name": "Isu"
+    },
+    {
+        "code": "ker",
+        "autonym": null,
+        "name": "Kera"
+    },
+    {
+        "code": "ksf",
+        "autonym": null,
+        "name": "Bafia"
+    },
+    {
+        "code": "lem",
+        "autonym": null,
+        "name": "Nomaande"
+    },
+    {
+        "code": "lns",
+        "autonym": null,
+        "name": "Lamnso'"
+    },
+    {
+        "code": "mcp",
+        "autonym": null,
+        "name": "Maka"
+    },
+    {
+        "code": "mua",
+        "autonym": null,
+        "name": "Mundang"
+    },
+    {
+        "code": "nge",
+        "autonym": null,
+        "name": "Ngémba"
+    },
+    {
+        "code": "nla",
+        "autonym": null,
+        "name": "Ngombala"
+    },
+    {
+        "code": "nmg",
+        "autonym": null,
+        "name": "Kwasio"
+    },
+    {
+        "code": "nnh",
+        "autonym": null,
+        "name": "Ngiemboon"
+    },
+    {
+        "code": "nnz",
+        "autonym": null,
+        "name": "Nda'Nda'"
+    },
+    {
+        "code": "tvu",
+        "autonym": null,
+        "name": "Tunen"
+    },
+    {
+        "code": "vut",
+        "autonym": null,
+        "name": "Vute"
+    },
+    {
+        "code": "wes",
+        "autonym": null,
+        "name": "Pidgin"
+    },
+    {
+        "code": "yas",
+        "autonym": null,
+        "name": "Nugunu"
+    },
+    {
+        "code": "yat",
+        "autonym": null,
+        "name": "Yambeta"
+    },
+    {
+        "code": "yav",
+        "autonym": null,
+        "name": "Yangben"
+    },
+    {
+        "code": "ybb",
+        "autonym": null,
+        "name": "Yemba"
     }
 ]
