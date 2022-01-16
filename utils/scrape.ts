@@ -52,6 +52,15 @@ async function getProperties() {
 		throw Error('Received no data from wikidata');
 	}
 
+	if(Array.isArray(page)){
+		throw Error('got an array for some reason');
+	}
+
+	if (page.table(0) == null){
+		throw Error('did not find a table for some reason');
+	}
+
+	// @ts-expect-error
 	const properties = (page.table(0).json() as props[]).map((property) => {
 		return {
 			id: property.ID.text,
