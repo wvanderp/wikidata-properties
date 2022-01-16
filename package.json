@@ -13,8 +13,12 @@
     "url": "https://github.com/wvanderp/wikidata-properties.git"
   },
   "homepage": "https://github.com/wvanderp/wikidata-properties",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
   "devDependencies": {
+    "@wmde/wikibase-datamodel-types": "git+https://github.com/wvanderp/WikibaseDataModelTypes.git",
+    "@types/lodash": "^4.14.178",
     "@types/node": "^17.0.8",
     "@types/puppeteer": "^5.4.4",
     "axios": "0.24.0",
@@ -24,7 +28,7 @@
     "wtf_wikipedia": "^9.0.3"
   },
   "scripts": {
-    "scrape": "ts-node -P tsconfig.scrape.json utils/scrape.ts",
+    "scrape": "ts-node utils/scrape.ts",
     "build": "npm run scrape && tsc -b"
   }
 }

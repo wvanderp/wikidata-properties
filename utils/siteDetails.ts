@@ -10,8 +10,8 @@ export default async function getSiteDetails() {
         // @ts-ignore
         return mw.config.get('wbSiteDetails')
     })
-  
-    await browser.close();   
-    
+
+    await browser.close();
+
     fs.writeFileSync('./data/SiteDetails.json', JSON.stringify(sites, undefined, 4))
 }

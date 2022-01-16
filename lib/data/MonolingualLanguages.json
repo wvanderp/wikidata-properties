@@ -2305,6 +2305,11 @@
         "name": "Yoruba"
     },
     {
+        "code": "yrl",
+        "autonym": "Nhẽẽgatú",
+        "name": "Nheengatu"
+    },
+    {
         "code": "yue",
         "autonym": "粵語",
         "name": "Cantonese"

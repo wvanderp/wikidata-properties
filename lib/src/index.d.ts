@@ -2,9 +2,10 @@ export interface Property {
     id: string;
     label: string;
     description: string;
-    aliases?: string[];
-    dataType: string;
-    count: number;
+    alias?: string[] | null;
+    labels?: Record<string, string | undefined>;
+    descriptions?: Record<string, string | undefined>;
+    aliases?: Record<string, string[] | undefined>;
 }
 export interface language {
     code: string;

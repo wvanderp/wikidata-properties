@@ -8,12 +8,13 @@ export interface Property {
     id: string;
     label: string;
     description: string;
-    aliases?: string[];
-    dataType: string;
-    count: number;
+    alias?: string[] | null;
+    labels?: Record<string, string | undefined>;
+    descriptions?: Record<string, string | undefined>;
+    aliases?: Record<string, string[] | undefined>;
 }
 
-export interface language{
+export interface language {
     code: string;
     autonym: string;
     name: string
@@ -32,10 +33,8 @@ export interface SiteDetails {
     }
 }
 
-const propertiesList = propertiesJson as Property[]
-
-export const properties = propertiesList;
-export const getProperty = (propertyID: string): Property | null => propertiesList.find((r) => r.id === propertyID) ?? null
+export const properties = propertiesJson as Property[];
+export const getProperty = (propertyID: string): Property | null => properties.find((r) => r.id === propertyID) ?? null
 
 export const datatypeTypes = datatypeTypeList;
 
