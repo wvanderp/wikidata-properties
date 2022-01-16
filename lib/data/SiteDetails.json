@@ -332,6 +332,15 @@
         "languageCode": "az",
         "group": "wiktionary"
     },
+    "banwikisource": {
+        "shortName": "Basa Bali",
+        "name": "Basa Bali",
+        "id": "banwikisource",
+        "pageUrl": "//ban.wikisource.org/wiki/$1",
+        "apiUrl": "//ban.wikisource.org/w/api.php",
+        "languageCode": "ban",
+        "group": "wikisource"
+    },
     "bawikibooks": {
         "shortName": "башҡортса",
         "name": "башҡортса",
@@ -340,6 +349,15 @@
         "apiUrl": "//ba.wikibooks.org/w/api.php",
         "languageCode": "ba",
         "group": "wikibooks"
+    },
+    "bclwiktionary": {
+        "shortName": "Bikol Central",
+        "name": "Bikol Central",
+        "id": "bclwiktionary",
+        "pageUrl": "//bcl.wiktionary.org/wiki/$1",
+        "apiUrl": "//bcl.wiktionary.org/w/api.php",
+        "languageCode": "bcl",
+        "group": "wiktionary"
     },
     "bewikibooks": {
         "shortName": "беларуская",
@@ -783,8 +801,8 @@
         "group": "wiktionary"
     },
     "cvwikibooks": {
-        "shortName": "Чӑвашла",
-        "name": "Чӑвашла",
+        "shortName": "чӑвашла",
+        "name": "чӑвашла",
         "id": "cvwikibooks",
         "pageUrl": "//cv.wikibooks.org/wiki/$1",
         "apiUrl": "//cv.wikibooks.org/w/api.php",
@@ -924,6 +942,15 @@
         "pageUrl": "//de.wiktionary.org/wiki/$1",
         "apiUrl": "//de.wiktionary.org/w/api.php",
         "languageCode": "de",
+        "group": "wiktionary"
+    },
+    "diqwiktionary": {
+        "shortName": "Zazaki",
+        "name": "Zazaki",
+        "id": "diqwiktionary",
+        "pageUrl": "//diq.wiktionary.org/wiki/$1",
+        "apiUrl": "//diq.wiktionary.org/w/api.php",
+        "languageCode": "diq",
         "group": "wiktionary"
     },
     "dvwiktionary": {
@@ -2168,6 +2195,15 @@
         "languageCode": "jbo",
         "group": "wiktionary"
     },
+    "jvwikisource": {
+        "shortName": "Jawa",
+        "name": "Jawa",
+        "id": "jvwikisource",
+        "pageUrl": "//jv.wikisource.org/wiki/$1",
+        "apiUrl": "//jv.wikisource.org/w/api.php",
+        "languageCode": "jv",
+        "group": "wikisource"
+    },
     "jvwiktionary": {
         "shortName": "Jawa",
         "name": "Jawa",
@@ -2430,8 +2466,8 @@
         "group": "wiktionary"
     },
     "kywikibooks": {
-        "shortName": "Кыргызча",
-        "name": "Кыргызча",
+        "shortName": "кыргызча",
+        "name": "кыргызча",
         "id": "kywikibooks",
         "pageUrl": "//ky.wikibooks.org/wiki/$1",
         "apiUrl": "//ky.wikibooks.org/w/api.php",
@@ -2439,8 +2475,8 @@
         "group": "wikibooks"
     },
     "kywikiquote": {
-        "shortName": "Кыргызча",
-        "name": "Кыргызча",
+        "shortName": "кыргызча",
+        "name": "кыргызча",
         "id": "kywikiquote",
         "pageUrl": "//ky.wikiquote.org/wiki/$1",
         "apiUrl": "//ky.wikiquote.org/w/api.php",
@@ -2448,8 +2484,8 @@
         "group": "wikiquote"
     },
     "kywiktionary": {
-        "shortName": "Кыргызча",
-        "name": "Кыргызча",
+        "shortName": "кыргызча",
+        "name": "кыргызча",
         "id": "kywiktionary",
         "pageUrl": "//ky.wiktionary.org/wiki/$1",
         "apiUrl": "//ky.wiktionary.org/w/api.php",
@@ -2571,6 +2607,15 @@
         "pageUrl": "//li.wiktionary.org/wiki/$1",
         "apiUrl": "//li.wiktionary.org/w/api.php",
         "languageCode": "li",
+        "group": "wiktionary"
+    },
+    "lmowiktionary": {
+        "shortName": "lombard",
+        "name": "lombard",
+        "id": "lmowiktionary",
+        "pageUrl": "//lmo.wiktionary.org/wiki/$1",
+        "apiUrl": "//lmo.wiktionary.org/w/api.php",
+        "languageCode": "lmo",
         "group": "wiktionary"
     },
     "lnwikibooks": {
@@ -2771,6 +2816,15 @@
         "languageCode": "ml",
         "group": "wiktionary"
     },
+    "mniwiktionary": {
+        "shortName": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+        "name": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+        "id": "mniwiktionary",
+        "pageUrl": "//mni.wiktionary.org/wiki/$1",
+        "apiUrl": "//mni.wiktionary.org/w/api.php",
+        "languageCode": "mni",
+        "group": "wiktionary"
+    },
     "mnwikibooks": {
         "shortName": "монгол",
         "name": "монгол",
@@ -2787,6 +2841,15 @@
         "pageUrl": "//mn.wiktionary.org/wiki/$1",
         "apiUrl": "//mn.wiktionary.org/w/api.php",
         "languageCode": "mn",
+        "group": "wiktionary"
+    },
+    "mnwwiktionary": {
+        "shortName": "ဘာသာ မန်",
+        "name": "ဘာသာ မန်",
+        "id": "mnwwiktionary",
+        "pageUrl": "//mnw.wiktionary.org/wiki/$1",
+        "apiUrl": "//mnw.wiktionary.org/w/api.php",
+        "languageCode": "mnw",
         "group": "wiktionary"
     },
     "mowiktionary": {
@@ -2976,6 +3039,15 @@
         "pageUrl": "//ne.wiktionary.org/wiki/$1",
         "apiUrl": "//ne.wiktionary.org/w/api.php",
         "languageCode": "ne",
+        "group": "wiktionary"
+    },
+    "niawiktionary": {
+        "shortName": "Li Niha",
+        "name": "Li Niha",
+        "id": "niawiktionary",
+        "pageUrl": "//nia.wiktionary.org/wiki/$1",
+        "apiUrl": "//nia.wiktionary.org/w/api.php",
+        "languageCode": "nia",
         "group": "wiktionary"
     },
     "nlwikibooks": {
@@ -3519,8 +3591,8 @@
         "group": "wiktionary"
     },
     "rwwiktionary": {
-        "shortName": "Kinyarwanda",
-        "name": "Kinyarwanda",
+        "shortName": "Ikinyarwanda",
+        "name": "Ikinyarwanda",
         "id": "rwwiktionary",
         "pageUrl": "//rw.wiktionary.org/wiki/$1",
         "apiUrl": "//rw.wiktionary.org/w/api.php",
@@ -3654,8 +3726,8 @@
         "group": "wiktionary"
     },
     "shywiktionary": {
-        "shortName": "shy",
-        "name": "shy",
+        "shortName": "tacawit",
+        "name": "tacawit",
         "id": "shywiktionary",
         "pageUrl": "//shy.wiktionary.org/wiki/$1",
         "apiUrl": "//shy.wiktionary.org/w/api.php",
@@ -4291,6 +4363,15 @@
         "apiUrl": "//tr.wikisource.org/w/api.php",
         "languageCode": "tr",
         "group": "wikisource"
+    },
+    "trwikivoyage": {
+        "shortName": "Türkçe",
+        "name": "Türkçe",
+        "id": "trwikivoyage",
+        "pageUrl": "//tr.wikivoyage.org/wiki/$1",
+        "apiUrl": "//tr.wikivoyage.org/w/api.php",
+        "languageCode": "tr",
+        "group": "wikivoyage"
     },
     "trwiktionary": {
         "shortName": "Türkçe",
@@ -5022,8 +5103,8 @@
         "group": "wikipedia"
     },
     "be_x_oldwiki": {
-        "shortName": "беларуская (тарашкевіца)‎",
-        "name": "беларуская (тарашкевіца)‎",
+        "shortName": "беларуская (тарашкевіца)",
+        "name": "беларуская (тарашкевіца)",
         "id": "be_x_oldwiki",
         "pageUrl": "//be-tarask.wikipedia.org/wiki/$1",
         "apiUrl": "//be-tarask.wikipedia.org/w/api.php",
@@ -5283,8 +5364,8 @@
         "group": "wikipedia"
     },
     "cvwiki": {
-        "shortName": "Чӑвашла",
-        "name": "Чӑвашла",
+        "shortName": "чӑвашла",
+        "name": "чӑвашла",
         "id": "cvwiki",
         "pageUrl": "//cv.wikipedia.org/wiki/$1",
         "apiUrl": "//cv.wikipedia.org/w/api.php",
@@ -5895,8 +5976,8 @@
         "group": "wikipedia"
     },
     "kbdwiki": {
-        "shortName": "Адыгэбзэ",
-        "name": "Адыгэбзэ",
+        "shortName": "адыгэбзэ",
+        "name": "адыгэбзэ",
         "id": "kbdwiki",
         "pageUrl": "//kbd.wikipedia.org/wiki/$1",
         "apiUrl": "//kbd.wikipedia.org/w/api.php",
@@ -6048,8 +6129,8 @@
         "group": "wikipedia"
     },
     "kywiki": {
-        "shortName": "Кыргызча",
-        "name": "Кыргызча",
+        "shortName": "кыргызча",
+        "name": "кыргызча",
         "id": "kywiki",
         "pageUrl": "//ky.wikipedia.org/wiki/$1",
         "apiUrl": "//ky.wikipedia.org/w/api.php",
@@ -6129,8 +6210,8 @@
         "group": "wikipedia"
     },
     "lmowiki": {
-        "shortName": "lumbaart",
-        "name": "lumbaart",
+        "shortName": "lombard",
+        "name": "lombard",
         "id": "lmowiki",
         "pageUrl": "//lmo.wikipedia.org/wiki/$1",
         "apiUrl": "//lmo.wikipedia.org/w/api.php",
@@ -6543,8 +6624,8 @@
         "group": "wikipedia"
     },
     "oswiki": {
-        "shortName": "Ирон",
-        "name": "Ирон",
+        "shortName": "ирон",
+        "name": "ирон",
         "id": "oswiki",
         "pageUrl": "//os.wikipedia.org/wiki/$1",
         "apiUrl": "//os.wikipedia.org/w/api.php",
@@ -6768,8 +6849,8 @@
         "group": "wikipedia"
     },
     "rwwiki": {
-        "shortName": "Kinyarwanda",
-        "name": "Kinyarwanda",
+        "shortName": "Ikinyarwanda",
+        "name": "Ikinyarwanda",
         "id": "rwwiki",
         "pageUrl": "//rw.wikipedia.org/wiki/$1",
         "apiUrl": "//rw.wikipedia.org/w/api.php",
@@ -7442,6 +7523,15 @@
         "languageCode": "en",
         "group": "special"
     },
+    "sourceswiki": {
+        "shortName": "Multilingual Wikisource",
+        "name": "Multilingual Wikisource",
+        "id": "sourceswiki",
+        "pageUrl": "//wikisource.org/wiki/$1",
+        "apiUrl": "//wikisource.org/w/api.php",
+        "languageCode": "en",
+        "group": "special"
+    },
     "specieswiki": {
         "shortName": "specieswiki",
         "name": "specieswiki",
@@ -7569,8 +7659,8 @@
         "group": "wikipedia"
     },
     "inhwiki": {
-        "shortName": "ГӀалгӀай",
-        "name": "ГӀалгӀай",
+        "shortName": "гӀалгӀай",
+        "name": "гӀалгӀай",
         "id": "inhwiki",
         "pageUrl": "//inh.wikipedia.org/wiki/$1",
         "apiUrl": "//inh.wikipedia.org/w/api.php",
@@ -7728,6 +7818,87 @@
         "pageUrl": "//skr.wikipedia.org/wiki/$1",
         "apiUrl": "//skr.wikipedia.org/w/api.php",
         "languageCode": "skr",
+        "group": "wikipedia"
+    },
+    "niawiki": {
+        "shortName": "Li Niha",
+        "name": "Li Niha",
+        "id": "niawiki",
+        "pageUrl": "//nia.wikipedia.org/wiki/$1",
+        "apiUrl": "//nia.wikipedia.org/w/api.php",
+        "languageCode": "nia",
+        "group": "wikipedia"
+    },
+    "altwiki": {
+        "shortName": "алтай тил",
+        "name": "алтай тил",
+        "id": "altwiki",
+        "pageUrl": "//alt.wikipedia.org/wiki/$1",
+        "apiUrl": "//alt.wikipedia.org/w/api.php",
+        "languageCode": "alt",
+        "group": "wikipedia"
+    },
+    "mniwiki": {
+        "shortName": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+        "name": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+        "id": "mniwiki",
+        "pageUrl": "//mni.wikipedia.org/wiki/$1",
+        "apiUrl": "//mni.wikipedia.org/w/api.php",
+        "languageCode": "mni",
+        "group": "wikipedia"
+    },
+    "taywiki": {
+        "shortName": "Tayal",
+        "name": "Tayal",
+        "id": "taywiki",
+        "pageUrl": "//tay.wikipedia.org/wiki/$1",
+        "apiUrl": "//tay.wikipedia.org/w/api.php",
+        "languageCode": "tay",
+        "group": "wikipedia"
+    },
+    "trvwiki": {
+        "shortName": "Seediq",
+        "name": "Seediq",
+        "id": "trvwiki",
+        "pageUrl": "//trv.wikipedia.org/wiki/$1",
+        "apiUrl": "//trv.wikipedia.org/w/api.php",
+        "languageCode": "trv",
+        "group": "wikipedia"
+    },
+    "dagwiki": {
+        "shortName": "dagbanli",
+        "name": "dagbanli",
+        "id": "dagwiki",
+        "pageUrl": "//dag.wikipedia.org/wiki/$1",
+        "apiUrl": "//dag.wikipedia.org/w/api.php",
+        "languageCode": "dag",
+        "group": "wikipedia"
+    },
+    "shiwiki": {
+        "shortName": "Taclḥit",
+        "name": "Taclḥit",
+        "id": "shiwiki",
+        "pageUrl": "//shi.wikipedia.org/wiki/$1",
+        "apiUrl": "//shi.wikipedia.org/w/api.php",
+        "languageCode": "shi",
+        "group": "wikipedia"
+    },
+    "amiwiki": {
+        "shortName": "Pangcah",
+        "name": "Pangcah",
+        "id": "amiwiki",
+        "pageUrl": "//ami.wikipedia.org/wiki/$1",
+        "apiUrl": "//ami.wikipedia.org/w/api.php",
+        "languageCode": "ami",
+        "group": "wikipedia"
+    },
+    "pwnwiki": {
+        "shortName": "pinayuanan",
+        "name": "pinayuanan",
+        "id": "pwnwiki",
+        "pageUrl": "//pwn.wikipedia.org/wiki/$1",
+        "apiUrl": "//pwn.wikipedia.org/w/api.php",
+        "languageCode": "pwn",
         "group": "wikipedia"
     }
 }

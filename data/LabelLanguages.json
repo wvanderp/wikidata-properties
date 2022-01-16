@@ -50,6 +50,11 @@
         "name": "Afrikaans"
     },
     {
+        "code": "agq",
+        "autonym": "Aghem",
+        "name": "Aghem"
+    },
+    {
         "code": "ak",
         "autonym": "Akan",
         "name": "Akan"
@@ -215,6 +220,11 @@
         "name": "Southern Balochi"
     },
     {
+        "code": "bci",
+        "autonym": "wawle",
+        "name": "Baoulé"
+    },
+    {
         "code": "bcl",
         "autonym": "Bikol Central",
         "name": "Central Bikol"
@@ -226,12 +236,12 @@
     },
     {
         "code": "be-tarask",
-        "autonym": "беларуская (тарашкевіца)‎",
+        "autonym": "беларуская (тарашкевіца)",
         "name": "Belarusian (Taraškievica orthography)"
     },
     {
         "code": "be-x-old",
-        "autonym": "беларуская (тарашкевіца)‎",
+        "autonym": "беларуская (тарашкевіца)",
         "name": "Belarusian (Taraškievica orthography)"
     },
     {
@@ -263,6 +273,11 @@
         "code": "bjn",
         "autonym": "Banjar",
         "name": "Banjar"
+    },
+    {
+        "code": "blk",
+        "autonym": "ပအိုဝ်ႏဘာႏသာႏ",
+        "name": "Pa'O"
     },
     {
         "code": "bm",
@@ -392,16 +407,16 @@
     {
         "code": "crh",
         "autonym": "qırımtatarca",
-        "name": "Crimean Turkish"
+        "name": "Crimean Tatar"
     },
     {
         "code": "crh-cyrl",
-        "autonym": "къырымтатарджа (Кирилл)‎",
+        "autonym": "къырымтатарджа (Кирилл)",
         "name": "Crimean Tatar (Cyrillic script)"
     },
     {
         "code": "crh-latn",
-        "autonym": "qırımtatarca (Latin)‎",
+        "autonym": "qırımtatarca (Latin)",
         "name": "Crimean Tatar (Latin script)"
     },
     {
@@ -421,7 +436,7 @@
     },
     {
         "code": "cv",
-        "autonym": "Чӑвашла",
+        "autonym": "чӑвашла",
         "name": "Chuvash"
     },
     {
@@ -433,6 +448,11 @@
         "code": "da",
         "autonym": "dansk",
         "name": "Danish"
+    },
+    {
+        "code": "dag",
+        "autonym": "dagbanli",
+        "name": "Dagbani"
     },
     {
         "code": "de",
@@ -451,7 +471,7 @@
     },
     {
         "code": "de-formal",
-        "autonym": "Deutsch (Sie-Form)‎",
+        "autonym": "Deutsch (Sie-Form)",
         "name": "German (formal address)"
     },
     {
@@ -541,8 +561,8 @@
     },
     {
         "code": "es-formal",
-        "autonym": "español (formal)‎",
-        "name": "español (formal)‎"
+        "autonym": "español (formal)",
+        "name": "Spanish (formal address)"
     },
     {
         "code": "et",
@@ -635,6 +655,11 @@
         "name": "Irish"
     },
     {
+        "code": "gaa",
+        "autonym": "Ga",
+        "name": "Ga"
+    },
+    {
         "code": "gag",
         "autonym": "Gagauz",
         "name": "Gagauz"
@@ -646,12 +671,12 @@
     },
     {
         "code": "gan-hans",
-        "autonym": "赣语（简体）‎",
+        "autonym": "赣语（简体）",
         "name": "Gan (Simplified)"
     },
     {
         "code": "gan-hant",
-        "autonym": "贛語（繁體）‎",
+        "autonym": "贛語（繁體）",
         "name": "Gan (Traditional)"
     },
     {
@@ -668,6 +693,11 @@
         "code": "gl",
         "autonym": "galego",
         "name": "Galician"
+    },
+    {
+        "code": "gld",
+        "autonym": "на̄ни",
+        "name": "Nanai"
     },
     {
         "code": "glk",
@@ -718,6 +748,21 @@
         "code": "gu",
         "autonym": "ગુજરાતી",
         "name": "Gujarati"
+    },
+    {
+        "code": "guc",
+        "autonym": "wayuunaiki",
+        "name": "Wayuu"
+    },
+    {
+        "code": "gur",
+        "autonym": "farefare",
+        "name": "Frafra"
+    },
+    {
+        "code": "guw",
+        "autonym": "gungbe",
+        "name": "Gun"
     },
     {
         "code": "gv",
@@ -785,6 +830,11 @@
         "name": "Upper Sorbian"
     },
     {
+        "code": "hsn",
+        "autonym": "湘语",
+        "name": "Xiang Chinese"
+    },
+    {
         "code": "ht",
         "autonym": "Kreyòl ayisyen",
         "name": "Haitian Creole"
@@ -796,8 +846,8 @@
     },
     {
         "code": "hu-formal",
-        "autonym": "magyar (formal)‎",
-        "name": "magyar (formal)‎"
+        "autonym": "magyar (formal)",
+        "name": "Hungarian (formal address)"
     },
     {
         "code": "hy",
@@ -861,7 +911,7 @@
     },
     {
         "code": "inh",
-        "autonym": "ГӀалгӀай",
+        "autonym": "гӀалгӀай",
         "name": "Ingush"
     },
     {
@@ -926,12 +976,12 @@
     },
     {
         "code": "kbd",
-        "autonym": "Адыгэбзэ",
+        "autonym": "адыгэбзэ",
         "name": "Kabardian"
     },
     {
         "code": "kbd-cyrl",
-        "autonym": "Адыгэбзэ",
+        "autonym": "адыгэбзэ",
         "name": "Kabardian (Cyrillic script)"
     },
     {
@@ -940,8 +990,13 @@
         "name": "Kabiye"
     },
     {
+        "code": "kcg",
+        "autonym": "Tyap",
+        "name": "Tyap"
+    },
+    {
         "code": "kea",
-        "autonym": "Kabuverdianu",
+        "autonym": "kabuverdianu",
         "name": "Kabuverdianu"
     },
     {
@@ -981,32 +1036,32 @@
     },
     {
         "code": "kk-arab",
-        "autonym": "قازاقشا (تٴوتە)‏",
+        "autonym": "قازاقشا (تٴوتە)",
         "name": "Kazakh (Arabic script)"
     },
     {
         "code": "kk-cn",
-        "autonym": "قازاقشا (جۇنگو)‏",
+        "autonym": "قازاقشا (جۇنگو)",
         "name": "Kazakh (China)"
     },
     {
         "code": "kk-cyrl",
-        "autonym": "қазақша (кирил)‎",
+        "autonym": "қазақша (кирил)",
         "name": "Kazakh (Cyrillic script)"
     },
     {
         "code": "kk-kz",
-        "autonym": "қазақша (Қазақстан)‎",
+        "autonym": "қазақша (Қазақстан)",
         "name": "Kazakh (Kazakhstan)"
     },
     {
         "code": "kk-latn",
-        "autonym": "qazaqşa (latın)‎",
+        "autonym": "qazaqşa (latın)",
         "name": "Kazakh (Latin script)"
     },
     {
         "code": "kk-tr",
-        "autonym": "qazaqşa (Türkïya)‎",
+        "autonym": "qazaqşa (Türkïya)",
         "name": "Kazakh (Turkey)"
     },
     {
@@ -1085,18 +1140,23 @@
         "name": "Colognian"
     },
     {
+        "code": "ksw",
+        "autonym": "စှီၤ",
+        "name": "စှီၤ"
+    },
+    {
         "code": "ku",
         "autonym": "kurdî",
         "name": "Kurdish"
     },
     {
         "code": "ku-arab",
-        "autonym": "كوردي (عەرەبی)‏",
+        "autonym": "كوردي (عەرەبی)",
         "name": "Kurdish (Arabic script)"
     },
     {
         "code": "ku-latn",
-        "autonym": "kurdî (latînî)‎",
+        "autonym": "kurdî (latînî)",
         "name": "Kurdish (Latin script)"
     },
     {
@@ -1116,7 +1176,7 @@
     },
     {
         "code": "ky",
-        "autonym": "Кыргызча",
+        "autonym": "кыргызча",
         "name": "Kyrgyz"
     },
     {
@@ -1181,7 +1241,7 @@
     },
     {
         "code": "lmo",
-        "autonym": "lumbaart",
+        "autonym": "lombard",
         "name": "Lombard"
     },
     {
@@ -1253,6 +1313,11 @@
         "code": "map-bms",
         "autonym": "Basa Banyumasan",
         "name": "Basa Banyumasan"
+    },
+    {
+        "code": "mcn",
+        "autonym": "vùn màsànà",
+        "name": "Massa"
     },
     {
         "code": "mdf",
@@ -1333,6 +1398,11 @@
         "code": "ms",
         "autonym": "Bahasa Melayu",
         "name": "Malay"
+    },
+    {
+        "code": "ms-arab",
+        "autonym": "بهاس ملايو",
+        "name": "Malay (Jawi script)"
     },
     {
         "code": "mt",
@@ -1431,8 +1501,13 @@
     },
     {
         "code": "nl-informal",
-        "autonym": "Nederlands (informeel)‎",
-        "name": "Nederlands (informeel)‎"
+        "autonym": "Nederlands (informeel)",
+        "name": "Dutch (informal address)"
+    },
+    {
+        "code": "nmz",
+        "autonym": "nawdm",
+        "name": "Nawdm"
     },
     {
         "code": "nn",
@@ -1490,6 +1565,11 @@
         "name": "Occitan"
     },
     {
+        "code": "ojb",
+        "autonym": "Ojibwemowin",
+        "name": "Northwestern Ojibwe"
+    },
+    {
         "code": "olo",
         "autonym": "livvinkarjala",
         "name": "Livvi-Karelian"
@@ -1506,12 +1586,12 @@
     },
     {
         "code": "os",
-        "autonym": "Ирон",
+        "autonym": "ирон",
         "name": "Ossetic"
     },
     {
         "code": "ota",
-        "autonym": "لسان توركى",
+        "autonym": "لسان عثمانى",
         "name": "Ottoman Turkish"
     },
     {
@@ -1605,6 +1685,11 @@
         "name": "Brazilian Portuguese"
     },
     {
+        "code": "pwn",
+        "autonym": "pinayuanan",
+        "name": "Paiwan"
+    },
+    {
         "code": "qu",
         "autonym": "Runa Simi",
         "name": "Quechua"
@@ -1628,6 +1713,11 @@
         "code": "rm",
         "autonym": "rumantsch",
         "name": "Romansh"
+    },
+    {
+        "code": "rmc",
+        "autonym": "romaňi čhib",
+        "name": "Carpathian Romani"
     },
     {
         "code": "rmf",
@@ -1691,7 +1781,7 @@
     },
     {
         "code": "rw",
-        "autonym": "Kinyarwanda",
+        "autonym": "Ikinyarwanda",
         "name": "Kinyarwanda"
     },
     {
@@ -1776,12 +1866,12 @@
     },
     {
         "code": "shi",
-        "autonym": "Tašlḥiyt/ⵜⴰⵛⵍⵃⵉⵜ",
+        "autonym": "Taclḥit",
         "name": "Tachelhit"
     },
     {
         "code": "shi-latn",
-        "autonym": "Tašlḥiyt",
+        "autonym": "Taclḥit",
         "name": "Tachelhit (Latin script)"
     },
     {
@@ -1793,6 +1883,11 @@
         "code": "shn",
         "autonym": "ၽႃႇသႃႇတႆး ",
         "name": "Shan"
+    },
+    {
+        "code": "shy",
+        "autonym": "tacawit",
+        "name": "Shawiya"
     },
     {
         "code": "shy-latn",
@@ -1811,7 +1906,7 @@
     },
     {
         "code": "sjd",
-        "autonym": "Кӣллт са̄мь кӣлл",
+        "autonym": "кӣллт са̄мь кӣлл",
         "name": "Kildin Sami"
     },
     {
@@ -1896,12 +1991,12 @@
     },
     {
         "code": "sr-ec",
-        "autonym": "српски (ћирилица)‎",
+        "autonym": "српски (ћирилица)",
         "name": "Serbian (Cyrillic script)"
     },
     {
         "code": "sr-el",
-        "autonym": "srpski (latinica)‎",
+        "autonym": "srpski (latinica)",
         "name": "Serbian (Latin script)"
     },
     {
@@ -1932,7 +2027,7 @@
     {
         "code": "sty",
         "autonym": "себертатар",
-        "name": "себертатар"
+        "name": "Siberian Tatar"
     },
     {
         "code": "su",
@@ -2021,8 +2116,13 @@
     },
     {
         "code": "tly",
-        "autonym": "толышә зывон",
+        "autonym": "tolışi",
         "name": "Talysh"
+    },
+    {
+        "code": "tly-cyrl",
+        "autonym": "толыши",
+        "name": "толыши"
     },
     {
         "code": "tn",
@@ -2175,6 +2275,11 @@
         "name": "Main-Franconian"
     },
     {
+        "code": "vmw",
+        "autonym": "emakhuwa",
+        "name": "Makhuwa"
+    },
+    {
         "code": "vo",
         "autonym": "Volapük",
         "name": "Volapük"
@@ -2198,6 +2303,11 @@
         "code": "war",
         "autonym": "Winaray",
         "name": "Waray"
+    },
+    {
+        "code": "wls",
+        "autonym": "Fakaʻuvea",
+        "name": "Wallisian"
     },
     {
         "code": "wo",
@@ -2240,6 +2350,11 @@
         "name": "Yoruba"
     },
     {
+        "code": "yrl",
+        "autonym": "Nhẽẽgatú",
+        "name": "Nheengatu"
+    },
+    {
         "code": "yue",
         "autonym": "粵語",
         "name": "Cantonese"
@@ -2271,22 +2386,22 @@
     },
     {
         "code": "zh-cn",
-        "autonym": "中文（中国大陆）‎",
+        "autonym": "中文（中国大陆）",
         "name": "Chinese (China)"
     },
     {
         "code": "zh-hans",
-        "autonym": "中文（简体）‎",
+        "autonym": "中文（简体）",
         "name": "Simplified Chinese"
     },
     {
         "code": "zh-hant",
-        "autonym": "中文（繁體）‎",
+        "autonym": "中文（繁體）",
         "name": "Traditional Chinese"
     },
     {
         "code": "zh-hk",
-        "autonym": "中文（香港）‎",
+        "autonym": "中文（香港）",
         "name": "Chinese (Hong Kong)"
     },
     {
@@ -2296,22 +2411,22 @@
     },
     {
         "code": "zh-mo",
-        "autonym": "中文（澳門）‎",
+        "autonym": "中文（澳門）",
         "name": "Chinese (Macau)"
     },
     {
         "code": "zh-my",
-        "autonym": "中文（马来西亚）‎",
+        "autonym": "中文（马来西亚）",
         "name": "Chinese (Malaysia)"
     },
     {
         "code": "zh-sg",
-        "autonym": "中文（新加坡）‎",
+        "autonym": "中文（新加坡）",
         "name": "Chinese (Singapore)"
     },
     {
         "code": "zh-tw",
-        "autonym": "中文（台灣）‎",
+        "autonym": "中文（臺灣）",
         "name": "Chinese (Taiwan)"
     },
     {
@@ -2325,8 +2440,223 @@
         "name": "Zulu"
     },
     {
-        "code": "dag",
+        "code": "bag",
         "autonym": null,
-        "name": "Dagbani"
+        "name": "Tuki"
+    },
+    {
+        "code": "bas",
+        "autonym": null,
+        "name": "Basaa"
+    },
+    {
+        "code": "bax",
+        "autonym": null,
+        "name": "Bamun"
+    },
+    {
+        "code": "bbj",
+        "autonym": null,
+        "name": "Ghomala"
+    },
+    {
+        "code": "bfd",
+        "autonym": null,
+        "name": "Bafut"
+    },
+    {
+        "code": "bkc",
+        "autonym": null,
+        "name": "Baka"
+    },
+    {
+        "code": "bkh",
+        "autonym": null,
+        "name": "Bakako"
+    },
+    {
+        "code": "bkm",
+        "autonym": null,
+        "name": "Kom"
+    },
+    {
+        "code": "bqz",
+        "autonym": null,
+        "name": "Mka'a"
+    },
+    {
+        "code": "byv",
+        "autonym": null,
+        "name": "Medumba"
+    },
+    {
+        "code": "cak",
+        "autonym": null,
+        "name": "Kaqchikel"
+    },
+    {
+        "code": "cnh",
+        "autonym": null,
+        "name": "Hakha-Chin"
+    },
+    {
+        "code": "dua",
+        "autonym": null,
+        "name": "Duala"
+    },
+    {
+        "code": "en-us",
+        "autonym": null,
+        "name": "American English"
+    },
+    {
+        "code": "eto",
+        "autonym": null,
+        "name": "Eton"
+    },
+    {
+        "code": "etu",
+        "autonym": null,
+        "name": "Ejagham"
+    },
+    {
+        "code": "ewo",
+        "autonym": null,
+        "name": "Ewondo"
+    },
+    {
+        "code": "fmp",
+        "autonym": null,
+        "name": "Fe'Fe'"
+    },
+    {
+        "code": "gya",
+        "autonym": null,
+        "name": "Gbaya"
+    },
+    {
+        "code": "isu",
+        "autonym": null,
+        "name": "Isu"
+    },
+    {
+        "code": "ker",
+        "autonym": null,
+        "name": "Kera"
+    },
+    {
+        "code": "ksf",
+        "autonym": null,
+        "name": "Bafia"
+    },
+    {
+        "code": "lem",
+        "autonym": null,
+        "name": "Nomaande"
+    },
+    {
+        "code": "lns",
+        "autonym": null,
+        "name": "Lamnso'"
+    },
+    {
+        "code": "mcp",
+        "autonym": null,
+        "name": "Maka"
+    },
+    {
+        "code": "mua",
+        "autonym": null,
+        "name": "Mundang"
+    },
+    {
+        "code": "nan-hani",
+        "autonym": null,
+        "name": "Min Nan (Hanji)"
+    },
+    {
+        "code": "nge",
+        "autonym": null,
+        "name": "Ngémba"
+    },
+    {
+        "code": "nla",
+        "autonym": null,
+        "name": "Ngombala"
+    },
+    {
+        "code": "nmg",
+        "autonym": null,
+        "name": "Kwasio"
+    },
+    {
+        "code": "nnh",
+        "autonym": null,
+        "name": "Ngiemboon"
+    },
+    {
+        "code": "nnz",
+        "autonym": null,
+        "name": "Nda'Nda'"
+    },
+    {
+        "code": "osa-latn",
+        "autonym": null,
+        "name": "Osage (Latin script)"
+    },
+    {
+        "code": "pap-aw",
+        "autonym": null,
+        "name": "Papiamento (Aruba)"
+    },
+    {
+        "code": "quc",
+        "autonym": null,
+        "name": "Kʼicheʼ"
+    },
+    {
+        "code": "ryu",
+        "autonym": null,
+        "name": "Okinawan"
+    },
+    {
+        "code": "tvu",
+        "autonym": null,
+        "name": "Tunen"
+    },
+    {
+        "code": "vut",
+        "autonym": null,
+        "name": "Vute"
+    },
+    {
+        "code": "wes",
+        "autonym": null,
+        "name": "Pidgin (Cameroon)"
+    },
+    {
+        "code": "wya",
+        "autonym": null,
+        "name": "Wyandot"
+    },
+    {
+        "code": "yas",
+        "autonym": null,
+        "name": "Nugunu"
+    },
+    {
+        "code": "yat",
+        "autonym": null,
+        "name": "Yambeta"
+    },
+    {
+        "code": "yav",
+        "autonym": null,
+        "name": "Yangben"
+    },
+    {
+        "code": "ybb",
+        "autonym": null,
+        "name": "Yemba"
     }
 ]
