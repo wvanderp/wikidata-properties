@@ -18,8 +18,8 @@
         "group": "wiktionary"
     },
     "abwiktionary": {
-        "shortName": "Аҧсшәа",
-        "name": "Аҧсшәа",
+        "shortName": "аԥсшәа",
+        "name": "аԥсшәа",
         "id": "abwiktionary",
         "pageUrl": "//ab.wiktionary.org/wiki/$1",
         "apiUrl": "//ab.wiktionary.org/w/api.php",
@@ -4914,8 +4914,8 @@
         "group": "wikipedia"
     },
     "abwiki": {
-        "shortName": "Аҧсшәа",
-        "name": "Аҧсшәа",
+        "shortName": "аԥсшәа",
+        "name": "аԥсшәа",
         "id": "abwiki",
         "pageUrl": "//ab.wikipedia.org/wiki/$1",
         "apiUrl": "//ab.wikipedia.org/w/api.php",

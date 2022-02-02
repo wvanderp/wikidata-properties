@@ -6,7 +6,7 @@
     },
     {
         "code": "ab",
-        "autonym": "Аҧсшәа",
+        "autonym": "аԥсшәа",
         "name": "Abkhazian"
     },
     {
@@ -96,7 +96,7 @@
     },
     {
         "code": "anp",
-        "autonym": "अङ्गिका",
+        "autonym": "अंगिका",
         "name": "Angika"
     },
     {
@@ -618,6 +618,11 @@
         "code": "fo",
         "autonym": "føroyskt",
         "name": "Faroese"
+    },
+    {
+        "code": "fon",
+        "autonym": "fɔ̀ngbè",
+        "name": "Fon"
     },
     {
         "code": "fr",
@@ -1521,7 +1526,7 @@
     },
     {
         "code": "nod",
-        "autonym": "ᨣᩴᩤᨾᩮᩥᩬᨦ",
+        "autonym": "ᨣᩤᩴᨾᩮᩬᩥᨦ",
         "name": "Northern Thai"
     },
     {
@@ -1838,6 +1843,21 @@
         "code": "se",
         "autonym": "davvisámegiella",
         "name": "Northern Sami"
+    },
+    {
+        "code": "se-fi",
+        "autonym": "davvisámegiella (Suoma bealde)",
+        "name": "davvisámegiella (Suoma bealde)"
+    },
+    {
+        "code": "se-no",
+        "autonym": "davvisámegiella (Norgga bealde)",
+        "name": "davvisámegiella (Norgga bealde)"
+    },
+    {
+        "code": "se-se",
+        "autonym": "davvisámegiella (Ruoŧa bealde)",
+        "name": "davvisámegiella (Ruoŧa bealde)"
     },
     {
         "code": "sei",
