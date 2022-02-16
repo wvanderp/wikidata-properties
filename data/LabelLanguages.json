@@ -1147,7 +1147,7 @@
     {
         "code": "ksw",
         "autonym": "စှီၤ",
-        "name": "စှီၤ"
+        "name": "S'gaw Karen"
     },
     {
         "code": "ku",
@@ -1560,6 +1560,11 @@
         "name": "Nyanja"
     },
     {
+        "code": "nyn",
+        "autonym": "runyankore",
+        "name": "Nyankole"
+    },
+    {
         "code": "nys",
         "autonym": "Nyunga",
         "name": "Nyungar"
@@ -1671,7 +1676,7 @@
     },
     {
         "code": "prg",
-        "autonym": "Prūsiskan",
+        "autonym": "prūsiskan",
         "name": "Prussian"
     },
     {
