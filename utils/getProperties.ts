@@ -28,7 +28,10 @@ export async function getProperties() {
 
     const items = responses.map((response => Object.values(response.data.entities))).flat()
 
-    const formattedItems = items.map(parseItem)
+    const formattedItems = items
+    .map(parseItem)
+    .sort((a,b) => Number(a.id.split('P')[0]) - Number(b.id.split('P')[0]))
+    
     fs.writeFileSync('./data/properties.json', JSON.stringify(formattedItems, null, 4))
 }
 
