@@ -15,6 +15,8 @@ interface ApiResponse {
     }
 }
 
+type Property =  Item & {datatype: string}
+
 async function downloadEntries(ids: string[]) {
     return await axios.get<WikidataResponse>(`https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=${ids.join('|')}`)
 }
@@ -26,16 +28,16 @@ export async function getProperties() {
     const chunks = _.chunk(ids, 50)
     const responses = await Promise.all(chunks.map(async (chuck) => await downloadEntries(chuck)))
 
-    const items = responses.map((response => Object.values(response.data.entities))).flat()
+    const items = responses.map((response => Object.values(response.data.entities))).flat() as Property[]
 
     const formattedItems = items
     .map(parseItem)
     .sort((a,b) => Number(a.id.split('P')[0]) - Number(b.id.split('P')[0]))
-    
+
     fs.writeFileSync('./data/properties.json', JSON.stringify(formattedItems, null, 4))
 }
 
-function parseItem(item: Item) {
+function parseItem(item: Item & {datatype: string}) {
     return {
         id: item.id,
         label: item.labels['en']?.value ?? null,
@@ -68,7 +70,7 @@ function parseItem(item: Item) {
         })),
 
         formatRegex: item?.claims['P1793']?.map((claim) => claim.mainsnak.datavalue?.value),
-
+        datatype: item.datatype
         // constraints: item.constraints,
     }
 }
