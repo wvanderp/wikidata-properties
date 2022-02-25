@@ -12,6 +12,7 @@ export interface Property {
     labels?: Record<string, string | undefined>;
     descriptions?: Record<string, string | undefined>;
     aliases?: Record<string, string[] | undefined>;
+    datatype: string;
 }
 
 export interface language {
