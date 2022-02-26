@@ -1,3 +1,4 @@
+import datatypeTypeList from '../data/datatypeTypes.json';
 export interface Property {
     id: string;
     label: string;
@@ -6,7 +7,7 @@ export interface Property {
     labels?: Record<string, string | undefined>;
     descriptions?: Record<string, string | undefined>;
     aliases?: Record<string, string[] | undefined>;
-    datatype: string;
+    datatype: typeof datatypeTypeList[number];
 }
 export interface language {
     code: string;
@@ -24,9 +25,12 @@ export interface SiteDetails {
         group: string;
     };
 }
-export declare const properties: Property[];
-export declare const getProperty: (propertyID: string) => Property | null;
-export declare const datatypeTypes: string[];
-export declare const monolingualLanguages: language[];
-export declare const labelLanguages: language[];
-export declare const siteDetails: SiteDetails;
+declare const _default: {
+    properties: Property[];
+    getProperty: (propertyID: string) => Property | null;
+    datatypeTypes: string[];
+    monolingualLanguages: language[];
+    labelLanguages: language[];
+    siteDetails: SiteDetails;
+};
+export default _default;

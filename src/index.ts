@@ -12,7 +12,7 @@ export interface Property {
     labels?: Record<string, string | undefined>;
     descriptions?: Record<string, string | undefined>;
     aliases?: Record<string, string[] | undefined>;
-    datatype: string;
+    datatype: typeof datatypeTypeList[number];
 }
 
 export interface language {
@@ -34,14 +34,23 @@ export interface SiteDetails {
     }
 }
 
-export const properties = propertiesJson as Property[];
-export const getProperty = (propertyID: string): Property | null => properties.find((r) => r.id === propertyID) ?? null
+const properties = propertiesJson as Property[];
+const getProperty = (propertyID: string): Property | null => properties.find((r) => r.id === propertyID) ?? null
 
-export const datatypeTypes = datatypeTypeList;
+const datatypeTypes = datatypeTypeList;
 
-export const monolingualLanguages = monolingualLanguagesJSON as language[]
-export const labelLanguages = labelLanguagesJson as language[]
+const monolingualLanguages = monolingualLanguagesJSON as language[]
+const labelLanguages = labelLanguagesJson as language[]
 
-export const siteDetails = siteDetailsJSON as SiteDetails;
+const siteDetails = siteDetailsJSON as SiteDetails;
+
+export default {
+    properties,
+    getProperty,
+    datatypeTypes,
+    monolingualLanguages,
+    labelLanguages,
+    siteDetails
+}
 
 
