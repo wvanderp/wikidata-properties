@@ -2385,8 +2385,8 @@
         "group": "wiktionary"
     },
     "krwikiquote": {
-        "shortName": "Kanuri",
-        "name": "Kanuri",
+        "shortName": "kanuri",
+        "name": "kanuri",
         "id": "krwikiquote",
         "pageUrl": "//kr.wikiquote.org/wiki/$1",
         "apiUrl": "//kr.wikiquote.org/w/api.php",
@@ -3456,8 +3456,8 @@
         "group": "wiktionary"
     },
     "rnwiktionary": {
-        "shortName": "Kirundi",
-        "name": "Kirundi",
+        "shortName": "ikirundi",
+        "name": "ikirundi",
         "id": "rnwiktionary",
         "pageUrl": "//rn.wiktionary.org/wiki/$1",
         "apiUrl": "//rn.wiktionary.org/w/api.php",
@@ -3706,6 +3706,15 @@
         "apiUrl": "//sg.wiktionary.org/w/api.php",
         "languageCode": "sg",
         "group": "wiktionary"
+    },
+    "shnwikivoyage": {
+        "shortName": "ၽႃႇသႃႇတႆး ",
+        "name": "ၽႃႇသႃႇတႆး ",
+        "id": "shnwikivoyage",
+        "pageUrl": "//shn.wikivoyage.org/wiki/$1",
+        "apiUrl": "//shn.wikivoyage.org/w/api.php",
+        "languageCode": "shn",
+        "group": "wikivoyage"
     },
     "shnwiktionary": {
         "shortName": "ၽႃႇသႃႇတႆး ",
@@ -6066,8 +6075,8 @@
         "group": "wikipedia"
     },
     "krwiki": {
-        "shortName": "Kanuri",
-        "name": "Kanuri",
+        "shortName": "kanuri",
+        "name": "kanuri",
         "id": "krwiki",
         "pageUrl": "//kr.wikipedia.org/wiki/$1",
         "apiUrl": "//kr.wikipedia.org/w/api.php",
@@ -6795,8 +6804,8 @@
         "group": "wikipedia"
     },
     "rnwiki": {
-        "shortName": "Kirundi",
-        "name": "Kirundi",
+        "shortName": "ikirundi",
+        "name": "ikirundi",
         "id": "rnwiki",
         "pageUrl": "//rn.wikipedia.org/wiki/$1",
         "apiUrl": "//rn.wikipedia.org/w/api.php",
@@ -7899,6 +7908,24 @@
         "pageUrl": "//pwn.wikipedia.org/wiki/$1",
         "apiUrl": "//pwn.wikipedia.org/w/api.php",
         "languageCode": "pwn",
+        "group": "wikipedia"
+    },
+    "guwwiki": {
+        "shortName": "gungbe",
+        "name": "gungbe",
+        "id": "guwwiki",
+        "pageUrl": "//guw.wikipedia.org/wiki/$1",
+        "apiUrl": "//guw.wikipedia.org/w/api.php",
+        "languageCode": "guw",
+        "group": "wikipedia"
+    },
+    "kcgwiki": {
+        "shortName": "Tyap",
+        "name": "Tyap",
+        "id": "kcgwiki",
+        "pageUrl": "//kcg.wikipedia.org/wiki/$1",
+        "apiUrl": "//kcg.wikipedia.org/w/api.php",
+        "languageCode": "kcg",
         "group": "wikipedia"
     }
 }
