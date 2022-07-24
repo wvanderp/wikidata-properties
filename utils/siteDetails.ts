@@ -6,7 +6,7 @@ export default async function getSiteDetails() {
     const page = await browser.newPage();
     await page.goto('https://www.wikidata.org/wiki/Wikidata:Main_Page');
 
-    const sites = await page.evaluate(_ => {
+    const sites = await page.evaluate(() => {
         // @ts-ignore
         return mw.config.get('wbSiteDetails')
     })

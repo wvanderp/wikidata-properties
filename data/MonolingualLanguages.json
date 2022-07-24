@@ -810,6 +810,11 @@
         "name": "Gothic"
     },
     {
+        "code": "gpe",
+        "autonym": "Ghanaian Pidgin",
+        "name": "Ghanaian Pidgin"
+    },
+    {
         "code": "grc",
         "autonym": "Ἀρχαία ἑλληνικὴ",
         "name": "Ancient Greek"
@@ -2228,6 +2233,11 @@
         "code": "sw",
         "autonym": "Kiswahili",
         "name": "Swahili"
+    },
+    {
+        "code": "syl",
+        "autonym": "ꠍꠤꠟꠐꠤ",
+        "name": "ꠍꠤꠟꠐꠤ"
     },
     {
         "code": "szl",
