@@ -350,6 +350,15 @@
         "languageCode": "ba",
         "group": "wikibooks"
     },
+    "bclwikiquote": {
+        "shortName": "Bikol Central",
+        "name": "Bikol Central",
+        "id": "bclwikiquote",
+        "pageUrl": "//bcl.wikiquote.org/wiki/$1",
+        "apiUrl": "//bcl.wikiquote.org/w/api.php",
+        "languageCode": "bcl",
+        "group": "wikiquote"
+    },
     "bclwiktionary": {
         "shortName": "Bikol Central",
         "name": "Bikol Central",
@@ -467,6 +476,15 @@
         "languageCode": "bi",
         "group": "wiktionary"
     },
+    "bjnwiktionary": {
+        "shortName": "Banjar",
+        "name": "Banjar",
+        "id": "bjnwiktionary",
+        "pageUrl": "//bjn.wiktionary.org/wiki/$1",
+        "apiUrl": "//bjn.wiktionary.org/w/api.php",
+        "languageCode": "bjn",
+        "group": "wiktionary"
+    },
     "bmwikibooks": {
         "shortName": "bamanankan",
         "name": "bamanankan",
@@ -502,6 +520,15 @@
         "apiUrl": "//bn.wikibooks.org/w/api.php",
         "languageCode": "bn",
         "group": "wikibooks"
+    },
+    "bnwikiquote": {
+        "shortName": "বাংলা",
+        "name": "বাংলা",
+        "id": "bnwikiquote",
+        "pageUrl": "//bn.wikiquote.org/wiki/$1",
+        "apiUrl": "//bn.wikiquote.org/w/api.php",
+        "languageCode": "bn",
+        "group": "wikiquote"
     },
     "bnwikisource": {
         "shortName": "বাংলা",
@@ -1655,6 +1682,15 @@
         "languageCode": "gu",
         "group": "wiktionary"
     },
+    "guwwiktionary": {
+        "shortName": "gungbe",
+        "name": "gungbe",
+        "id": "guwwiktionary",
+        "pageUrl": "//guw.wiktionary.org/wiki/$1",
+        "apiUrl": "//guw.wiktionary.org/w/api.php",
+        "languageCode": "guw",
+        "group": "wiktionary"
+    },
     "gvwiktionary": {
         "shortName": "Gaelg",
         "name": "Gaelg",
@@ -1997,9 +2033,27 @@
         "languageCode": "ie",
         "group": "wiktionary"
     },
+    "igwikiquote": {
+        "shortName": "Igbo",
+        "name": "Igbo",
+        "id": "igwikiquote",
+        "pageUrl": "//ig.wikiquote.org/wiki/$1",
+        "apiUrl": "//ig.wikiquote.org/w/api.php",
+        "languageCode": "ig",
+        "group": "wikiquote"
+    },
+    "igwiktionary": {
+        "shortName": "Igbo",
+        "name": "Igbo",
+        "id": "igwiktionary",
+        "pageUrl": "//ig.wiktionary.org/wiki/$1",
+        "apiUrl": "//ig.wiktionary.org/w/api.php",
+        "languageCode": "ig",
+        "group": "wiktionary"
+    },
     "ikwiktionary": {
-        "shortName": "Iñupiak",
-        "name": "Iñupiak",
+        "shortName": "Iñupiatun",
+        "name": "Iñupiatun",
         "id": "ikwiktionary",
         "pageUrl": "//ik.wiktionary.org/wiki/$1",
         "apiUrl": "//ik.wiktionary.org/w/api.php",
@@ -4301,6 +4355,15 @@
         "languageCode": "tl",
         "group": "wikibooks"
     },
+    "tlwikiquote": {
+        "shortName": "Tagalog",
+        "name": "Tagalog",
+        "id": "tlwikiquote",
+        "pageUrl": "//tl.wikiquote.org/wiki/$1",
+        "apiUrl": "//tl.wikiquote.org/w/api.php",
+        "languageCode": "tl",
+        "group": "wikiquote"
+    },
     "tlwiktionary": {
         "shortName": "Tagalog",
         "name": "Tagalog",
@@ -5247,8 +5310,8 @@
         "group": "wikipedia"
     },
     "cdowiki": {
-        "shortName": "Mìng-dĕ̤ng-ngṳ̄",
-        "name": "Mìng-dĕ̤ng-ngṳ̄",
+        "shortName": "閩東語 / Mìng-dĕ̤ng-ngṳ̄",
+        "name": "閩東語 / Mìng-dĕ̤ng-ngṳ̄",
         "id": "cdowiki",
         "pageUrl": "//cdo.wikipedia.org/wiki/$1",
         "apiUrl": "//cdo.wikipedia.org/w/api.php",
@@ -5283,8 +5346,8 @@
         "group": "wikipedia"
     },
     "chowiki": {
-        "shortName": "Choctaw",
-        "name": "Choctaw",
+        "shortName": "Chahta Anumpa",
+        "name": "Chahta Anumpa",
         "id": "chowiki",
         "pageUrl": "//cho.wikipedia.org/wiki/$1",
         "apiUrl": "//cho.wikipedia.org/w/api.php",
@@ -5877,8 +5940,8 @@
         "group": "wikipedia"
     },
     "ikwiki": {
-        "shortName": "Iñupiak",
-        "name": "Iñupiak",
+        "shortName": "Iñupiatun",
+        "name": "Iñupiatun",
         "id": "ikwiki",
         "pageUrl": "//ik.wikipedia.org/wiki/$1",
         "apiUrl": "//ik.wikipedia.org/w/api.php",
@@ -7926,6 +7989,24 @@
         "pageUrl": "//kcg.wikipedia.org/wiki/$1",
         "apiUrl": "//kcg.wikipedia.org/w/api.php",
         "languageCode": "kcg",
+        "group": "wikipedia"
+    },
+    "blkwiki": {
+        "shortName": "ပအိုဝ်ႏဘာႏသာႏ",
+        "name": "ပအိုဝ်ႏဘာႏသာႏ",
+        "id": "blkwiki",
+        "pageUrl": "//blk.wikipedia.org/wiki/$1",
+        "apiUrl": "//blk.wikipedia.org/w/api.php",
+        "languageCode": "blk",
+        "group": "wikipedia"
+    },
+    "pcmwiki": {
+        "shortName": "Naijá",
+        "name": "Naijá",
+        "id": "pcmwiki",
+        "pageUrl": "//pcm.wikipedia.org/wiki/$1",
+        "apiUrl": "//pcm.wikipedia.org/w/api.php",
+        "languageCode": "pcm",
         "group": "wikipedia"
     }
 }

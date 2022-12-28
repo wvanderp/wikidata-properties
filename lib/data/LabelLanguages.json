@@ -406,7 +406,7 @@
     },
     {
         "code": "cdo",
-        "autonym": "Mìng-dĕ̤ng-ngṳ̄",
+        "autonym": "閩東語 / Mìng-dĕ̤ng-ngṳ̄",
         "name": "Min Dong Chinese"
     },
     {
@@ -426,7 +426,7 @@
     },
     {
         "code": "cho",
-        "autonym": "Choctaw",
+        "autonym": "Chahta Anumpa",
         "name": "Choctaw"
     },
     {
@@ -1001,7 +1001,7 @@
     },
     {
         "code": "ik",
-        "autonym": "Iñupiak",
+        "autonym": "Iñupiatun",
         "name": "Inupiaq"
     },
     {
@@ -1143,6 +1143,11 @@
         "code": "kj",
         "autonym": "Kwanyama",
         "name": "Kuanyama"
+    },
+    {
+        "code": "kjh",
+        "autonym": "хакас",
+        "name": "Khakas"
     },
     {
         "code": "kjp",
@@ -1438,6 +1443,11 @@
         "code": "mad",
         "autonym": "Madhurâ",
         "name": "Madurese"
+    },
+    {
+        "code": "mag",
+        "autonym": "मगही",
+        "name": "Magahi"
     },
     {
         "code": "mai",
@@ -1915,6 +1925,11 @@
         "name": "Riffian"
     },
     {
+        "code": "rki",
+        "autonym": "ရခိုင်",
+        "name": "Arakanese"
+    },
+    {
         "code": "rm",
         "autonym": "rumantsch",
         "name": "Romansh"
@@ -2093,6 +2108,16 @@
         "code": "sh",
         "autonym": "srpskohrvatski / српскохрватски",
         "name": "Serbo-Croatian"
+    },
+    {
+        "code": "sh-cyrl",
+        "autonym": "српскохрватски (ћирилица)",
+        "name": "српскохрватски (ћирилица)"
+    },
+    {
+        "code": "sh-latn",
+        "autonym": "srpskohrvatski (latinica)",
+        "name": "srpskohrvatski (latinica)"
     },
     {
         "code": "shi",
@@ -2282,7 +2307,7 @@
     {
         "code": "syl",
         "autonym": "ꠍꠤꠟꠐꠤ",
-        "name": "ꠍꠤꠟꠐꠤ"
+        "name": "Sylheti"
     },
     {
         "code": "szl",

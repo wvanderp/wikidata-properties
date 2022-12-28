@@ -396,7 +396,7 @@
     },
     {
         "code": "cdo",
-        "autonym": "Mìng-dĕ̤ng-ngṳ̄",
+        "autonym": "閩東語 / Mìng-dĕ̤ng-ngṳ̄",
         "name": "Min Dong Chinese"
     },
     {
@@ -416,7 +416,7 @@
     },
     {
         "code": "cho",
-        "autonym": "Choctaw",
+        "autonym": "Chahta Anumpa",
         "name": "Choctaw"
     },
     {
@@ -971,7 +971,7 @@
     },
     {
         "code": "ik",
-        "autonym": "Iñupiak",
+        "autonym": "Iñupiatun",
         "name": "Inupiaq"
     },
     {
@@ -1113,6 +1113,11 @@
         "code": "kj",
         "autonym": "Kwanyama",
         "name": "Kuanyama"
+    },
+    {
+        "code": "kjh",
+        "autonym": "хакас",
+        "name": "Khakas"
     },
     {
         "code": "kjp",
@@ -1408,6 +1413,11 @@
         "code": "mad",
         "autonym": "Madhurâ",
         "name": "Madurese"
+    },
+    {
+        "code": "mag",
+        "autonym": "मगही",
+        "name": "Magahi"
     },
     {
         "code": "mai",
@@ -1880,6 +1890,11 @@
         "name": "Riffian"
     },
     {
+        "code": "rki",
+        "autonym": "ရခိုင်",
+        "name": "Arakanese"
+    },
+    {
         "code": "rm",
         "autonym": "rumantsch",
         "name": "Romansh"
@@ -2053,6 +2068,16 @@
         "code": "sh",
         "autonym": "srpskohrvatski / српскохрватски",
         "name": "Serbo-Croatian"
+    },
+    {
+        "code": "sh-cyrl",
+        "autonym": "српскохрватски (ћирилица)",
+        "name": "српскохрватски (ћирилица)"
+    },
+    {
+        "code": "sh-latn",
+        "autonym": "srpskohrvatski (latinica)",
+        "name": "srpskohrvatski (latinica)"
     },
     {
         "code": "shi",
@@ -2237,7 +2262,7 @@
     {
         "code": "syl",
         "autonym": "ꠍꠤꠟꠐꠤ",
-        "name": "ꠍꠤꠟꠐꠤ"
+        "name": "Sylheti"
     },
     {
         "code": "szl",
@@ -2705,6 +2730,11 @@
         "name": "Kawésqar"
     },
     {
+        "code": "alq",
+        "autonym": null,
+        "name": "Algonquin"
+    },
+    {
         "code": "bdr",
         "autonym": null,
         "name": "West Coast Bajau"
@@ -2750,6 +2780,11 @@
         "name": "Chilcotin"
     },
     {
+        "code": "cmg",
+        "autonym": null,
+        "name": "Classical Mongolian"
+    },
+    {
         "code": "cnr",
         "autonym": null,
         "name": "Montenegrin"
@@ -2778,6 +2813,21 @@
         "code": "el-cy",
         "autonym": null,
         "name": "Cypriot Greek"
+    },
+    {
+        "code": "en-au",
+        "autonym": null,
+        "name": "Australian English"
+    },
+    {
+        "code": "en-in",
+        "autonym": null,
+        "name": "Indian English"
+    },
+    {
+        "code": "enm",
+        "autonym": null,
+        "name": "Middle English"
     },
     {
         "code": "ett",
@@ -2823,6 +2873,11 @@
         "code": "gil",
         "autonym": null,
         "name": "Gilbertese"
+    },
+    {
+        "code": "gmh",
+        "autonym": null,
+        "name": "Middle High German"
     },
     {
         "code": "gml",
@@ -2883,11 +2938,6 @@
         "code": "ja-kana",
         "autonym": null,
         "name": "Japanese (Katakana script)"
-    },
-    {
-        "code": "kjh",
-        "autonym": null,
-        "name": "Khakas"
     },
     {
         "code": "kld",
@@ -2978,6 +3028,11 @@
         "code": "nxm",
         "autonym": null,
         "name": "Numidian"
+    },
+    {
+        "code": "obt",
+        "autonym": null,
+        "name": "Old Breton"
     },
     {
         "code": "oj",
@@ -3100,6 +3155,11 @@
         "name": "Sanskrit (Siddham script)"
     },
     {
+        "code": "ser",
+        "autonym": null,
+        "name": "Serrano"
+    },
+    {
         "code": "sia",
         "autonym": null,
         "name": "Akkala Sámi"
@@ -3123,6 +3183,11 @@
         "code": "ssf",
         "autonym": null,
         "name": "Thao"
+    },
+    {
+        "code": "sth",
+        "autonym": null,
+        "name": "Shelta"
     },
     {
         "code": "syc",
@@ -3165,6 +3230,11 @@
         "name": "Pazeh"
     },
     {
+        "code": "xbm",
+        "autonym": null,
+        "name": "Middle Breton"
+    },
+    {
         "code": "xpu",
         "autonym": null,
         "name": "Punic"
@@ -3173,6 +3243,11 @@
         "code": "yap",
         "autonym": null,
         "name": "Yapese"
+    },
+    {
+        "code": "yec",
+        "autonym": null,
+        "name": "Yeniche"
     },
     {
         "code": "ykg",
