@@ -2,6 +2,8 @@ import puppeteer from 'puppeteer';
 import fs from 'fs';
 
 export default async function getSiteDetails() {
+    console.log('Getting SiteDetails...')
+    
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto('https://www.wikidata.org/wiki/Wikidata:Main_Page');

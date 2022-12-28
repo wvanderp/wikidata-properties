@@ -22,6 +22,7 @@ async function downloadEntries(ids: string[]) {
 }
 
 export async function getProperties() {
+    console.log('Getting properties...')
     const page = await axios.get<ApiResponse>('https://query.wikidata.org/sparql?query=SELECT%20%3Fproperty%20WHERE%20%7B%0A%20%20%3Fproperty%20wikibase%3ApropertyType%20%3FpropertyType.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D&format=json');
 
     const ids = page.data.results.bindings.map(property => property.property.value.split('/').splice(-1)[0])

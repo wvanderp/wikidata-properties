@@ -18,6 +18,7 @@ interface Response {
 }
 
 async function getLanguages(url: string, name: string) {
+    console.log(`Getting ${name}...`)
 	const response = await axios.get<Response>(url)
 	const data = Object.values(response.data.query.wbcontentlanguages);
 

@@ -1,39 +1,45 @@
 {
   "name": "wikidata-properties",
-  "description": "A list of all wikidata properties",
+  "description": "Access comprehensive and up-to-date information about Wikidata properties with a single npm package.",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/wvanderp/wikidata-properties/issues"
-  },
   "version": "1.0.0",
-  "main": "lib/src/index.js",
-  "types": "lib/src/index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/wvanderp/wikidata-properties.git"
   },
   "homepage": "https://github.com/wvanderp/wikidata-properties",
-  "dependencies": {
-    "lodash": "^4.17.21"
+  "bugs": {
+    "url": "https://github.com/wvanderp/wikidata-properties/issues"
   },
-  "devDependencies": {
-    "@types/chai": "^4.3.1",
-    "@types/lodash": "^4.14.182",
-    "@types/mocha": "^9.1.1",
-    "@types/node": "^18.6.0",
-    "@types/puppeteer": "^5.4.6",
-    "@wmde/wikibase-datamodel-types": "git+https://github.com/wvanderp/WikibaseDataModelTypes.git",
-    "axios": "0.27.2",
-    "chai": "^4.3.6",
-    "mocha": "^10.0.0",
-    "puppeteer": "^15.5.0",
-    "ts-node": "^10.9.1",
-    "typescript": "^4.7.4",
-    "wtf_wikipedia": "^10.0.1"
-  },
+
+
+  "main": "lib/src/index.js",
+  "types": "lib/src/index.d.ts",
   "scripts": {
     "scrape": "ts-node utils/scrape.ts",
     "build": "npm run scrape && tsc -b",
     "test": "mocha"
+  },
+
+
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+
+  "devDependencies": {
+    "@types/chai": "^4.3.4",
+    "@types/lodash": "^4.14.191",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^18.11.18",
+    "@types/puppeteer": "^5.4.7",
+    "@wmde/wikibase-datamodel-types": "git+https://github.com/wvanderp/WikibaseDataModelTypes.git",
+    "axios": "1.2.1",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "puppeteer": "^19.4.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4",
+    "wtf_wikipedia": "^10.0.5"
   }
 }
+
