@@ -995,6 +995,11 @@
         "name": "Igbo"
     },
     {
+        "code": "igl",
+        "autonym": "Igala",
+        "name": "Igala"
+    },
+    {
         "code": "ii",
         "autonym": "ꆇꉙ",
         "name": "Sichuan Yi"
@@ -2403,6 +2408,11 @@
         "code": "to",
         "autonym": "lea faka-Tonga",
         "name": "Tongan"
+    },
+    {
+        "code": "tok",
+        "autonym": "toki pona",
+        "name": "toki pona"
     },
     {
         "code": "tpi",

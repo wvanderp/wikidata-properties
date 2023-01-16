@@ -251,6 +251,15 @@
         "languageCode": "as",
         "group": "wikibooks"
     },
+    "aswikiquote": {
+        "shortName": "অসমীয়া",
+        "name": "অসমীয়া",
+        "id": "aswikiquote",
+        "pageUrl": "//as.wikiquote.org/wiki/$1",
+        "apiUrl": "//as.wikiquote.org/w/api.php",
+        "languageCode": "as",
+        "group": "wikiquote"
+    },
     "aswikisource": {
         "shortName": "অসমীয়া",
         "name": "অসমীয়া",
@@ -1637,6 +1646,15 @@
         "languageCode": "gom",
         "group": "wiktionary"
     },
+    "gorwiktionary": {
+        "shortName": "Bahasa Hulontalo",
+        "name": "Bahasa Hulontalo",
+        "id": "gorwiktionary",
+        "pageUrl": "//gor.wiktionary.org/wiki/$1",
+        "apiUrl": "//gor.wiktionary.org/w/api.php",
+        "languageCode": "gor",
+        "group": "wiktionary"
+    },
     "gotwikibooks": {
         "shortName": "𐌲𐌿𐍄𐌹𐍃𐌺",
         "name": "𐌲𐌿𐍄𐌹𐍃𐌺",
@@ -1681,6 +1699,15 @@
         "apiUrl": "//gu.wiktionary.org/w/api.php",
         "languageCode": "gu",
         "group": "wiktionary"
+    },
+    "guwwikiquote": {
+        "shortName": "gungbe",
+        "name": "gungbe",
+        "id": "guwwikiquote",
+        "pageUrl": "//guw.wikiquote.org/wiki/$1",
+        "apiUrl": "//guw.wikiquote.org/w/api.php",
+        "languageCode": "guw",
+        "group": "wikiquote"
     },
     "guwwiktionary": {
         "shortName": "gungbe",
@@ -3760,6 +3787,15 @@
         "apiUrl": "//sg.wiktionary.org/w/api.php",
         "languageCode": "sg",
         "group": "wiktionary"
+    },
+    "shnwikibooks": {
+        "shortName": "ၽႃႇသႃႇတႆး ",
+        "name": "ၽႃႇသႃႇတႆး ",
+        "id": "shnwikibooks",
+        "pageUrl": "//shn.wikibooks.org/wiki/$1",
+        "apiUrl": "//shn.wikibooks.org/w/api.php",
+        "languageCode": "shn",
+        "group": "wikibooks"
     },
     "shnwikivoyage": {
         "shortName": "ၽႃႇသႃႇတႆး ",
