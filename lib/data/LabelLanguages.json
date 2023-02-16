@@ -31,7 +31,7 @@
     },
     {
         "code": "aeb",
-        "autonym": "تونسي/Tûnsî",
+        "autonym": "تونسي / Tûnsî",
         "name": "Tunisian Arabic"
     },
     {
@@ -1051,7 +1051,7 @@
     },
     {
         "code": "iu",
-        "autonym": "ᐃᓄᒃᑎᑐᑦ/inuktitut",
+        "autonym": "ᐃᓄᒃᑎᑐᑦ / inuktitut",
         "name": "Inuktitut"
     },
     {
@@ -1298,6 +1298,11 @@
         "code": "kum",
         "autonym": "къумукъ",
         "name": "Kumyk"
+    },
+    {
+        "code": "kus",
+        "autonym": "Kʋsaal",
+        "name": "Kʋsaal"
     },
     {
         "code": "kv",
@@ -2441,7 +2446,7 @@
     },
     {
         "code": "tt",
-        "autonym": "татарча/tatarça",
+        "autonym": "татарча / tatarça",
         "name": "Tatar"
     },
     {
@@ -2516,7 +2521,7 @@
     },
     {
         "code": "uz",
-        "autonym": "oʻzbekcha/ўзбекча",
+        "autonym": "oʻzbekcha / ўзбекча",
         "name": "Uzbek"
     },
     {

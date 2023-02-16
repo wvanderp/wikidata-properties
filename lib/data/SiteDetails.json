@@ -2196,8 +2196,8 @@
         "group": "wiktionary"
     },
     "iuwiktionary": {
-        "shortName": "ᐃᓄᒃᑎᑐᑦ/inuktitut",
-        "name": "ᐃᓄᒃᑎᑐᑦ/inuktitut",
+        "shortName": "ᐃᓄᒃᑎᑐᑦ / inuktitut",
+        "name": "ᐃᓄᒃᑎᑐᑦ / inuktitut",
         "id": "iuwiktionary",
         "pageUrl": "//iu.wiktionary.org/wiki/$1",
         "apiUrl": "//iu.wiktionary.org/w/api.php",
@@ -4500,8 +4500,8 @@
         "group": "wiktionary"
     },
     "ttwikibooks": {
-        "shortName": "татарча/tatarça",
-        "name": "татарча/tatarça",
+        "shortName": "татарча / tatarça",
+        "name": "татарча / tatarça",
         "id": "ttwikibooks",
         "pageUrl": "//tt.wikibooks.org/wiki/$1",
         "apiUrl": "//tt.wikibooks.org/w/api.php",
@@ -4509,8 +4509,8 @@
         "group": "wikibooks"
     },
     "ttwikiquote": {
-        "shortName": "татарча/tatarça",
-        "name": "татарча/tatarça",
+        "shortName": "татарча / tatarça",
+        "name": "татарча / tatarça",
         "id": "ttwikiquote",
         "pageUrl": "//tt.wikiquote.org/wiki/$1",
         "apiUrl": "//tt.wikiquote.org/w/api.php",
@@ -4518,8 +4518,8 @@
         "group": "wikiquote"
     },
     "ttwiktionary": {
-        "shortName": "татарча/tatarça",
-        "name": "татарча/tatarça",
+        "shortName": "татарча / tatarça",
+        "name": "татарча / tatarça",
         "id": "ttwiktionary",
         "pageUrl": "//tt.wiktionary.org/wiki/$1",
         "apiUrl": "//tt.wiktionary.org/w/api.php",
@@ -4644,8 +4644,8 @@
         "group": "wiktionary"
     },
     "uzwikibooks": {
-        "shortName": "oʻzbekcha/ўзбекча",
-        "name": "oʻzbekcha/ўзбекча",
+        "shortName": "oʻzbekcha / ўзбекча",
+        "name": "oʻzbekcha / ўзбекча",
         "id": "uzwikibooks",
         "pageUrl": "//uz.wikibooks.org/wiki/$1",
         "apiUrl": "//uz.wikibooks.org/w/api.php",
@@ -4653,8 +4653,8 @@
         "group": "wikibooks"
     },
     "uzwikiquote": {
-        "shortName": "oʻzbekcha/ўзбекча",
-        "name": "oʻzbekcha/ўзбекча",
+        "shortName": "oʻzbekcha / ўзбекча",
+        "name": "oʻzbekcha / ўзбекча",
         "id": "uzwikiquote",
         "pageUrl": "//uz.wikiquote.org/wiki/$1",
         "apiUrl": "//uz.wikiquote.org/w/api.php",
@@ -4662,8 +4662,8 @@
         "group": "wikiquote"
     },
     "uzwiktionary": {
-        "shortName": "oʻzbekcha/ўзбекча",
-        "name": "oʻzbekcha/ўзбекча",
+        "shortName": "oʻzbekcha / ўзбекча",
+        "name": "oʻzbekcha / ўзбекча",
         "id": "uzwiktionary",
         "pageUrl": "//uz.wiktionary.org/wiki/$1",
         "apiUrl": "//uz.wiktionary.org/w/api.php",
@@ -6021,8 +6021,8 @@
         "group": "wikipedia"
     },
     "iuwiki": {
-        "shortName": "ᐃᓄᒃᑎᑐᑦ/inuktitut",
-        "name": "ᐃᓄᒃᑎᑐᑦ/inuktitut",
+        "shortName": "ᐃᓄᒃᑎᑐᑦ / inuktitut",
+        "name": "ᐃᓄᒃᑎᑐᑦ / inuktitut",
         "id": "iuwiki",
         "pageUrl": "//iu.wikipedia.org/wiki/$1",
         "apiUrl": "//iu.wikipedia.org/w/api.php",
@@ -7317,8 +7317,8 @@
         "group": "wikipedia"
     },
     "ttwiki": {
-        "shortName": "татарча/tatarça",
-        "name": "татарча/tatarça",
+        "shortName": "татарча / tatarça",
+        "name": "татарча / tatarça",
         "id": "ttwiki",
         "pageUrl": "//tt.wikipedia.org/wiki/$1",
         "apiUrl": "//tt.wikipedia.org/w/api.php",
@@ -7398,8 +7398,8 @@
         "group": "wikipedia"
     },
     "uzwiki": {
-        "shortName": "oʻzbekcha/ўзбекча",
-        "name": "oʻzbekcha/ўзбекча",
+        "shortName": "oʻzbekcha / ўзбекча",
+        "name": "oʻzbekcha / ўзбекча",
         "id": "uzwiki",
         "pageUrl": "//uz.wikipedia.org/wiki/$1",
         "apiUrl": "//uz.wikipedia.org/w/api.php",
