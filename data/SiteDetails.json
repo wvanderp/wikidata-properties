@@ -8044,5 +8044,23 @@
         "apiUrl": "//pcm.wikipedia.org/w/api.php",
         "languageCode": "pcm",
         "group": "wikipedia"
+    },
+    "gucwiki": {
+        "shortName": "wayuunaiki",
+        "name": "wayuunaiki",
+        "id": "gucwiki",
+        "pageUrl": "//guc.wikipedia.org/wiki/$1",
+        "apiUrl": "//guc.wikipedia.org/w/api.php",
+        "languageCode": "guc",
+        "group": "wikipedia"
+    },
+    "gurwiki": {
+        "shortName": "farefare",
+        "name": "farefare",
+        "id": "gurwiki",
+        "pageUrl": "//gur.wikipedia.org/wiki/$1",
+        "apiUrl": "//gur.wikipedia.org/w/api.php",
+        "languageCode": "gur",
+        "group": "wikipedia"
     }
 }
