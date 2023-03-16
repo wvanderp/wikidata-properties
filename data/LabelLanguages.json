@@ -95,6 +95,11 @@
         "name": "Old English"
     },
     {
+        "code": "ann",
+        "autonym": "Obolo",
+        "name": "Obolo"
+    },
+    {
         "code": "anp",
         "autonym": "अंगिका",
         "name": "Angika"
@@ -533,6 +538,11 @@
         "code": "de-formal",
         "autonym": "Deutsch (Sie-Form)",
         "name": "German (formal address)"
+    },
+    {
+        "code": "dga",
+        "autonym": "Dagaare",
+        "name": "Dagaare"
     },
     {
         "code": "din",
@@ -1725,6 +1735,11 @@
         "name": "Northern Thai"
     },
     {
+        "code": "nog",
+        "autonym": "ногайша",
+        "name": "Nogai"
+    },
+    {
         "code": "nov",
         "autonym": "Novial",
         "name": "Novial"
@@ -2593,6 +2608,11 @@
         "code": "wa",
         "autonym": "walon",
         "name": "Walloon"
+    },
+    {
+        "code": "wal",
+        "autonym": "wolaytta",
+        "name": "Wolaytta"
     },
     {
         "code": "war",
