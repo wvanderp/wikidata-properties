@@ -67,7 +67,7 @@
     {
         "code": "als",
         "autonym": "Alemannisch",
-        "name": "Alemannisch"
+        "name": "Swiss German"
     },
     {
         "code": "alt",
@@ -591,8 +591,8 @@
     },
     {
         "code": "egl",
-        "autonym": "Emiliàn",
-        "name": "Emilian"
+        "autonym": "emiliàn e rumagnòl",
+        "name": "Emiliano-Romagnolo"
     },
     {
         "code": "el",
@@ -702,7 +702,7 @@
     {
         "code": "fiu-vro",
         "autonym": "võro",
-        "name": "võro"
+        "name": "Võro"
     },
     {
         "code": "fj",
@@ -928,6 +928,11 @@
         "code": "hil",
         "autonym": "Ilonggo",
         "name": "Hiligaynon"
+    },
+    {
+        "code": "hno",
+        "autonym": "ہندکو",
+        "name": "Northern Hindko"
     },
     {
         "code": "ho",
@@ -2727,7 +2732,7 @@
     {
         "code": "zh-classical",
         "autonym": "文言",
-        "name": "Classical Chinese"
+        "name": "Literary Chinese"
     },
     {
         "code": "zh-cn",
@@ -2752,7 +2757,7 @@
     {
         "code": "zh-min-nan",
         "autonym": "Bân-lâm-gú",
-        "name": "Chinese (Min Nan)"
+        "name": "Min Nan Chinese"
     },
     {
         "code": "zh-mo",

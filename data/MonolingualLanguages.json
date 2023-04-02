@@ -67,7 +67,7 @@
     {
         "code": "als",
         "autonym": "Alemannisch",
-        "name": "Alemannisch"
+        "name": "Swiss German"
     },
     {
         "code": "alt",
@@ -576,8 +576,8 @@
     },
     {
         "code": "egl",
-        "autonym": "Emiliàn",
-        "name": "Emilian"
+        "autonym": "emiliàn e rumagnòl",
+        "name": "Emiliano-Romagnolo"
     },
     {
         "code": "el",
@@ -903,6 +903,11 @@
         "code": "hil",
         "autonym": "Ilonggo",
         "name": "Hiligaynon"
+    },
+    {
+        "code": "hno",
+        "autonym": "ہندکو",
+        "name": "Northern Hindko"
     },
     {
         "code": "ho",

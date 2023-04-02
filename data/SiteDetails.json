@@ -728,6 +728,15 @@
         "languageCode": "ch",
         "group": "wiktionary"
     },
+    "ckbwiktionary": {
+        "shortName": "کوردی",
+        "name": "کوردی",
+        "id": "ckbwiktionary",
+        "pageUrl": "//ckb.wiktionary.org/wiki/$1",
+        "apiUrl": "//ckb.wiktionary.org/w/api.php",
+        "languageCode": "ckb",
+        "group": "wiktionary"
+    },
     "cowikibooks": {
         "shortName": "corsu",
         "name": "corsu",
@@ -8061,6 +8070,15 @@
         "pageUrl": "//gur.wikipedia.org/wiki/$1",
         "apiUrl": "//gur.wikipedia.org/w/api.php",
         "languageCode": "gur",
+        "group": "wikipedia"
+    },
+    "anpwiki": {
+        "shortName": "अंगिका",
+        "name": "अंगिका",
+        "id": "anpwiki",
+        "pageUrl": "//anp.wikipedia.org/wiki/$1",
+        "apiUrl": "//anp.wikipedia.org/w/api.php",
+        "languageCode": "anp",
         "group": "wikipedia"
     }
 }
