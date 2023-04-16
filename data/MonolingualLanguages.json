@@ -20,6 +20,11 @@
         "name": "Achinese"
     },
     {
+        "code": "acm",
+        "autonym": "عراقي",
+        "name": "عراقي"
+    },
+    {
         "code": "ady",
         "autonym": "адыгабзэ",
         "name": "Adyghe"
@@ -2765,6 +2770,11 @@
         "name": "Abaza"
     },
     {
+        "code": "aec",
+        "autonym": null,
+        "name": "Saʽidi Arabic"
+    },
+    {
         "code": "alc",
         "autonym": null,
         "name": "Kawésqar"
@@ -2898,6 +2908,11 @@
         "code": "fro",
         "autonym": null,
         "name": "Old French"
+    },
+    {
+        "code": "fud",
+        "autonym": null,
+        "name": "Futunan"
     },
     {
         "code": "fuf",
@@ -3278,6 +3293,11 @@
         "code": "xpu",
         "autonym": null,
         "name": "Punic"
+    },
+    {
+        "code": "xsu",
+        "autonym": null,
+        "name": "Sanumá"
     },
     {
         "code": "yap",

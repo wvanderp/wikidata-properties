@@ -20,6 +20,11 @@
         "name": "Achinese"
     },
     {
+        "code": "acm",
+        "autonym": "عراقي",
+        "name": "عراقي"
+    },
+    {
         "code": "ady",
         "autonym": "адыгабзэ",
         "name": "Adyghe"
