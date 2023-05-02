@@ -1709,6 +1709,15 @@
         "languageCode": "gu",
         "group": "wiktionary"
     },
+    "guwwikinews": {
+        "shortName": "gungbe",
+        "name": "gungbe",
+        "id": "guwwikinews",
+        "pageUrl": "//guw.wikinews.org/wiki/$1",
+        "apiUrl": "//guw.wikinews.org/w/api.php",
+        "languageCode": "guw",
+        "group": "wikinews"
+    },
     "guwwikiquote": {
         "shortName": "gungbe",
         "name": "gungbe",
@@ -2328,6 +2337,24 @@
         "pageUrl": "//ka.wiktionary.org/wiki/$1",
         "apiUrl": "//ka.wiktionary.org/w/api.php",
         "languageCode": "ka",
+        "group": "wiktionary"
+    },
+    "kbdwiktionary": {
+        "shortName": "адыгэбзэ",
+        "name": "адыгэбзэ",
+        "id": "kbdwiktionary",
+        "pageUrl": "//kbd.wiktionary.org/wiki/$1",
+        "apiUrl": "//kbd.wiktionary.org/w/api.php",
+        "languageCode": "kbd",
+        "group": "wiktionary"
+    },
+    "kcgwiktionary": {
+        "shortName": "Tyap",
+        "name": "Tyap",
+        "id": "kcgwiktionary",
+        "pageUrl": "//kcg.wiktionary.org/wiki/$1",
+        "apiUrl": "//kcg.wiktionary.org/w/api.php",
+        "languageCode": "kcg",
         "group": "wiktionary"
     },
     "kkwikibooks": {
@@ -8079,6 +8106,15 @@
         "pageUrl": "//anp.wikipedia.org/wiki/$1",
         "apiUrl": "//anp.wikipedia.org/w/api.php",
         "languageCode": "anp",
+        "group": "wikipedia"
+    },
+    "fatwiki": {
+        "shortName": "mfantse",
+        "name": "mfantse",
+        "id": "fatwiki",
+        "pageUrl": "//fat.wikipedia.org/wiki/$1",
+        "apiUrl": "//fat.wikipedia.org/w/api.php",
+        "languageCode": "fat",
         "group": "wikipedia"
     }
 }

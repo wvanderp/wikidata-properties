@@ -22,7 +22,7 @@
     {
         "code": "acm",
         "autonym": "عراقي",
-        "name": "عراقي"
+        "name": "Iraqi Arabic"
     },
     {
         "code": "ady",
@@ -408,6 +408,11 @@
         "code": "cak",
         "autonym": "Kaqchikel",
         "name": "Kaqchikel"
+    },
+    {
+        "code": "cal",
+        "autonym": "Carolinian",
+        "name": "Carolinian"
     },
     {
         "code": "cbk-zam",
@@ -1797,7 +1802,7 @@
     {
         "code": "ojb",
         "autonym": "Ojibwemowin",
-        "name": "Northwestern Ojibwe"
+        "name": "Northwestern Ojibwa"
     },
     {
         "code": "olo",
@@ -2448,6 +2453,11 @@
         "code": "tpi",
         "autonym": "Tok Pisin",
         "name": "Tok Pisin"
+    },
+    {
+        "code": "tpv",
+        "autonym": "Tanapag",
+        "name": "Tanapag"
     },
     {
         "code": "tr",

@@ -22,7 +22,7 @@
     {
         "code": "acm",
         "autonym": "عراقي",
-        "name": "عراقي"
+        "name": "Iraqi Arabic"
     },
     {
         "code": "ady",
@@ -398,6 +398,11 @@
         "code": "cak",
         "autonym": "Kaqchikel",
         "name": "Kaqchikel"
+    },
+    {
+        "code": "cal",
+        "autonym": "Carolinian",
+        "name": "Carolinian"
     },
     {
         "code": "cbk-zam",
@@ -1762,7 +1767,7 @@
     {
         "code": "ojb",
         "autonym": "Ojibwemowin",
-        "name": "Northwestern Ojibwe"
+        "name": "Northwestern Ojibwa"
     },
     {
         "code": "olo",
@@ -2405,6 +2410,11 @@
         "name": "Tok Pisin"
     },
     {
+        "code": "tpv",
+        "autonym": "Tanapag",
+        "name": "Tanapag"
+    },
+    {
         "code": "tr",
         "autonym": "Türkçe",
         "name": "Turkish"
@@ -2785,6 +2795,11 @@
         "name": "Algonquin"
     },
     {
+        "code": "apc",
+        "autonym": null,
+        "name": null
+    },
+    {
         "code": "bdr",
         "autonym": null,
         "name": "West Coast Bajau"
@@ -2800,9 +2815,9 @@
         "name": "Bodo"
     },
     {
-        "code": "cal",
+        "code": "bzs",
         "autonym": null,
-        "name": "Carolinian"
+        "name": null
     },
     {
         "code": "ccp",
@@ -2852,7 +2867,7 @@
     {
         "code": "crl",
         "autonym": null,
-        "name": "East Cree"
+        "name": "Northern East Cree"
     },
     {
         "code": "dru",
@@ -3047,7 +3062,7 @@
     {
         "code": "moe",
         "autonym": null,
-        "name": "Innu"
+        "name": "Innu-aimun"
     },
     {
         "code": "non",
@@ -3153,6 +3168,11 @@
         "code": "ppu",
         "autonym": null,
         "name": "Papora-Hoanya"
+    },
+    {
+        "code": "pqm",
+        "autonym": null,
+        "name": "Maliseet-Passamaquoddy"
     },
     {
         "code": "pyu",
@@ -3263,6 +3283,11 @@
         "code": "tnq",
         "autonym": null,
         "name": "Taíno"
+    },
+    {
+        "code": "txg",
+        "autonym": null,
+        "name": null
     },
     {
         "code": "tzl",
