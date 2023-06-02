@@ -5418,8 +5418,8 @@
         "group": "wikipedia"
     },
     "chowiki": {
-        "shortName": "Chahta Anumpa",
-        "name": "Chahta Anumpa",
+        "shortName": "Chahta anumpa",
+        "name": "Chahta anumpa",
         "id": "chowiki",
         "pageUrl": "//cho.wikipedia.org/wiki/$1",
         "apiUrl": "//cho.wikipedia.org/w/api.php",

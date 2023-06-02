@@ -441,7 +441,7 @@
     },
     {
         "code": "cho",
-        "autonym": "Chahta Anumpa",
+        "autonym": "Chahta anumpa",
         "name": "Choctaw"
     },
     {
@@ -493,6 +493,11 @@
         "code": "crh-latn",
         "autonym": "qırımtatarca (Latin)",
         "name": "Crimean Tatar (Latin script)"
+    },
+    {
+        "code": "crh-ro",
+        "autonym": "tatarşa",
+        "name": "tatarşa"
     },
     {
         "code": "cs",
@@ -2660,6 +2665,16 @@
         "name": "Wu Chinese"
     },
     {
+        "code": "wuu-hans",
+        "autonym": "吴语（简体）",
+        "name": "吴语（简体）"
+    },
+    {
+        "code": "wuu-hant",
+        "autonym": "吳語（正體）",
+        "name": "吳語（正體）"
+    },
+    {
         "code": "wya",
         "autonym": "Wyandot",
         "name": "Wyandot"
@@ -2723,6 +2738,16 @@
         "code": "yue",
         "autonym": "粵語",
         "name": "Cantonese"
+    },
+    {
+        "code": "yue-hans",
+        "autonym": "粵语（简体）",
+        "name": "粵语（简体）"
+    },
+    {
+        "code": "yue-hant",
+        "autonym": "粵語（繁體）",
+        "name": "粵語（繁體）"
     },
     {
         "code": "za",
