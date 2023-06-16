@@ -207,7 +207,7 @@
     {
         "code": "ban-bali",
         "autonym": "ᬩᬲᬩᬮᬶ",
-        "name": "ᬩᬲᬩᬮᬶ"
+        "name": "Balinese (Balinese script)"
     },
     {
         "code": "bar",
@@ -273,6 +273,11 @@
         "code": "be-x-old",
         "autonym": "беларуская (тарашкевіца)",
         "name": "Belarusian (Taraškievica orthography)"
+    },
+    {
+        "code": "bew",
+        "autonym": "Betawi",
+        "name": "Betawi"
     },
     {
         "code": "bfd",
@@ -2117,17 +2122,17 @@
     {
         "code": "se-fi",
         "autonym": "davvisámegiella (Suoma bealde)",
-        "name": "davvisámegiella (Suoma bealde)"
+        "name": "Northern Sami (Finland)"
     },
     {
         "code": "se-no",
         "autonym": "davvisámegiella (Norgga bealde)",
-        "name": "davvisámegiella (Norgga bealde)"
+        "name": "Northern Sami (Norway)"
     },
     {
         "code": "se-se",
         "autonym": "davvisámegiella (Ruoŧa bealde)",
-        "name": "davvisámegiella (Ruoŧa bealde)"
+        "name": "Northern Sami (Sweden)"
     },
     {
         "code": "sei",
@@ -2157,12 +2162,12 @@
     {
         "code": "sh-cyrl",
         "autonym": "српскохрватски (ћирилица)",
-        "name": "српскохрватски (ћирилица)"
+        "name": "Serbo-Croatian (Cyrillic script)"
     },
     {
         "code": "sh-latn",
         "autonym": "srpskohrvatski (latinica)",
-        "name": "srpskohrvatski (latinica)"
+        "name": "Serbo-Croatian (Latin script)"
     },
     {
         "code": "shi",
@@ -2437,7 +2442,7 @@
     {
         "code": "tly-cyrl",
         "autonym": "толыши",
-        "name": "толыши"
+        "name": "Talysh (Cyrillic script)"
     },
     {
         "code": "tn",
@@ -2667,12 +2672,12 @@
     {
         "code": "wuu-hans",
         "autonym": "吴语（简体）",
-        "name": "吴语（简体）"
+        "name": "Wu Chinese (Simplified)"
     },
     {
         "code": "wuu-hant",
         "autonym": "吳語（正體）",
-        "name": "吳語（正體）"
+        "name": "Wu Chinese (Traditional)"
     },
     {
         "code": "wya",
@@ -2742,12 +2747,12 @@
     {
         "code": "yue-hans",
         "autonym": "粵语（简体）",
-        "name": "粵语（简体）"
+        "name": "Cantonese (Simplified)"
     },
     {
         "code": "yue-hant",
         "autonym": "粵語（繁體）",
-        "name": "粵語（繁體）"
+        "name": "Cantonese (Traditional)"
     },
     {
         "code": "za",

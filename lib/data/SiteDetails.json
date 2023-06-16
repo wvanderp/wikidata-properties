@@ -7667,6 +7667,15 @@
         "languageCode": "en",
         "group": "special"
     },
+    "outreachwiki": {
+        "shortName": "outreachwiki",
+        "name": "outreachwiki",
+        "id": "outreachwiki",
+        "pageUrl": "//outreach.wikimedia.org/wiki/$1",
+        "apiUrl": "//outreach.wikimedia.org/w/api.php",
+        "languageCode": "en",
+        "group": "special"
+    },
     "sourceswiki": {
         "shortName": "Multilingual Wikisource",
         "name": "Multilingual Wikisource",
