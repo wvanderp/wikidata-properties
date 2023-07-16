@@ -7649,6 +7649,15 @@
         "languageCode": "en",
         "group": "special"
     },
+    "foundationwiki": {
+        "shortName": "foundationwiki",
+        "name": "foundationwiki",
+        "id": "foundationwiki",
+        "pageUrl": "//foundation.wikimedia.org/wiki/$1",
+        "apiUrl": "//foundation.wikimedia.org/w/api.php",
+        "languageCode": "en",
+        "group": "special"
+    },
     "mediawikiwiki": {
         "shortName": "MediaWiki",
         "name": "MediaWiki",
@@ -8124,6 +8133,15 @@
         "pageUrl": "//fat.wikipedia.org/wiki/$1",
         "apiUrl": "//fat.wikipedia.org/w/api.php",
         "languageCode": "fat",
+        "group": "wikipedia"
+    },
+    "gpewiki": {
+        "shortName": "Ghanaian Pidgin",
+        "name": "Ghanaian Pidgin",
+        "id": "gpewiki",
+        "pageUrl": "//gpe.wikipedia.org/wiki/$1",
+        "apiUrl": "//gpe.wikipedia.org/w/api.php",
+        "languageCode": "gpe",
         "group": "wikipedia"
     }
 }
