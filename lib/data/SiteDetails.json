@@ -656,6 +656,15 @@
         "languageCode": "bs",
         "group": "wiktionary"
     },
+    "btmwiktionary": {
+        "shortName": "Batak Mandailing",
+        "name": "Batak Mandailing",
+        "id": "btmwiktionary",
+        "pageUrl": "//btm.wiktionary.org/wiki/$1",
+        "apiUrl": "//btm.wiktionary.org/w/api.php",
+        "languageCode": "btm",
+        "group": "wiktionary"
+    },
     "cawikibooks": {
         "shortName": "català",
         "name": "català",
@@ -5346,8 +5355,8 @@
         "group": "wikipedia"
     },
     "bugwiki": {
-        "shortName": "ᨅᨔ ᨕᨘᨁᨗ",
-        "name": "ᨅᨔ ᨕᨘᨁᨗ",
+        "shortName": "Basa Ugi",
+        "name": "Basa Ugi",
         "id": "bugwiki",
         "pageUrl": "//bug.wikipedia.org/wiki/$1",
         "apiUrl": "//bug.wikipedia.org/w/api.php",

@@ -255,6 +255,11 @@
         "name": "Central Bikol"
     },
     {
+        "code": "bdr",
+        "autonym": "Bajau Sama",
+        "name": "West Coast Bajau"
+    },
+    {
         "code": "be",
         "autonym": "беларуская",
         "name": "Belarusian"
@@ -381,7 +386,7 @@
     },
     {
         "code": "bug",
-        "autonym": "ᨅᨔ ᨕᨘᨁᨗ",
+        "autonym": "Basa Ugi",
         "name": "Buginese"
     },
     {
@@ -2828,11 +2833,6 @@
         "code": "apc",
         "autonym": null,
         "name": "Levantine Arabic"
-    },
-    {
-        "code": "bdr",
-        "autonym": null,
-        "name": "West Coast Bajau"
     },
     {
         "code": "bnn",
