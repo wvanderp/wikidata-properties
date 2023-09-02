@@ -54,8 +54,8 @@
         "group": "wiktionary"
     },
     "akwikibooks": {
-        "shortName": "Akan",
-        "name": "Akan",
+        "shortName": "ak",
+        "name": "ak",
         "id": "akwikibooks",
         "pageUrl": "//ak.wikibooks.org/wiki/$1",
         "apiUrl": "//ak.wikibooks.org/w/api.php",
@@ -63,8 +63,8 @@
         "group": "wikibooks"
     },
     "akwiktionary": {
-        "shortName": "Akan",
-        "name": "Akan",
+        "shortName": "ak",
+        "name": "ak",
         "id": "akwiktionary",
         "pageUrl": "//ak.wiktionary.org/wiki/$1",
         "apiUrl": "//ak.wiktionary.org/w/api.php",
@@ -492,6 +492,15 @@
         "pageUrl": "//bjn.wiktionary.org/wiki/$1",
         "apiUrl": "//bjn.wiktionary.org/w/api.php",
         "languageCode": "bjn",
+        "group": "wiktionary"
+    },
+    "blkwiktionary": {
+        "shortName": "ပအိုဝ်ႏဘာႏသာႏ",
+        "name": "ပအိုဝ်ႏဘာႏသာႏ",
+        "id": "blkwiktionary",
+        "pageUrl": "//blk.wiktionary.org/wiki/$1",
+        "apiUrl": "//blk.wiktionary.org/w/api.php",
+        "languageCode": "blk",
         "group": "wiktionary"
     },
     "bmwikibooks": {
@@ -3596,7 +3605,7 @@
         "id": "roa_rupwiktionary",
         "pageUrl": "//roa-rup.wiktionary.org/wiki/$1",
         "apiUrl": "//roa-rup.wiktionary.org/w/api.php",
-        "languageCode": "roa-rup",
+        "languageCode": "rup",
         "group": "wiktionary"
     },
     "rowikibooks": {
@@ -4156,6 +4165,15 @@
         "apiUrl": "//su.wikiquote.org/w/api.php",
         "languageCode": "su",
         "group": "wikiquote"
+    },
+    "suwikisource": {
+        "shortName": "Sunda",
+        "name": "Sunda",
+        "id": "suwikisource",
+        "pageUrl": "//su.wikisource.org/wiki/$1",
+        "apiUrl": "//su.wikisource.org/w/api.php",
+        "languageCode": "su",
+        "group": "wikisource"
     },
     "suwiktionary": {
         "shortName": "Sunda",
@@ -4946,7 +4964,7 @@
         "id": "zh_min_nanwikibooks",
         "pageUrl": "//zh-min-nan.wikibooks.org/wiki/$1",
         "apiUrl": "//zh-min-nan.wikibooks.org/w/api.php",
-        "languageCode": "zh-min-nan",
+        "languageCode": "nan",
         "group": "wikibooks"
     },
     "zh_min_nanwikiquote": {
@@ -4955,7 +4973,7 @@
         "id": "zh_min_nanwikiquote",
         "pageUrl": "//zh-min-nan.wikiquote.org/wiki/$1",
         "apiUrl": "//zh-min-nan.wikiquote.org/w/api.php",
-        "languageCode": "zh-min-nan",
+        "languageCode": "nan",
         "group": "wikiquote"
     },
     "zh_min_nanwikisource": {
@@ -4964,7 +4982,7 @@
         "id": "zh_min_nanwikisource",
         "pageUrl": "//zh-min-nan.wikisource.org/wiki/$1",
         "apiUrl": "//zh-min-nan.wikisource.org/w/api.php",
-        "languageCode": "zh-min-nan",
+        "languageCode": "nan",
         "group": "wikisource"
     },
     "zh_min_nanwiktionary": {
@@ -4973,7 +4991,7 @@
         "id": "zh_min_nanwiktionary",
         "pageUrl": "//zh-min-nan.wiktionary.org/wiki/$1",
         "apiUrl": "//zh-min-nan.wiktionary.org/w/api.php",
-        "languageCode": "zh-min-nan",
+        "languageCode": "nan",
         "group": "wiktionary"
     },
     "zhwikibooks": {
@@ -5094,8 +5112,8 @@
         "group": "wikipedia"
     },
     "akwiki": {
-        "shortName": "Akan",
-        "name": "Akan",
+        "shortName": "ak",
+        "name": "ak",
         "id": "akwiki",
         "pageUrl": "//ak.wikipedia.org/wiki/$1",
         "apiUrl": "//ak.wikipedia.org/w/api.php",
@@ -5108,7 +5126,7 @@
         "id": "alswiki",
         "pageUrl": "//als.wikipedia.org/wiki/$1",
         "apiUrl": "//als.wikipedia.org/w/api.php",
-        "languageCode": "als",
+        "languageCode": "gsw",
         "group": "wikipedia"
     },
     "amwiki": {
@@ -5234,7 +5252,7 @@
         "id": "bat_smgwiki",
         "pageUrl": "//bat-smg.wikipedia.org/wiki/$1",
         "apiUrl": "//bat-smg.wikipedia.org/w/api.php",
-        "languageCode": "bat-smg",
+        "languageCode": "sgs",
         "group": "wikipedia"
     },
     "bclwiki": {
@@ -5261,7 +5279,7 @@
         "id": "be_x_oldwiki",
         "pageUrl": "//be-tarask.wikipedia.org/wiki/$1",
         "apiUrl": "//be-tarask.wikipedia.org/w/api.php",
-        "languageCode": "be-x-old",
+        "languageCode": "be-tarask",
         "group": "wikipedia"
     },
     "bgwiki": {
@@ -5702,7 +5720,7 @@
         "id": "fiu_vrowiki",
         "pageUrl": "//fiu-vro.wikipedia.org/wiki/$1",
         "apiUrl": "//fiu-vro.wikipedia.org/w/api.php",
-        "languageCode": "fiu-vro",
+        "languageCode": "vro",
         "group": "wikipedia"
     },
     "fjwiki": {
@@ -6971,7 +6989,7 @@
         "id": "roa_rupwiki",
         "pageUrl": "//roa-rup.wikipedia.org/wiki/$1",
         "apiUrl": "//roa-rup.wikipedia.org/w/api.php",
-        "languageCode": "roa-rup",
+        "languageCode": "rup",
         "group": "wikipedia"
     },
     "roa_tarawiki": {
@@ -7619,7 +7637,7 @@
         "id": "zh_classicalwiki",
         "pageUrl": "//zh-classical.wikipedia.org/wiki/$1",
         "apiUrl": "//zh-classical.wikipedia.org/w/api.php",
-        "languageCode": "zh-classical",
+        "languageCode": "lzh",
         "group": "wikipedia"
     },
     "zh_min_nanwiki": {
@@ -7628,7 +7646,7 @@
         "id": "zh_min_nanwiki",
         "pageUrl": "//zh-min-nan.wikipedia.org/wiki/$1",
         "apiUrl": "//zh-min-nan.wikipedia.org/w/api.php",
-        "languageCode": "zh-min-nan",
+        "languageCode": "nan",
         "group": "wikipedia"
     },
     "zh_yuewiki": {
@@ -7637,7 +7655,7 @@
         "id": "zh_yuewiki",
         "pageUrl": "//zh-yue.wikipedia.org/wiki/$1",
         "apiUrl": "//zh-yue.wikipedia.org/w/api.php",
-        "languageCode": "zh-yue",
+        "languageCode": "yue",
         "group": "wikipedia"
     },
     "zuwiki": {
@@ -8151,6 +8169,15 @@
         "pageUrl": "//gpe.wikipedia.org/wiki/$1",
         "apiUrl": "//gpe.wikipedia.org/w/api.php",
         "languageCode": "gpe",
+        "group": "wikipedia"
+    },
+    "tlywiki": {
+        "shortName": "tolışi",
+        "name": "tolışi",
+        "id": "tlywiki",
+        "pageUrl": "//tly.wikipedia.org/wiki/$1",
+        "apiUrl": "//tly.wikipedia.org/w/api.php",
+        "languageCode": "tly",
         "group": "wikipedia"
     }
 }

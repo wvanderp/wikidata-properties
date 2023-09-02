@@ -60,11 +60,6 @@
         "name": "Aghem"
     },
     {
-        "code": "ak",
-        "autonym": "Akan",
-        "name": "Akan"
-    },
-    {
         "code": "aln",
         "autonym": "Gegë",
         "name": "Gheg Albanian"
@@ -72,7 +67,7 @@
     {
         "code": "als",
         "autonym": "Alemannisch",
-        "name": "Swiss German"
+        "name": "Alemannic"
     },
     {
         "code": "alt",
@@ -485,6 +480,26 @@
         "name": "Capiznon"
     },
     {
+        "code": "cpx",
+        "autonym": "莆仙語 / Pó-sing-gṳ̂",
+        "name": "Pu-Xian Min"
+    },
+    {
+        "code": "cpx-hans",
+        "autonym": "莆仙语（简体）",
+        "name": "Pu-Xian Min (Simplified Han script)"
+    },
+    {
+        "code": "cpx-hant",
+        "autonym": "莆仙語（繁體）",
+        "name": "Pu-Xian Min (Traditional Han script)"
+    },
+    {
+        "code": "cpx-latn",
+        "autonym": "Pó-sing-gṳ̂ (Báⁿ-uā-ci̍)",
+        "name": "Pu-Xian Min (Latin script)"
+    },
+    {
         "code": "cr",
         "autonym": "Nēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣ",
         "name": "Cree"
@@ -882,7 +897,7 @@
     {
         "code": "gsw",
         "autonym": "Alemannisch",
-        "name": "Swiss German"
+        "name": "Alemannic"
     },
     {
         "code": "gu",
