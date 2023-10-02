@@ -3325,6 +3325,16 @@
         "name": "Tlingit"
     },
     {
+        "code": "tlh-latn",
+        "autonym": null,
+        "name": "Klingon (Latin script)"
+    },
+    {
+        "code": "tlh-piqd",
+        "autonym": null,
+        "name": "Klingon (Klingon script)"
+    },
+    {
         "code": "tnq",
         "autonym": null,
         "name": "Taíno"

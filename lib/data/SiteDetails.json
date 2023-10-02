@@ -8171,6 +8171,15 @@
         "languageCode": "gpe",
         "group": "wikipedia"
     },
+    "wikifunctionswiki": {
+        "shortName": "wikifunctionswiki",
+        "name": "wikifunctionswiki",
+        "id": "wikifunctionswiki",
+        "pageUrl": "//www.wikifunctions.org/wiki/$1",
+        "apiUrl": "//www.wikifunctions.org/w/api.php",
+        "languageCode": "en",
+        "group": "special"
+    },
     "tlywiki": {
         "shortName": "tolışi",
         "name": "tolışi",
