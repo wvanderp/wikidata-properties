@@ -54,8 +54,8 @@
         "group": "wiktionary"
     },
     "akwikibooks": {
-        "shortName": "ak",
-        "name": "ak",
+        "shortName": "Akan",
+        "name": "Akan",
         "id": "akwikibooks",
         "pageUrl": "//ak.wikibooks.org/wiki/$1",
         "apiUrl": "//ak.wikibooks.org/w/api.php",
@@ -63,8 +63,8 @@
         "group": "wikibooks"
     },
     "akwiktionary": {
-        "shortName": "ak",
-        "name": "ak",
+        "shortName": "Akan",
+        "name": "Akan",
         "id": "akwiktionary",
         "pageUrl": "//ak.wiktionary.org/wiki/$1",
         "apiUrl": "//ak.wiktionary.org/w/api.php",
@@ -5112,8 +5112,8 @@
         "group": "wikipedia"
     },
     "akwiki": {
-        "shortName": "ak",
-        "name": "ak",
+        "shortName": "Akan",
+        "name": "Akan",
         "id": "akwiki",
         "pageUrl": "//ak.wikipedia.org/wiki/$1",
         "apiUrl": "//ak.wikipedia.org/w/api.php",
@@ -8187,6 +8187,15 @@
         "pageUrl": "//tly.wikipedia.org/wiki/$1",
         "apiUrl": "//tly.wikipedia.org/w/api.php",
         "languageCode": "tly",
+        "group": "wikipedia"
+    },
+    "fonwiki": {
+        "shortName": "fɔ̀ngbè",
+        "name": "fɔ̀ngbè",
+        "id": "fonwiki",
+        "pageUrl": "//fon.wikipedia.org/wiki/$1",
+        "apiUrl": "//fon.wikipedia.org/w/api.php",
+        "languageCode": "fon",
         "group": "wikipedia"
     }
 }

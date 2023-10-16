@@ -60,6 +60,11 @@
         "name": "Aghem"
     },
     {
+        "code": "ak",
+        "autonym": "Akan",
+        "name": "Akan"
+    },
+    {
         "code": "aln",
         "autonym": "Gegë",
         "name": "Gheg Albanian"
@@ -512,7 +517,7 @@
     {
         "code": "crh-ro",
         "autonym": "tatarşa",
-        "name": "tatarşa"
+        "name": "Crimean Tatar (Romania)"
     },
     {
         "code": "cs",
@@ -1120,6 +1125,11 @@
         "name": "Kabyle"
     },
     {
+        "code": "kai",
+        "autonym": "Karai-karai",
+        "name": "Karekare"
+    },
+    {
         "code": "kbd",
         "autonym": "адыгэбзэ",
         "name": "Kabardian"
@@ -1548,6 +1558,21 @@
         "code": "mn",
         "autonym": "монгол",
         "name": "Mongolian"
+    },
+    {
+        "code": "mnc",
+        "autonym": "ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ",
+        "name": "Manchu"
+    },
+    {
+        "code": "mnc-latn",
+        "autonym": "manju gisun",
+        "name": "Manchu (Latin script)"
+    },
+    {
+        "code": "mnc-mong",
+        "autonym": "ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ",
+        "name": "Manchu (Mongolian script)"
     },
     {
         "code": "mni",
@@ -2272,12 +2297,12 @@
     {
         "code": "sr-ec",
         "autonym": "српски (ћирилица)",
-        "name": "Serbian (Cyrillic script)"
+        "name": "српски (ћирилица)"
     },
     {
         "code": "sr-el",
         "autonym": "srpski (latinica)",
-        "name": "Serbian (Latin script)"
+        "name": "srpski (latinica)"
     },
     {
         "code": "srn",
@@ -3098,11 +3123,6 @@
         "code": "mid",
         "autonym": null,
         "name": "Mandaic"
-    },
-    {
-        "code": "mnc",
-        "autonym": null,
-        "name": "Manchu"
     },
     {
         "code": "moe",
