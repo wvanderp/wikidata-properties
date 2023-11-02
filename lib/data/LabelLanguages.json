@@ -2342,12 +2342,12 @@
     {
         "code": "sr-ec",
         "autonym": "српски (ћирилица)",
-        "name": "српски (ћирилица)"
+        "name": "Serbian (Cyrillic script)"
     },
     {
         "code": "sr-el",
         "autonym": "srpski (latinica)",
-        "name": "srpski (latinica)"
+        "name": "Serbian (Latin script)"
     },
     {
         "code": "srn",
