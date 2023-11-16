@@ -485,6 +485,15 @@
         "languageCode": "bi",
         "group": "wiktionary"
     },
+    "bjnwikiquote": {
+        "shortName": "Banjar",
+        "name": "Banjar",
+        "id": "bjnwikiquote",
+        "pageUrl": "//bjn.wikiquote.org/wiki/$1",
+        "apiUrl": "//bjn.wikiquote.org/w/api.php",
+        "languageCode": "bjn",
+        "group": "wikiquote"
+    },
     "bjnwiktionary": {
         "shortName": "Banjar",
         "name": "Banjar",
@@ -8196,6 +8205,33 @@
         "pageUrl": "//fon.wikipedia.org/wiki/$1",
         "apiUrl": "//fon.wikipedia.org/w/api.php",
         "languageCode": "fon",
+        "group": "wikipedia"
+    },
+    "bbcwiki": {
+        "shortName": "Batak Toba",
+        "name": "Batak Toba",
+        "id": "bbcwiki",
+        "pageUrl": "//bbc.wikipedia.org/wiki/$1",
+        "apiUrl": "//bbc.wikipedia.org/w/api.php",
+        "languageCode": "bbc",
+        "group": "wikipedia"
+    },
+    "dgawiki": {
+        "shortName": "Dagaare",
+        "name": "Dagaare",
+        "id": "dgawiki",
+        "pageUrl": "//dga.wikipedia.org/wiki/$1",
+        "apiUrl": "//dga.wikipedia.org/w/api.php",
+        "languageCode": "dga",
+        "group": "wikipedia"
+    },
+    "zghwiki": {
+        "shortName": "ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ",
+        "name": "ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ",
+        "id": "zghwiki",
+        "pageUrl": "//zgh.wikipedia.org/wiki/$1",
+        "apiUrl": "//zgh.wikipedia.org/w/api.php",
+        "languageCode": "zgh",
         "group": "wikipedia"
     }
 }
