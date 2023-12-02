@@ -635,6 +635,11 @@
         "name": "Ewe"
     },
     {
+        "code": "efi",
+        "autonym": "Efịk",
+        "name": "Efik"
+    },
+    {
         "code": "egl",
         "autonym": "emiliàn e rumagnòl",
         "name": "Emiliano-Romagnolo"
@@ -1193,6 +1198,11 @@
         "code": "kg",
         "autonym": "Kongo",
         "name": "Kongo"
+    },
+    {
+        "code": "kge",
+        "autonym": "Basa Kumoring",
+        "name": "Komering"
     },
     {
         "code": "khw",
