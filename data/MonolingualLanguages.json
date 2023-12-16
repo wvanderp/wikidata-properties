@@ -2070,6 +2070,11 @@
         "name": "Megleno-Romanian (Latin script)"
     },
     {
+        "code": "rut",
+        "autonym": "мыхаӀбишды",
+        "name": "мыхаӀбишды"
+    },
+    {
         "code": "rw",
         "autonym": "Ikinyarwanda",
         "name": "Kinyarwanda"
@@ -2830,603 +2835,2048 @@
         "name": "Zulu"
     },
     {
-        "code": "und",
-        "autonym": null,
-        "name": "undetermined language"
-    },
-    {
-        "code": "mis",
-        "autonym": null,
-        "name": "unsupported language"
-    },
-    {
-        "code": "mul",
-        "autonym": null,
-        "name": "multiple languages"
-    },
-    {
-        "code": "zxx",
-        "autonym": null,
-        "name": "no linguistic content"
-    },
-    {
         "code": "abe",
-        "autonym": null,
+        "autonym": "abe",
         "name": "Western Abenaki"
     },
     {
         "code": "abq",
-        "autonym": null,
+        "autonym": "abq",
         "name": "Abaza"
     },
     {
         "code": "abq-latn",
-        "autonym": null,
+        "autonym": "abq-latn",
         "name": "Abaza"
     },
     {
+        "code": "ach",
+        "autonym": "ach",
+        "name": "Acoli"
+    },
+    {
+        "code": "ada",
+        "autonym": "ada",
+        "name": "Adangme"
+    },
+    {
+        "code": "ae",
+        "autonym": "ae",
+        "name": "Avestan"
+    },
+    {
         "code": "aec",
-        "autonym": null,
+        "autonym": "aec",
         "name": "Saʽidi Arabic"
     },
     {
+        "code": "afh",
+        "autonym": "afh",
+        "name": "Afrihili"
+    },
+    {
+        "code": "ain",
+        "autonym": "ain",
+        "name": "Ainu"
+    },
+    {
+        "code": "akk",
+        "autonym": "akk",
+        "name": "Akkadian"
+    },
+    {
+        "code": "akz",
+        "autonym": "akz",
+        "name": "Alabama"
+    },
+    {
         "code": "alc",
-        "autonym": null,
+        "autonym": "alc",
         "name": "Kawésqar"
     },
     {
+        "code": "ale",
+        "autonym": "ale",
+        "name": "Aleut"
+    },
+    {
         "code": "alq",
-        "autonym": null,
+        "autonym": "alq",
         "name": "Algonquin"
     },
     {
         "code": "apc",
-        "autonym": null,
+        "autonym": "apc",
         "name": "Levantine Arabic"
     },
     {
+        "code": "ar-001",
+        "autonym": "ar-001",
+        "name": "Modern Standard Arabic"
+    },
+    {
+        "code": "aro",
+        "autonym": "aro",
+        "name": "Araona"
+    },
+    {
+        "code": "arp",
+        "autonym": "arp",
+        "name": "Arapaho"
+    },
+    {
+        "code": "ars",
+        "autonym": "ars",
+        "name": "Najdi Arabic"
+    },
+    {
+        "code": "arw",
+        "autonym": "arw",
+        "name": "Arawak"
+    },
+    {
+        "code": "asa",
+        "autonym": "asa",
+        "name": "Asu"
+    },
+    {
+        "code": "az-cyrl",
+        "autonym": "az-cyrl",
+        "name": "Azerbaijani (Cyrillic script)"
+    },
+    {
+        "code": "bal",
+        "autonym": "bal",
+        "name": "Baluchi"
+    },
+    {
+        "code": "bej",
+        "autonym": "bej",
+        "name": "Beja"
+    },
+    {
+        "code": "bem",
+        "autonym": "bem",
+        "name": "Bemba"
+    },
+    {
+        "code": "bez",
+        "autonym": "bez",
+        "name": "Bena"
+    },
+    {
+        "code": "bfi",
+        "autonym": "bfi",
+        "name": "British Sign Language"
+    },
+    {
+        "code": "bfq",
+        "autonym": "bfq",
+        "name": "Badaga"
+    },
+    {
+        "code": "bgc",
+        "autonym": "bgc",
+        "name": "Haryanvi"
+    },
+    {
+        "code": "bgp",
+        "autonym": "bgp",
+        "name": "Eastern Balochi"
+    },
+    {
+        "code": "bik",
+        "autonym": "bik",
+        "name": "Bikol"
+    },
+    {
+        "code": "bin",
+        "autonym": "bin",
+        "name": "Bini"
+    },
+    {
+        "code": "bla",
+        "autonym": "bla",
+        "name": "Siksiká"
+    },
+    {
+        "code": "blt",
+        "autonym": "blt",
+        "name": "Tai Dam"
+    },
+    {
         "code": "bnn",
-        "autonym": null,
+        "autonym": "bnn",
         "name": "Bunun"
     },
     {
+        "code": "bra",
+        "autonym": "bra",
+        "name": "Braj"
+    },
+    {
         "code": "brx",
-        "autonym": null,
+        "autonym": "brx",
         "name": "Bodo"
     },
     {
+        "code": "bss",
+        "autonym": "bss",
+        "name": "Akoose"
+    },
+    {
+        "code": "bua",
+        "autonym": "bua",
+        "name": "Buriat"
+    },
+    {
+        "code": "bum",
+        "autonym": "bum",
+        "name": "Bulu"
+    },
+    {
+        "code": "byn",
+        "autonym": "byn",
+        "name": "Blin"
+    },
+    {
         "code": "bzs",
-        "autonym": null,
+        "autonym": "bzs",
         "name": "Brazilian Sign Language"
     },
     {
+        "code": "cad",
+        "autonym": "cad",
+        "name": "Caddo"
+    },
+    {
+        "code": "car",
+        "autonym": "car",
+        "name": "Carib"
+    },
+    {
+        "code": "cay",
+        "autonym": "cay",
+        "name": "Cayuga"
+    },
+    {
+        "code": "cch",
+        "autonym": "cch",
+        "name": "Atsam"
+    },
+    {
         "code": "ccp",
-        "autonym": null,
+        "autonym": "ccp",
         "name": "Chakma"
     },
     {
+        "code": "ccp-beng",
+        "autonym": "ccp-beng",
+        "name": "Chakma (Bengali script)"
+    },
+    {
         "code": "cdo-hani",
-        "autonym": null,
+        "autonym": "cdo-hani",
         "name": "Min Dong Chinese (Hanji)"
     },
     {
+        "code": "cgg",
+        "autonym": "cgg",
+        "name": "Chiga"
+    },
+    {
+        "code": "chb",
+        "autonym": "chb",
+        "name": "Chibcha"
+    },
+    {
+        "code": "chg",
+        "autonym": "chg",
+        "name": "Chagatai"
+    },
+    {
+        "code": "chk",
+        "autonym": "chk",
+        "name": "Chuukese"
+    },
+    {
+        "code": "chm",
+        "autonym": "chm",
+        "name": "Mari"
+    },
+    {
         "code": "chn",
-        "autonym": null,
+        "autonym": "chn",
         "name": "Chinook Jargon"
     },
     {
+        "code": "chp",
+        "autonym": "chp",
+        "name": "Chipewyan"
+    },
+    {
+        "code": "cic",
+        "autonym": "cic",
+        "name": "Chickasaw"
+    },
+    {
+        "code": "cja",
+        "autonym": "cja",
+        "name": "Western Cham"
+    },
+    {
+        "code": "cja-arab",
+        "autonym": "cja-arab",
+        "name": "Western Cham (Arabic script)"
+    },
+    {
+        "code": "cja-cham",
+        "autonym": "cja-cham",
+        "name": "Western Cham (Cham script)"
+    },
+    {
+        "code": "cja-latn",
+        "autonym": "cja-latn",
+        "name": "Western Cham (Latin script)"
+    },
+    {
+        "code": "cjm",
+        "autonym": "cjm",
+        "name": "Eastern Cham"
+    },
+    {
+        "code": "cjm-arab",
+        "autonym": "cjm-arab",
+        "name": "Eastern Cham (Arabic script)"
+    },
+    {
+        "code": "cjm-cham",
+        "autonym": "cjm-cham",
+        "name": "Eastern Cham (Cham script)"
+    },
+    {
+        "code": "cjm-latn",
+        "autonym": "cjm-latn",
+        "name": "Eastern Cham (Latin script)"
+    },
+    {
+        "code": "cjy",
+        "autonym": "cjy",
+        "name": "Jinyu"
+    },
+    {
+        "code": "cjy-hans",
+        "autonym": "cjy-hans",
+        "name": "Jinyu (Simplified)"
+    },
+    {
+        "code": "cjy-hant",
+        "autonym": "cjy-hant",
+        "name": "Jinyu (Traditional)"
+    },
+    {
         "code": "ckt",
-        "autonym": null,
+        "autonym": "ckt",
         "name": "Chukchi"
     },
     {
         "code": "clc",
-        "autonym": null,
+        "autonym": "clc",
         "name": "Chilcotin"
     },
     {
         "code": "cmg",
-        "autonym": null,
+        "autonym": "cmg",
         "name": "Classical Mongolian"
     },
     {
         "code": "cnr",
-        "autonym": null,
+        "autonym": "cnr",
         "name": "Montenegrin"
     },
     {
         "code": "cop",
-        "autonym": null,
+        "autonym": "cop",
         "name": "Coptic"
     },
     {
         "code": "crb",
-        "autonym": null,
+        "autonym": "crb",
         "name": "Island Carib"
     },
     {
+        "code": "crg",
+        "autonym": "crg",
+        "name": "Michif"
+    },
+    {
+        "code": "crj",
+        "autonym": "crj",
+        "name": "Southern East Cree"
+    },
+    {
+        "code": "crk",
+        "autonym": "crk",
+        "name": "Plains Cree"
+    },
+    {
         "code": "crl",
-        "autonym": null,
+        "autonym": "crl",
         "name": "Northern East Cree"
     },
     {
+        "code": "crm",
+        "autonym": "crm",
+        "name": "Moose Cree"
+    },
+    {
+        "code": "crr",
+        "autonym": "crr",
+        "name": "Carolina Algonquian"
+    },
+    {
+        "code": "crs",
+        "autonym": "crs",
+        "name": "Seselwa Creole French"
+    },
+    {
+        "code": "csw",
+        "autonym": "csw",
+        "name": "Swampy Cree"
+    },
+    {
+        "code": "ctg",
+        "autonym": "ctg",
+        "name": "Chittagonian"
+    },
+    {
+        "code": "cwd",
+        "autonym": "cwd",
+        "name": "Woods Cree"
+    },
+    {
+        "code": "dak",
+        "autonym": "dak",
+        "name": "Dakota"
+    },
+    {
+        "code": "dar",
+        "autonym": "dar",
+        "name": "Dargwa"
+    },
+    {
+        "code": "dav",
+        "autonym": "dav",
+        "name": "Taita"
+    },
+    {
+        "code": "de-1901",
+        "autonym": "de-1901",
+        "name": "German (traditional orthography)"
+    },
+    {
+        "code": "del",
+        "autonym": "del",
+        "name": "Delaware"
+    },
+    {
+        "code": "den",
+        "autonym": "den",
+        "name": "Slave"
+    },
+    {
+        "code": "dgr",
+        "autonym": "dgr",
+        "name": "Dogrib"
+    },
+    {
+        "code": "dje",
+        "autonym": "dje",
+        "name": "Zarma"
+    },
+    {
+        "code": "doi",
+        "autonym": "doi",
+        "name": "Dogri"
+    },
+    {
         "code": "dru",
-        "autonym": null,
+        "autonym": "dru",
         "name": "Rukai"
     },
     {
+        "code": "dum",
+        "autonym": "dum",
+        "name": "Middle Dutch"
+    },
+    {
+        "code": "dyo",
+        "autonym": "dyo",
+        "name": "Jola-Fonyi"
+    },
+    {
+        "code": "dyu",
+        "autonym": "dyu",
+        "name": "Dyula"
+    },
+    {
+        "code": "dzg",
+        "autonym": "dzg",
+        "name": "Dazaga"
+    },
+    {
+        "code": "ebu",
+        "autonym": "ebu",
+        "name": "Embu"
+    },
+    {
+        "code": "egy",
+        "autonym": "egy",
+        "name": "Ancient Egyptian"
+    },
+    {
+        "code": "eka",
+        "autonym": "eka",
+        "name": "Ekajuk"
+    },
+    {
         "code": "el-cy",
-        "autonym": null,
+        "autonym": "el-cy",
         "name": "Cypriot Greek"
     },
     {
+        "code": "elx",
+        "autonym": "elx",
+        "name": "Elamite"
+    },
+    {
         "code": "en-au",
-        "autonym": null,
+        "autonym": "en-au",
         "name": "Australian English"
     },
     {
         "code": "en-in",
-        "autonym": null,
+        "autonym": "en-in",
         "name": "Indian English"
     },
     {
         "code": "enm",
-        "autonym": null,
+        "autonym": "enm",
         "name": "Middle English"
     },
     {
+        "code": "eo-hsistemo",
+        "autonym": "eo-hsistemo",
+        "name": "Esperanto (h-system orthography)"
+    },
+    {
+        "code": "eo-xsistemo",
+        "autonym": "eo-xsistemo",
+        "name": "Esperanto (x-system orthography)"
+    },
+    {
+        "code": "es-es",
+        "autonym": "es-es",
+        "name": "European Spanish"
+    },
+    {
+        "code": "es-mx",
+        "autonym": "es-mx",
+        "name": "Mexican Spanish"
+    },
+    {
+        "code": "esu",
+        "autonym": "esu",
+        "name": "Central Yupik"
+    },
+    {
         "code": "ett",
-        "autonym": null,
+        "autonym": "ett",
         "name": "Etruscian"
     },
     {
         "code": "eya",
-        "autonym": null,
+        "autonym": "eya",
         "name": "Eyak"
     },
     {
+        "code": "fa-af",
+        "autonym": "fa-af",
+        "name": "Dari"
+    },
+    {
+        "code": "fan",
+        "autonym": "fan",
+        "name": "Fang"
+    },
+    {
+        "code": "fil",
+        "autonym": "fil",
+        "name": "Filipino"
+    },
+    {
         "code": "fos",
-        "autonym": null,
+        "autonym": "fos",
         "name": "Siraya"
     },
     {
         "code": "fr-ca",
-        "autonym": null,
+        "autonym": "fr-ca",
         "name": "Canadian French"
     },
     {
+        "code": "fr-ch",
+        "autonym": "fr-ch",
+        "name": "Swiss French"
+    },
+    {
         "code": "frm",
-        "autonym": null,
+        "autonym": "frm",
         "name": "Middle French"
     },
     {
         "code": "fro",
-        "autonym": null,
+        "autonym": "fro",
         "name": "Old French"
     },
     {
+        "code": "frs",
+        "autonym": "frs",
+        "name": "Eastern Frisian"
+    },
+    {
         "code": "fud",
-        "autonym": null,
+        "autonym": "fud",
         "name": "Futunan"
     },
     {
         "code": "fuf",
-        "autonym": null,
+        "autonym": "fuf",
         "name": "Pular"
     },
     {
+        "code": "gay",
+        "autonym": "gay",
+        "name": "Gayo"
+    },
+    {
+        "code": "gba",
+        "autonym": "gba",
+        "name": "Gbaya"
+    },
+    {
+        "code": "gbz",
+        "autonym": "gbz",
+        "name": "Zoroastrian Dari"
+    },
+    {
         "code": "gez",
-        "autonym": null,
+        "autonym": "gez",
         "name": "Geez"
     },
     {
         "code": "gil",
-        "autonym": null,
+        "autonym": "gil",
         "name": "Gilbertese"
     },
     {
         "code": "gmh",
-        "autonym": null,
+        "autonym": "gmh",
         "name": "Middle High German"
     },
     {
         "code": "gml",
-        "autonym": null,
+        "autonym": "gml",
         "name": "Middle Low German"
     },
     {
         "code": "gmy",
-        "autonym": null,
+        "autonym": "gmy",
         "name": "Mycenaean Greek"
     },
     {
+        "code": "goh",
+        "autonym": "goh",
+        "name": "Old High German"
+    },
+    {
+        "code": "gon",
+        "autonym": "gon",
+        "name": "Gondi"
+    },
+    {
+        "code": "grb",
+        "autonym": "grb",
+        "name": "Grebo"
+    },
+    {
+        "code": "gsg",
+        "autonym": "gsg",
+        "name": "German Sign Language"
+    },
+    {
         "code": "gsw-fr",
-        "autonym": null,
+        "autonym": "gsw-fr",
         "name": "Alsatian"
     },
     {
+        "code": "guz",
+        "autonym": "guz",
+        "name": "Gusii"
+    },
+    {
+        "code": "gwi",
+        "autonym": "gwi",
+        "name": "Gwichʼin"
+    },
+    {
+        "code": "ha-arab",
+        "autonym": "ha-arab",
+        "name": "Hausa (Arabic script)"
+    },
+    {
         "code": "hai",
-        "autonym": null,
+        "autonym": "hai",
         "name": "Haida"
     },
     {
         "code": "hak-hans",
-        "autonym": null,
+        "autonym": "hak-hans",
         "name": "Hakka (Simplified)"
     },
     {
         "code": "hak-hant",
-        "autonym": null,
+        "autonym": "hak-hant",
         "name": "Hakka (Traditional)"
     },
     {
+        "code": "hax",
+        "autonym": "hax",
+        "name": "Southern Haida"
+    },
+    {
         "code": "haz",
-        "autonym": null,
+        "autonym": "haz",
         "name": "Hazaragi"
     },
     {
         "code": "hbo",
-        "autonym": null,
+        "autonym": "hbo",
         "name": "Biblical Hebrew"
     },
     {
+        "code": "hdn",
+        "autonym": "hdn",
+        "name": "Northern Haida"
+    },
+    {
+        "code": "hi-latn",
+        "autonym": "hi-latn",
+        "name": "Hindi (Latin)"
+    },
+    {
+        "code": "hit",
+        "autonym": "hit",
+        "name": "Hittite"
+    },
+    {
+        "code": "hmn",
+        "autonym": "hmn",
+        "name": "Hmong"
+    },
+    {
+        "code": "hnj",
+        "autonym": "hnj",
+        "name": "Hmong Njua"
+    },
+    {
+        "code": "hoc",
+        "autonym": "hoc",
+        "name": "Ho"
+    },
+    {
+        "code": "hts",
+        "autonym": "hts",
+        "name": "Hadza"
+    },
+    {
+        "code": "hup",
+        "autonym": "hup",
+        "name": "Hupa"
+    },
+    {
+        "code": "hur",
+        "autonym": "hur",
+        "name": "Halkomelem"
+    },
+    {
+        "code": "iba",
+        "autonym": "iba",
+        "name": "Iban"
+    },
+    {
+        "code": "ibb",
+        "autonym": "ibb",
+        "name": "Ibibio"
+    },
+    {
+        "code": "ike",
+        "autonym": "ike",
+        "name": "Eastern Canadian Inuktitut"
+    },
+    {
+        "code": "ikt",
+        "autonym": "ikt",
+        "name": "Western Canadian Inuktitut"
+    },
+    {
+        "code": "izh",
+        "autonym": "izh",
+        "name": "Ingrian"
+    },
+    {
         "code": "ja-hani",
-        "autonym": null,
+        "autonym": "ja-hani",
         "name": "Japanese (Kanji script)"
     },
     {
         "code": "ja-hira",
-        "autonym": null,
+        "autonym": "ja-hira",
         "name": "Japanese (Hiragana script)"
     },
     {
         "code": "ja-hrkt",
-        "autonym": null,
+        "autonym": "ja-hrkt",
         "name": "Japanese (Kana script)"
     },
     {
         "code": "ja-kana",
-        "autonym": null,
+        "autonym": "ja-kana",
         "name": "Japanese (Katakana script)"
     },
     {
+        "code": "jgo",
+        "autonym": "jgo",
+        "name": "Ngomba"
+    },
+    {
+        "code": "jmc",
+        "autonym": "jmc",
+        "name": "Machame"
+    },
+    {
+        "code": "jpr",
+        "autonym": "jpr",
+        "name": "Judeo-Persian"
+    },
+    {
+        "code": "jrb",
+        "autonym": "jrb",
+        "name": "Judeo-Arabic"
+    },
+    {
+        "code": "kac",
+        "autonym": "kac",
+        "name": "Kachin"
+    },
+    {
+        "code": "kaj",
+        "autonym": "kaj",
+        "name": "Jju"
+    },
+    {
+        "code": "kam",
+        "autonym": "kam",
+        "name": "Kamba"
+    },
+    {
+        "code": "kaw",
+        "autonym": "kaw",
+        "name": "Kawi"
+    },
+    {
+        "code": "kbl",
+        "autonym": "kbl",
+        "name": "Kanembu"
+    },
+    {
+        "code": "kde",
+        "autonym": "kde",
+        "name": "Makonde"
+    },
+    {
+        "code": "ken",
+        "autonym": "ken",
+        "name": "Kenyang"
+    },
+    {
+        "code": "kfo",
+        "autonym": "kfo",
+        "name": "Koro"
+    },
+    {
+        "code": "kgp",
+        "autonym": "kgp",
+        "name": "Kaingang"
+    },
+    {
+        "code": "kha",
+        "autonym": "kha",
+        "name": "Khasi"
+    },
+    {
+        "code": "kho",
+        "autonym": "kho",
+        "name": "Khotanese"
+    },
+    {
+        "code": "khq",
+        "autonym": "khq",
+        "name": "Koyra Chiini"
+    },
+    {
+        "code": "kkj",
+        "autonym": "kkj",
+        "name": "Kako"
+    },
+    {
         "code": "kld",
-        "autonym": null,
+        "autonym": "kld",
         "name": "Gamilaraay"
     },
     {
+        "code": "kln",
+        "autonym": "kln",
+        "name": "Kalenjin"
+    },
+    {
+        "code": "kmb",
+        "autonym": "kmb",
+        "name": "Kimbundu"
+    },
+    {
+        "code": "knn",
+        "autonym": "knn",
+        "name": "Maharashtrian Konkani"
+    },
+    {
+        "code": "kok",
+        "autonym": "kok",
+        "name": "Konkani"
+    },
+    {
+        "code": "kos",
+        "autonym": "kos",
+        "name": "Kosraean"
+    },
+    {
         "code": "koy",
-        "autonym": null,
+        "autonym": "koy",
         "name": "Koyukon"
     },
     {
+        "code": "kpe",
+        "autonym": "kpe",
+        "name": "Kpelle"
+    },
+    {
+        "code": "kru",
+        "autonym": "kru",
+        "name": "Kurukh"
+    },
+    {
+        "code": "ksb",
+        "autonym": "ksb",
+        "name": "Shambala"
+    },
+    {
+        "code": "kut",
+        "autonym": "kut",
+        "name": "Kutenai"
+    },
+    {
+        "code": "kwk",
+        "autonym": "kwk",
+        "name": "Kwakʼwala"
+    },
+    {
+        "code": "lad-hebr",
+        "autonym": "lad-hebr",
+        "name": "Ladino (Hebrew script)"
+    },
+    {
         "code": "lag",
-        "autonym": null,
+        "autonym": "lag",
         "name": "Langi"
     },
     {
+        "code": "lah",
+        "autonym": "lah",
+        "name": "Western Panjabi"
+    },
+    {
+        "code": "lam",
+        "autonym": "lam",
+        "name": "Lamba"
+    },
+    {
         "code": "lcm",
-        "autonym": null,
+        "autonym": "lcm",
         "name": "Tungag"
     },
     {
         "code": "lij-mc",
-        "autonym": null,
+        "autonym": "lij-mc",
         "name": "Monégasque"
     },
     {
+        "code": "lil",
+        "autonym": "lil",
+        "name": "Lillooet"
+    },
+    {
         "code": "lkt",
-        "autonym": null,
+        "autonym": "lkt",
         "name": "Lakota"
     },
     {
+        "code": "lol",
+        "autonym": "lol",
+        "name": "Mongo"
+    },
+    {
+        "code": "lou",
+        "autonym": "lou",
+        "name": "Louisiana Creole"
+    },
+    {
+        "code": "lsm",
+        "autonym": "lsm",
+        "name": "Saamia"
+    },
+    {
+        "code": "lu",
+        "autonym": "lu",
+        "name": "Luba-Katanga"
+    },
+    {
+        "code": "lua",
+        "autonym": "lua",
+        "name": "Luba-Lulua"
+    },
+    {
+        "code": "lui",
+        "autonym": "lui",
+        "name": "Luiseno"
+    },
+    {
+        "code": "lun",
+        "autonym": "lun",
+        "name": "Lunda"
+    },
+    {
+        "code": "luo",
+        "autonym": "luo",
+        "name": "Luo"
+    },
+    {
+        "code": "luy",
+        "autonym": "luy",
+        "name": "Luyia"
+    },
+    {
+        "code": "maf",
+        "autonym": "maf",
+        "name": "Mafa"
+    },
+    {
+        "code": "mak",
+        "autonym": "mak",
+        "name": "Makasar"
+    },
+    {
+        "code": "man",
+        "autonym": "man",
+        "name": "Mandingo"
+    },
+    {
+        "code": "mas",
+        "autonym": "mas",
+        "name": "Masai"
+    },
+    {
+        "code": "mde",
+        "autonym": "mde",
+        "name": "Maba"
+    },
+    {
+        "code": "mdr",
+        "autonym": "mdr",
+        "name": "Mandar"
+    },
+    {
+        "code": "men",
+        "autonym": "men",
+        "name": "Mende"
+    },
+    {
+        "code": "mer",
+        "autonym": "mer",
+        "name": "Meru"
+    },
+    {
         "code": "mfa",
-        "autonym": null,
+        "autonym": "mfa",
         "name": "Kelantan-Pattani Malay"
     },
     {
+        "code": "mfe",
+        "autonym": "mfe",
+        "name": "Morisyen"
+    },
+    {
+        "code": "mga",
+        "autonym": "mga",
+        "name": "Middle Irish"
+    },
+    {
+        "code": "mgh",
+        "autonym": "mgh",
+        "name": "Makhuwa-Meetto"
+    },
+    {
+        "code": "mgo",
+        "autonym": "mgo",
+        "name": "Metaʼ"
+    },
+    {
         "code": "mic",
-        "autonym": null,
+        "autonym": "mic",
         "name": "Mi'kmaq"
     },
     {
         "code": "mid",
-        "autonym": null,
+        "autonym": "mid",
         "name": "Mandaic"
     },
     {
+        "code": "mis",
+        "autonym": "mis",
+        "name": "unsupported language"
+    },
+    {
+        "code": "mix",
+        "autonym": "mix",
+        "name": "Mixtec"
+    },
+    {
         "code": "moe",
-        "autonym": null,
+        "autonym": "moe",
         "name": "Innu-aimun"
     },
     {
+        "code": "moh",
+        "autonym": "moh",
+        "name": "Mohawk"
+    },
+    {
+        "code": "mui",
+        "autonym": "mui",
+        "name": "Musi"
+    },
+    {
+        "code": "mul",
+        "autonym": "mul",
+        "name": "multiple languages"
+    },
+    {
+        "code": "mvf",
+        "autonym": "mvf",
+        "name": "Peripheral Mongolian"
+    },
+    {
+        "code": "mwr",
+        "autonym": "mwr",
+        "name": "Marwari"
+    },
+    {
+        "code": "mwv",
+        "autonym": "mwv",
+        "name": "Mentawai"
+    },
+    {
+        "code": "mye",
+        "autonym": "mye",
+        "name": "Myene"
+    },
+    {
+        "code": "naq",
+        "autonym": "naq",
+        "name": "Nama"
+    },
+    {
+        "code": "nd",
+        "autonym": "nd",
+        "name": "North Ndebele"
+    },
+    {
+        "code": "njo",
+        "autonym": "njo",
+        "name": "Ao Naga"
+    },
+    {
+        "code": "nl-be",
+        "autonym": "nl-be",
+        "name": "Flemish"
+    },
+    {
+        "code": "nn-hognorsk",
+        "autonym": "nn-hognorsk",
+        "name": "Norwegian Høgnorsk"
+    },
+    {
         "code": "non",
-        "autonym": null,
+        "autonym": "non",
         "name": "Old Norse"
     },
     {
         "code": "non-runr",
-        "autonym": null,
+        "autonym": "non-runr",
         "name": "Old Norse (Runic script)"
     },
     {
         "code": "nr",
-        "autonym": null,
+        "autonym": "nr",
         "name": "South Ndebele"
     },
     {
         "code": "nrf-gg",
-        "autonym": null,
+        "autonym": "nrf-gg",
         "name": "Guernésiais"
     },
     {
         "code": "nrf-je",
-        "autonym": null,
+        "autonym": "nrf-je",
         "name": "Jèrriais"
     },
     {
         "code": "nsk",
-        "autonym": null,
+        "autonym": "nsk",
         "name": "Naskapi"
     },
     {
+        "code": "nus",
+        "autonym": "nus",
+        "name": "Nuer"
+    },
+    {
+        "code": "nwc",
+        "autonym": "nwc",
+        "name": "Classical Newari"
+    },
+    {
         "code": "nxm",
-        "autonym": null,
+        "autonym": "nxm",
         "name": "Numidian"
     },
     {
+        "code": "nym",
+        "autonym": "nym",
+        "name": "Nyamwezi"
+    },
+    {
+        "code": "nyo",
+        "autonym": "nyo",
+        "name": "Nyoro"
+    },
+    {
+        "code": "nzi",
+        "autonym": "nzi",
+        "name": "Nzima"
+    },
+    {
         "code": "obt",
-        "autonym": null,
+        "autonym": "obt",
         "name": "Old Breton"
     },
     {
         "code": "oj",
-        "autonym": null,
+        "autonym": "oj",
         "name": "Ojibwa"
     },
     {
+        "code": "ojc",
+        "autonym": "ojc",
+        "name": "Central Ojibwa"
+    },
+    {
+        "code": "ojg",
+        "autonym": "ojg",
+        "name": "Eastern Ojibwa"
+    },
+    {
         "code": "ojp",
-        "autonym": null,
+        "autonym": "ojp",
         "name": "Old Japanese"
     },
     {
         "code": "ojp-hani",
-        "autonym": null,
+        "autonym": "ojp-hani",
         "name": "Old Japanese (Kanji script)"
     },
     {
         "code": "ojp-hira",
-        "autonym": null,
+        "autonym": "ojp-hira",
         "name": "Old Japanese (Hiragana script)"
     },
     {
+        "code": "ojs",
+        "autonym": "ojs",
+        "name": "Oji-Cree"
+    },
+    {
+        "code": "ojw",
+        "autonym": "ojw",
+        "name": "Western Ojibwa"
+    },
+    {
+        "code": "oka",
+        "autonym": "oka",
+        "name": "Okanagan"
+    },
+    {
         "code": "oma",
-        "autonym": null,
+        "autonym": "oma",
         "name": "Omaha-Ponca"
     },
     {
         "code": "ood",
-        "autonym": null,
+        "autonym": "ood",
         "name": "O'odham"
     },
     {
+        "code": "osa",
+        "autonym": "osa",
+        "name": "Osage"
+    },
+    {
         "code": "otk",
-        "autonym": null,
+        "autonym": "otk",
         "name": "Old Turkish"
     },
     {
+        "code": "pal",
+        "autonym": "pal",
+        "name": "Pahlavi"
+    },
+    {
+        "code": "pau",
+        "autonym": "pau",
+        "name": "Palauan"
+    },
+    {
         "code": "peo",
-        "autonym": null,
+        "autonym": "peo",
         "name": "Old Persian"
     },
     {
+        "code": "phn",
+        "autonym": "phn",
+        "name": "Phoenician"
+    },
+    {
         "code": "phn-latn",
-        "autonym": null,
+        "autonym": "phn-latn",
         "name": "Phoenician (Latin script)"
     },
     {
         "code": "phn-phnx",
-        "autonym": null,
+        "autonym": "phn-phnx",
         "name": "Phoenician (Phoenician script)"
     },
     {
         "code": "pi-sidd",
-        "autonym": null,
+        "autonym": "pi-sidd",
         "name": "Pali (Siddham script)"
     },
     {
+        "code": "pis",
+        "autonym": "pis",
+        "name": "Pijin"
+    },
+    {
         "code": "pjt",
-        "autonym": null,
+        "autonym": "pjt",
         "name": "Pitjantjatjara"
     },
     {
+        "code": "pks",
+        "autonym": "pks",
+        "name": "Pakistan Sign Language"
+    },
+    {
+        "code": "pon",
+        "autonym": "pon",
+        "name": "Pohnpeian"
+    },
+    {
         "code": "ppu",
-        "autonym": null,
+        "autonym": "ppu",
         "name": "Papora-Hoanya"
     },
     {
         "code": "pqm",
-        "autonym": null,
+        "autonym": "pqm",
         "name": "Maliseet-Passamaquoddy"
     },
     {
+        "code": "pro",
+        "autonym": "pro",
+        "name": "Old Provençal"
+    },
+    {
+        "code": "prs",
+        "autonym": "prs",
+        "name": "Dari"
+    },
+    {
+        "code": "pt-ao1990",
+        "autonym": "pt-ao1990",
+        "name": "Portuguese (1990 Orthographic Agreement)"
+    },
+    {
+        "code": "pt-colb1945",
+        "autonym": "pt-colb1945",
+        "name": "Portuguese (1945 Orthographic Agreement)"
+    },
+    {
+        "code": "pt-pt",
+        "autonym": "pt-pt",
+        "name": "European Portuguese"
+    },
+    {
         "code": "pyu",
-        "autonym": null,
+        "autonym": "pyu",
         "name": "Puyuma"
     },
     {
+        "code": "qqq",
+        "autonym": "qqq",
+        "name": "Message documentation"
+    },
+    {
         "code": "qya",
-        "autonym": null,
+        "autonym": "qya",
         "name": "Quenya"
     },
     {
         "code": "rah",
-        "autonym": null,
+        "autonym": "rah",
         "name": "Rabha"
     },
     {
+        "code": "raj",
+        "autonym": "raj",
+        "name": "Rajasthani"
+    },
+    {
+        "code": "rap",
+        "autonym": "rap",
+        "name": "Rapanui"
+    },
+    {
         "code": "rar",
-        "autonym": null,
+        "autonym": "rar",
         "name": "Rarotongan"
     },
     {
+        "code": "rhg",
+        "autonym": "rhg",
+        "name": "Rohingya"
+    },
+    {
+        "code": "rhg-rohg",
+        "autonym": "rhg-rohg",
+        "name": "Rohingya (Hanifi Rohingya script)"
+    },
+    {
+        "code": "rkt",
+        "autonym": "rkt",
+        "name": "Rangpuri"
+    },
+    {
         "code": "rm-puter",
-        "autonym": null,
+        "autonym": "rm-puter",
         "name": "Putèr"
     },
     {
         "code": "rm-rumgr",
-        "autonym": null,
+        "autonym": "rm-rumgr",
         "name": "Rumantsch Grischun"
     },
     {
         "code": "rm-surmiran",
-        "autonym": null,
+        "autonym": "rm-surmiran",
         "name": "Surmiran"
     },
     {
         "code": "rm-sursilv",
-        "autonym": null,
+        "autonym": "rm-sursilv",
         "name": "Sursilvan"
     },
     {
         "code": "rm-sutsilv",
-        "autonym": null,
+        "autonym": "rm-sutsilv",
         "name": "Sutsilvan"
     },
     {
         "code": "rm-vallader",
-        "autonym": null,
+        "autonym": "rm-vallader",
         "name": "Vallader"
     },
     {
+        "code": "rmg",
+        "autonym": "rmg",
+        "name": "Traveller Norwegian"
+    },
+    {
+        "code": "rml",
+        "autonym": "rml",
+        "name": "Baltic Romani"
+    },
+    {
+        "code": "rmn",
+        "autonym": "rmn",
+        "name": "Balkan Romani"
+    },
+    {
+        "code": "rmo",
+        "autonym": "rmo",
+        "name": "Sinte Romani"
+    },
+    {
+        "code": "rmw",
+        "autonym": "rmw",
+        "name": "Welsh-Romani"
+    },
+    {
+        "code": "ro-md",
+        "autonym": "ro-md",
+        "name": "Moldavian"
+    },
+    {
+        "code": "rof",
+        "autonym": "rof",
+        "name": "Rombo"
+    },
+    {
+        "code": "rom",
+        "autonym": "rom",
+        "name": "Romany"
+    },
+    {
+        "code": "rtm",
+        "autonym": "rtm",
+        "name": "Rotuman"
+    },
+    {
+        "code": "rug",
+        "autonym": "rug",
+        "name": "Roviana"
+    },
+    {
+        "code": "ruq-grek",
+        "autonym": "ruq-grek",
+        "name": "Megleno-Romanian (Greek script)"
+    },
+    {
+        "code": "rwk",
+        "autonym": "rwk",
+        "name": "Rwa"
+    },
+    {
         "code": "sa-sidd",
-        "autonym": null,
+        "autonym": "sa-sidd",
         "name": "Sanskrit (Siddham script)"
     },
     {
+        "code": "sad",
+        "autonym": "sad",
+        "name": "Sandawe"
+    },
+    {
+        "code": "sam",
+        "autonym": "sam",
+        "name": "Samaritan Aramaic"
+    },
+    {
+        "code": "saq",
+        "autonym": "saq",
+        "name": "Samburu"
+    },
+    {
+        "code": "sas",
+        "autonym": "sas",
+        "name": "Sasak"
+    },
+    {
+        "code": "sat-beng",
+        "autonym": "sat-beng",
+        "name": "Santali (Bengali script)"
+    },
+    {
+        "code": "sat-latn",
+        "autonym": "sat-latn",
+        "name": "Santali (Latin script)"
+    },
+    {
+        "code": "sat-orya",
+        "autonym": "sat-orya",
+        "name": "Santali (Oriya script)"
+    },
+    {
+        "code": "saz",
+        "autonym": "saz",
+        "name": "Saurashtra"
+    },
+    {
+        "code": "sba",
+        "autonym": "sba",
+        "name": "Ngambay"
+    },
+    {
+        "code": "sbp",
+        "autonym": "sbp",
+        "name": "Sangu"
+    },
+    {
+        "code": "see",
+        "autonym": "see",
+        "name": "Seneca"
+    },
+    {
+        "code": "seh",
+        "autonym": "seh",
+        "name": "Sena"
+    },
+    {
+        "code": "sel",
+        "autonym": "sel",
+        "name": "Selkup"
+    },
+    {
         "code": "ser",
-        "autonym": null,
+        "autonym": "ser",
         "name": "Serrano"
     },
     {
+        "code": "sga",
+        "autonym": "sga",
+        "name": "Old Irish"
+    },
+    {
+        "code": "shu",
+        "autonym": "shu",
+        "name": "Chadian Arabic"
+    },
+    {
+        "code": "shy-arab",
+        "autonym": "shy-arab",
+        "name": "Shawiya (Arabic script)"
+    },
+    {
+        "code": "shy-tfng",
+        "autonym": "shy-tfng",
+        "name": "Shawiya (Tifinagh script)"
+    },
+    {
         "code": "sia",
-        "autonym": null,
+        "autonym": "sia",
         "name": "Akkala Sámi"
     },
     {
+        "code": "sid",
+        "autonym": "sid",
+        "name": "Sidamo"
+    },
+    {
         "code": "sjk",
-        "autonym": null,
+        "autonym": "sjk",
         "name": "Kemi Sámi"
     },
     {
         "code": "sjn",
-        "autonym": null,
+        "autonym": "sjn",
         "name": "Sindarin"
     },
     {
         "code": "sjt",
-        "autonym": null,
+        "autonym": "sjt",
         "name": "Ter Sámi"
     },
     {
+        "code": "slh",
+        "autonym": "slh",
+        "name": "Southern Lushootseed"
+    },
+    {
+        "code": "sly",
+        "autonym": "sly",
+        "name": "Selayar"
+    },
+    {
+        "code": "snk",
+        "autonym": "snk",
+        "name": "Soninke"
+    },
+    {
+        "code": "sog",
+        "autonym": "sog",
+        "name": "Sogdien"
+    },
+    {
+        "code": "sr-cyrl",
+        "autonym": "српски (ћирилица)",
+        "name": "Serbian (Cyrillic script)"
+    },
+    {
+        "code": "sr-latn",
+        "autonym": "srpski (latinica)",
+        "name": "Serbian (Latin script)"
+    },
+    {
+        "code": "sr-me",
+        "autonym": "sr-me",
+        "name": "Montenegrin"
+    },
+    {
+        "code": "srr",
+        "autonym": "srr",
+        "name": "Serer"
+    },
+    {
         "code": "ssf",
-        "autonym": null,
+        "autonym": "ssf",
         "name": "Thao"
     },
     {
+        "code": "ssy",
+        "autonym": "ssy",
+        "name": "Saho"
+    },
+    {
         "code": "sth",
-        "autonym": null,
+        "autonym": "sth",
         "name": "Shelta"
     },
     {
+        "code": "str",
+        "autonym": "str",
+        "name": "Straits Salish"
+    },
+    {
+        "code": "suk",
+        "autonym": "suk",
+        "name": "Sukuma"
+    },
+    {
+        "code": "sus",
+        "autonym": "sus",
+        "name": "Susu"
+    },
+    {
+        "code": "sux",
+        "autonym": "sux",
+        "name": "Sumerian"
+    },
+    {
+        "code": "sux-latn",
+        "autonym": "sux-latn",
+        "name": "Sumerian (Latin script)"
+    },
+    {
+        "code": "sux-xsux",
+        "autonym": "sux-xsux",
+        "name": "Sumerian (Cuneiform script)"
+    },
+    {
+        "code": "sw-cd",
+        "autonym": "sw-cd",
+        "name": "Congo Swahili"
+    },
+    {
+        "code": "swb",
+        "autonym": "swb",
+        "name": "Comorian"
+    },
+    {
         "code": "syc",
-        "autonym": null,
+        "autonym": "syc",
         "name": "Classical Syriac"
     },
     {
+        "code": "syl-beng",
+        "autonym": "syl-beng",
+        "name": "Sylheti (Bengali script)"
+    },
+    {
+        "code": "syr",
+        "autonym": "syr",
+        "name": "Syriac"
+    },
+    {
+        "code": "tce",
+        "autonym": "tce",
+        "name": "Southern Tutchone"
+    },
+    {
+        "code": "tem",
+        "autonym": "tem",
+        "name": "Timne"
+    },
+    {
+        "code": "teo",
+        "autonym": "teo",
+        "name": "Teso"
+    },
+    {
+        "code": "ter",
+        "autonym": "ter",
+        "name": "Tereno"
+    },
+    {
+        "code": "tgx",
+        "autonym": "tgx",
+        "name": "Tagish"
+    },
+    {
+        "code": "tht",
+        "autonym": "tht",
+        "name": "Tahltan"
+    },
+    {
+        "code": "tig",
+        "autonym": "tig",
+        "name": "Tigre"
+    },
+    {
+        "code": "tiv",
+        "autonym": "tiv",
+        "name": "Tiv"
+    },
+    {
+        "code": "tkl",
+        "autonym": "tkl",
+        "name": "Tokelau"
+    },
+    {
+        "code": "tkr",
+        "autonym": "tkr",
+        "name": "Tsakhur"
+    },
+    {
         "code": "tlb",
-        "autonym": null,
+        "autonym": "tlb",
         "name": "Tobelo"
     },
     {
-        "code": "tli",
-        "autonym": null,
-        "name": "Tlingit"
+        "code": "tlh",
+        "autonym": "tlh",
+        "name": "Klingon"
     },
     {
         "code": "tlh-latn",
-        "autonym": null,
+        "autonym": "tlh-latn",
         "name": "Klingon (Latin script)"
     },
     {
         "code": "tlh-piqd",
-        "autonym": null,
+        "autonym": "tlh-piqd",
         "name": "Klingon (Klingon script)"
     },
     {
+        "code": "tli",
+        "autonym": "tli",
+        "name": "Tlingit"
+    },
+    {
+        "code": "tmh",
+        "autonym": "tmh",
+        "name": "Tamashek"
+    },
+    {
         "code": "tnq",
-        "autonym": null,
+        "autonym": "tnq",
         "name": "Taíno"
     },
     {
+        "code": "tog",
+        "autonym": "tog",
+        "name": "Nyasa Tonga"
+    },
+    {
+        "code": "trw",
+        "autonym": "trw",
+        "name": "Torwali"
+    },
+    {
+        "code": "tsd",
+        "autonym": "tsd",
+        "name": "Tsakonian"
+    },
+    {
+        "code": "tsi",
+        "autonym": "tsi",
+        "name": "Tsimshian"
+    },
+    {
+        "code": "ttm",
+        "autonym": "ttm",
+        "name": "Northern Tutchone"
+    },
+    {
+        "code": "ttt",
+        "autonym": "ttt",
+        "name": "Muslim Tat"
+    },
+    {
+        "code": "tvl",
+        "autonym": "tvl",
+        "name": "Tuvalu"
+    },
+    {
+        "code": "twq",
+        "autonym": "twq",
+        "name": "Tasawaq"
+    },
+    {
         "code": "txg",
-        "autonym": null,
+        "autonym": "txg",
         "name": "Tangut"
     },
     {
         "code": "tzl",
-        "autonym": null,
+        "autonym": "tzl",
         "name": "Talossan"
     },
     {
         "code": "uga",
-        "autonym": null,
+        "autonym": "uga",
         "name": "Ugaritic"
     },
     {
+        "code": "umb",
+        "autonym": "umb",
+        "name": "Umbundu"
+    },
+    {
         "code": "umu",
-        "autonym": null,
+        "autonym": "umu",
         "name": "Munsee"
     },
     {
+        "code": "und",
+        "autonym": "und",
+        "name": "undetermined language"
+    },
+    {
         "code": "uun",
-        "autonym": null,
+        "autonym": "uun",
         "name": "Pazeh"
     },
     {
+        "code": "vai",
+        "autonym": "vai",
+        "name": "Vai"
+    },
+    {
+        "code": "vun",
+        "autonym": "vun",
+        "name": "Vunjo"
+    },
+    {
+        "code": "wae",
+        "autonym": "wae",
+        "name": "Walser"
+    },
+    {
+        "code": "was",
+        "autonym": "was",
+        "name": "Washo"
+    },
+    {
+        "code": "wbp",
+        "autonym": "wbp",
+        "name": "Warlpiri"
+    },
+    {
         "code": "xbm",
-        "autonym": null,
+        "autonym": "xbm",
         "name": "Middle Breton"
     },
     {
+        "code": "xog",
+        "autonym": "xog",
+        "name": "Soga"
+    },
+    {
         "code": "xpu",
-        "autonym": null,
+        "autonym": "xpu",
         "name": "Punic"
     },
     {
         "code": "xsu",
-        "autonym": null,
+        "autonym": "xsu",
         "name": "Sanumá"
     },
     {
+        "code": "yao",
+        "autonym": "yao",
+        "name": "Yao"
+    },
+    {
         "code": "yap",
-        "autonym": null,
+        "autonym": "yap",
         "name": "Yapese"
     },
     {
         "code": "yec",
-        "autonym": null,
+        "autonym": "yec",
         "name": "Yeniche"
     },
     {
         "code": "ykg",
-        "autonym": null,
+        "autonym": "ykg",
         "name": "Tundra Yukaghir"
     },
     {
+        "code": "zap",
+        "autonym": "zap",
+        "name": "Zapotec"
+    },
+    {
+        "code": "zbl",
+        "autonym": "zbl",
+        "name": "Blissymbols"
+    },
+    {
+        "code": "zen",
+        "autonym": "zen",
+        "name": "Zenaga"
+    },
+    {
         "code": "zun",
-        "autonym": null,
+        "autonym": "zun",
         "name": "Zuni"
+    },
+    {
+        "code": "zxx",
+        "autonym": "zxx",
+        "name": "no linguistic content"
+    },
+    {
+        "code": "zza",
+        "autonym": "zza",
+        "name": "Zaza"
     }
 ]
