@@ -815,6 +815,11 @@
         "name": "Gan (Traditional)"
     },
     {
+        "code": "gcf",
+        "autonym": "kréyòl Gwadloup",
+        "name": "kréyòl Gwadloup"
+    },
+    {
         "code": "gcr",
         "autonym": "kriyòl gwiyannen",
         "name": "Guianan Creole"
@@ -1728,6 +1733,11 @@
         "code": "nia",
         "autonym": "Li Niha",
         "name": "Nias"
+    },
+    {
+        "code": "nit",
+        "autonym": "కొలామి",
+        "name": "కొలామి"
     },
     {
         "code": "niu",
