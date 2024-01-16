@@ -2988,8 +2988,8 @@
         "group": "wiktionary"
     },
     "mnwwiktionary": {
-        "shortName": "ဘာသာ မန်",
-        "name": "ဘာသာ မန်",
+        "shortName": "ဘာသာမန်",
+        "name": "ဘာသာမန်",
         "id": "mnwwiktionary",
         "pageUrl": "//mnw.wiktionary.org/wiki/$1",
         "apiUrl": "//mnw.wiktionary.org/w/api.php",
@@ -7938,8 +7938,8 @@
         "group": "wikipedia"
     },
     "mnwwiki": {
-        "shortName": "ဘာသာ မန်",
-        "name": "ဘာသာ မန်",
+        "shortName": "ဘာသာမန်",
+        "name": "ဘာသာမန်",
         "id": "mnwwiki",
         "pageUrl": "//mnw.wikipedia.org/wiki/$1",
         "apiUrl": "//mnw.wikipedia.org/w/api.php",

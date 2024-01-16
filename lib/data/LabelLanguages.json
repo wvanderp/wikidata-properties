@@ -5,6 +5,11 @@
         "name": "Afar"
     },
     {
+        "code": "aae",
+        "autonym": "Arbërisht",
+        "name": "Arbërisht"
+    },
+    {
         "code": "ab",
         "autonym": "аԥсшәа",
         "name": "Abkhazian"
@@ -527,7 +532,7 @@
     {
         "code": "crh-ro",
         "autonym": "tatarşa",
-        "name": "Crimean Tatar (Romania)"
+        "name": "Dobrujan Tatar"
     },
     {
         "code": "cs",
@@ -1626,7 +1631,7 @@
     },
     {
         "code": "mnw",
-        "autonym": "ဘာသာ မန်",
+        "autonym": "ဘာသာမန်",
         "name": "Mon"
     },
     {
@@ -2573,6 +2578,11 @@
         "code": "tt-latn",
         "autonym": "tatarça",
         "name": "Tatar (Latin script)"
+    },
+    {
+        "code": "ttj",
+        "autonym": "Orutooro",
+        "name": "Orutooro"
     },
     {
         "code": "tum",
