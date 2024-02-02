@@ -7,7 +7,7 @@
     {
         "code": "aae",
         "autonym": "Arbërisht",
-        "name": "Arbërisht"
+        "name": "Arbëresh"
     },
     {
         "code": "ab",
@@ -427,7 +427,7 @@
     {
         "code": "cdo",
         "autonym": "閩東語 / Mìng-dĕ̤ng-ngṳ̄",
-        "name": "Min Dong Chinese"
+        "name": "Mindong"
     },
     {
         "code": "ce",
@@ -807,22 +807,22 @@
     {
         "code": "gan",
         "autonym": "贛語",
-        "name": "Gan Chinese"
+        "name": "Gan"
     },
     {
         "code": "gan-hans",
         "autonym": "赣语（简体）",
-        "name": "Gan (Simplified)"
+        "name": "Gan (Simplified Han script)"
     },
     {
         "code": "gan-hant",
         "autonym": "贛語（繁體）",
-        "name": "Gan (Traditional)"
+        "name": "Gan (Traditional Han script)"
     },
     {
         "code": "gcf",
         "autonym": "kréyòl Gwadloup",
-        "name": "kréyòl Gwadloup"
+        "name": "Guadeloupean Creole"
     },
     {
         "code": "gcr",
@@ -1687,12 +1687,12 @@
     {
         "code": "nan",
         "autonym": "Bân-lâm-gú",
-        "name": "Min Nan Chinese"
+        "name": "Minnan"
     },
     {
         "code": "nan-hani",
         "autonym": "閩南語",
-        "name": "Min Nan (Hanji)"
+        "name": "Minnan (Han script)"
     },
     {
         "code": "nap",
@@ -1833,6 +1833,11 @@
         "code": "nyn",
         "autonym": "runyankore",
         "name": "Nyankole"
+    },
+    {
+        "code": "nyo",
+        "autonym": "Orunyoro",
+        "name": "Nyoro"
     },
     {
         "code": "nys",
@@ -2087,7 +2092,7 @@
     {
         "code": "rut",
         "autonym": "мыхаӀбишды",
-        "name": "мыхаӀбишды"
+        "name": "Rutul"
     },
     {
         "code": "rw",
@@ -2537,7 +2542,7 @@
     {
         "code": "ttj",
         "autonym": "Orutooro",
-        "name": "Orutooro"
+        "name": "Tooro"
     },
     {
         "code": "tum",
@@ -2702,17 +2707,17 @@
     {
         "code": "wuu",
         "autonym": "吴语",
-        "name": "Wu Chinese"
+        "name": "Wu"
     },
     {
         "code": "wuu-hans",
         "autonym": "吴语（简体）",
-        "name": "Wu Chinese (Simplified)"
+        "name": "Wu (Simplified Han script)"
     },
     {
         "code": "wuu-hant",
         "autonym": "吳語（正體）",
-        "name": "Wu Chinese (Traditional)"
+        "name": "Wu (Traditional Han script)"
     },
     {
         "code": "wya",
@@ -2782,12 +2787,12 @@
     {
         "code": "yue-hans",
         "autonym": "粵语（简体）",
-        "name": "Cantonese (Simplified)"
+        "name": "Cantonese (Simplified Han script)"
     },
     {
         "code": "yue-hant",
         "autonym": "粵語（繁體）",
-        "name": "Cantonese (Traditional)"
+        "name": "Cantonese (Traditional Han script)"
     },
     {
         "code": "za",
@@ -2925,6 +2930,11 @@
         "name": "Algonquin"
     },
     {
+        "code": "ane",
+        "autonym": "ane",
+        "name": "Xârâcùù"
+    },
+    {
         "code": "apc",
         "autonym": "apc",
         "name": "Levantine Arabic"
@@ -2995,6 +3005,16 @@
         "name": "Badaga"
     },
     {
+        "code": "bft",
+        "autonym": "bft",
+        "name": "Balti"
+    },
+    {
+        "code": "bfz",
+        "autonym": "bfz",
+        "name": "Mahasu Pahari"
+    },
+    {
         "code": "bgc",
         "autonym": "bgc",
         "name": "Haryanvi"
@@ -3003,6 +3023,21 @@
         "code": "bgp",
         "autonym": "bgp",
         "name": "Eastern Balochi"
+    },
+    {
+        "code": "bgq",
+        "autonym": "bgq",
+        "name": "Bagri"
+    },
+    {
+        "code": "bha",
+        "autonym": "bha",
+        "name": "Bharia"
+    },
+    {
+        "code": "bhd",
+        "autonym": "bhd",
+        "name": "Bhadrawahi"
     },
     {
         "code": "bik",
@@ -3018,6 +3053,11 @@
         "code": "bla",
         "autonym": "bla",
         "name": "Siksiká"
+    },
+    {
+        "code": "blo",
+        "autonym": "blo",
+        "name": "Anii"
     },
     {
         "code": "blt",
@@ -3038,6 +3078,16 @@
         "code": "brx",
         "autonym": "brx",
         "name": "Bodo"
+    },
+    {
+        "code": "bse",
+        "autonym": "bse",
+        "name": "Wushi"
+    },
+    {
+        "code": "bsk",
+        "autonym": "bsk",
+        "name": "Burushaski"
     },
     {
         "code": "bss",
@@ -3097,7 +3147,7 @@
     {
         "code": "cdo-hani",
         "autonym": "cdo-hani",
-        "name": "Min Dong Chinese (Hanji)"
+        "name": "Mindong (Han script)"
     },
     {
         "code": "cgg",
@@ -3182,17 +3232,17 @@
     {
         "code": "cjy",
         "autonym": "cjy",
-        "name": "Jinyu"
+        "name": "Jin"
     },
     {
         "code": "cjy-hans",
         "autonym": "cjy-hans",
-        "name": "Jinyu (Simplified)"
+        "name": "Jin (Simplified Han script)"
     },
     {
         "code": "cjy-hant",
         "autonym": "cjy-hant",
-        "name": "Jinyu (Traditional)"
+        "name": "Jin (Traditional Han script)"
     },
     {
         "code": "ckt",
@@ -3213,6 +3263,11 @@
         "code": "cnr",
         "autonym": "cnr",
         "name": "Montenegrin"
+    },
+    {
+        "code": "cnx",
+        "autonym": "cnx",
+        "name": "Middle Cornish"
     },
     {
         "code": "cop",
@@ -3325,6 +3380,11 @@
         "name": "Rukai"
     },
     {
+        "code": "duf",
+        "autonym": "duf",
+        "name": "Dumbea"
+    },
+    {
         "code": "dum",
         "autonym": "dum",
         "name": "Middle Dutch"
@@ -3405,6 +3465,11 @@
         "name": "Mexican Spanish"
     },
     {
+        "code": "ess",
+        "autonym": "ess",
+        "name": "Central Siberian Yupik"
+    },
+    {
         "code": "esu",
         "autonym": "esu",
         "name": "Central Yupik"
@@ -3450,6 +3515,11 @@
         "name": "Swiss French"
     },
     {
+        "code": "frk",
+        "autonym": "frk",
+        "name": "Frankish"
+    },
+    {
         "code": "frm",
         "autonym": "frm",
         "name": "Middle French"
@@ -3463,6 +3533,11 @@
         "code": "frs",
         "autonym": "frs",
         "name": "Eastern Frisian"
+    },
+    {
+        "code": "fsl",
+        "autonym": "fsl",
+        "name": "French Sign Language"
     },
     {
         "code": "fud",
@@ -3485,6 +3560,11 @@
         "name": "Gbaya"
     },
     {
+        "code": "gbk",
+        "autonym": "gbk",
+        "name": "Gaddi"
+    },
+    {
         "code": "gbz",
         "autonym": "gbz",
         "name": "Zoroastrian Dari"
@@ -3498,6 +3578,11 @@
         "code": "gil",
         "autonym": "gil",
         "name": "Gilbertese"
+    },
+    {
+        "code": "gju",
+        "autonym": "gju",
+        "name": "Gujari"
     },
     {
         "code": "gmh",
@@ -3555,6 +3640,11 @@
         "name": "Hausa (Arabic script)"
     },
     {
+        "code": "hac",
+        "autonym": "hac",
+        "name": "Gurani"
+    },
+    {
         "code": "hai",
         "autonym": "hai",
         "name": "Haida"
@@ -3562,12 +3652,17 @@
     {
         "code": "hak-hans",
         "autonym": "hak-hans",
-        "name": "Hakka (Simplified)"
+        "name": "Hakka (Simplified Han script)"
     },
     {
         "code": "hak-hant",
         "autonym": "hak-hant",
-        "name": "Hakka (Traditional)"
+        "name": "Hakka (Traditional Han script)"
+    },
+    {
+        "code": "hav",
+        "autonym": "hav",
+        "name": "Havu"
     },
     {
         "code": "hax",
@@ -3770,9 +3865,19 @@
         "name": "Kalenjin"
     },
     {
+        "code": "kls",
+        "autonym": "kls",
+        "name": "Kalasha"
+    },
+    {
         "code": "kmb",
         "autonym": "kmb",
         "name": "Kimbundu"
+    },
+    {
+        "code": "kmr",
+        "autonym": "kmr",
+        "name": "Northern Kurdish"
     },
     {
         "code": "knn",
@@ -3820,6 +3925,11 @@
         "name": "Kwakʼwala"
     },
     {
+        "code": "kxv",
+        "autonym": "kxv",
+        "name": "Kuvi"
+    },
+    {
         "code": "lad-hebr",
         "autonym": "lad-hebr",
         "name": "Ladino (Hebrew script)"
@@ -3843,6 +3953,11 @@
         "code": "lcm",
         "autonym": "lcm",
         "name": "Tungag"
+    },
+    {
+        "code": "ldn",
+        "autonym": "ldn",
+        "name": "Láadan"
     },
     {
         "code": "lij-mc",
@@ -3970,9 +4085,14 @@
         "name": "Metaʼ"
     },
     {
+        "code": "mhk",
+        "autonym": "mhk",
+        "name": "Mungaka"
+    },
+    {
         "code": "mic",
         "autonym": "mic",
-        "name": "Mi'kmaq"
+        "name": "Mi'kmaw"
     },
     {
         "code": "mid",
@@ -4013,6 +4133,11 @@
         "code": "mvf",
         "autonym": "mvf",
         "name": "Peripheral Mongolian"
+    },
+    {
+        "code": "mvi",
+        "autonym": "mvi",
+        "name": "Miyako"
     },
     {
         "code": "mwr",
@@ -4105,11 +4230,6 @@
         "name": "Nyamwezi"
     },
     {
-        "code": "nyo",
-        "autonym": "nyo",
-        "name": "Nyoro"
-    },
-    {
         "code": "nzi",
         "autonym": "nzi",
         "name": "Nzima"
@@ -4118,6 +4238,21 @@
         "code": "obt",
         "autonym": "obt",
         "name": "Old Breton"
+    },
+    {
+        "code": "oco",
+        "autonym": "oco",
+        "name": "Old Cornish"
+    },
+    {
+        "code": "odt",
+        "autonym": "odt",
+        "name": "Old Dutch"
+    },
+    {
+        "code": "ofs",
+        "autonym": "ofs",
+        "name": "Old Frisian"
     },
     {
         "code": "oj",
@@ -4180,14 +4315,29 @@
         "name": "Osage"
     },
     {
+        "code": "osx",
+        "autonym": "osx",
+        "name": "Old Saxon"
+    },
+    {
         "code": "otk",
         "autonym": "otk",
         "name": "Old Turkish"
     },
     {
+        "code": "owl",
+        "autonym": "owl",
+        "name": "Old Welsh"
+    },
+    {
         "code": "pal",
         "autonym": "pal",
         "name": "Pahlavi"
+    },
+    {
+        "code": "pao",
+        "autonym": "pao",
+        "name": "Northern Paiute"
     },
     {
         "code": "pau",
@@ -4198,6 +4348,11 @@
         "code": "peo",
         "autonym": "peo",
         "name": "Old Persian"
+    },
+    {
+        "code": "pgd",
+        "autonym": "pgd",
+        "name": "Gāndhārī"
     },
     {
         "code": "phn",
@@ -4260,6 +4415,11 @@
         "name": "Dari"
     },
     {
+        "code": "psu",
+        "autonym": "psu",
+        "name": "Sauraseni Prākrit"
+    },
+    {
         "code": "pt-ao1990",
         "autonym": "pt-ao1990",
         "name": "Portuguese (1990 Orthographic Agreement)"
@@ -4278,11 +4438,6 @@
         "code": "pyu",
         "autonym": "pyu",
         "name": "Puyuma"
-    },
-    {
-        "code": "qqq",
-        "autonym": "qqq",
-        "name": "Message documentation"
     },
     {
         "code": "qya",
@@ -4405,6 +4560,11 @@
         "name": "Roviana"
     },
     {
+        "code": "ruo",
+        "autonym": "ruo",
+        "name": "Istro Romanian"
+    },
+    {
         "code": "ruq-grek",
         "autonym": "ruq-grek",
         "name": "Megleno-Romanian (Greek script)"
@@ -4413,6 +4573,11 @@
         "code": "rwk",
         "autonym": "rwk",
         "name": "Rwa"
+    },
+    {
+        "code": "rys",
+        "autonym": "rys",
+        "name": "Yaeyama"
     },
     {
         "code": "sa-sidd",
@@ -4470,6 +4635,11 @@
         "name": "Sangu"
     },
     {
+        "code": "scl",
+        "autonym": "scl",
+        "name": "Shina"
+    },
+    {
         "code": "see",
         "autonym": "see",
         "name": "Seneca"
@@ -4493,6 +4663,11 @@
         "code": "sga",
         "autonym": "sga",
         "name": "Old Irish"
+    },
+    {
+        "code": "shd",
+        "autonym": "shd",
+        "name": "Kundal Shahi"
     },
     {
         "code": "shu",
@@ -4630,6 +4805,11 @@
         "name": "Comorian"
     },
     {
+        "code": "sxu",
+        "autonym": "sxu",
+        "name": "Upper Saxon"
+    },
+    {
         "code": "syc",
         "autonym": "syc",
         "name": "Classical Syriac"
@@ -4760,6 +4940,11 @@
         "name": "Muslim Tat"
     },
     {
+        "code": "tui",
+        "autonym": "tui",
+        "name": "Tupuri"
+    },
+    {
         "code": "tvl",
         "autonym": "tvl",
         "name": "Tuvalu"
@@ -4800,6 +4985,11 @@
         "name": "undetermined language"
     },
     {
+        "code": "unr",
+        "autonym": "unr",
+        "name": "Mundari"
+    },
+    {
         "code": "uun",
         "autonym": "uun",
         "name": "Pazeh"
@@ -4830,9 +5020,24 @@
         "name": "Warlpiri"
     },
     {
+        "code": "wlm",
+        "autonym": "wlm",
+        "name": "Middle Welsh"
+    },
+    {
+        "code": "wsv",
+        "autonym": "wsv",
+        "name": "Wotapuri-Katarqalai"
+    },
+    {
         "code": "xbm",
         "autonym": "xbm",
         "name": "Middle Breton"
+    },
+    {
+        "code": "xnr",
+        "autonym": "xnr",
+        "name": "Kangri"
     },
     {
         "code": "xog",
@@ -4870,6 +5075,21 @@
         "name": "Tundra Yukaghir"
     },
     {
+        "code": "yoi",
+        "autonym": "yoi",
+        "name": "Yonaguni"
+    },
+    {
+        "code": "yox",
+        "autonym": "yox",
+        "name": "Yoron"
+    },
+    {
+        "code": "zai",
+        "autonym": "zai",
+        "name": "Isthmus Zapotec"
+    },
+    {
         "code": "zap",
         "autonym": "zap",
         "name": "Zapotec"
@@ -4883,6 +5103,11 @@
         "code": "zen",
         "autonym": "zen",
         "name": "Zenaga"
+    },
+    {
+        "code": "zpu",
+        "autonym": "zpu",
+        "name": "Yalálag Zapotec"
     },
     {
         "code": "zun",
