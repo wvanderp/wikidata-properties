@@ -445,6 +445,11 @@
         "name": "Chamorro"
     },
     {
+        "code": "chn",
+        "autonym": "chinuk wawa",
+        "name": "Chinook Jargon"
+    },
+    {
         "code": "cho",
         "autonym": "Chahta anumpa",
         "name": "Choctaw"
@@ -1023,6 +1028,11 @@
         "code": "ia",
         "autonym": "interlingua",
         "name": "Interlingua"
+    },
+    {
+        "code": "ibb",
+        "autonym": "ibibio",
+        "name": "Ibibio"
     },
     {
         "code": "id",
@@ -3175,11 +3185,6 @@
         "name": "Mari"
     },
     {
-        "code": "chn",
-        "autonym": "chn",
-        "name": "Chinook Jargon"
-    },
-    {
         "code": "chp",
         "autonym": "chp",
         "name": "Chipewyan"
@@ -3728,11 +3733,6 @@
         "code": "iba",
         "autonym": "iba",
         "name": "Iban"
-    },
-    {
-        "code": "ibb",
-        "autonym": "ibb",
-        "name": "Ibibio"
     },
     {
         "code": "ike",
