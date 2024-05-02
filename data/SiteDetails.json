@@ -4968,8 +4968,8 @@
         "group": "wiktionary"
     },
     "zh_min_nanwikibooks": {
-        "shortName": "Bân-lâm-gú",
-        "name": "Bân-lâm-gú",
+        "shortName": "閩南語 / Bân-lâm-gú",
+        "name": "閩南語 / Bân-lâm-gú",
         "id": "zh_min_nanwikibooks",
         "pageUrl": "//zh-min-nan.wikibooks.org/wiki/$1",
         "apiUrl": "//zh-min-nan.wikibooks.org/w/api.php",
@@ -4977,8 +4977,8 @@
         "group": "wikibooks"
     },
     "zh_min_nanwikiquote": {
-        "shortName": "Bân-lâm-gú",
-        "name": "Bân-lâm-gú",
+        "shortName": "閩南語 / Bân-lâm-gú",
+        "name": "閩南語 / Bân-lâm-gú",
         "id": "zh_min_nanwikiquote",
         "pageUrl": "//zh-min-nan.wikiquote.org/wiki/$1",
         "apiUrl": "//zh-min-nan.wikiquote.org/w/api.php",
@@ -4986,8 +4986,8 @@
         "group": "wikiquote"
     },
     "zh_min_nanwikisource": {
-        "shortName": "Bân-lâm-gú",
-        "name": "Bân-lâm-gú",
+        "shortName": "閩南語 / Bân-lâm-gú",
+        "name": "閩南語 / Bân-lâm-gú",
         "id": "zh_min_nanwikisource",
         "pageUrl": "//zh-min-nan.wikisource.org/wiki/$1",
         "apiUrl": "//zh-min-nan.wikisource.org/w/api.php",
@@ -4995,8 +4995,8 @@
         "group": "wikisource"
     },
     "zh_min_nanwiktionary": {
-        "shortName": "Bân-lâm-gú",
-        "name": "Bân-lâm-gú",
+        "shortName": "閩南語 / Bân-lâm-gú",
+        "name": "閩南語 / Bân-lâm-gú",
         "id": "zh_min_nanwiktionary",
         "pageUrl": "//zh-min-nan.wiktionary.org/wiki/$1",
         "apiUrl": "//zh-min-nan.wiktionary.org/w/api.php",
@@ -7650,8 +7650,8 @@
         "group": "wikipedia"
     },
     "zh_min_nanwiki": {
-        "shortName": "Bân-lâm-gú",
-        "name": "Bân-lâm-gú",
+        "shortName": "閩南語 / Bân-lâm-gú",
+        "name": "閩南語 / Bân-lâm-gú",
         "id": "zh_min_nanwiki",
         "pageUrl": "//zh-min-nan.wikipedia.org/wiki/$1",
         "apiUrl": "//zh-min-nan.wikipedia.org/w/api.php",

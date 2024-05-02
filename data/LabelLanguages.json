@@ -1726,13 +1726,18 @@
     },
     {
         "code": "nan",
-        "autonym": "Bân-lâm-gú",
+        "autonym": "閩南語 / Bân-lâm-gú",
         "name": "Minnan"
     },
     {
         "code": "nan-hani",
         "autonym": "閩南語",
         "name": "Minnan (Han script)"
+    },
+    {
+        "code": "nan-hant",
+        "autonym": "閩南語（傳統漢字）",
+        "name": "閩南語（傳統漢字）"
     },
     {
         "code": "nap",
@@ -2865,6 +2870,11 @@
         "name": "Standard Moroccan Tamazight"
     },
     {
+        "code": "zgh-latn",
+        "autonym": "tamaziɣt tanawayt",
+        "name": "tamaziɣt tanawayt"
+    },
+    {
         "code": "zh",
         "autonym": "中文",
         "name": "Chinese"
@@ -2896,7 +2906,7 @@
     },
     {
         "code": "zh-min-nan",
-        "autonym": "Bân-lâm-gú",
+        "autonym": "閩南語 / Bân-lâm-gú",
         "name": "Minnan"
     },
     {
