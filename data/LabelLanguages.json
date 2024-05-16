@@ -115,6 +115,11 @@
         "name": "Angika"
     },
     {
+        "code": "apc",
+        "autonym": "شامي",
+        "name": "Levantine Arabic"
+    },
+    {
         "code": "ar",
         "autonym": "العربية",
         "name": "Arabic"
@@ -497,22 +502,22 @@
     {
         "code": "cpx",
         "autonym": "莆仙語 / Pó-sing-gṳ̂",
-        "name": "Pu-Xian Min"
+        "name": "Pu–Xian Min"
     },
     {
         "code": "cpx-hans",
         "autonym": "莆仙语（简体）",
-        "name": "Pu-Xian Min (Simplified Han script)"
+        "name": "Pu–Xian Min (Simplified Han script)"
     },
     {
         "code": "cpx-hant",
         "autonym": "莆仙語（繁體）",
-        "name": "Pu-Xian Min (Traditional Han script)"
+        "name": "Pu–Xian Min (Traditional Han script)"
     },
     {
         "code": "cpx-latn",
         "autonym": "Pó-sing-gṳ̂ (Báⁿ-uā-ci̍)",
-        "name": "Pu-Xian Min (Latin script)"
+        "name": "Pu–Xian Min (Latin script)"
     },
     {
         "code": "cr",
@@ -1688,6 +1693,11 @@
         "code": "mua",
         "autonym": "Mundang",
         "name": "Mundang"
+    },
+    {
+        "code": "mui",
+        "autonym": "Baso Palembang",
+        "name": "Musi"
     },
     {
         "code": "mus",

@@ -2339,6 +2339,15 @@
         "languageCode": "jv",
         "group": "wiktionary"
     },
+    "kaawiktionary": {
+        "shortName": "Qaraqalpaqsha",
+        "name": "Qaraqalpaqsha",
+        "id": "kaawiktionary",
+        "pageUrl": "//kaa.wiktionary.org/wiki/$1",
+        "apiUrl": "//kaa.wiktionary.org/w/api.php",
+        "languageCode": "kaa",
+        "group": "wiktionary"
+    },
     "kawikibooks": {
         "shortName": "ქართული",
         "name": "ქართული",
@@ -2356,6 +2365,15 @@
         "apiUrl": "//ka.wikiquote.org/w/api.php",
         "languageCode": "ka",
         "group": "wikiquote"
+    },
+    "kawikisource": {
+        "shortName": "ქართული",
+        "name": "ქართული",
+        "id": "kawikisource",
+        "pageUrl": "//ka.wikisource.org/wiki/$1",
+        "apiUrl": "//ka.wikisource.org/w/api.php",
+        "languageCode": "ka",
+        "group": "wikisource"
     },
     "kawiktionary": {
         "shortName": "ქართული",
@@ -3050,6 +3068,15 @@
         "languageCode": "ms",
         "group": "wikibooks"
     },
+    "mswikisource": {
+        "shortName": "Bahasa Melayu",
+        "name": "Bahasa Melayu",
+        "id": "mswikisource",
+        "pageUrl": "//ms.wikisource.org/wiki/$1",
+        "apiUrl": "//ms.wikisource.org/w/api.php",
+        "languageCode": "ms",
+        "group": "wikisource"
+    },
     "mswiktionary": {
         "shortName": "Bahasa Melayu",
         "name": "Bahasa Melayu",
@@ -3076,6 +3103,15 @@
         "apiUrl": "//my.wikibooks.org/w/api.php",
         "languageCode": "my",
         "group": "wikibooks"
+    },
+    "mywikisource": {
+        "shortName": "မြန်မာဘာသာ",
+        "name": "မြန်မာဘာသာ",
+        "id": "mywikisource",
+        "pageUrl": "//my.wikisource.org/wiki/$1",
+        "apiUrl": "//my.wikisource.org/w/api.php",
+        "languageCode": "my",
+        "group": "wikisource"
     },
     "mywiktionary": {
         "shortName": "မြန်မာဘာသာ",
@@ -8232,6 +8268,33 @@
         "pageUrl": "//zgh.wikipedia.org/wiki/$1",
         "apiUrl": "//zgh.wikipedia.org/w/api.php",
         "languageCode": "zgh",
+        "group": "wikipedia"
+    },
+    "bewwiki": {
+        "shortName": "Betawi",
+        "name": "Betawi",
+        "id": "bewwiki",
+        "pageUrl": "//bew.wikipedia.org/wiki/$1",
+        "apiUrl": "//bew.wikipedia.org/w/api.php",
+        "languageCode": "bew",
+        "group": "wikipedia"
+    },
+    "iglwiki": {
+        "shortName": "Igala",
+        "name": "Igala",
+        "id": "iglwiki",
+        "pageUrl": "//igl.wikipedia.org/wiki/$1",
+        "apiUrl": "//igl.wikipedia.org/w/api.php",
+        "languageCode": "igl",
+        "group": "wikipedia"
+    },
+    "kuswiki": {
+        "shortName": "Kʋsaal",
+        "name": "Kʋsaal",
+        "id": "kuswiki",
+        "pageUrl": "//kus.wikipedia.org/wiki/$1",
+        "apiUrl": "//kus.wikipedia.org/w/api.php",
+        "languageCode": "kus",
         "group": "wikipedia"
     }
 }

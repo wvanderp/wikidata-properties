@@ -115,6 +115,11 @@
         "name": "Angika"
     },
     {
+        "code": "apc",
+        "autonym": "شامي",
+        "name": "Levantine Arabic"
+    },
+    {
         "code": "ar",
         "autonym": "العربية",
         "name": "Arabic"
@@ -487,22 +492,22 @@
     {
         "code": "cpx",
         "autonym": "莆仙語 / Pó-sing-gṳ̂",
-        "name": "Pu-Xian Min"
+        "name": "Pu–Xian Min"
     },
     {
         "code": "cpx-hans",
         "autonym": "莆仙语（简体）",
-        "name": "Pu-Xian Min (Simplified Han script)"
+        "name": "Pu–Xian Min (Simplified Han script)"
     },
     {
         "code": "cpx-hant",
         "autonym": "莆仙語（繁體）",
-        "name": "Pu-Xian Min (Traditional Han script)"
+        "name": "Pu–Xian Min (Traditional Han script)"
     },
     {
         "code": "cpx-latn",
         "autonym": "Pó-sing-gṳ̂ (Báⁿ-uā-ci̍)",
-        "name": "Pu-Xian Min (Latin script)"
+        "name": "Pu–Xian Min (Latin script)"
     },
     {
         "code": "cr",
@@ -1658,6 +1663,11 @@
         "code": "mua",
         "autonym": "Mundang",
         "name": "Mundang"
+    },
+    {
+        "code": "mui",
+        "autonym": "Baso Palembang",
+        "name": "Musi"
     },
     {
         "code": "mus",
@@ -2930,6 +2940,16 @@
         "name": "Akkadian"
     },
     {
+        "code": "akk-latn",
+        "autonym": "akk-latn",
+        "name": "Akkadian (Latin script)"
+    },
+    {
+        "code": "akk-xsux",
+        "autonym": "akk-xsux",
+        "name": "Akkadian (Cuneiform script)"
+    },
+    {
         "code": "akz",
         "autonym": "akz",
         "name": "Alabama"
@@ -2953,11 +2973,6 @@
         "code": "ane",
         "autonym": "ane",
         "name": "Xârâcùù"
-    },
-    {
-        "code": "apc",
-        "autonym": "apc",
-        "name": "Levantine Arabic"
     },
     {
         "code": "ar-001",
@@ -2985,6 +3000,16 @@
         "name": "Arawak"
     },
     {
+        "code": "ary-arab",
+        "autonym": "ary-arab",
+        "name": "Moroccan Arabic (Arabic script)"
+    },
+    {
+        "code": "ary-latn",
+        "autonym": "ary-latn",
+        "name": "Moroccan Arabic (Latin script)"
+    },
+    {
         "code": "asa",
         "autonym": "asa",
         "name": "Asu"
@@ -2998,6 +3023,11 @@
         "code": "bal",
         "autonym": "bal",
         "name": "Baluchi"
+    },
+    {
+        "code": "bal-latn",
+        "autonym": "bal-latn",
+        "name": "Baluchi (Latin script)"
     },
     {
         "code": "bej",
@@ -3030,14 +3060,39 @@
         "name": "Balti"
     },
     {
+        "code": "bft-tibt",
+        "autonym": "bft-tibt",
+        "name": "Balti (Tibetan script)"
+    },
+    {
         "code": "bfz",
         "autonym": "bfz",
         "name": "Mahasu Pahari"
     },
     {
+        "code": "bfz-deva",
+        "autonym": "bfz-deva",
+        "name": "Mahasu Pahari (Devanagari script)"
+    },
+    {
+        "code": "bfz-takr",
+        "autonym": "bfz-takr",
+        "name": "Mahasu Pahari (Takri script)"
+    },
+    {
         "code": "bgc",
         "autonym": "bgc",
         "name": "Haryanvi"
+    },
+    {
+        "code": "bgc-arab",
+        "autonym": "bgc-arab",
+        "name": "Haryanvi (Arabic script)"
+    },
+    {
+        "code": "bgc-deva",
+        "autonym": "bgc-deva",
+        "name": "Haryanvi (Devanagari script)"
     },
     {
         "code": "bgp",
@@ -3050,6 +3105,16 @@
         "name": "Bagri"
     },
     {
+        "code": "bgq-arab",
+        "autonym": "bgq-arab",
+        "name": "Bagri (Arabic script)"
+    },
+    {
+        "code": "bgq-deva",
+        "autonym": "bgq-deva",
+        "name": "Bagri (Devanagari script)"
+    },
+    {
         "code": "bha",
         "autonym": "bha",
         "name": "Bharia"
@@ -3058,6 +3123,16 @@
         "code": "bhd",
         "autonym": "bhd",
         "name": "Bhadrawahi"
+    },
+    {
+        "code": "bhd-deva",
+        "autonym": "bhd-deva",
+        "name": "Bhadrawahi (Devanagari script)"
+    },
+    {
+        "code": "bhd-takr",
+        "autonym": "bhd-takr",
+        "name": "Bhadrawahi (Takri script)"
     },
     {
         "code": "bik",
@@ -3093,6 +3168,11 @@
         "code": "bra",
         "autonym": "bra",
         "name": "Braj"
+    },
+    {
+        "code": "brh-latn",
+        "autonym": "brh-latn",
+        "name": "Brahui (Latin script)"
     },
     {
         "code": "brx",
@@ -3260,6 +3340,16 @@
         "name": "Jin (Traditional Han script)"
     },
     {
+        "code": "ckb-arab",
+        "autonym": "ckb-arab",
+        "name": "Central Kurdish (Arabic script)"
+    },
+    {
+        "code": "ckb-latn",
+        "autonym": "ckb-latn",
+        "name": "Central Kurdish (Latin script)"
+    },
+    {
         "code": "ckt",
         "autonym": "ckt",
         "name": "Chukchi"
@@ -3388,6 +3478,21 @@
         "code": "doi",
         "autonym": "doi",
         "name": "Dogri"
+    },
+    {
+        "code": "doi-arab",
+        "autonym": "doi-arab",
+        "name": "Dogri (Arabic script)"
+    },
+    {
+        "code": "doi-deva",
+        "autonym": "doi-deva",
+        "name": "Dogri (Devanagari script)"
+    },
+    {
+        "code": "doi-dogr",
+        "autonym": "doi-dogr",
+        "name": "Dogri (Dogra script)"
     },
     {
         "code": "dru",
@@ -3580,6 +3685,16 @@
         "name": "Gaddi"
     },
     {
+        "code": "gbk-deva",
+        "autonym": "gbk-deva",
+        "name": "Gaddi (Devanagari script)"
+    },
+    {
+        "code": "gbk-takr",
+        "autonym": "gbk-takr",
+        "name": "Gaddi (Takri script)"
+    },
+    {
         "code": "gbz",
         "autonym": "gbz",
         "name": "Zoroastrian Dari"
@@ -3598,6 +3713,16 @@
         "code": "gju",
         "autonym": "gju",
         "name": "Gujari"
+    },
+    {
+        "code": "gju-arab",
+        "autonym": "gju-arab",
+        "name": "Gujari (Arabic script)"
+    },
+    {
+        "code": "gju-deva",
+        "autonym": "gju-deva",
+        "name": "Gujari (Devanagari script)"
     },
     {
         "code": "gmh",
@@ -3700,6 +3825,11 @@
         "name": "Northern Haida"
     },
     {
+        "code": "hi-kthi",
+        "autonym": "hi-kthi",
+        "name": "Hindi (Kaithi script)"
+    },
+    {
         "code": "hi-latn",
         "autonym": "hi-latn",
         "name": "Hindi (Latin)"
@@ -3708,6 +3838,16 @@
         "code": "hit",
         "autonym": "hit",
         "name": "Hittite"
+    },
+    {
+        "code": "hit-latn",
+        "autonym": "hit-latn",
+        "name": "Hittite (Latin script)"
+    },
+    {
+        "code": "hit-xsux",
+        "autonym": "hit-xsux",
+        "name": "Hittite (Cuneiform script)"
     },
     {
         "code": "hmn",
@@ -3880,6 +4020,16 @@
         "name": "Kalasha"
     },
     {
+        "code": "kls-arab",
+        "autonym": "kls-arab",
+        "name": "Kalasha (Arabic script)"
+    },
+    {
+        "code": "kls-latn",
+        "autonym": "kls-latn",
+        "name": "Kalasha (Latin script)"
+    },
+    {
         "code": "kmb",
         "autonym": "kmb",
         "name": "Kimbundu"
@@ -3890,9 +4040,24 @@
         "name": "Northern Kurdish"
     },
     {
+        "code": "kmr-arab",
+        "autonym": "kmr-arab",
+        "name": "Northern Kurdish (Arabic script)"
+    },
+    {
+        "code": "kmr-latn",
+        "autonym": "kmr-latn",
+        "name": "Northern Kurdish (Latin script)"
+    },
+    {
         "code": "knn",
         "autonym": "knn",
         "name": "Maharashtrian Konkani"
+    },
+    {
+        "code": "ko-hani",
+        "autonym": "ko-hani",
+        "name": "Korean (Hanja script)"
     },
     {
         "code": "kok",
@@ -4120,6 +4285,11 @@
         "name": "Mixtec"
     },
     {
+        "code": "mn-mong",
+        "autonym": "mn-mong",
+        "name": "Mongolian (Mongolian script)"
+    },
+    {
         "code": "moe",
         "autonym": "moe",
         "name": "Innu-aimun"
@@ -4128,11 +4298,6 @@
         "code": "moh",
         "autonym": "moh",
         "name": "Mohawk"
-    },
-    {
-        "code": "mui",
-        "autonym": "mui",
-        "name": "Musi"
     },
     {
         "code": "mul",
@@ -4148,6 +4313,11 @@
         "code": "mvi",
         "autonym": "mvi",
         "name": "Miyako"
+    },
+    {
+        "code": "mvi-hira",
+        "autonym": "mvi-hira",
+        "name": "Miyako (Hiragana script)"
     },
     {
         "code": "mwr",
@@ -4345,6 +4515,21 @@
         "name": "Pahlavi"
     },
     {
+        "code": "pal-phli",
+        "autonym": "pal-phli",
+        "name": "Pahlavi (Inscriptional Pahlavi script)"
+    },
+    {
+        "code": "pal-phlp",
+        "autonym": "pal-phlp",
+        "name": "Pahlavi (Psalter Pahlavi script)"
+    },
+    {
+        "code": "pal-phlv",
+        "autonym": "pal-phlv",
+        "name": "Pahlavi (Book Pahlavi script)"
+    },
+    {
         "code": "pao",
         "autonym": "pao",
         "name": "Northern Paiute"
@@ -4363,6 +4548,21 @@
         "code": "pgd",
         "autonym": "pgd",
         "name": "Gāndhārī"
+    },
+    {
+        "code": "pgd-arab",
+        "autonym": "pgd-arab",
+        "name": "Gāndhārī (Arabic script)"
+    },
+    {
+        "code": "pgd-deva",
+        "autonym": "pgd-deva",
+        "name": "Gāndhārī (Devanagari script)"
+    },
+    {
+        "code": "pgd-khar",
+        "autonym": "pgd-khar",
+        "name": "Gāndhārī (Kharoshthi script)"
     },
     {
         "code": "phn",
@@ -4430,6 +4630,26 @@
         "name": "Sauraseni Prākrit"
     },
     {
+        "code": "psu-arab",
+        "autonym": "psu-arab",
+        "name": "Sauraseni Prākrit (Arabic script)"
+    },
+    {
+        "code": "psu-brah",
+        "autonym": "psu-brah",
+        "name": "Sauraseni Prākrit (Brahmi script)"
+    },
+    {
+        "code": "psu-deva",
+        "autonym": "psu-deva",
+        "name": "Sauraseni Prākrit (Devanagari script)"
+    },
+    {
+        "code": "psu-guru",
+        "autonym": "psu-guru",
+        "name": "Sauraseni Prākrit (Gurmukhi script)"
+    },
+    {
         "code": "pt-ao1990",
         "autonym": "pt-ao1990",
         "name": "Portuguese (1990 Orthographic Agreement)"
@@ -4478,6 +4698,11 @@
         "code": "rhg",
         "autonym": "rhg",
         "name": "Rohingya"
+    },
+    {
+        "code": "rhg-arab",
+        "autonym": "rhg-arab",
+        "name": "Rohingya (Arabic script)"
     },
     {
         "code": "rhg-rohg",
@@ -4590,6 +4815,16 @@
         "name": "Yaeyama"
     },
     {
+        "code": "rys-hira",
+        "autonym": "rys-hira",
+        "name": "Yaeyama (Hiragana script)"
+    },
+    {
+        "code": "ryu-hira",
+        "autonym": "ryu-hira",
+        "name": "Okinawan (Hiragana script)"
+    },
+    {
         "code": "sa-sidd",
         "autonym": "sa-sidd",
         "name": "Sanskrit (Siddham script)"
@@ -4648,6 +4883,21 @@
         "code": "scl",
         "autonym": "scl",
         "name": "Shina"
+    },
+    {
+        "code": "sd-deva",
+        "autonym": "sd-deva",
+        "name": "Sindhi (Devanagari script)"
+    },
+    {
+        "code": "sdh-arab",
+        "autonym": "sdh-arab",
+        "name": "Southern Kurdish (Arabic script)"
+    },
+    {
+        "code": "sdh-latn",
+        "autonym": "sdh-latn",
+        "name": "Southern Kurdish (Latin script)"
     },
     {
         "code": "see",
@@ -5000,6 +5250,16 @@
         "name": "Mundari"
     },
     {
+        "code": "unr-deva",
+        "autonym": "unr-deva",
+        "name": "Mundari (Devanagari script)"
+    },
+    {
+        "code": "unr-nagm",
+        "autonym": "unr-nagm",
+        "name": "Mundari (Nag Mundari script)"
+    },
+    {
         "code": "uun",
         "autonym": "uun",
         "name": "Pazeh"
@@ -5008,6 +5268,11 @@
         "code": "vai",
         "autonym": "vai",
         "name": "Vai"
+    },
+    {
+        "code": "vi-hani",
+        "autonym": "vi-hani",
+        "name": "Vietnamese (Han script)"
     },
     {
         "code": "vun",
@@ -5050,6 +5315,16 @@
         "name": "Kangri"
     },
     {
+        "code": "xnr-deva",
+        "autonym": "xnr-deva",
+        "name": "Kangri (Devanagari script)"
+    },
+    {
+        "code": "xnr-takr",
+        "autonym": "xnr-takr",
+        "name": "Kangri (Takri script)"
+    },
+    {
         "code": "xog",
         "autonym": "xog",
         "name": "Soga"
@@ -5090,9 +5365,19 @@
         "name": "Yonaguni"
     },
     {
+        "code": "yoi-hira",
+        "autonym": "yoi-hira",
+        "name": "Yonaguni (Hiragana script)"
+    },
+    {
         "code": "yox",
         "autonym": "yox",
         "name": "Yoron"
+    },
+    {
+        "code": "yox-hira",
+        "autonym": "yox-hira",
+        "name": "Yoron (Hiragana script)"
     },
     {
         "code": "zai",
