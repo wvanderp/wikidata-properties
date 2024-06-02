@@ -430,6 +430,11 @@
         "name": "Chavacano"
     },
     {
+        "code": "ccp",
+        "autonym": "𑄌𑄋𑄴𑄟𑄳𑄦",
+        "name": "Chakma"
+    },
+    {
         "code": "cdo",
         "autonym": "閩東語 / Mìng-dĕ̤ng-ngṳ̄",
         "name": "Mindong"
@@ -1717,7 +1722,7 @@
     {
         "code": "nan-hant",
         "autonym": "閩南語（傳統漢字）",
-        "name": "閩南語（傳統漢字）"
+        "name": "Minnan (Traditional Han script)"
     },
     {
         "code": "nap",
@@ -3235,11 +3240,6 @@
         "name": "Atsam"
     },
     {
-        "code": "ccp",
-        "autonym": "ccp",
-        "name": "Chakma"
-    },
-    {
         "code": "ccp-beng",
         "autonym": "ccp-beng",
         "name": "Chakma (Bengali script)"
@@ -4333,6 +4333,16 @@
         "code": "mye",
         "autonym": "mye",
         "name": "Myene"
+    },
+    {
+        "code": "nan-latn-pehoeji",
+        "autonym": "nan-latn-pehoeji",
+        "name": "Minnan (Pe̍h-ōe-jī)"
+    },
+    {
+        "code": "nan-latn-tailo",
+        "autonym": "nan-latn-tailo",
+        "name": "Minnan (Tâi-lô)"
     },
     {
         "code": "naq",
