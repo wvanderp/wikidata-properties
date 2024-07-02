@@ -8296,5 +8296,23 @@
         "apiUrl": "//kus.wikipedia.org/w/api.php",
         "languageCode": "kus",
         "group": "wikipedia"
+    },
+    "btmwiki": {
+        "shortName": "Batak Mandailing",
+        "name": "Batak Mandailing",
+        "id": "btmwiki",
+        "pageUrl": "//btm.wikipedia.org/wiki/$1",
+        "apiUrl": "//btm.wikipedia.org/w/api.php",
+        "languageCode": "btm",
+        "group": "wikipedia"
+    },
+    "dtpwiki": {
+        "shortName": "Dusun Bundu-liwan",
+        "name": "Dusun Bundu-liwan",
+        "id": "dtpwiki",
+        "pageUrl": "//dtp.wikipedia.org/wiki/$1",
+        "apiUrl": "//dtp.wikipedia.org/w/api.php",
+        "languageCode": "dtp",
+        "group": "wikipedia"
     }
 }
