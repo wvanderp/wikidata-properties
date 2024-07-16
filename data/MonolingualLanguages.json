@@ -1007,7 +1007,7 @@
     {
         "code": "hsn",
         "autonym": "湘语",
-        "name": "Xiang Chinese"
+        "name": "Xiang"
     },
     {
         "code": "ht",
@@ -1038,6 +1038,11 @@
         "code": "ia",
         "autonym": "interlingua",
         "name": "Interlingua"
+    },
+    {
+        "code": "iba",
+        "autonym": "Jaku Iban",
+        "name": "Iban"
     },
     {
         "code": "ibb",
@@ -2451,7 +2456,7 @@
     },
     {
         "code": "tdd",
-        "autonym": "ᥖᥭᥰᥖᥬᥳᥑᥨᥒᥰ",
+        "autonym": "ᥖᥭᥰ ᥖᥬᥲ ᥑᥨᥒᥰ",
         "name": "Tai Nuea"
     },
     {
@@ -3560,6 +3565,16 @@
         "name": "Indian English"
     },
     {
+        "code": "en-jm",
+        "autonym": "en-jm",
+        "name": "Jamaican English"
+    },
+    {
+        "code": "en-nz",
+        "autonym": "en-nz",
+        "name": "New Zealand English"
+    },
+    {
         "code": "enm",
         "autonym": "enm",
         "name": "Middle English"
@@ -3780,6 +3795,11 @@
         "name": "Hausa (Arabic script)"
     },
     {
+        "code": "ha-ne",
+        "autonym": "ha-ne",
+        "name": "Hausa (Niger)"
+    },
+    {
         "code": "hac",
         "autonym": "hac",
         "name": "Gurani"
@@ -3865,6 +3885,16 @@
         "name": "Ho"
     },
     {
+        "code": "hsn-hans",
+        "autonym": "hsn-hans",
+        "name": "Xiang (Simplified Han script)"
+    },
+    {
+        "code": "hsn-hant",
+        "autonym": "hsn-hant",
+        "name": "Xiang (Traditional Han script)"
+    },
+    {
         "code": "hts",
         "autonym": "hts",
         "name": "Hadza"
@@ -3878,11 +3908,6 @@
         "code": "hur",
         "autonym": "hur",
         "name": "Halkomelem"
-    },
-    {
-        "code": "iba",
-        "autonym": "iba",
-        "name": "Iban"
     },
     {
         "code": "ike",
@@ -3980,6 +4005,11 @@
         "name": "Koro"
     },
     {
+        "code": "kfr",
+        "autonym": "kfr",
+        "name": "Kutchi"
+    },
+    {
         "code": "kgp",
         "autonym": "kgp",
         "name": "Kaingang"
@@ -4050,6 +4080,11 @@
         "name": "Northern Kurdish (Latin script)"
     },
     {
+        "code": "kmz",
+        "autonym": "kmz",
+        "name": "Khorasani Turkic"
+    },
+    {
         "code": "knn",
         "autonym": "knn",
         "name": "Maharashtrian Konkani"
@@ -4058,6 +4093,11 @@
         "code": "ko-hani",
         "autonym": "ko-hani",
         "name": "Korean (Hanja script)"
+    },
+    {
+        "code": "ko-kore",
+        "autonym": "ko-kore",
+        "name": "Korean (mixed script)"
     },
     {
         "code": "kok",
@@ -4545,6 +4585,11 @@
         "name": "Northern Paiute"
     },
     {
+        "code": "paq",
+        "autonym": "paq",
+        "name": "Parya"
+    },
+    {
         "code": "pau",
         "autonym": "pau",
         "name": "Palauan"
@@ -4678,6 +4723,11 @@
         "code": "pyu",
         "autonym": "pyu",
         "name": "Puyuma"
+    },
+    {
+        "code": "qxq",
+        "autonym": "qxq",
+        "name": "Qashqai"
     },
     {
         "code": "qya",
@@ -5318,6 +5368,11 @@
         "code": "xbm",
         "autonym": "xbm",
         "name": "Middle Breton"
+    },
+    {
+        "code": "xno",
+        "autonym": "xno",
+        "name": "Anglo-Norman"
     },
     {
         "code": "xnr",
