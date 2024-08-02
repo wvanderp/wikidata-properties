@@ -25,6 +25,11 @@
         "name": "Achinese"
     },
     {
+        "code": "acf",
+        "autonym": "Kwéyòl Sent Lisi",
+        "name": "Saint Lucian Creole"
+    },
+    {
         "code": "acm",
         "autonym": "عراقي",
         "name": "Iraqi Arabic"
@@ -971,8 +976,23 @@
     },
     {
         "code": "hak",
-        "autonym": "客家語/Hak-kâ-ngî",
+        "autonym": "客家語 / Hak-kâ-ngî",
         "name": "Hakka Chinese"
+    },
+    {
+        "code": "hak-hans",
+        "autonym": "客家语（简体）",
+        "name": "Hakka (Simplified Han script)"
+    },
+    {
+        "code": "hak-hant",
+        "autonym": "客家語（繁體）",
+        "name": "Hakka (Traditional Han script)"
+    },
+    {
+        "code": "hak-latn",
+        "autonym": "Hak-kâ-ngî (Pha̍k-fa-sṳ)",
+        "name": "Hak-kâ-ngî (Pha̍k-fa-sṳ)"
     },
     {
         "code": "haw",
@@ -1143,6 +1163,11 @@
         "code": "isu",
         "autonym": "Isu",
         "name": "Isu"
+    },
+    {
+        "code": "isv-latn",
+        "autonym": "medžuslovjansky",
+        "name": "Interslavic (Latin script)"
     },
     {
         "code": "it",
@@ -1760,6 +1785,11 @@
         "name": "Minnan (Traditional Han script)"
     },
     {
+        "code": "nan-latn-pehoeji",
+        "autonym": "Bân-lâm-gú (Pe̍h-ōe-jī)",
+        "name": "Minnan (Pe̍h-ōe-jī)"
+    },
+    {
         "code": "nap",
         "autonym": "Napulitano",
         "name": "Neapolitan"
@@ -1888,6 +1918,11 @@
         "code": "nso",
         "autonym": "Sesotho sa Leboa",
         "name": "Northern Sotho"
+    },
+    {
+        "code": "nup",
+        "autonym": "Nupe",
+        "name": "Nupe"
     },
     {
         "code": "nv",
@@ -2958,5 +2993,10 @@
         "code": "zu",
         "autonym": "isiZulu",
         "name": "Zulu"
+    },
+    {
+        "code": "mul",
+        "autonym": "mul",
+        "name": "default values for all languages"
     }
 ]

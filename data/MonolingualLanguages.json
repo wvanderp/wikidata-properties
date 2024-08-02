@@ -25,6 +25,11 @@
         "name": "Achinese"
     },
     {
+        "code": "acf",
+        "autonym": "Kwéyòl Sent Lisi",
+        "name": "Saint Lucian Creole"
+    },
+    {
         "code": "acm",
         "autonym": "عراقي",
         "name": "Iraqi Arabic"
@@ -946,8 +951,23 @@
     },
     {
         "code": "hak",
-        "autonym": "客家語/Hak-kâ-ngî",
+        "autonym": "客家語 / Hak-kâ-ngî",
         "name": "Hakka Chinese"
+    },
+    {
+        "code": "hak-hans",
+        "autonym": "客家语（简体）",
+        "name": "Hakka (Simplified Han script)"
+    },
+    {
+        "code": "hak-hant",
+        "autonym": "客家語（繁體）",
+        "name": "Hakka (Traditional Han script)"
+    },
+    {
+        "code": "hak-latn",
+        "autonym": "Hak-kâ-ngî (Pha̍k-fa-sṳ)",
+        "name": "Hak-kâ-ngî (Pha̍k-fa-sṳ)"
     },
     {
         "code": "haw",
@@ -1113,6 +1133,11 @@
         "code": "isu",
         "autonym": "Isu",
         "name": "Isu"
+    },
+    {
+        "code": "isv-latn",
+        "autonym": "medžuslovjansky",
+        "name": "Interslavic (Latin script)"
     },
     {
         "code": "it",
@@ -1730,6 +1755,11 @@
         "name": "Minnan (Traditional Han script)"
     },
     {
+        "code": "nan-latn-pehoeji",
+        "autonym": "Bân-lâm-gú (Pe̍h-ōe-jī)",
+        "name": "Minnan (Pe̍h-ōe-jī)"
+    },
+    {
         "code": "nap",
         "autonym": "Napulitano",
         "name": "Neapolitan"
@@ -1853,6 +1883,11 @@
         "code": "nso",
         "autonym": "Sesotho sa Leboa",
         "name": "Northern Sotho"
+    },
+    {
+        "code": "nup",
+        "autonym": "Nupe",
+        "name": "Nupe"
     },
     {
         "code": "nv",
@@ -2940,6 +2975,11 @@
         "name": "Afrihili"
     },
     {
+        "code": "aii",
+        "autonym": "aii",
+        "name": "Assyrian Neo-Aramaic"
+    },
+    {
         "code": "ain",
         "autonym": "ain",
         "name": "Ainu"
@@ -3253,6 +3293,16 @@
         "code": "cdo-hani",
         "autonym": "cdo-hani",
         "name": "Mindong (Han script)"
+    },
+    {
+        "code": "cdo-hant",
+        "autonym": "cdo-hant",
+        "name": "Mindong (Traditional Han script)"
+    },
+    {
+        "code": "cdo-latn",
+        "autonym": "cdo-latn",
+        "name": "Mindong (Latin script)"
     },
     {
         "code": "cgg",
@@ -3810,16 +3860,6 @@
         "name": "Haida"
     },
     {
-        "code": "hak-hans",
-        "autonym": "hak-hans",
-        "name": "Hakka (Simplified Han script)"
-    },
-    {
-        "code": "hak-hant",
-        "autonym": "hak-hant",
-        "name": "Hakka (Traditional Han script)"
-    },
-    {
         "code": "hav",
         "autonym": "hav",
         "name": "Havu"
@@ -4375,11 +4415,6 @@
         "name": "Myene"
     },
     {
-        "code": "nan-latn-pehoeji",
-        "autonym": "nan-latn-pehoeji",
-        "name": "Minnan (Pe̍h-ōe-jī)"
-    },
-    {
         "code": "nan-latn-tailo",
         "autonym": "nan-latn-tailo",
         "name": "Minnan (Tâi-lô)"
@@ -4620,6 +4655,11 @@
         "name": "Gāndhārī (Kharoshthi script)"
     },
     {
+        "code": "phl",
+        "autonym": "phl",
+        "name": "Palula"
+    },
+    {
         "code": "phn",
         "autonym": "phn",
         "name": "Phoenician"
@@ -4678,6 +4718,16 @@
         "code": "prs",
         "autonym": "prs",
         "name": "Dari"
+    },
+    {
+        "code": "ps-af",
+        "autonym": "ps-af",
+        "name": "Pashto (Afghanistan)"
+    },
+    {
+        "code": "ps-pk",
+        "autonym": "ps-pk",
+        "name": "Pashto (Pakistan)"
     },
     {
         "code": "psu",
@@ -4948,6 +4998,21 @@
         "code": "sd-deva",
         "autonym": "sd-deva",
         "name": "Sindhi (Devanagari script)"
+    },
+    {
+        "code": "sd-gujr",
+        "autonym": "sd-gujr",
+        "name": "Sindhi (Gujarati script)"
+    },
+    {
+        "code": "sd-khoj",
+        "autonym": "sd-khoj",
+        "name": "Sindhi (Khojki script)"
+    },
+    {
+        "code": "sd-sind",
+        "autonym": "sd-sind",
+        "name": "Sindhi (Khudawadi script)"
     },
     {
         "code": "sdh-arab",

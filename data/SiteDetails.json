@@ -863,6 +863,15 @@
         "languageCode": "cs",
         "group": "wikiversity"
     },
+    "cswikivoyage": {
+        "shortName": "čeština",
+        "name": "čeština",
+        "id": "cswikivoyage",
+        "pageUrl": "//cs.wikivoyage.org/wiki/$1",
+        "apiUrl": "//cs.wikivoyage.org/w/api.php",
+        "languageCode": "cs",
+        "group": "wikivoyage"
+    },
     "cswiktionary": {
         "shortName": "čeština",
         "name": "čeština",
@@ -5931,8 +5940,8 @@
         "group": "wikipedia"
     },
     "hakwiki": {
-        "shortName": "客家語/Hak-kâ-ngî",
-        "name": "客家語/Hak-kâ-ngî",
+        "shortName": "客家語 / Hak-kâ-ngî",
+        "name": "客家語 / Hak-kâ-ngî",
         "id": "hakwiki",
         "pageUrl": "//hak.wikipedia.org/wiki/$1",
         "apiUrl": "//hak.wikipedia.org/w/api.php",
