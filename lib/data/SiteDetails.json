@@ -8323,5 +8323,14 @@
         "apiUrl": "//dtp.wikipedia.org/w/api.php",
         "languageCode": "dtp",
         "group": "wikipedia"
+    },
+    "bdrwiki": {
+        "shortName": "Bajau Sama",
+        "name": "Bajau Sama",
+        "id": "bdrwiki",
+        "pageUrl": "//bdr.wikipedia.org/wiki/$1",
+        "apiUrl": "//bdr.wikipedia.org/w/api.php",
+        "languageCode": "bdr",
+        "group": "wikipedia"
     }
 }
