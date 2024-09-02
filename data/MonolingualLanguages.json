@@ -1760,6 +1760,11 @@
         "name": "Minnan (Pe̍h-ōe-jī)"
     },
     {
+        "code": "nan-latn-tailo",
+        "autonym": "Bân-lâm-gú (Tâi-lô)",
+        "name": "Minnan (Tâi-lô)"
+    },
+    {
         "code": "nap",
         "autonym": "Napulitano",
         "name": "Neapolitan"
@@ -4425,11 +4430,6 @@
         "name": "Myene"
     },
     {
-        "code": "nan-latn-tailo",
-        "autonym": "nan-latn-tailo",
-        "name": "Minnan (Tâi-lô)"
-    },
-    {
         "code": "naq",
         "autonym": "naq",
         "name": "Nama"
@@ -5253,6 +5253,11 @@
         "code": "tiv",
         "autonym": "tiv",
         "name": "Tiv"
+    },
+    {
+        "code": "tji",
+        "autonym": "tji",
+        "name": "Northern Tujia"
     },
     {
         "code": "tkl",

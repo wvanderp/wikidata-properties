@@ -1790,6 +1790,11 @@
         "name": "Minnan (Pe̍h-ōe-jī)"
     },
     {
+        "code": "nan-latn-tailo",
+        "autonym": "Bân-lâm-gú (Tâi-lô)",
+        "name": "Minnan (Tâi-lô)"
+    },
+    {
         "code": "nap",
         "autonym": "Napulitano",
         "name": "Neapolitan"
@@ -2997,6 +3002,6 @@
     {
         "code": "mul",
         "autonym": "mul",
-        "name": "default values for all languages"
+        "name": "default for all languages"
     }
 ]
