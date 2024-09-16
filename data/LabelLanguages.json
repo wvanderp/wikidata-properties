@@ -310,6 +310,11 @@
         "name": "Bulgarian"
     },
     {
+        "code": "bgc",
+        "autonym": "हरियाणवी",
+        "name": "Haryanvi"
+    },
+    {
         "code": "bgn",
         "autonym": "روچ کپتین بلوچی",
         "name": "Western Balochi"

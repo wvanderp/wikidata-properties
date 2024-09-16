@@ -300,6 +300,11 @@
         "name": "Bulgarian"
     },
     {
+        "code": "bgc",
+        "autonym": "हरियाणवी",
+        "name": "Haryanvi"
+    },
+    {
         "code": "bgn",
         "autonym": "روچ کپتین بلوچی",
         "name": "Western Balochi"
@@ -3140,11 +3145,6 @@
         "name": "Mahasu Pahari (Takri script)"
     },
     {
-        "code": "bgc",
-        "autonym": "bgc",
-        "name": "Haryanvi"
-    },
-    {
         "code": "bgc-arab",
         "autonym": "bgc-arab",
         "name": "Haryanvi (Arabic script)"
@@ -5538,6 +5538,11 @@
         "code": "zen",
         "autonym": "zen",
         "name": "Zenaga"
+    },
+    {
+        "code": "zmi",
+        "autonym": "zmi",
+        "name": "Negeri Sembilan Malay"
     },
     {
         "code": "zpu",
