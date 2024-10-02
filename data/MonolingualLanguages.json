@@ -507,22 +507,22 @@
     {
         "code": "cpx",
         "autonym": "莆仙語 / Pó-sing-gṳ̂",
-        "name": "Pu–Xian Min"
+        "name": "Puxian"
     },
     {
         "code": "cpx-hans",
         "autonym": "莆仙语（简体）",
-        "name": "Pu–Xian Min (Simplified Han script)"
+        "name": "Puxian (Simplified Han script)"
     },
     {
         "code": "cpx-hant",
         "autonym": "莆仙語（繁體）",
-        "name": "Pu–Xian Min (Traditional Han script)"
+        "name": "Puxian (Traditional Han script)"
     },
     {
         "code": "cpx-latn",
         "autonym": "Pó-sing-gṳ̂ (Báⁿ-uā-ci̍)",
-        "name": "Pu–Xian Min (Latin script)"
+        "name": "Puxian (Latin script)"
     },
     {
         "code": "cr",
@@ -1031,7 +1031,7 @@
     },
     {
         "code": "hsn",
-        "autonym": "湘语",
+        "autonym": "湘語",
         "name": "Xiang"
     },
     {
@@ -1138,6 +1138,11 @@
         "code": "isu",
         "autonym": "Isu",
         "name": "Isu"
+    },
+    {
+        "code": "isv-cyrl",
+        "autonym": "меджусловјанскы",
+        "name": "меджусловјанскы"
     },
     {
         "code": "isv-latn",
@@ -2538,6 +2543,11 @@
         "code": "ti",
         "autonym": "ትግርኛ",
         "name": "Tigrinya"
+    },
+    {
+        "code": "tig",
+        "autonym": "ትግሬ",
+        "name": "Tigre"
     },
     {
         "code": "tk",
@@ -5243,11 +5253,6 @@
         "code": "tht",
         "autonym": "tht",
         "name": "Tahltan"
-    },
-    {
-        "code": "tig",
-        "autonym": "tig",
-        "name": "Tigre"
     },
     {
         "code": "tiv",
