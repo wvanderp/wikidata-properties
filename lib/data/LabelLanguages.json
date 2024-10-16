@@ -1172,7 +1172,7 @@
     {
         "code": "isv-cyrl",
         "autonym": "меджусловјанскы",
-        "name": "меджусловјанскы"
+        "name": "Interslavic (Cyrillic script)"
     },
     {
         "code": "isv-latn",
@@ -1271,7 +1271,7 @@
     },
     {
         "code": "kge",
-        "autonym": "Basa Kumoring",
+        "autonym": "Kumoring",
         "name": "Komering"
     },
     {
@@ -1447,7 +1447,7 @@
     {
         "code": "kus",
         "autonym": "Kʋsaal",
-        "name": "Kʋsaal"
+        "name": "Kusaal"
     },
     {
         "code": "kv",
@@ -1570,6 +1570,11 @@
         "name": "Latgalian"
     },
     {
+        "code": "lua",
+        "autonym": "ciluba",
+        "name": "Luba-Lulua"
+    },
+    {
         "code": "lus",
         "autonym": "Mizo ţawng",
         "name": "Mizo"
@@ -1612,7 +1617,7 @@
     {
         "code": "map-bms",
         "autonym": "Basa Banyumasan",
-        "name": "Basa Banyumasan"
+        "name": "Banyumasan"
     },
     {
         "code": "mcn",
@@ -1671,7 +1676,7 @@
     },
     {
         "code": "mnc",
-        "autonym": "ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ",
+        "autonym": "manju gisun",
         "name": "Manchu"
     },
     {
@@ -1777,7 +1782,7 @@
     {
         "code": "nah",
         "autonym": "Nāhuatl",
-        "name": "Nāhuatl"
+        "name": "Nahuatl"
     },
     {
         "code": "nan",
@@ -1852,7 +1857,7 @@
     {
         "code": "nit",
         "autonym": "కొలామి",
-        "name": "కొలామి"
+        "name": "Southeastern Kolami"
     },
     {
         "code": "niu",
@@ -1923,6 +1928,11 @@
         "code": "nqo",
         "autonym": "ߒߞߏ",
         "name": "N’Ko"
+    },
+    {
+        "code": "nr",
+        "autonym": "isiNdebele seSewula",
+        "name": "South Ndebele"
     },
     {
         "code": "nrm",
@@ -2947,7 +2957,7 @@
     {
         "code": "zgh-latn",
         "autonym": "tamaziɣt tanawayt",
-        "name": "tamaziɣt tanawayt"
+        "name": "Standard Moroccan Tamazight (Latin script)"
     },
     {
         "code": "zh",

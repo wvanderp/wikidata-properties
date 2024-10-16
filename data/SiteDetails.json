@@ -368,6 +368,15 @@
         "languageCode": "bcl",
         "group": "wikiquote"
     },
+    "bclwikisource": {
+        "shortName": "Bikol Central",
+        "name": "Bikol Central",
+        "id": "bclwikisource",
+        "pageUrl": "//bcl.wikisource.org/wiki/$1",
+        "apiUrl": "//bcl.wikisource.org/w/api.php",
+        "languageCode": "bcl",
+        "group": "wikisource"
+    },
     "bclwiktionary": {
         "shortName": "Bikol Central",
         "name": "Bikol Central",
@@ -1691,6 +1700,15 @@
         "languageCode": "gom",
         "group": "wiktionary"
     },
+    "gorwikiquote": {
+        "shortName": "Bahasa Hulontalo",
+        "name": "Bahasa Hulontalo",
+        "id": "gorwikiquote",
+        "pageUrl": "//gor.wikiquote.org/wiki/$1",
+        "apiUrl": "//gor.wikiquote.org/w/api.php",
+        "languageCode": "gor",
+        "group": "wikiquote"
+    },
     "gorwiktionary": {
         "shortName": "Bahasa Hulontalo",
         "name": "Bahasa Hulontalo",
@@ -2870,6 +2888,15 @@
         "languageCode": "lv",
         "group": "wiktionary"
     },
+    "madwiktionary": {
+        "shortName": "Madhurâ",
+        "name": "Madhurâ",
+        "id": "madwiktionary",
+        "pageUrl": "//mad.wiktionary.org/wiki/$1",
+        "apiUrl": "//mad.wiktionary.org/w/api.php",
+        "languageCode": "mad",
+        "group": "wiktionary"
+    },
     "mgwikibooks": {
         "shortName": "Malagasy",
         "name": "Malagasy",
@@ -3904,6 +3931,15 @@
         "apiUrl": "//shn.wikibooks.org/w/api.php",
         "languageCode": "shn",
         "group": "wikibooks"
+    },
+    "shnwikinews": {
+        "shortName": "ၽႃႇသႃႇတႆး ",
+        "name": "ၽႃႇသႃႇတႆး ",
+        "id": "shnwikinews",
+        "pageUrl": "//shn.wikinews.org/wiki/$1",
+        "apiUrl": "//shn.wikinews.org/w/api.php",
+        "languageCode": "shn",
+        "group": "wikinews"
     },
     "shnwikivoyage": {
         "shortName": "ၽႃႇသႃႇတႆး ",
@@ -8331,6 +8367,69 @@
         "pageUrl": "//bdr.wikipedia.org/wiki/$1",
         "apiUrl": "//bdr.wikipedia.org/w/api.php",
         "languageCode": "bdr",
+        "group": "wikipedia"
+    },
+    "kgewiki": {
+        "shortName": "Kumoring",
+        "name": "Kumoring",
+        "id": "kgewiki",
+        "pageUrl": "//kge.wikipedia.org/wiki/$1",
+        "apiUrl": "//kge.wikipedia.org/w/api.php",
+        "languageCode": "kge",
+        "group": "wikipedia"
+    },
+    "moswiki": {
+        "shortName": "moore",
+        "name": "moore",
+        "id": "moswiki",
+        "pageUrl": "//mos.wikipedia.org/wiki/$1",
+        "apiUrl": "//mos.wikipedia.org/w/api.php",
+        "languageCode": "mos",
+        "group": "wikipedia"
+    },
+    "annwiki": {
+        "shortName": "Obolo",
+        "name": "Obolo",
+        "id": "annwiki",
+        "pageUrl": "//ann.wikipedia.org/wiki/$1",
+        "apiUrl": "//ann.wikipedia.org/w/api.php",
+        "languageCode": "ann",
+        "group": "wikipedia"
+    },
+    "ibawiki": {
+        "shortName": "Jaku Iban",
+        "name": "Jaku Iban",
+        "id": "ibawiki",
+        "pageUrl": "//iba.wikipedia.org/wiki/$1",
+        "apiUrl": "//iba.wikipedia.org/w/api.php",
+        "languageCode": "iba",
+        "group": "wikipedia"
+    },
+    "nrwiki": {
+        "shortName": "isiNdebele seSewula",
+        "name": "isiNdebele seSewula",
+        "id": "nrwiki",
+        "pageUrl": "//nr.wikipedia.org/wiki/$1",
+        "apiUrl": "//nr.wikipedia.org/w/api.php",
+        "languageCode": "nr",
+        "group": "wikipedia"
+    },
+    "rskwiki": {
+        "shortName": "руски",
+        "name": "руски",
+        "id": "rskwiki",
+        "pageUrl": "//rsk.wikipedia.org/wiki/$1",
+        "apiUrl": "//rsk.wikipedia.org/w/api.php",
+        "languageCode": "rsk",
+        "group": "wikipedia"
+    },
+    "tddwiki": {
+        "shortName": "ᥖᥭᥰ ᥖᥬᥲ ᥑᥨᥒᥰ",
+        "name": "ᥖᥭᥰ ᥖᥬᥲ ᥑᥨᥒᥰ",
+        "id": "tddwiki",
+        "pageUrl": "//tdd.wikipedia.org/wiki/$1",
+        "apiUrl": "//tdd.wikipedia.org/w/api.php",
+        "languageCode": "tdd",
         "group": "wikipedia"
     }
 }
