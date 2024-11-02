@@ -22,7 +22,7 @@
     {
         "code": "ace",
         "autonym": "Acèh",
-        "name": "Achinese"
+        "name": "Acehnese"
     },
     {
         "code": "acf",
@@ -636,7 +636,7 @@
     },
     {
         "code": "dtp",
-        "autonym": "Dusun Bundu-liwan",
+        "autonym": "Kadazandusun",
         "name": "Central Dusun"
     },
     {
@@ -1353,6 +1353,11 @@
         "code": "kn",
         "autonym": "ಕನ್ನಡ",
         "name": "Kannada"
+    },
+    {
+        "code": "knc",
+        "autonym": "Yerwa Kanuri",
+        "name": "Central Kanuri"
     },
     {
         "code": "ko",

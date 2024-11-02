@@ -22,7 +22,7 @@
     {
         "code": "ace",
         "autonym": "Acèh",
-        "name": "Achinese"
+        "name": "Acehnese"
     },
     {
         "code": "acf",
@@ -621,7 +621,7 @@
     },
     {
         "code": "dtp",
-        "autonym": "Dusun Bundu-liwan",
+        "autonym": "Kadazandusun",
         "name": "Central Dusun"
     },
     {
@@ -1323,6 +1323,11 @@
         "code": "kn",
         "autonym": "ಕನ್ನಡ",
         "name": "Kannada"
+    },
+    {
+        "code": "knc",
+        "autonym": "Yerwa Kanuri",
+        "name": "Central Kanuri"
     },
     {
         "code": "ko",
@@ -3030,6 +3035,11 @@
         "name": "Ajagbe"
     },
     {
+        "code": "akb",
+        "autonym": "akb",
+        "name": "Batak Angkola"
+    },
+    {
         "code": "akk",
         "autonym": "akk",
         "name": "Akkadian"
@@ -3315,6 +3325,26 @@
         "name": "Akoose"
     },
     {
+        "code": "btd",
+        "autonym": "btd",
+        "name": "Batak Dairi"
+    },
+    {
+        "code": "bts",
+        "autonym": "bts",
+        "name": "Batak Simalungun"
+    },
+    {
+        "code": "btx",
+        "autonym": "btx",
+        "name": "Batak Karo"
+    },
+    {
+        "code": "btz",
+        "autonym": "btz",
+        "name": "Batak Alas-Kluet"
+    },
+    {
         "code": "bua",
         "autonym": "bua",
         "name": "Buriat"
@@ -3488,6 +3518,11 @@
         "code": "ckb-latn",
         "autonym": "ckb-latn",
         "name": "Central Kurdish (Latin script)"
+    },
+    {
+        "code": "cko",
+        "autonym": "cko",
+        "name": "Anufo"
     },
     {
         "code": "ckt",
@@ -4470,9 +4505,19 @@
         "name": "Masai"
     },
     {
+        "code": "maw",
+        "autonym": "maw",
+        "name": "Mampruli"
+    },
+    {
         "code": "mde",
         "autonym": "mde",
         "name": "Maba"
+    },
+    {
+        "code": "mdh",
+        "autonym": "mdh",
+        "name": "Maguindanaon"
     },
     {
         "code": "mdr",

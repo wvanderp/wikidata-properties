@@ -8352,8 +8352,8 @@
         "group": "wikipedia"
     },
     "dtpwiki": {
-        "shortName": "Dusun Bundu-liwan",
-        "name": "Dusun Bundu-liwan",
+        "shortName": "Kadazandusun",
+        "name": "Kadazandusun",
         "id": "dtpwiki",
         "pageUrl": "//dtp.wikipedia.org/wiki/$1",
         "apiUrl": "//dtp.wikipedia.org/w/api.php",
