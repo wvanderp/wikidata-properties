@@ -4400,6 +4400,24 @@
         "languageCode": "ta",
         "group": "wiktionary"
     },
+    "tcywikisource": {
+        "shortName": "ತುಳು",
+        "name": "ತುಳು",
+        "id": "tcywikisource",
+        "pageUrl": "//tcy.wikisource.org/wiki/$1",
+        "apiUrl": "//tcy.wikisource.org/w/api.php",
+        "languageCode": "tcy",
+        "group": "wikisource"
+    },
+    "tcywiktionary": {
+        "shortName": "ತುಳು",
+        "name": "ತುಳು",
+        "id": "tcywiktionary",
+        "pageUrl": "//tcy.wiktionary.org/wiki/$1",
+        "apiUrl": "//tcy.wiktionary.org/w/api.php",
+        "languageCode": "tcy",
+        "group": "wiktionary"
+    },
     "tewikibooks": {
         "shortName": "తెలుగు",
         "name": "తెలుగు",
