@@ -450,6 +450,16 @@
         "name": "Mindong"
     },
     {
+        "code": "cdo-hant",
+        "autonym": "閩東語（傳統漢字）",
+        "name": "Mindong (Traditional Han script)"
+    },
+    {
+        "code": "cdo-latn",
+        "autonym": "Mìng-dĕ̤ng-ngṳ̄ (Bàng-uâ-cê)",
+        "name": "Mindong (Latin script)"
+    },
+    {
         "code": "ce",
         "autonym": "нохчийн",
         "name": "Chechen"
@@ -1003,6 +1013,11 @@
         "code": "hil",
         "autonym": "Ilonggo",
         "name": "Hiligaynon"
+    },
+    {
+        "code": "hke",
+        "autonym": "kihunde",
+        "name": "Hunde"
     },
     {
         "code": "hno",
@@ -3410,16 +3425,6 @@
         "name": "Mindong (Han script)"
     },
     {
-        "code": "cdo-hant",
-        "autonym": "cdo-hant",
-        "name": "Mindong (Traditional Han script)"
-    },
-    {
-        "code": "cdo-latn",
-        "autonym": "cdo-latn",
-        "name": "Mindong (Latin script)"
-    },
-    {
         "code": "cgg",
         "autonym": "cgg",
         "name": "Chiga"
@@ -4068,11 +4073,6 @@
         "code": "hit-xsux",
         "autonym": "hit-xsux",
         "name": "Hittite (Cuneiform script)"
-    },
-    {
-        "code": "hke",
-        "autonym": "hke",
-        "name": "Hunde"
     },
     {
         "code": "hmn",
@@ -5385,6 +5385,11 @@
         "name": "Sindarin"
     },
     {
+        "code": "sjo",
+        "autonym": "sjo",
+        "name": "Xibe"
+    },
+    {
         "code": "sjt",
         "autonym": "sjt",
         "name": "Ter Sami"
@@ -5773,6 +5778,11 @@
         "code": "xog",
         "autonym": "xog",
         "name": "Soga"
+    },
+    {
+        "code": "xon",
+        "autonym": "xon",
+        "name": "Konkomba"
     },
     {
         "code": "xpu",

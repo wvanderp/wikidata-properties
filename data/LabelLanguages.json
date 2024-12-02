@@ -460,6 +460,16 @@
         "name": "Mindong"
     },
     {
+        "code": "cdo-hant",
+        "autonym": "閩東語（傳統漢字）",
+        "name": "Mindong (Traditional Han script)"
+    },
+    {
+        "code": "cdo-latn",
+        "autonym": "Mìng-dĕ̤ng-ngṳ̄ (Bàng-uâ-cê)",
+        "name": "Mindong (Latin script)"
+    },
+    {
         "code": "ce",
         "autonym": "нохчийн",
         "name": "Chechen"
@@ -1028,6 +1038,11 @@
         "code": "hil",
         "autonym": "Ilonggo",
         "name": "Hiligaynon"
+    },
+    {
+        "code": "hke",
+        "autonym": "kihunde",
+        "name": "Hunde"
     },
     {
         "code": "hno",
