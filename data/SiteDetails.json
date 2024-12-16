@@ -2105,6 +2105,15 @@
         "languageCode": "id",
         "group": "wikisource"
     },
+    "idwikivoyage": {
+        "shortName": "Bahasa Indonesia",
+        "name": "Bahasa Indonesia",
+        "id": "idwikivoyage",
+        "pageUrl": "//id.wikivoyage.org/wiki/$1",
+        "apiUrl": "//id.wikivoyage.org/w/api.php",
+        "languageCode": "id",
+        "group": "wikivoyage"
+    },
     "idwiktionary": {
         "shortName": "Bahasa Indonesia",
         "name": "Bahasa Indonesia",
