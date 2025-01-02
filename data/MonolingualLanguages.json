@@ -510,6 +510,11 @@
         "name": "Corsican"
     },
     {
+        "code": "cop",
+        "autonym": "ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ",
+        "name": "Coptic"
+    },
+    {
         "code": "cps",
         "autonym": "Capiceño",
         "name": "Capiznon"
@@ -818,6 +823,11 @@
         "code": "fur",
         "autonym": "furlan",
         "name": "Friulian"
+    },
+    {
+        "code": "fvr",
+        "autonym": "poor’íŋ belé’ŋ",
+        "name": "Fur"
     },
     {
         "code": "fy",
@@ -3565,11 +3575,6 @@
         "name": "Middle Cornish"
     },
     {
-        "code": "cop",
-        "autonym": "cop",
-        "name": "Coptic"
-    },
-    {
         "code": "crb",
         "autonym": "crb",
         "name": "Island Carib"
@@ -3883,11 +3888,6 @@
         "code": "fuf",
         "autonym": "fuf",
         "name": "Pular"
-    },
-    {
-        "code": "fvr",
-        "autonym": "fvr",
-        "name": "Fur"
     },
     {
         "code": "gay",

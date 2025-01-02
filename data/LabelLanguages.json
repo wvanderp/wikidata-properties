@@ -520,6 +520,11 @@
         "name": "Corsican"
     },
     {
+        "code": "cop",
+        "autonym": "ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ",
+        "name": "Coptic"
+    },
+    {
         "code": "cps",
         "autonym": "Capiceño",
         "name": "Capiznon"
@@ -843,6 +848,11 @@
         "code": "fur",
         "autonym": "furlan",
         "name": "Friulian"
+    },
+    {
+        "code": "fvr",
+        "autonym": "poor’íŋ belé’ŋ",
+        "name": "Fur"
     },
     {
         "code": "fy",

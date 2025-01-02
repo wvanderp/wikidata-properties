@@ -7794,8 +7794,8 @@
         "group": "special"
     },
     "foundationwiki": {
-        "shortName": "foundationwiki",
-        "name": "foundationwiki",
+        "shortName": "Wikimedia Foundation",
+        "name": "Wikimedia Foundation",
         "id": "foundationwiki",
         "pageUrl": "//foundation.wikimedia.org/wiki/$1",
         "apiUrl": "//foundation.wikimedia.org/w/api.php",
@@ -7821,8 +7821,8 @@
         "group": "special"
     },
     "outreachwiki": {
-        "shortName": "outreachwiki",
-        "name": "outreachwiki",
+        "shortName": "Outreach",
+        "name": "Outreach",
         "id": "outreachwiki",
         "pageUrl": "//outreach.wikimedia.org/wiki/$1",
         "apiUrl": "//outreach.wikimedia.org/w/api.php",
@@ -7839,8 +7839,8 @@
         "group": "special"
     },
     "specieswiki": {
-        "shortName": "specieswiki",
-        "name": "specieswiki",
+        "shortName": "Wikispecies",
+        "name": "Wikispecies",
         "id": "specieswiki",
         "pageUrl": "//species.wikimedia.org/wiki/$1",
         "apiUrl": "//species.wikimedia.org/w/api.php",
@@ -7992,8 +7992,8 @@
         "group": "wikipedia"
     },
     "wikimaniawiki": {
-        "shortName": "wikimaniawiki",
-        "name": "wikimaniawiki",
+        "shortName": "Wikimania",
+        "name": "Wikimania",
         "id": "wikimaniawiki",
         "pageUrl": "//wikimania.wikimedia.org/wiki/$1",
         "apiUrl": "//wikimania.wikimedia.org/w/api.php",
@@ -8289,8 +8289,8 @@
         "group": "wikipedia"
     },
     "wikifunctionswiki": {
-        "shortName": "wikifunctionswiki",
-        "name": "wikifunctionswiki",
+        "shortName": "Wikifunctions",
+        "name": "Wikifunctions",
         "id": "wikifunctionswiki",
         "pageUrl": "//www.wikifunctions.org/wiki/$1",
         "apiUrl": "//www.wikifunctions.org/w/api.php",
