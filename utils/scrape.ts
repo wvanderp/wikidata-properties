@@ -29,9 +29,9 @@ async function getLanguages(url: string, name: string) {
 	await getProperties();
 
 	const monoUrl = 'https://www.wikidata.org/w/api.php?action=query&format=json&meta=wbcontentlanguages&formatversion=2&wbclcontext=monolingualtext&wbclprop=code%7Cautonym%7Cname';
-	const labelUrl = 'https://www.wikidata.org/w/api.php?action=query&format=json&meta=wbcontentlanguages&formatversion=2&wbclprop=code%7Cautonym%7Cname';
-
 	await getLanguages(monoUrl, 'MonolingualLanguages');
+
+	const labelUrl = 'https://www.wikidata.org/w/api.php?action=query&format=json&meta=wbcontentlanguages&formatversion=2&wbclprop=code%7Cautonym%7Cname';
 	await getLanguages(labelUrl, 'LabelLanguages');
 
 	await siteDetails();

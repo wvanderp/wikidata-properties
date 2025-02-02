@@ -11,8 +11,6 @@
   "bugs": {
     "url": "https://github.com/wvanderp/wikidata-properties/issues"
   },
-
-
   "main": "lib/src/index.js",
   "types": "lib/src/index.d.ts",
   "scripts": {
@@ -20,26 +18,22 @@
     "build": "npm run scrape && tsc -b",
     "test": "mocha"
   },
-
-
   "dependencies": {
     "lodash": "^4.17.21"
   },
-
   "devDependencies": {
-    "@types/chai": "^4.3.4",
-    "@types/lodash": "^4.14.191",
-    "@types/mocha": "^10.0.1",
-    "@types/node": "^18.11.18",
+    "@types/chai": "^5.0.1",
+    "@types/lodash": "^4.17.15",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.13.0",
     "@types/puppeteer": "^5.4.7",
     "@wmde/wikibase-datamodel-types": "git+https://github.com/wvanderp/WikibaseDataModelTypes.git",
-    "axios": "1.2.1",
-    "chai": "^4.3.7",
-    "mocha": "^10.2.0",
-    "puppeteer": "^19.4.1",
-    "ts-node": "^10.9.1",
-    "typescript": "^4.9.4",
-    "wtf_wikipedia": "^10.0.5"
+    "axios": "1.7.9",
+    "chai": "^5.1.2",
+    "mocha": "^11.1.0",
+    "puppeteer": "^24.1.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3",
+    "wtf_wikipedia": "^10.3.2"
   }
 }
-
