@@ -21,7 +21,6 @@ export interface language {
     name: string
 }
 
-
 export interface SiteDetails {
     [key: string]: {
         shortName: string;
