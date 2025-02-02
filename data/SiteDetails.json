@@ -8458,5 +8458,23 @@
         "apiUrl": "//tdd.wikipedia.org/w/api.php",
         "languageCode": "tdd",
         "group": "wikipedia"
+    },
+    "tigwiki": {
+        "shortName": "ትግሬ",
+        "name": "ትግሬ",
+        "id": "tigwiki",
+        "pageUrl": "//tig.wikipedia.org/wiki/$1",
+        "apiUrl": "//tig.wikipedia.org/w/api.php",
+        "languageCode": "tig",
+        "group": "wikipedia"
+    },
+    "kncwiki": {
+        "shortName": "Yerwa Kanuri",
+        "name": "Yerwa Kanuri",
+        "id": "kncwiki",
+        "pageUrl": "//knc.wikipedia.org/wiki/$1",
+        "apiUrl": "//knc.wikipedia.org/w/api.php",
+        "languageCode": "knc",
+        "group": "wikipedia"
     }
 }

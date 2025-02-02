@@ -305,6 +305,11 @@
         "name": "Bafut"
     },
     {
+        "code": "bfw",
+        "autonym": "ରେମସାମ୍",
+        "name": "Bonda"
+    },
+    {
         "code": "bg",
         "autonym": "български",
         "name": "Bulgarian"
@@ -412,7 +417,7 @@
     {
         "code": "bto",
         "autonym": "Iriga Bicolano",
-        "name": "Iriga Bicolano"
+        "name": "Rinconada Bikol"
     },
     {
         "code": "bug",
@@ -632,7 +637,7 @@
     {
         "code": "dga",
         "autonym": "Dagaare",
-        "name": "Dagaare"
+        "name": "Southern Dagaare"
     },
     {
         "code": "din",
@@ -642,12 +647,17 @@
     {
         "code": "diq",
         "autonym": "Zazaki",
-        "name": "Zazaki"
+        "name": "Dimli"
     },
     {
         "code": "dsb",
         "autonym": "dolnoserbski",
         "name": "Lower Sorbian"
+    },
+    {
+        "code": "dso",
+        "autonym": "ଦେଶିଆ",
+        "name": "Desiya"
     },
     {
         "code": "dtp",
@@ -905,6 +915,16 @@
         "name": "Scottish Gaelic"
     },
     {
+        "code": "gju-arab",
+        "autonym": "گوجری",
+        "name": "Gujari (Arabic script)"
+    },
+    {
+        "code": "gju-deva",
+        "autonym": "गुज्जरी",
+        "name": "Gujari (Devanagari script)"
+    },
+    {
         "code": "gl",
         "autonym": "galego",
         "name": "Galician"
@@ -1017,7 +1037,7 @@
     {
         "code": "hak-latn",
         "autonym": "Hak-kâ-ngî (Pha̍k-fa-sṳ)",
-        "name": "Hak-kâ-ngî (Pha̍k-fa-sṳ)"
+        "name": "Hakka (Latin script)"
     },
     {
         "code": "haw",
@@ -1063,6 +1083,11 @@
         "code": "ho",
         "autonym": "Hiri Motu",
         "name": "Hiri Motu"
+    },
+    {
+        "code": "hoc",
+        "autonym": "𑢹𑣉𑣉 𑣎𑣋𑣜",
+        "name": "Ho"
     },
     {
         "code": "hr",
@@ -1298,6 +1323,11 @@
         "code": "kge",
         "autonym": "Kumoring",
         "name": "Komering"
+    },
+    {
+        "code": "kgg",
+        "autonym": "गेम्येहाक़ गिपन",
+        "name": "Kusunda"
     },
     {
         "code": "khw",
@@ -1548,6 +1578,11 @@
         "code": "liv",
         "autonym": "Līvõ kēļ",
         "name": "Livonian"
+    },
+    {
+        "code": "ljp",
+        "autonym": "Lampung Api",
+        "name": "Lampung Api"
     },
     {
         "code": "lki",
@@ -2102,7 +2137,7 @@
     {
         "code": "pih",
         "autonym": "Norfuk / Pitkern",
-        "name": "Norfuk / Pitkern"
+        "name": "Pitcairn-Norfolk"
     },
     {
         "code": "pl",
@@ -2582,7 +2617,7 @@
     {
         "code": "tay",
         "autonym": "Tayal",
-        "name": "Tayal"
+        "name": "Atayal"
     },
     {
         "code": "tcy",
@@ -2623,6 +2658,11 @@
         "code": "th",
         "autonym": "ไทย",
         "name": "Thai"
+    },
+    {
+        "code": "thq",
+        "autonym": "काेचिला थारु",
+        "name": "Kochila Tharu"
     },
     {
         "code": "ti",
@@ -2873,6 +2913,11 @@
         "code": "wls",
         "autonym": "Fakaʻuvea",
         "name": "Wallisian"
+    },
+    {
+        "code": "wlx",
+        "autonym": "waale",
+        "name": "Wali"
     },
     {
         "code": "wo",

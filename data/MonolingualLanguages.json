@@ -295,6 +295,11 @@
         "name": "Bafut"
     },
     {
+        "code": "bfw",
+        "autonym": "ରେମସାମ୍",
+        "name": "Bonda"
+    },
+    {
         "code": "bg",
         "autonym": "български",
         "name": "Bulgarian"
@@ -402,7 +407,7 @@
     {
         "code": "bto",
         "autonym": "Iriga Bicolano",
-        "name": "Iriga Bicolano"
+        "name": "Rinconada Bikol"
     },
     {
         "code": "bug",
@@ -617,7 +622,7 @@
     {
         "code": "dga",
         "autonym": "Dagaare",
-        "name": "Dagaare"
+        "name": "Southern Dagaare"
     },
     {
         "code": "din",
@@ -627,12 +632,17 @@
     {
         "code": "diq",
         "autonym": "Zazaki",
-        "name": "Zazaki"
+        "name": "Dimli"
     },
     {
         "code": "dsb",
         "autonym": "dolnoserbski",
         "name": "Lower Sorbian"
+    },
+    {
+        "code": "dso",
+        "autonym": "ଦେଶିଆ",
+        "name": "Desiya"
     },
     {
         "code": "dtp",
@@ -880,6 +890,16 @@
         "name": "Scottish Gaelic"
     },
     {
+        "code": "gju-arab",
+        "autonym": "گوجری",
+        "name": "Gujari (Arabic script)"
+    },
+    {
+        "code": "gju-deva",
+        "autonym": "गुज्जरी",
+        "name": "Gujari (Devanagari script)"
+    },
+    {
         "code": "gl",
         "autonym": "galego",
         "name": "Galician"
@@ -992,7 +1012,7 @@
     {
         "code": "hak-latn",
         "autonym": "Hak-kâ-ngî (Pha̍k-fa-sṳ)",
-        "name": "Hak-kâ-ngî (Pha̍k-fa-sṳ)"
+        "name": "Hakka (Latin script)"
     },
     {
         "code": "haw",
@@ -1038,6 +1058,11 @@
         "code": "ho",
         "autonym": "Hiri Motu",
         "name": "Hiri Motu"
+    },
+    {
+        "code": "hoc",
+        "autonym": "𑢹𑣉𑣉 𑣎𑣋𑣜",
+        "name": "Ho"
     },
     {
         "code": "hr",
@@ -1268,6 +1293,11 @@
         "code": "kge",
         "autonym": "Kumoring",
         "name": "Komering"
+    },
+    {
+        "code": "kgg",
+        "autonym": "गेम्येहाक़ गिपन",
+        "name": "Kusunda"
     },
     {
         "code": "khw",
@@ -1518,6 +1548,11 @@
         "code": "liv",
         "autonym": "Līvõ kēļ",
         "name": "Livonian"
+    },
+    {
+        "code": "ljp",
+        "autonym": "Lampung Api",
+        "name": "Lampung Api"
     },
     {
         "code": "lki",
@@ -2067,7 +2102,7 @@
     {
         "code": "pih",
         "autonym": "Norfuk / Pitkern",
-        "name": "Norfuk / Pitkern"
+        "name": "Pitcairn-Norfolk"
     },
     {
         "code": "pl",
@@ -2537,7 +2572,7 @@
     {
         "code": "tay",
         "autonym": "Tayal",
-        "name": "Tayal"
+        "name": "Atayal"
     },
     {
         "code": "tcy",
@@ -2578,6 +2613,11 @@
         "code": "th",
         "autonym": "ไทย",
         "name": "Thai"
+    },
+    {
+        "code": "thq",
+        "autonym": "काेचिला थारु",
+        "name": "Kochila Tharu"
     },
     {
         "code": "ti",
@@ -2828,6 +2868,11 @@
         "code": "wls",
         "autonym": "Fakaʻuvea",
         "name": "Wallisian"
+    },
+    {
+        "code": "wlx",
+        "autonym": "waale",
+        "name": "Wali"
     },
     {
         "code": "wo",
@@ -3435,6 +3480,11 @@
         "name": "Mindong (Han script)"
     },
     {
+        "code": "cdz-beng",
+        "autonym": "cdz-beng",
+        "name": "Koda (Bengali script)"
+    },
+    {
         "code": "cgg",
         "autonym": "cgg",
         "name": "Chiga"
@@ -3940,16 +3990,6 @@
         "name": "Gujari"
     },
     {
-        "code": "gju-arab",
-        "autonym": "gju-arab",
-        "name": "Gujari (Arabic script)"
-    },
-    {
-        "code": "gju-deva",
-        "autonym": "gju-deva",
-        "name": "Gujari (Devanagari script)"
-    },
-    {
         "code": "gmh",
         "autonym": "gmh",
         "name": "Middle High German"
@@ -4088,11 +4128,6 @@
         "code": "hnj",
         "autonym": "hnj",
         "name": "Hmong Njua"
-    },
-    {
-        "code": "hoc",
-        "autonym": "hoc",
-        "name": "Ho"
     },
     {
         "code": "hsn-hans",
@@ -4385,6 +4420,11 @@
         "name": "Shambala"
     },
     {
+        "code": "ksy-beng",
+        "autonym": "ksy-beng",
+        "name": "Kharia Thar (Bengali script)"
+    },
+    {
         "code": "kut",
         "autonym": "kut",
         "name": "Kutenai"
@@ -4398,6 +4438,16 @@
         "code": "kxv",
         "autonym": "kxv",
         "name": "Kuvi"
+    },
+    {
+        "code": "kyw-beng",
+        "autonym": "kyw-beng",
+        "name": "Kurmali (Bengali script)"
+    },
+    {
+        "code": "kyw-deva",
+        "autonym": "kyw-deva",
+        "name": "Kurmali (Devanagari script)"
     },
     {
         "code": "lad-hebr",
@@ -4593,6 +4643,11 @@
         "code": "mix",
         "autonym": "mix",
         "name": "Mixtec"
+    },
+    {
+        "code": "mjx-beng",
+        "autonym": "mjx-beng",
+        "name": "Mahali (Bengali script)"
     },
     {
         "code": "mn-mong",
@@ -5165,6 +5220,11 @@
         "name": "Baltic Romani"
     },
     {
+        "code": "rml-cyrl",
+        "autonym": "rml-cyrl",
+        "name": "Baltic Romani (Cyrillic script)"
+    },
+    {
         "code": "rmn",
         "autonym": "rmn",
         "name": "Balkan Romani"
@@ -5540,6 +5600,11 @@
         "name": "Tagish"
     },
     {
+        "code": "thr",
+        "autonym": "thr",
+        "name": "Rana Tharu"
+    },
+    {
         "code": "tht",
         "autonym": "tht",
         "name": "Tahltan"
@@ -5655,6 +5720,11 @@
         "name": "Tangut"
     },
     {
+        "code": "txo-beng",
+        "autonym": "txo-beng",
+        "name": "Toto (Bengali script)"
+    },
+    {
         "code": "tzl",
         "autonym": "tzl",
         "name": "Talossan"
@@ -5733,11 +5803,6 @@
         "code": "wlm",
         "autonym": "wlm",
         "name": "Middle Welsh"
-    },
-    {
-        "code": "wlx",
-        "autonym": "wlx",
-        "name": "Wali"
     },
     {
         "code": "wsg",
