@@ -3155,6 +3155,11 @@
         "name": "Xârâcùù"
     },
     {
+        "code": "apc-latn",
+        "autonym": "apc-latn",
+        "name": "Levantine Arabic (Latin script)"
+    },
+    {
         "code": "ar-001",
         "autonym": "ar-001",
         "name": "Modern Standard Arabic"
