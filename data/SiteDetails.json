@@ -3842,6 +3842,15 @@
         "languageCode": "sah",
         "group": "wikisource"
     },
+    "satwiktionary": {
+        "shortName": "ᱥᱟᱱᱛᱟᱲᱤ",
+        "name": "ᱥᱟᱱᱛᱟᱲᱤ",
+        "id": "satwiktionary",
+        "pageUrl": "//sat.wiktionary.org/wiki/$1",
+        "apiUrl": "//sat.wiktionary.org/w/api.php",
+        "languageCode": "sat",
+        "group": "wiktionary"
+    },
     "sawikibooks": {
         "shortName": "संस्कृतम्",
         "name": "संस्कृतम्",
@@ -3933,8 +3942,8 @@
         "group": "wiktionary"
     },
     "shnwikibooks": {
-        "shortName": "ၽႃႇသႃႇတႆး ",
-        "name": "ၽႃႇသႃႇတႆး ",
+        "shortName": "တႆး",
+        "name": "တႆး",
         "id": "shnwikibooks",
         "pageUrl": "//shn.wikibooks.org/wiki/$1",
         "apiUrl": "//shn.wikibooks.org/w/api.php",
@@ -3942,8 +3951,8 @@
         "group": "wikibooks"
     },
     "shnwikinews": {
-        "shortName": "ၽႃႇသႃႇတႆး ",
-        "name": "ၽႃႇသႃႇတႆး ",
+        "shortName": "တႆး",
+        "name": "တႆး",
         "id": "shnwikinews",
         "pageUrl": "//shn.wikinews.org/wiki/$1",
         "apiUrl": "//shn.wikinews.org/w/api.php",
@@ -3951,8 +3960,8 @@
         "group": "wikinews"
     },
     "shnwikivoyage": {
-        "shortName": "ၽႃႇသႃႇတႆး ",
-        "name": "ၽႃႇသႃႇတႆး ",
+        "shortName": "တႆး",
+        "name": "တႆး",
         "id": "shnwikivoyage",
         "pageUrl": "//shn.wikivoyage.org/wiki/$1",
         "apiUrl": "//shn.wikivoyage.org/w/api.php",
@@ -3960,8 +3969,8 @@
         "group": "wikivoyage"
     },
     "shnwiktionary": {
-        "shortName": "ၽႃႇသႃႇတႆး ",
-        "name": "ၽႃႇသႃႇတႆး ",
+        "shortName": "တႆး",
+        "name": "တႆး",
         "id": "shnwiktionary",
         "pageUrl": "//shn.wiktionary.org/wiki/$1",
         "apiUrl": "//shn.wiktionary.org/w/api.php",
@@ -8001,8 +8010,8 @@
         "group": "special"
     },
     "shnwiki": {
-        "shortName": "ၽႃႇသႃႇတႆး ",
-        "name": "ၽႃႇသႃႇတႆး ",
+        "shortName": "တႆး",
+        "name": "တႆး",
         "id": "shnwiki",
         "pageUrl": "//shn.wikipedia.org/wiki/$1",
         "apiUrl": "//shn.wikipedia.org/w/api.php",
@@ -8475,6 +8484,15 @@
         "pageUrl": "//knc.wikipedia.org/wiki/$1",
         "apiUrl": "//knc.wikipedia.org/w/api.php",
         "languageCode": "knc",
+        "group": "wikipedia"
+    },
+    "sylwiki": {
+        "shortName": "ꠍꠤꠟꠐꠤ",
+        "name": "ꠍꠤꠟꠐꠤ",
+        "id": "sylwiki",
+        "pageUrl": "//syl.wikipedia.org/wiki/$1",
+        "apiUrl": "//syl.wikipedia.org/w/api.php",
+        "languageCode": "syl",
         "group": "wikipedia"
     }
 }
