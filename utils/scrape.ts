@@ -1,4 +1,5 @@
-import * as fs from 'fs';
+import fs from 'fs';
+import path from 'path';
 import axios from 'axios';
 
 import siteDetails from './siteDetails';
@@ -18,11 +19,20 @@ interface Response {
 }
 
 async function getLanguages(url: string, name: string) {
-    console.log(`Getting ${name}...`)
+	console.log(`Getting ${name}...`)
 	const response = await axios.get<Response>(url)
 	const data = Object.values(response.data.query.wbcontentlanguages);
 
-	fs.writeFileSync(`./data/${name}.json`, JSON.stringify(data, null, 4));
+	fs.writeFileSync(path.join(__dirname, `../data/${name}.json`), JSON.stringify(data, null, 4));
+}
+
+async function getDataTypes() {
+	console.log('Getting wikidata DataTypes...');
+	const url = 'https://www.wikidata.org/w/api.php?action=query&meta=siteinfo&siprop=general&format=json&origin=*';
+	const response = await axios.get(url);
+	const data = Object.keys(response.data.query.general["wikibase-propertytypes"]);
+
+	fs.writeFileSync(path.join(__dirname, '../data/datatypeTypes.json'), JSON.stringify(data, null, 4));
 }
 
 (async function scrape() {
@@ -33,6 +43,8 @@ async function getLanguages(url: string, name: string) {
 
 	const labelUrl = 'https://www.wikidata.org/w/api.php?action=query&format=json&meta=wbcontentlanguages&formatversion=2&wbclprop=code%7Cautonym%7Cname';
 	await getLanguages(labelUrl, 'LabelLanguages');
+
+	await getDataTypes();
 
 	await siteDetails();
 })()

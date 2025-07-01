@@ -425,6 +425,11 @@
         "name": "Buginese"
     },
     {
+        "code": "bug-bugi",
+        "autonym": "ᨅᨔ ᨕᨘᨁᨗ",
+        "name": "Buginese (Buginese script)"
+    },
+    {
         "code": "bxr",
         "autonym": "буряад",
         "name": "Russia Buriat"
@@ -1090,6 +1095,11 @@
         "name": "Ho"
     },
     {
+        "code": "hoc-latn",
+        "autonym": "Ho",
+        "name": "Ho (Latin script)"
+    },
+    {
         "code": "hr",
         "autonym": "hrvatski",
         "name": "Croatian"
@@ -1456,7 +1466,7 @@
     },
     {
         "code": "ks",
-        "autonym": "कॉशुर / کٲشُر",
+        "autonym": "کٲشُر",
         "name": "Kashmiri"
     },
     {
@@ -2998,6 +3008,11 @@
         "code": "yrl",
         "autonym": "Nhẽẽgatú",
         "name": "Nheengatu"
+    },
+    {
+        "code": "yua",
+        "autonym": "maaya t’aan",
+        "name": "Yucatec Maya"
     },
     {
         "code": "yue",

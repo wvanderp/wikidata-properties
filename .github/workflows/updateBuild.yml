@@ -2,28 +2,27 @@ name: Build
 
 on:
   schedule:
-    - cron: '54 02 2,16 * *'
+    - cron: "54 02 2,16 * *"
   workflow_dispatch:
-      
-      
+
 jobs:
   build:
-    runs-on: ubuntu-22.04
-    
-    steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-node@v4
-      with:
-        node-version: '16'
-        cache: 'npm'
-        
-    - name: npm install
-      run: npm install
-      
-    - name: npm run build
-      run: npm run build
+    runs-on: ubuntu-latest
 
-    - uses: EndBug/add-and-commit@v9
-      with:
-        default_author: github_actions
-        message: updated the data
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "latest"
+          cache: "npm"
+
+      - name: npm install
+        run: npm install
+
+      - name: npm run build
+        run: npm run build
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: Updated The Data

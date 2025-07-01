@@ -1,0 +1,20 @@
+{
+    "cSpell.words": [
+        "autonym",
+        "batchcomplete",
+        "datavalue",
+        "github",
+        "mainsnak",
+        "wbcontentlanguages",
+        "wikibase",
+        "wikidata",
+        "wmde"
+    ],
+    "editor.formatOnSave": true,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true,
+        "**/lib": true
+    }
+}

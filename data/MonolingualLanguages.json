@@ -415,6 +415,11 @@
         "name": "Buginese"
     },
     {
+        "code": "bug-bugi",
+        "autonym": "ᨅᨔ ᨕᨘᨁᨗ",
+        "name": "Buginese (Buginese script)"
+    },
+    {
         "code": "bxr",
         "autonym": "буряад",
         "name": "Russia Buriat"
@@ -1065,6 +1070,11 @@
         "name": "Ho"
     },
     {
+        "code": "hoc-latn",
+        "autonym": "Ho",
+        "name": "Ho (Latin script)"
+    },
+    {
         "code": "hr",
         "autonym": "hrvatski",
         "name": "Croatian"
@@ -1426,7 +1436,7 @@
     },
     {
         "code": "ks",
-        "autonym": "कॉशुर / کٲشُر",
+        "autonym": "کٲشُر",
         "name": "Kashmiri"
     },
     {
@@ -2955,6 +2965,11 @@
         "name": "Nheengatu"
     },
     {
+        "code": "yua",
+        "autonym": "maaya t’aan",
+        "name": "Yucatec Maya"
+    },
+    {
         "code": "yue",
         "autonym": "粵語",
         "name": "Cantonese"
@@ -3070,6 +3085,11 @@
         "name": "Adangme"
     },
     {
+        "code": "adg",
+        "autonym": "adg",
+        "name": "Andegerebinha"
+    },
+    {
         "code": "ae",
         "autonym": "ae",
         "name": "Avestan"
@@ -3078,6 +3098,16 @@
         "code": "aec",
         "autonym": "aec",
         "name": "Saʽidi Arabic"
+    },
+    {
+        "code": "aee",
+        "autonym": "aee",
+        "name": "Northeast Pashai"
+    },
+    {
+        "code": "aer",
+        "autonym": "aer",
+        "name": "Eastern Arrernte"
     },
     {
         "code": "afh",
@@ -3150,6 +3180,16 @@
         "name": "Algonquin"
     },
     {
+        "code": "aly",
+        "autonym": "aly",
+        "name": "Alyawarr"
+    },
+    {
+        "code": "amx",
+        "autonym": "amx",
+        "name": "Anmatyerre"
+    },
+    {
         "code": "ane",
         "autonym": "ane",
         "name": "Xârâcùù"
@@ -3163,6 +3203,11 @@
         "code": "ar-001",
         "autonym": "ar-001",
         "name": "Modern Standard Arabic"
+    },
+    {
+        "code": "are",
+        "autonym": "are",
+        "name": "Western Arrarnta"
     },
     {
         "code": "aro",
@@ -3203,6 +3248,16 @@
         "code": "atv",
         "autonym": "atv",
         "name": "Northern Altai"
+    },
+    {
+        "code": "axe",
+        "autonym": "axe",
+        "name": "Ayerrerenge"
+    },
+    {
+        "code": "axl",
+        "autonym": "axl",
+        "name": "Lower Southern Aranda"
     },
     {
         "code": "az-cyrl",
@@ -3425,11 +3480,6 @@
         "name": "Buriat"
     },
     {
-        "code": "bug-bugi",
-        "autonym": "bug-bugi",
-        "name": "Buginese (Buginese script)"
-    },
-    {
         "code": "bum",
         "autonym": "bum",
         "name": "Bulu"
@@ -3600,6 +3650,11 @@
         "name": "Chukchi"
     },
     {
+        "code": "ckv",
+        "autonym": "ckv",
+        "name": "Kavalan"
+    },
+    {
         "code": "clc",
         "autonym": "clc",
         "name": "Chilcotin"
@@ -3680,11 +3735,6 @@
         "name": "Chittagonian"
     },
     {
-        "code": "cwd",
-        "autonym": "cwd",
-        "name": "Woods Cree"
-    },
-    {
         "code": "dak",
         "autonym": "dak",
         "name": "Dakota"
@@ -3728,6 +3778,11 @@
         "code": "dje",
         "autonym": "dje",
         "name": "Zarma"
+    },
+    {
+        "code": "dlg",
+        "autonym": "dlg",
+        "name": "Dolgan"
     },
     {
         "code": "doi",
@@ -3955,6 +4010,11 @@
         "name": "Gbaya"
     },
     {
+        "code": "gbb",
+        "autonym": "gbb",
+        "name": "Kaytetye"
+    },
+    {
         "code": "gbk",
         "autonym": "gbk",
         "name": "Gaddi"
@@ -3993,6 +4053,11 @@
         "code": "gju",
         "autonym": "gju",
         "name": "Gujari"
+    },
+    {
+        "code": "glh",
+        "autonym": "glh",
+        "name": "Northwest Pashai"
     },
     {
         "code": "gmh",
@@ -4085,11 +4150,6 @@
         "name": "Biblical Hebrew"
     },
     {
-        "code": "hdn",
-        "autonym": "hdn",
-        "name": "Northern Haida"
-    },
-    {
         "code": "hi-kthi",
         "autonym": "hi-kthi",
         "name": "Hindi (Kaithi script)"
@@ -4163,11 +4223,6 @@
         "code": "igb",
         "autonym": "igb",
         "name": "Ebira"
-    },
-    {
-        "code": "ike",
-        "autonym": "ike",
-        "name": "Eastern Canadian Inuktitut"
     },
     {
         "code": "ikt",
@@ -4378,6 +4433,11 @@
         "code": "kmz",
         "autonym": "kmz",
         "name": "Khorasani Turkic"
+    },
+    {
+        "code": "kne",
+        "autonym": "kne",
+        "name": "Kankanaey"
     },
     {
         "code": "knn",
@@ -4675,6 +4735,11 @@
         "name": "Mohawk"
     },
     {
+        "code": "mrt",
+        "autonym": "mrt",
+        "name": "Marghi Central"
+    },
+    {
         "code": "mrv",
         "autonym": "mrv",
         "name": "Mangareva"
@@ -4843,11 +4908,6 @@
         "code": "ojc",
         "autonym": "ojc",
         "name": "Central Ojibwa"
-    },
-    {
-        "code": "ojg",
-        "autonym": "ojg",
-        "name": "Eastern Ojibwa"
     },
     {
         "code": "ojp",
@@ -5070,6 +5130,16 @@
         "name": "Pashto (Pakistan)"
     },
     {
+        "code": "psh",
+        "autonym": "psh",
+        "name": "Southwest Pashai"
+    },
+    {
+        "code": "psi",
+        "autonym": "psi",
+        "name": "Southeast Pashai"
+    },
+    {
         "code": "psu",
         "autonym": "psu",
         "name": "Sauraseni Prākrit"
@@ -5118,6 +5188,11 @@
         "code": "qwh",
         "autonym": "qwh",
         "name": "Huaylas Ancash Quechua"
+    },
+    {
+        "code": "qxp",
+        "autonym": "qxp",
+        "name": "Puno Quechua"
     },
     {
         "code": "qxq",
@@ -5263,6 +5338,11 @@
         "code": "rtm",
         "autonym": "rtm",
         "name": "Rotuman"
+    },
+    {
+        "code": "ru-petr1708",
+        "autonym": "ru-petr1708",
+        "name": "Russian (Petrine orthography)"
     },
     {
         "code": "rug",
@@ -5485,6 +5565,11 @@
         "name": "Sogdien"
     },
     {
+        "code": "spv",
+        "autonym": "spv",
+        "name": "Sambalpuri"
+    },
+    {
         "code": "sr-cyrl",
         "autonym": "српски (ћирилица)",
         "name": "Serbian (Cyrillic script)"
@@ -5560,6 +5645,11 @@
         "name": "Comorian"
     },
     {
+        "code": "sxr",
+        "autonym": "sxr",
+        "name": "Saaroa"
+    },
+    {
         "code": "sxu",
         "autonym": "sxu",
         "name": "Upper Saxon"
@@ -5578,6 +5668,16 @@
         "code": "syr",
         "autonym": "syr",
         "name": "Syriac"
+    },
+    {
+        "code": "tao",
+        "autonym": "tao",
+        "name": "Yami"
+    },
+    {
+        "code": "tbl",
+        "autonym": "tbl",
+        "name": "Tboli"
     },
     {
         "code": "tce",
@@ -5695,6 +5795,11 @@
         "name": "Tsimshian"
     },
     {
+        "code": "tsu",
+        "autonym": "tsu",
+        "name": "Tsou "
+    },
+    {
         "code": "ttm",
         "autonym": "ttm",
         "name": "Northern Tutchone"
@@ -5728,6 +5833,11 @@
         "code": "txo-beng",
         "autonym": "txo-beng",
         "name": "Toto (Bengali script)"
+    },
+    {
+        "code": "txo-toto",
+        "autonym": "txo-toto",
+        "name": "Toto (Toto script)"
     },
     {
         "code": "tzl",
@@ -5820,9 +5930,19 @@
         "name": "Wotapuri-Katarqalai"
     },
     {
+        "code": "wyi",
+        "autonym": "wyi",
+        "name": "Woiwurrung"
+    },
+    {
         "code": "xbm",
         "autonym": "xbm",
         "name": "Middle Breton"
+    },
+    {
+        "code": "xnb",
+        "autonym": "xnb",
+        "name": "Kanakanavu"
     },
     {
         "code": "xno",
