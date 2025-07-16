@@ -655,6 +655,11 @@
         "name": "Dimli"
     },
     {
+        "code": "dlg",
+        "autonym": "долган тыла",
+        "name": "Dolgan"
+    },
+    {
         "code": "dsb",
         "autonym": "dolnoserbski",
         "name": "Lower Sorbian"

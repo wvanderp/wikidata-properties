@@ -640,6 +640,11 @@
         "name": "Dimli"
     },
     {
+        "code": "dlg",
+        "autonym": "долган тыла",
+        "name": "Dolgan"
+    },
+    {
         "code": "dsb",
         "autonym": "dolnoserbski",
         "name": "Lower Sorbian"
@@ -3120,6 +3125,11 @@
         "name": "Ahirani"
     },
     {
+        "code": "aig",
+        "autonym": "aig",
+        "name": "Antiguan and Barbudan Creole English"
+    },
+    {
         "code": "aii",
         "autonym": "aii",
         "name": "Assyrian Neo-Aramaic"
@@ -3258,6 +3268,11 @@
         "code": "axl",
         "autonym": "axl",
         "name": "Lower Southern Aranda"
+    },
+    {
+        "code": "ayh",
+        "autonym": "ayh",
+        "name": "Hadhrami Arabic"
     },
     {
         "code": "az-cyrl",
@@ -3778,11 +3793,6 @@
         "code": "dje",
         "autonym": "dje",
         "name": "Zarma"
-    },
-    {
-        "code": "dlg",
-        "autonym": "dlg",
-        "name": "Dolgan"
     },
     {
         "code": "doi",
@@ -4563,6 +4573,11 @@
         "code": "lkt",
         "autonym": "lkt",
         "name": "Lakota"
+    },
+    {
+        "code": "lmn",
+        "autonym": "lmn",
+        "name": "Lambadi"
     },
     {
         "code": "lol",
