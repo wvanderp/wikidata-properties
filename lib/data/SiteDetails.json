@@ -5830,8 +5830,8 @@
         "mobileUrl": "https://mk.m.wiktionary.org"
     },
     "mkwikibooks": {
-        "shortName": "Wikibooks",
-        "name": "Wikibooks",
+        "shortName": "Викикниги",
+        "name": "Викикниги",
         "id": "mkwikibooks",
         "pageUrl": "//mk.wikibooks.org/wiki/$1",
         "apiUrl": "//mk.wikibooks.org/w/api.php",

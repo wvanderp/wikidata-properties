@@ -70,6 +70,11 @@
         "name": "Aghem"
     },
     {
+        "code": "aig",
+        "autonym": "Aanteegan an' Baabyuudan",
+        "name": "Antiguan and Barbudan Creole English"
+    },
+    {
         "code": "ak",
         "autonym": "Akan",
         "name": "Akan"
@@ -1866,7 +1871,7 @@
     },
     {
         "code": "nan",
-        "autonym": "閩南語 / Bân-lâm-gú",
+        "autonym": "閩南語 / Bân-lâm-gí",
         "name": "Minnan"
     },
     {
@@ -1881,12 +1886,12 @@
     },
     {
         "code": "nan-latn-pehoeji",
-        "autonym": "Bân-lâm-gú (Pe̍h-ōe-jī)",
+        "autonym": "Bân-lâm-gí (Pe̍h-ōe-jī)",
         "name": "Minnan (Pe̍h-ōe-jī)"
     },
     {
         "code": "nan-latn-tailo",
-        "autonym": "Bân-lâm-gú (Tâi-lô)",
+        "autonym": "Bân-lâm-gí (Tâi-lô)",
         "name": "Minnan (Tâi-lô)"
     },
     {
@@ -3086,7 +3091,7 @@
     },
     {
         "code": "zh-min-nan",
-        "autonym": "閩南語 / Bân-lâm-gú",
+        "autonym": "閩南語 / Bân-lâm-gí",
         "name": "Minnan"
     },
     {
