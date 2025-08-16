@@ -5653,6 +5653,17 @@
         "logo": "//mad.wiktionary.org/static/images/project-logos/madwiktionary.png",
         "mobileUrl": "https://mad.m.wiktionary.org"
     },
+    "madwikisource": {
+        "shortName": "Wikigherbhung",
+        "name": "Wikigherbhung",
+        "id": "madwikisource",
+        "pageUrl": "//mad.wikisource.org/wiki/$1",
+        "apiUrl": "//mad.wikisource.org/w/api.php",
+        "languageCode": "mad",
+        "group": "wikisource",
+        "logo": "//mad.wikisource.org/static/images/project-logos/madwikisource.png",
+        "mobileUrl": "https://mad.m.wikisource.org"
+    },
     "maiwiki": {
         "shortName": "विकिपिडिया",
         "name": "विकिपिडिया",
@@ -5806,6 +5817,17 @@
         "group": "wiktionary",
         "logo": "//min.wiktionary.org/static/images/project-logos/minwiktionary.png",
         "mobileUrl": "https://min.m.wiktionary.org"
+    },
+    "minwikibooks": {
+        "shortName": "Wikibuku",
+        "name": "Wikibuku",
+        "id": "minwikibooks",
+        "pageUrl": "//min.wikibooks.org/wiki/$1",
+        "apiUrl": "//min.wikibooks.org/w/api.php",
+        "languageCode": "min",
+        "group": "wikibooks",
+        "logo": "//min.wikibooks.org/static/images/project-logos/minwikibooks.png",
+        "mobileUrl": "https://min.m.wikibooks.org"
     },
     "mkwiki": {
         "shortName": "Википедија",
@@ -7346,6 +7368,17 @@
         "group": "wikiquote",
         "logo": "//qu.wikiquote.org/static/images/project-logos/wikiquote.png",
         "mobileUrl": "https://qu.m.wikiquote.org"
+    },
+    "rkiwiki": {
+        "shortName": "ဝီကီးပီးဒီးယား",
+        "name": "ဝီကီးပီးဒီးယား",
+        "id": "rkiwiki",
+        "pageUrl": "//rki.wikipedia.org/wiki/$1",
+        "apiUrl": "//rki.wikipedia.org/w/api.php",
+        "languageCode": "rki",
+        "group": "wiki",
+        "logo": "//rki.wikipedia.org/static/images/project-logos/rkiwiki.png",
+        "mobileUrl": "https://rki.m.wikipedia.org"
     },
     "rmwiki": {
         "shortName": "Wikipedia",
@@ -9107,6 +9140,17 @@
         "logo": "//tl.wikiquote.org/static/images/project-logos/tlwikiquote.png",
         "mobileUrl": "https://tl.m.wikiquote.org"
     },
+    "tlwikisource": {
+        "shortName": "Wikisource",
+        "name": "Wikisource",
+        "id": "tlwikisource",
+        "pageUrl": "//tl.wikisource.org/wiki/$1",
+        "apiUrl": "//tl.wikisource.org/w/api.php",
+        "languageCode": "tl",
+        "group": "wikisource",
+        "logo": "//tl.wikisource.org/static/images/project-logos/wikisource.png",
+        "mobileUrl": "https://tl.m.wikisource.org"
+    },
     "tlywiki": {
         "shortName": "Vikipedija",
         "name": "Vikipedija",
@@ -10107,6 +10151,17 @@
         "group": "wiki",
         "logo": "//zgh.wikipedia.org/static/images/project-logos/zghwiki.png",
         "mobileUrl": "https://zgh.m.wikipedia.org"
+    },
+    "zghwiktionary": {
+        "shortName": "ⵡⵉⴽⵉⵎⴰⵡⴰⵍ",
+        "name": "ⵡⵉⴽⵉⵎⴰⵡⴰⵍ",
+        "id": "zghwiktionary",
+        "pageUrl": "//zgh.wiktionary.org/wiki/$1",
+        "apiUrl": "//zgh.wiktionary.org/w/api.php",
+        "languageCode": "zgh",
+        "group": "wiktionary",
+        "logo": "//zgh.wiktionary.org/static/images/project-logos/zghwiktionary.png",
+        "mobileUrl": "https://zgh.m.wiktionary.org"
     },
     "zhwiki": {
         "shortName": "Wikipedia",
