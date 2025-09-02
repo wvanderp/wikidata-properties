@@ -868,6 +868,17 @@
         "logo": "//bew.wikipedia.org/static/images/project-logos/bewwiki.png",
         "mobileUrl": "https://bew.m.wikipedia.org"
     },
+    "bewwiktionary": {
+        "shortName": "Wikikamus",
+        "name": "Wikikamus",
+        "id": "bewwiktionary",
+        "pageUrl": "//bew.wiktionary.org/wiki/$1",
+        "apiUrl": "//bew.wiktionary.org/w/api.php",
+        "languageCode": "bew",
+        "group": "wiktionary",
+        "logo": "//bew.wiktionary.org/static/images/project-logos/bewwiktionary.png",
+        "mobileUrl": "https://bew.m.wiktionary.org"
+    },
     "bgwiki": {
         "shortName": "Уикипедия",
         "name": "Уикипедия",
@@ -3461,7 +3472,7 @@
         "apiUrl": "//ha.wikipedia.org/w/api.php",
         "languageCode": "ha",
         "group": "wiki",
-        "logo": "//ha.wikipedia.org/static/images/project-logos/hawiki-temp.png",
+        "logo": "//ha.wikipedia.org/static/images/project-logos/hawiki.png",
         "mobileUrl": "https://ha.m.wikipedia.org"
     },
     "hawiktionary": {
@@ -9108,8 +9119,8 @@
         "mobileUrl": "https://tl.m.wikipedia.org"
     },
     "tlwiktionary": {
-        "shortName": "Wiktionary",
-        "name": "Wiktionary",
+        "shortName": "Wiksiyonaryo",
+        "name": "Wiksiyonaryo",
         "id": "tlwiktionary",
         "pageUrl": "//tl.wiktionary.org/wiki/$1",
         "apiUrl": "//tl.wiktionary.org/w/api.php",

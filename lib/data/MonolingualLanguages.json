@@ -2300,6 +2300,11 @@
         "name": "Yakut"
     },
     {
+        "code": "sas",
+        "autonym": "Sasak",
+        "name": "Sasak"
+    },
+    {
         "code": "sat",
         "autonym": "ᱥᱟᱱᱛᱟᱲᱤ",
         "name": "Santali"
@@ -5410,11 +5415,6 @@
         "name": "Samburu"
     },
     {
-        "code": "sas",
-        "autonym": "sas",
-        "name": "Sasak"
-    },
-    {
         "code": "sat-beng",
         "autonym": "sat-beng",
         "name": "Santali (Bengali script)"
@@ -5863,6 +5863,11 @@
         "code": "uga",
         "autonym": "uga",
         "name": "Ugaritic"
+    },
+    {
+        "code": "uln",
+        "autonym": "uln",
+        "name": "Unserdeutsch"
     },
     {
         "code": "umb",
