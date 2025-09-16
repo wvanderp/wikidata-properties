@@ -9126,7 +9126,7 @@
         "apiUrl": "//tl.wiktionary.org/w/api.php",
         "languageCode": "tl",
         "group": "wiktionary",
-        "logo": "//tl.wiktionary.org/static/images/project-logos/wiktionary.png",
+        "logo": "//tl.wiktionary.org/static/images/project-logos/tlwiktionary.png",
         "mobileUrl": "https://tl.m.wiktionary.org"
     },
     "tlwikibooks": {
