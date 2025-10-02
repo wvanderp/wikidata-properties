@@ -19,7 +19,7 @@
         "languageCode": "aa",
         "group": "wiktionary",
         "logo": "//aa.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://aa.m.wiktionary.org"
+        "mobileUrl": "https://aa.wiktionary.org"
     },
     "aawikibooks": {
         "shortName": "Wikibooks",
@@ -30,7 +30,7 @@
         "languageCode": "aa",
         "group": "wikibooks",
         "logo": "//aa.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://aa.m.wikibooks.org"
+        "mobileUrl": "https://aa.wikibooks.org"
     },
     "abwiki": {
         "shortName": "Авикипедиа",
@@ -52,7 +52,7 @@
         "languageCode": "ab",
         "group": "wiktionary",
         "logo": "//ab.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://ab.m.wiktionary.org"
+        "mobileUrl": "https://ab.wiktionary.org"
     },
     "acewiki": {
         "shortName": "Wikipedia",
@@ -96,7 +96,7 @@
         "languageCode": "af",
         "group": "wiktionary",
         "logo": "//af.wiktionary.org/static/images/project-logos/afwiktionary.png",
-        "mobileUrl": "https://af.m.wiktionary.org"
+        "mobileUrl": "https://af.wiktionary.org"
     },
     "afwikibooks": {
         "shortName": "Wikibooks",
@@ -107,7 +107,7 @@
         "languageCode": "af",
         "group": "wikibooks",
         "logo": "//af.wikibooks.org/static/images/project-logos/afwikibooks.png",
-        "mobileUrl": "https://af.m.wikibooks.org"
+        "mobileUrl": "https://af.wikibooks.org"
     },
     "afwikiquote": {
         "shortName": "Wikiquote",
@@ -118,7 +118,7 @@
         "languageCode": "af",
         "group": "wikiquote",
         "logo": "//af.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://af.m.wikiquote.org"
+        "mobileUrl": "https://af.wikiquote.org"
     },
     "akwiki": {
         "shortName": "Wikipedia",
@@ -140,7 +140,7 @@
         "languageCode": "ak",
         "group": "wiktionary",
         "logo": "//ak.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://ak.m.wiktionary.org"
+        "mobileUrl": "https://ak.wiktionary.org"
     },
     "akwikibooks": {
         "shortName": "Wikibooks",
@@ -151,7 +151,7 @@
         "languageCode": "ak",
         "group": "wikibooks",
         "logo": "//ak.wikibooks.org/static/images/project-logos/akwikibooks.png",
-        "mobileUrl": "https://ak.m.wikibooks.org"
+        "mobileUrl": "https://ak.wikibooks.org"
     },
     "altwiki": {
         "shortName": "Википедия",
@@ -184,7 +184,7 @@
         "languageCode": "am",
         "group": "wiktionary",
         "logo": "//am.wiktionary.org/static/images/project-logos/amwiktionary.png",
-        "mobileUrl": "https://am.m.wiktionary.org"
+        "mobileUrl": "https://am.wiktionary.org"
     },
     "amwikiquote": {
         "shortName": "Wikiquote",
@@ -195,7 +195,7 @@
         "languageCode": "am",
         "group": "wikiquote",
         "logo": "//am.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://am.m.wikiquote.org"
+        "mobileUrl": "https://am.wikiquote.org"
     },
     "amiwiki": {
         "shortName": "Wikipedia",
@@ -228,7 +228,7 @@
         "languageCode": "an",
         "group": "wiktionary",
         "logo": "//an.wiktionary.org/static/images/project-logos/anwiktionary.png",
-        "mobileUrl": "https://an.m.wiktionary.org"
+        "mobileUrl": "https://an.wiktionary.org"
     },
     "angwiki": {
         "shortName": "Wikipǣdia",
@@ -250,7 +250,7 @@
         "languageCode": "ang",
         "group": "wiktionary",
         "logo": "//ang.wiktionary.org/static/images/project-logos/angwiktionary.png",
-        "mobileUrl": "https://ang.m.wiktionary.org"
+        "mobileUrl": "https://ang.wiktionary.org"
     },
     "angwikibooks": {
         "shortName": "Wikibooks",
@@ -261,7 +261,7 @@
         "languageCode": "ang",
         "group": "wikibooks",
         "logo": "//ang.wikibooks.org/static/images/project-logos/angwikibooks.png",
-        "mobileUrl": "https://ang.m.wikibooks.org"
+        "mobileUrl": "https://ang.wikibooks.org"
     },
     "angwikiquote": {
         "shortName": "Wikiquote",
@@ -272,7 +272,7 @@
         "languageCode": "ang",
         "group": "wikiquote",
         "logo": "//ang.wikiquote.org/static/images/project-logos/angwikiquote.png",
-        "mobileUrl": "https://ang.m.wikiquote.org"
+        "mobileUrl": "https://ang.wikiquote.org"
     },
     "angwikisource": {
         "shortName": "Wicifruma",
@@ -283,7 +283,7 @@
         "languageCode": "ang",
         "group": "wikisource",
         "logo": "//ang.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://ang.m.wikisource.org"
+        "mobileUrl": "https://ang.wikisource.org"
     },
     "annwiki": {
         "shortName": "Wìkìpedia",
@@ -327,7 +327,7 @@
         "languageCode": "ar",
         "group": "wiktionary",
         "logo": "//ar.wiktionary.org/static/images/project-logos/arwiktionary.png",
-        "mobileUrl": "https://ar.m.wiktionary.org"
+        "mobileUrl": "https://ar.wiktionary.org"
     },
     "arwikibooks": {
         "shortName": "ويكي الكتب",
@@ -338,7 +338,7 @@
         "languageCode": "ar",
         "group": "wikibooks",
         "logo": "//ar.wikibooks.org/static/images/project-logos/arwikibooks.png",
-        "mobileUrl": "https://ar.m.wikibooks.org"
+        "mobileUrl": "https://ar.wikibooks.org"
     },
     "arwikinews": {
         "shortName": "ويكي الأخبار",
@@ -349,7 +349,7 @@
         "languageCode": "ar",
         "group": "wikinews",
         "logo": "//ar.wikinews.org/static/images/project-logos/arwikinews.png",
-        "mobileUrl": "https://ar.m.wikinews.org"
+        "mobileUrl": "https://ar.wikinews.org"
     },
     "arwikiquote": {
         "shortName": "ويكي الاقتباس",
@@ -360,7 +360,7 @@
         "languageCode": "ar",
         "group": "wikiquote",
         "logo": "//ar.wikiquote.org/static/images/project-logos/arwikiquote.png",
-        "mobileUrl": "https://ar.m.wikiquote.org"
+        "mobileUrl": "https://ar.wikiquote.org"
     },
     "arwikisource": {
         "shortName": "ويكي مصدر",
@@ -371,7 +371,7 @@
         "languageCode": "ar",
         "group": "wikisource",
         "logo": "//ar.wikisource.org/static/images/project-logos/arwikisource.png",
-        "mobileUrl": "https://ar.m.wikisource.org"
+        "mobileUrl": "https://ar.wikisource.org"
     },
     "arwikiversity": {
         "shortName": "ويكي الجامعة",
@@ -382,7 +382,7 @@
         "languageCode": "ar",
         "group": "wikiversity",
         "logo": "//ar.wikiversity.org/static/images/project-logos/arwikiversity.png",
-        "mobileUrl": "https://ar.m.wikiversity.org"
+        "mobileUrl": "https://ar.wikiversity.org"
     },
     "arcwiki": {
         "shortName": "ܘܝܩܝܦܕܝܐ",
@@ -437,7 +437,7 @@
         "languageCode": "as",
         "group": "wiktionary",
         "logo": "//as.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://as.m.wiktionary.org"
+        "mobileUrl": "https://as.wiktionary.org"
     },
     "aswikibooks": {
         "shortName": "Wikibooks",
@@ -448,7 +448,7 @@
         "languageCode": "as",
         "group": "wikibooks",
         "logo": "//as.wikibooks.org/static/images/project-logos/aswikibooks.png",
-        "mobileUrl": "https://as.m.wikibooks.org"
+        "mobileUrl": "https://as.wikibooks.org"
     },
     "aswikiquote": {
         "shortName": "ৱিকিউদ্ধৃতি",
@@ -459,7 +459,7 @@
         "languageCode": "as",
         "group": "wikiquote",
         "logo": "//as.wikiquote.org/static/images/project-logos/aswikiquote.png",
-        "mobileUrl": "https://as.m.wikiquote.org"
+        "mobileUrl": "https://as.wikiquote.org"
     },
     "aswikisource": {
         "shortName": "ৱিকিউৎস",
@@ -470,7 +470,7 @@
         "languageCode": "as",
         "group": "wikisource",
         "logo": "//as.wikisource.org/static/images/project-logos/aswikisource.png",
-        "mobileUrl": "https://as.m.wikisource.org"
+        "mobileUrl": "https://as.wikisource.org"
     },
     "astwiki": {
         "shortName": "Wikipedia",
@@ -492,7 +492,7 @@
         "languageCode": "ast",
         "group": "wiktionary",
         "logo": "//ast.wiktionary.org/static/images/project-logos/astwiktionary.png",
-        "mobileUrl": "https://ast.m.wiktionary.org"
+        "mobileUrl": "https://ast.wiktionary.org"
     },
     "astwikibooks": {
         "shortName": "Wikibooks",
@@ -503,7 +503,7 @@
         "languageCode": "ast",
         "group": "wikibooks",
         "logo": "//ast.wikibooks.org/static/images/project-logos/astwikibooks.png",
-        "mobileUrl": "https://ast.m.wikibooks.org"
+        "mobileUrl": "https://ast.wikibooks.org"
     },
     "astwikiquote": {
         "shortName": "Wikiquote",
@@ -514,7 +514,7 @@
         "languageCode": "ast",
         "group": "wikiquote",
         "logo": "//ast.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://ast.m.wikiquote.org"
+        "mobileUrl": "https://ast.wikiquote.org"
     },
     "atjwiki": {
         "shortName": "Wikipetcia",
@@ -547,7 +547,7 @@
         "languageCode": "av",
         "group": "wiktionary",
         "logo": "//av.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://av.m.wiktionary.org"
+        "mobileUrl": "https://av.wiktionary.org"
     },
     "avkwiki": {
         "shortName": "Wikipedia",
@@ -591,7 +591,7 @@
         "languageCode": "ay",
         "group": "wiktionary",
         "logo": "//ay.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://ay.m.wiktionary.org"
+        "mobileUrl": "https://ay.wiktionary.org"
     },
     "aywikibooks": {
         "shortName": "Wikibooks",
@@ -602,7 +602,7 @@
         "languageCode": "ay",
         "group": "wikibooks",
         "logo": "//ay.wikibooks.org/static/images/project-logos/aywikibooks.png",
-        "mobileUrl": "https://ay.m.wikibooks.org"
+        "mobileUrl": "https://ay.wikibooks.org"
     },
     "azwiki": {
         "shortName": "Vikipediya",
@@ -624,7 +624,7 @@
         "languageCode": "az",
         "group": "wiktionary",
         "logo": "//az.wiktionary.org/static/images/project-logos/azwiktionary.png",
-        "mobileUrl": "https://az.m.wiktionary.org"
+        "mobileUrl": "https://az.wiktionary.org"
     },
     "azwikibooks": {
         "shortName": "Vikikitab",
@@ -635,7 +635,7 @@
         "languageCode": "az",
         "group": "wikibooks",
         "logo": "//az.wikibooks.org/static/images/project-logos/azwikibooks.png",
-        "mobileUrl": "https://az.m.wikibooks.org"
+        "mobileUrl": "https://az.wikibooks.org"
     },
     "azwikiquote": {
         "shortName": "Vikisitat",
@@ -646,7 +646,7 @@
         "languageCode": "az",
         "group": "wikiquote",
         "logo": "//az.wikiquote.org/static/images/project-logos/azwikiquote.png",
-        "mobileUrl": "https://az.m.wikiquote.org"
+        "mobileUrl": "https://az.wikiquote.org"
     },
     "azwikisource": {
         "shortName": "Vikimənbə",
@@ -657,7 +657,7 @@
         "languageCode": "az",
         "group": "wikisource",
         "logo": "//az.wikisource.org/static/images/project-logos/azwikisource.png",
-        "mobileUrl": "https://az.m.wikisource.org"
+        "mobileUrl": "https://az.wikisource.org"
     },
     "azbwiki": {
         "shortName": "ویکی‌پدیا",
@@ -690,7 +690,7 @@
         "languageCode": "ba",
         "group": "wikibooks",
         "logo": "//ba.wikibooks.org/static/images/project-logos/bawikibooks.png",
-        "mobileUrl": "https://ba.m.wikibooks.org"
+        "mobileUrl": "https://ba.wikibooks.org"
     },
     "banwiki": {
         "shortName": "Wikipédia",
@@ -712,7 +712,7 @@
         "languageCode": "ban",
         "group": "wikisource",
         "logo": "//ban.wikisource.org/static/images/project-logos/banwikisource.png",
-        "mobileUrl": "https://ban.m.wikisource.org"
+        "mobileUrl": "https://ban.wikisource.org"
     },
     "barwiki": {
         "shortName": "Wikipedia",
@@ -756,7 +756,7 @@
         "languageCode": "bcl",
         "group": "wiktionary",
         "logo": "//bcl.wiktionary.org/static/images/project-logos/bclwiktionary.png",
-        "mobileUrl": "https://bcl.m.wiktionary.org"
+        "mobileUrl": "https://bcl.wiktionary.org"
     },
     "bclwikiquote": {
         "shortName": "Wikiquote",
@@ -767,7 +767,7 @@
         "languageCode": "bcl",
         "group": "wikiquote",
         "logo": "//bcl.wikiquote.org/static/images/project-logos/bclwikiquote.png",
-        "mobileUrl": "https://bcl.m.wikiquote.org"
+        "mobileUrl": "https://bcl.wikiquote.org"
     },
     "bclwikisource": {
         "shortName": "Wikisource",
@@ -778,7 +778,7 @@
         "languageCode": "bcl",
         "group": "wikisource",
         "logo": "//bcl.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://bcl.m.wikisource.org"
+        "mobileUrl": "https://bcl.wikisource.org"
     },
     "bdrwiki": {
         "shortName": "Wikipidia",
@@ -811,7 +811,7 @@
         "languageCode": "be",
         "group": "wiktionary",
         "logo": "//be.wiktionary.org/static/images/project-logos/bewiktionary.png",
-        "mobileUrl": "https://be.m.wiktionary.org"
+        "mobileUrl": "https://be.wiktionary.org"
     },
     "bewikibooks": {
         "shortName": "Вікікнігі",
@@ -822,7 +822,7 @@
         "languageCode": "be",
         "group": "wikibooks",
         "logo": "//be.wikibooks.org/static/images/project-logos/bewikibooks.png",
-        "mobileUrl": "https://be.m.wikibooks.org"
+        "mobileUrl": "https://be.wikibooks.org"
     },
     "bewikiquote": {
         "shortName": "Wikiquote",
@@ -833,7 +833,7 @@
         "languageCode": "be",
         "group": "wikiquote",
         "logo": "//be.wikiquote.org/static/images/project-logos/bewikiquote.png",
-        "mobileUrl": "https://be.m.wikiquote.org"
+        "mobileUrl": "https://be.wikiquote.org"
     },
     "bewikisource": {
         "shortName": "Вікікрыніцы",
@@ -844,7 +844,7 @@
         "languageCode": "be",
         "group": "wikisource",
         "logo": "//be.wikisource.org/static/images/project-logos/bewikisource.png",
-        "mobileUrl": "https://be.m.wikisource.org"
+        "mobileUrl": "https://be.wikisource.org"
     },
     "be_x_oldwiki": {
         "shortName": "Вікіпэдыя",
@@ -877,7 +877,7 @@
         "languageCode": "bew",
         "group": "wiktionary",
         "logo": "//bew.wiktionary.org/static/images/project-logos/bewwiktionary.png",
-        "mobileUrl": "https://bew.m.wiktionary.org"
+        "mobileUrl": "https://bew.wiktionary.org"
     },
     "bgwiki": {
         "shortName": "Уикипедия",
@@ -899,7 +899,7 @@
         "languageCode": "bg",
         "group": "wiktionary",
         "logo": "//bg.wiktionary.org/static/images/project-logos/bgwiktionary.png",
-        "mobileUrl": "https://bg.m.wiktionary.org"
+        "mobileUrl": "https://bg.wiktionary.org"
     },
     "bgwikibooks": {
         "shortName": "Уикикниги",
@@ -910,7 +910,7 @@
         "languageCode": "bg",
         "group": "wikibooks",
         "logo": "//bg.wikibooks.org/static/images/project-logos/bgwikibooks.png",
-        "mobileUrl": "https://bg.m.wikibooks.org"
+        "mobileUrl": "https://bg.wikibooks.org"
     },
     "bgwikinews": {
         "shortName": "Уикиновини",
@@ -921,7 +921,7 @@
         "languageCode": "bg",
         "group": "wikinews",
         "logo": "//bg.wikinews.org/static/images/project-logos/bgwikinews.png",
-        "mobileUrl": "https://bg.m.wikinews.org"
+        "mobileUrl": "https://bg.wikinews.org"
     },
     "bgwikiquote": {
         "shortName": "Уикицитат",
@@ -932,7 +932,7 @@
         "languageCode": "bg",
         "group": "wikiquote",
         "logo": "//bg.wikiquote.org/static/images/project-logos/bgwikiquote.png",
-        "mobileUrl": "https://bg.m.wikiquote.org"
+        "mobileUrl": "https://bg.wikiquote.org"
     },
     "bgwikisource": {
         "shortName": "Уикиизточник",
@@ -943,7 +943,7 @@
         "languageCode": "bg",
         "group": "wikisource",
         "logo": "//bg.wikisource.org/static/images/project-logos/bgwikisource.png",
-        "mobileUrl": "https://bg.m.wikisource.org"
+        "mobileUrl": "https://bg.wikisource.org"
     },
     "bhwiki": {
         "shortName": "विकिपीडिया",
@@ -965,7 +965,7 @@
         "languageCode": "bho",
         "group": "wiktionary",
         "logo": "//bh.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://bh.m.wiktionary.org"
+        "mobileUrl": "https://bh.wiktionary.org"
     },
     "biwiki": {
         "shortName": "Wikipedia",
@@ -987,7 +987,7 @@
         "languageCode": "bi",
         "group": "wiktionary",
         "logo": "//bi.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://bi.m.wiktionary.org"
+        "mobileUrl": "https://bi.wiktionary.org"
     },
     "biwikibooks": {
         "shortName": "Wikibooks",
@@ -998,7 +998,7 @@
         "languageCode": "bi",
         "group": "wikibooks",
         "logo": "//bi.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://bi.m.wikibooks.org"
+        "mobileUrl": "https://bi.wikibooks.org"
     },
     "bjnwiki": {
         "shortName": "Wikipidia",
@@ -1020,7 +1020,7 @@
         "languageCode": "bjn",
         "group": "wiktionary",
         "logo": "//bjn.wiktionary.org/static/images/project-logos/bjnwiktionary.png",
-        "mobileUrl": "https://bjn.m.wiktionary.org"
+        "mobileUrl": "https://bjn.wiktionary.org"
     },
     "bjnwikiquote": {
         "shortName": "Wikipapadah",
@@ -1031,7 +1031,7 @@
         "languageCode": "bjn",
         "group": "wikiquote",
         "logo": "//bjn.wikiquote.org/static/images/project-logos/bjnwikiquote.png",
-        "mobileUrl": "https://bjn.m.wikiquote.org"
+        "mobileUrl": "https://bjn.wikiquote.org"
     },
     "blkwiki": {
         "shortName": "ဝီခီပီးဒီးယား",
@@ -1053,7 +1053,7 @@
         "languageCode": "blk",
         "group": "wiktionary",
         "logo": "//blk.wiktionary.org/static/images/project-logos/blkwiktionary.png",
-        "mobileUrl": "https://blk.m.wiktionary.org"
+        "mobileUrl": "https://blk.wiktionary.org"
     },
     "bmwiki": {
         "shortName": "Wikipedia",
@@ -1075,7 +1075,7 @@
         "languageCode": "bm",
         "group": "wiktionary",
         "logo": "//bm.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://bm.m.wiktionary.org"
+        "mobileUrl": "https://bm.wiktionary.org"
     },
     "bmwikibooks": {
         "shortName": "Wikibooks",
@@ -1086,7 +1086,7 @@
         "languageCode": "bm",
         "group": "wikibooks",
         "logo": "//bm.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://bm.m.wikibooks.org"
+        "mobileUrl": "https://bm.wikibooks.org"
     },
     "bmwikiquote": {
         "shortName": "Wikiquote",
@@ -1097,7 +1097,7 @@
         "languageCode": "bm",
         "group": "wikiquote",
         "logo": "//bm.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://bm.m.wikiquote.org"
+        "mobileUrl": "https://bm.wikiquote.org"
     },
     "bnwiki": {
         "shortName": "উইকিপিডিয়া",
@@ -1119,7 +1119,7 @@
         "languageCode": "bn",
         "group": "wiktionary",
         "logo": "//bn.wiktionary.org/static/images/project-logos/bnwiktionary.png",
-        "mobileUrl": "https://bn.m.wiktionary.org"
+        "mobileUrl": "https://bn.wiktionary.org"
     },
     "bnwikibooks": {
         "shortName": "উইকিবই",
@@ -1130,7 +1130,7 @@
         "languageCode": "bn",
         "group": "wikibooks",
         "logo": "//bn.wikibooks.org/static/images/project-logos/bnwikibooks.png",
-        "mobileUrl": "https://bn.m.wikibooks.org"
+        "mobileUrl": "https://bn.wikibooks.org"
     },
     "bnwikiquote": {
         "shortName": "উইকিউক্তি",
@@ -1141,7 +1141,7 @@
         "languageCode": "bn",
         "group": "wikiquote",
         "logo": "//bn.wikiquote.org/static/images/project-logos/bnwikiquote.png",
-        "mobileUrl": "https://bn.m.wikiquote.org"
+        "mobileUrl": "https://bn.wikiquote.org"
     },
     "bnwikisource": {
         "shortName": "উইকিসংকলন",
@@ -1152,7 +1152,7 @@
         "languageCode": "bn",
         "group": "wikisource",
         "logo": "//bn.wikisource.org/static/images/project-logos/bnwikisource.png",
-        "mobileUrl": "https://bn.m.wikisource.org"
+        "mobileUrl": "https://bn.wikisource.org"
     },
     "bnwikivoyage": {
         "shortName": "উইকিভ্রমণ",
@@ -1163,7 +1163,7 @@
         "languageCode": "bn",
         "group": "wikivoyage",
         "logo": "//bn.wikivoyage.org/static/images/project-logos/bnwikivoyage.png",
-        "mobileUrl": "https://bn.m.wikivoyage.org"
+        "mobileUrl": "https://bn.wikivoyage.org"
     },
     "bowiki": {
         "shortName": "Wikipedia",
@@ -1185,7 +1185,7 @@
         "languageCode": "bo",
         "group": "wiktionary",
         "logo": "//bo.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://bo.m.wiktionary.org"
+        "mobileUrl": "https://bo.wiktionary.org"
     },
     "bowikibooks": {
         "shortName": "Wikibooks",
@@ -1196,7 +1196,7 @@
         "languageCode": "bo",
         "group": "wikibooks",
         "logo": "//bo.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://bo.m.wikibooks.org"
+        "mobileUrl": "https://bo.wikibooks.org"
     },
     "bpywiki": {
         "shortName": "উইকিপিডিয়া",
@@ -1229,7 +1229,7 @@
         "languageCode": "br",
         "group": "wiktionary",
         "logo": "//br.wiktionary.org/static/images/project-logos/brwiktionary.png",
-        "mobileUrl": "https://br.m.wiktionary.org"
+        "mobileUrl": "https://br.wiktionary.org"
     },
     "brwikiquote": {
         "shortName": "Wikiarroud",
@@ -1240,7 +1240,7 @@
         "languageCode": "br",
         "group": "wikiquote",
         "logo": "//br.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://br.m.wikiquote.org"
+        "mobileUrl": "https://br.wikiquote.org"
     },
     "brwikisource": {
         "shortName": "Wikimammenn",
@@ -1251,7 +1251,7 @@
         "languageCode": "br",
         "group": "wikisource",
         "logo": "//br.wikisource.org/static/images/project-logos/brwikisource.png",
-        "mobileUrl": "https://br.m.wikisource.org"
+        "mobileUrl": "https://br.wikisource.org"
     },
     "bswiki": {
         "shortName": "Wikipedia",
@@ -1273,7 +1273,7 @@
         "languageCode": "bs",
         "group": "wiktionary",
         "logo": "//bs.wiktionary.org/static/images/project-logos/bswiktionary.png",
-        "mobileUrl": "https://bs.m.wiktionary.org"
+        "mobileUrl": "https://bs.wiktionary.org"
     },
     "bswikibooks": {
         "shortName": "Wikiknjige",
@@ -1284,7 +1284,7 @@
         "languageCode": "bs",
         "group": "wikibooks",
         "logo": "//bs.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://bs.m.wikibooks.org"
+        "mobileUrl": "https://bs.wikibooks.org"
     },
     "bswikinews": {
         "shortName": "Wikivijesti",
@@ -1295,7 +1295,7 @@
         "languageCode": "bs",
         "group": "wikinews",
         "logo": "//bs.wikinews.org/static/images/project-logos/bswikinews.png",
-        "mobileUrl": "https://bs.m.wikinews.org"
+        "mobileUrl": "https://bs.wikinews.org"
     },
     "bswikiquote": {
         "shortName": "Wikicitati",
@@ -1306,7 +1306,7 @@
         "languageCode": "bs",
         "group": "wikiquote",
         "logo": "//bs.wikiquote.org/static/images/project-logos/bswikiquote.png",
-        "mobileUrl": "https://bs.m.wikiquote.org"
+        "mobileUrl": "https://bs.wikiquote.org"
     },
     "bswikisource": {
         "shortName": "Wikizvor",
@@ -1317,7 +1317,7 @@
         "languageCode": "bs",
         "group": "wikisource",
         "logo": "//bs.wikisource.org/static/images/project-logos/bswikisource.png",
-        "mobileUrl": "https://bs.m.wikisource.org"
+        "mobileUrl": "https://bs.wikisource.org"
     },
     "btmwiki": {
         "shortName": "Wikipedia",
@@ -1339,7 +1339,7 @@
         "languageCode": "btm",
         "group": "wiktionary",
         "logo": "//btm.wiktionary.org/static/images/project-logos/btmwiktionary.png",
-        "mobileUrl": "https://btm.m.wiktionary.org"
+        "mobileUrl": "https://btm.wiktionary.org"
     },
     "bugwiki": {
         "shortName": "Wikipedia",
@@ -1372,7 +1372,7 @@
         "languageCode": "ca",
         "group": "wiki",
         "logo": "//ca.wikipedia.org/static/images/project-logos/cawiki.png",
-        "mobileUrl": "https://ca.m.wikipedia.org"
+        "mobileUrl": "https://ca.wikipedia.org"
     },
     "cawiktionary": {
         "shortName": "Viccionari",
@@ -1383,7 +1383,7 @@
         "languageCode": "ca",
         "group": "wiktionary",
         "logo": "//ca.wiktionary.org/static/images/project-logos/cawiktionary.png",
-        "mobileUrl": "https://ca.m.wiktionary.org"
+        "mobileUrl": "https://ca.wiktionary.org"
     },
     "cawikibooks": {
         "shortName": "Viquillibres",
@@ -1394,7 +1394,7 @@
         "languageCode": "ca",
         "group": "wikibooks",
         "logo": "//ca.wikibooks.org/static/images/project-logos/cawikibooks.png",
-        "mobileUrl": "https://ca.m.wikibooks.org"
+        "mobileUrl": "https://ca.wikibooks.org"
     },
     "cawikinews": {
         "shortName": "Viquinotícies",
@@ -1405,7 +1405,7 @@
         "languageCode": "ca",
         "group": "wikinews",
         "logo": "//ca.wikinews.org/static/images/project-logos/cawikinews.png",
-        "mobileUrl": "https://ca.m.wikinews.org"
+        "mobileUrl": "https://ca.wikinews.org"
     },
     "cawikiquote": {
         "shortName": "Viquidites",
@@ -1416,7 +1416,7 @@
         "languageCode": "ca",
         "group": "wikiquote",
         "logo": "//ca.wikiquote.org/static/images/project-logos/cawikiquote.png",
-        "mobileUrl": "https://ca.m.wikiquote.org"
+        "mobileUrl": "https://ca.wikiquote.org"
     },
     "cawikisource": {
         "shortName": "Viquitexts",
@@ -1427,7 +1427,7 @@
         "languageCode": "ca",
         "group": "wikisource",
         "logo": "//ca.wikisource.org/static/images/project-logos/cawikisource.png",
-        "mobileUrl": "https://ca.m.wikisource.org"
+        "mobileUrl": "https://ca.wikisource.org"
     },
     "cbk_zamwiki": {
         "shortName": "Wikipedia",
@@ -1493,7 +1493,7 @@
         "languageCode": "ch",
         "group": "wiktionary",
         "logo": "//ch.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://ch.m.wiktionary.org"
+        "mobileUrl": "https://ch.wiktionary.org"
     },
     "chwikibooks": {
         "shortName": "Wikibooks",
@@ -1504,7 +1504,7 @@
         "languageCode": "ch",
         "group": "wikibooks",
         "logo": "//ch.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://ch.m.wikibooks.org"
+        "mobileUrl": "https://ch.wikibooks.org"
     },
     "chowiki": {
         "shortName": "Wikipedia",
@@ -1537,7 +1537,7 @@
         "languageCode": "chr",
         "group": "wiktionary",
         "logo": "//chr.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://chr.m.wiktionary.org"
+        "mobileUrl": "https://chr.wiktionary.org"
     },
     "chywiki": {
         "shortName": "Tsétsêhéstâhese Wikipedia",
@@ -1570,7 +1570,7 @@
         "languageCode": "ckb",
         "group": "wiktionary",
         "logo": "//ckb.wiktionary.org/static/images/project-logos/ckbwiktionary.png",
-        "mobileUrl": "https://ckb.m.wiktionary.org"
+        "mobileUrl": "https://ckb.wiktionary.org"
     },
     "cowiki": {
         "shortName": "Wikipedia",
@@ -1592,7 +1592,7 @@
         "languageCode": "co",
         "group": "wiktionary",
         "logo": "//co.wiktionary.org/static/images/project-logos/cowiktionary.png",
-        "mobileUrl": "https://co.m.wiktionary.org"
+        "mobileUrl": "https://co.wiktionary.org"
     },
     "cowikibooks": {
         "shortName": "Wikibooks",
@@ -1603,7 +1603,7 @@
         "languageCode": "co",
         "group": "wikibooks",
         "logo": "//co.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://co.m.wikibooks.org"
+        "mobileUrl": "https://co.wikibooks.org"
     },
     "cowikiquote": {
         "shortName": "Wikiquote",
@@ -1614,7 +1614,7 @@
         "languageCode": "co",
         "group": "wikiquote",
         "logo": "//co.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://co.m.wikiquote.org"
+        "mobileUrl": "https://co.wikiquote.org"
     },
     "crwiki": {
         "shortName": "Wikipedia",
@@ -1636,7 +1636,7 @@
         "languageCode": "cr",
         "group": "wiktionary",
         "logo": "//cr.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://cr.m.wiktionary.org"
+        "mobileUrl": "https://cr.wiktionary.org"
     },
     "crwikiquote": {
         "shortName": "Wikiquote",
@@ -1647,7 +1647,7 @@
         "languageCode": "cr",
         "group": "wikiquote",
         "logo": "//cr.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://cr.m.wikiquote.org"
+        "mobileUrl": "https://cr.wikiquote.org"
     },
     "crhwiki": {
         "shortName": "Vikipediya",
@@ -1680,7 +1680,7 @@
         "languageCode": "cs",
         "group": "wiktionary",
         "logo": "//cs.wiktionary.org/static/images/project-logos/cswiktionary.png",
-        "mobileUrl": "https://cs.m.wiktionary.org"
+        "mobileUrl": "https://cs.wiktionary.org"
     },
     "cswikibooks": {
         "shortName": "Wikiknihy",
@@ -1691,7 +1691,7 @@
         "languageCode": "cs",
         "group": "wikibooks",
         "logo": "//cs.wikibooks.org/static/images/project-logos/cswikibooks.png",
-        "mobileUrl": "https://cs.m.wikibooks.org"
+        "mobileUrl": "https://cs.wikibooks.org"
     },
     "cswikinews": {
         "shortName": "Wikizprávy",
@@ -1702,7 +1702,7 @@
         "languageCode": "cs",
         "group": "wikinews",
         "logo": "//cs.wikinews.org/static/images/project-logos/cswikinews.png",
-        "mobileUrl": "https://cs.m.wikinews.org"
+        "mobileUrl": "https://cs.wikinews.org"
     },
     "cswikiquote": {
         "shortName": "Wikicitáty",
@@ -1713,7 +1713,7 @@
         "languageCode": "cs",
         "group": "wikiquote",
         "logo": "//cs.wikiquote.org/static/images/project-logos/cswikiquote.png",
-        "mobileUrl": "https://cs.m.wikiquote.org"
+        "mobileUrl": "https://cs.wikiquote.org"
     },
     "cswikisource": {
         "shortName": "Wikizdroje",
@@ -1724,7 +1724,7 @@
         "languageCode": "cs",
         "group": "wikisource",
         "logo": "//cs.wikisource.org/static/images/project-logos/cswikisource.png",
-        "mobileUrl": "https://cs.m.wikisource.org"
+        "mobileUrl": "https://cs.wikisource.org"
     },
     "cswikiversity": {
         "shortName": "Wikiverzita",
@@ -1735,7 +1735,7 @@
         "languageCode": "cs",
         "group": "wikiversity",
         "logo": "//cs.wikiversity.org/static/images/project-logos/cswikiversity.png",
-        "mobileUrl": "https://cs.m.wikiversity.org"
+        "mobileUrl": "https://cs.wikiversity.org"
     },
     "cswikivoyage": {
         "shortName": "Wikicesty",
@@ -1746,7 +1746,7 @@
         "languageCode": "cs",
         "group": "wikivoyage",
         "logo": "//cs.wikivoyage.org/static/images/project-logos/cswikivoyage.png",
-        "mobileUrl": "https://cs.m.wikivoyage.org"
+        "mobileUrl": "https://cs.wikivoyage.org"
     },
     "csbwiki": {
         "shortName": "Wikipedia",
@@ -1768,7 +1768,7 @@
         "languageCode": "csb",
         "group": "wiktionary",
         "logo": "//csb.wiktionary.org/static/images/project-logos/csbwiktionary.png",
-        "mobileUrl": "https://csb.m.wiktionary.org"
+        "mobileUrl": "https://csb.wiktionary.org"
     },
     "cuwiki": {
         "shortName": "Википєдїꙗ",
@@ -1801,7 +1801,7 @@
         "languageCode": "cv",
         "group": "wikibooks",
         "logo": "//cv.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://cv.m.wikibooks.org"
+        "mobileUrl": "https://cv.wikibooks.org"
     },
     "cywiki": {
         "shortName": "Wicipedia",
@@ -1823,7 +1823,7 @@
         "languageCode": "cy",
         "group": "wiktionary",
         "logo": "//cy.wiktionary.org/static/images/project-logos/cywiktionary.png",
-        "mobileUrl": "https://cy.m.wiktionary.org"
+        "mobileUrl": "https://cy.wiktionary.org"
     },
     "cywikibooks": {
         "shortName": "Wicilyfrau",
@@ -1834,7 +1834,7 @@
         "languageCode": "cy",
         "group": "wikibooks",
         "logo": "//cy.wikibooks.org/static/images/project-logos/cywikibooks.png",
-        "mobileUrl": "https://cy.m.wikibooks.org"
+        "mobileUrl": "https://cy.wikibooks.org"
     },
     "cywikiquote": {
         "shortName": "Wikiquote",
@@ -1845,7 +1845,7 @@
         "languageCode": "cy",
         "group": "wikiquote",
         "logo": "//cy.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://cy.m.wikiquote.org"
+        "mobileUrl": "https://cy.wikiquote.org"
     },
     "cywikisource": {
         "shortName": "Wicidestun",
@@ -1856,7 +1856,7 @@
         "languageCode": "cy",
         "group": "wikisource",
         "logo": "//cy.wikisource.org/static/images/project-logos/cywikisource.png",
-        "mobileUrl": "https://cy.m.wikisource.org"
+        "mobileUrl": "https://cy.wikisource.org"
     },
     "dawiki": {
         "shortName": "Wikipedia",
@@ -1878,7 +1878,7 @@
         "languageCode": "da",
         "group": "wiktionary",
         "logo": "//da.wiktionary.org/static/images/project-logos/dawiktionary.png",
-        "mobileUrl": "https://da.m.wiktionary.org"
+        "mobileUrl": "https://da.wiktionary.org"
     },
     "dawikibooks": {
         "shortName": "Wikibooks",
@@ -1889,7 +1889,7 @@
         "languageCode": "da",
         "group": "wikibooks",
         "logo": "//da.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://da.m.wikibooks.org"
+        "mobileUrl": "https://da.wikibooks.org"
     },
     "dawikiquote": {
         "shortName": "Wikiquote",
@@ -1900,7 +1900,7 @@
         "languageCode": "da",
         "group": "wikiquote",
         "logo": "//da.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://da.m.wikiquote.org"
+        "mobileUrl": "https://da.wikiquote.org"
     },
     "dawikisource": {
         "shortName": "Wikisource",
@@ -1911,7 +1911,7 @@
         "languageCode": "da",
         "group": "wikisource",
         "logo": "//da.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://da.m.wikisource.org"
+        "mobileUrl": "https://da.wikisource.org"
     },
     "dagwiki": {
         "shortName": "Dagbani Wikipedia",
@@ -1944,7 +1944,7 @@
         "languageCode": "de",
         "group": "wiktionary",
         "logo": "//de.wiktionary.org/static/images/project-logos/dewiktionary.png",
-        "mobileUrl": "https://de.m.wiktionary.org"
+        "mobileUrl": "https://de.wiktionary.org"
     },
     "dewikibooks": {
         "shortName": "Wikibooks",
@@ -1955,7 +1955,7 @@
         "languageCode": "de",
         "group": "wikibooks",
         "logo": "//de.wikibooks.org/static/images/project-logos/dewikibooks.png",
-        "mobileUrl": "https://de.m.wikibooks.org"
+        "mobileUrl": "https://de.wikibooks.org"
     },
     "dewikinews": {
         "shortName": "Wikinews",
@@ -1966,7 +1966,7 @@
         "languageCode": "de",
         "group": "wikinews",
         "logo": "//de.wikinews.org/static/images/project-logos/dewikinews.png",
-        "mobileUrl": "https://de.m.wikinews.org"
+        "mobileUrl": "https://de.wikinews.org"
     },
     "dewikiquote": {
         "shortName": "Wikiquote",
@@ -1977,7 +1977,7 @@
         "languageCode": "de",
         "group": "wikiquote",
         "logo": "//de.wikiquote.org/static/images/project-logos/dewikiquote.png",
-        "mobileUrl": "https://de.m.wikiquote.org"
+        "mobileUrl": "https://de.wikiquote.org"
     },
     "dewikisource": {
         "shortName": "Wikisource",
@@ -1988,7 +1988,7 @@
         "languageCode": "de",
         "group": "wikisource",
         "logo": "//de.wikisource.org/static/images/project-logos/dewikisource.png",
-        "mobileUrl": "https://de.m.wikisource.org"
+        "mobileUrl": "https://de.wikisource.org"
     },
     "dewikiversity": {
         "shortName": "Wikiversity",
@@ -1999,7 +1999,7 @@
         "languageCode": "de",
         "group": "wikiversity",
         "logo": "//de.wikiversity.org/static/images/project-logos/dewikiversity.png",
-        "mobileUrl": "https://de.m.wikiversity.org"
+        "mobileUrl": "https://de.wikiversity.org"
     },
     "dewikivoyage": {
         "shortName": "Wikivoyage",
@@ -2010,7 +2010,7 @@
         "languageCode": "de",
         "group": "wikivoyage",
         "logo": "//de.wikivoyage.org/static/images/project-logos/wikivoyage.png",
-        "mobileUrl": "https://de.m.wikivoyage.org"
+        "mobileUrl": "https://de.wikivoyage.org"
     },
     "dgawiki": {
         "shortName": "Wikipiideɛ",
@@ -2054,7 +2054,7 @@
         "languageCode": "diq",
         "group": "wiktionary",
         "logo": "//diq.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://diq.m.wiktionary.org"
+        "mobileUrl": "https://diq.wiktionary.org"
     },
     "dsbwiki": {
         "shortName": "Wikipedija",
@@ -2109,7 +2109,7 @@
         "languageCode": "dv",
         "group": "wiktionary",
         "logo": "//dv.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://dv.m.wiktionary.org"
+        "mobileUrl": "https://dv.wiktionary.org"
     },
     "dzwiki": {
         "shortName": "Wikipedia",
@@ -2131,7 +2131,7 @@
         "languageCode": "dz",
         "group": "wiktionary",
         "logo": "//dz.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://dz.m.wiktionary.org"
+        "mobileUrl": "https://dz.wiktionary.org"
     },
     "eewiki": {
         "shortName": "Wikipedia",
@@ -2164,7 +2164,7 @@
         "languageCode": "el",
         "group": "wiktionary",
         "logo": "//el.wiktionary.org/static/images/project-logos/elwiktionary.png",
-        "mobileUrl": "https://el.m.wiktionary.org"
+        "mobileUrl": "https://el.wiktionary.org"
     },
     "elwikibooks": {
         "shortName": "Βικιβιβλία",
@@ -2175,7 +2175,7 @@
         "languageCode": "el",
         "group": "wikibooks",
         "logo": "//el.wikibooks.org/static/images/project-logos/elwikibooks.png",
-        "mobileUrl": "https://el.m.wikibooks.org"
+        "mobileUrl": "https://el.wikibooks.org"
     },
     "elwikinews": {
         "shortName": "Βικινέα",
@@ -2186,7 +2186,7 @@
         "languageCode": "el",
         "group": "wikinews",
         "logo": "//el.wikinews.org/static/images/project-logos/elwikinews.png",
-        "mobileUrl": "https://el.m.wikinews.org"
+        "mobileUrl": "https://el.wikinews.org"
     },
     "elwikiquote": {
         "shortName": "Βικιφθέγματα",
@@ -2197,7 +2197,7 @@
         "languageCode": "el",
         "group": "wikiquote",
         "logo": "//el.wikiquote.org/static/images/project-logos/elwikiquote.png",
-        "mobileUrl": "https://el.m.wikiquote.org"
+        "mobileUrl": "https://el.wikiquote.org"
     },
     "elwikisource": {
         "shortName": "Βικιθήκη",
@@ -2208,7 +2208,7 @@
         "languageCode": "el",
         "group": "wikisource",
         "logo": "//el.wikisource.org/static/images/project-logos/elwikisource.png",
-        "mobileUrl": "https://el.m.wikisource.org"
+        "mobileUrl": "https://el.wikisource.org"
     },
     "elwikiversity": {
         "shortName": "Βικιεπιστήμιο",
@@ -2219,7 +2219,7 @@
         "languageCode": "el",
         "group": "wikiversity",
         "logo": "//el.wikiversity.org/static/images/project-logos/elwikiversity.png",
-        "mobileUrl": "https://el.m.wikiversity.org"
+        "mobileUrl": "https://el.wikiversity.org"
     },
     "elwikivoyage": {
         "shortName": "Βικιταξίδια",
@@ -2230,7 +2230,7 @@
         "languageCode": "el",
         "group": "wikivoyage",
         "logo": "//el.wikivoyage.org/static/images/project-logos/elwikivoyage.png",
-        "mobileUrl": "https://el.m.wikivoyage.org"
+        "mobileUrl": "https://el.wikivoyage.org"
     },
     "emlwiki": {
         "shortName": "Wikipedia",
@@ -2263,7 +2263,7 @@
         "languageCode": "en",
         "group": "wiktionary",
         "logo": "//en.wiktionary.org/static/images/project-logos/enwiktionary.png",
-        "mobileUrl": "https://en.m.wiktionary.org"
+        "mobileUrl": "https://en.wiktionary.org"
     },
     "enwikibooks": {
         "shortName": "Wikibooks",
@@ -2274,7 +2274,7 @@
         "languageCode": "en",
         "group": "wikibooks",
         "logo": "//en.wikibooks.org/static/images/project-logos/enwikibooks.png",
-        "mobileUrl": "https://en.m.wikibooks.org"
+        "mobileUrl": "https://en.wikibooks.org"
     },
     "enwikinews": {
         "shortName": "Wikinews",
@@ -2285,7 +2285,7 @@
         "languageCode": "en",
         "group": "wikinews",
         "logo": "//en.wikinews.org/static/images/project-logos/enwikinews.png",
-        "mobileUrl": "https://en.m.wikinews.org"
+        "mobileUrl": "https://en.wikinews.org"
     },
     "enwikiquote": {
         "shortName": "Wikiquote",
@@ -2296,7 +2296,7 @@
         "languageCode": "en",
         "group": "wikiquote",
         "logo": "//en.wikiquote.org/static/images/project-logos/enwikiquote.png",
-        "mobileUrl": "https://en.m.wikiquote.org"
+        "mobileUrl": "https://en.wikiquote.org"
     },
     "enwikisource": {
         "shortName": "Wikisource",
@@ -2307,7 +2307,7 @@
         "languageCode": "en",
         "group": "wikisource",
         "logo": "//en.wikisource.org/static/images/project-logos/enwikisource.png",
-        "mobileUrl": "https://en.m.wikisource.org"
+        "mobileUrl": "https://en.wikisource.org"
     },
     "enwikiversity": {
         "shortName": "Wikiversity",
@@ -2318,7 +2318,7 @@
         "languageCode": "en",
         "group": "wikiversity",
         "logo": "//en.wikiversity.org/static/images/project-logos/enwikiversity.png",
-        "mobileUrl": "https://en.m.wikiversity.org"
+        "mobileUrl": "https://en.wikiversity.org"
     },
     "enwikivoyage": {
         "shortName": "Wikivoyage",
@@ -2329,7 +2329,7 @@
         "languageCode": "en",
         "group": "wikivoyage",
         "logo": "//en.wikivoyage.org/static/images/project-logos/enwikivoyage.png",
-        "mobileUrl": "https://en.m.wikivoyage.org"
+        "mobileUrl": "https://en.wikivoyage.org"
     },
     "eowiki": {
         "shortName": "Vikipedio",
@@ -2351,7 +2351,7 @@
         "languageCode": "eo",
         "group": "wiktionary",
         "logo": "//eo.wiktionary.org/static/images/project-logos/eowiktionary.png",
-        "mobileUrl": "https://eo.m.wiktionary.org"
+        "mobileUrl": "https://eo.wiktionary.org"
     },
     "eowikibooks": {
         "shortName": "Vikilibroj",
@@ -2362,7 +2362,7 @@
         "languageCode": "eo",
         "group": "wikibooks",
         "logo": "//eo.wikibooks.org/static/images/project-logos/eowikibooks.png",
-        "mobileUrl": "https://eo.m.wikibooks.org"
+        "mobileUrl": "https://eo.wikibooks.org"
     },
     "eowikinews": {
         "shortName": "Vikinovaĵoj",
@@ -2373,7 +2373,7 @@
         "languageCode": "eo",
         "group": "wikinews",
         "logo": "//eo.wikinews.org/static/images/project-logos/eowikinews.png",
-        "mobileUrl": "https://eo.m.wikinews.org"
+        "mobileUrl": "https://eo.wikinews.org"
     },
     "eowikiquote": {
         "shortName": "Vikicitaro",
@@ -2384,7 +2384,7 @@
         "languageCode": "eo",
         "group": "wikiquote",
         "logo": "//eo.wikiquote.org/static/images/project-logos/eowikiquote.png",
-        "mobileUrl": "https://eo.m.wikiquote.org"
+        "mobileUrl": "https://eo.wikiquote.org"
     },
     "eowikisource": {
         "shortName": "Vikifontaro",
@@ -2395,7 +2395,7 @@
         "languageCode": "eo",
         "group": "wikisource",
         "logo": "//eo.wikisource.org/static/images/project-logos/eowikisource.png",
-        "mobileUrl": "https://eo.m.wikisource.org"
+        "mobileUrl": "https://eo.wikisource.org"
     },
     "eowikivoyage": {
         "shortName": "Vikivojaĝo",
@@ -2406,7 +2406,7 @@
         "languageCode": "eo",
         "group": "wikivoyage",
         "logo": "//eo.wikivoyage.org/static/images/project-logos/eowikivoyage.png",
-        "mobileUrl": "https://eo.m.wikivoyage.org"
+        "mobileUrl": "https://eo.wikivoyage.org"
     },
     "eswiki": {
         "shortName": "Wikipedia",
@@ -2428,7 +2428,7 @@
         "languageCode": "es",
         "group": "wiktionary",
         "logo": "//es.wiktionary.org/static/images/project-logos/eswiktionary.png",
-        "mobileUrl": "https://es.m.wiktionary.org"
+        "mobileUrl": "https://es.wiktionary.org"
     },
     "eswikibooks": {
         "shortName": "Wikilibros",
@@ -2439,7 +2439,7 @@
         "languageCode": "es",
         "group": "wikibooks",
         "logo": "//es.wikibooks.org/static/images/project-logos/eswikibooks.png",
-        "mobileUrl": "https://es.m.wikibooks.org"
+        "mobileUrl": "https://es.wikibooks.org"
     },
     "eswikinews": {
         "shortName": "Wikinoticias",
@@ -2450,7 +2450,7 @@
         "languageCode": "es",
         "group": "wikinews",
         "logo": "//es.wikinews.org/static/images/project-logos/eswikinews.png",
-        "mobileUrl": "https://es.m.wikinews.org"
+        "mobileUrl": "https://es.wikinews.org"
     },
     "eswikiquote": {
         "shortName": "Wikiquote",
@@ -2461,7 +2461,7 @@
         "languageCode": "es",
         "group": "wikiquote",
         "logo": "//es.wikiquote.org/static/images/project-logos/eswikiquote.png",
-        "mobileUrl": "https://es.m.wikiquote.org"
+        "mobileUrl": "https://es.wikiquote.org"
     },
     "eswikisource": {
         "shortName": "Wikisource",
@@ -2472,7 +2472,7 @@
         "languageCode": "es",
         "group": "wikisource",
         "logo": "//es.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://es.m.wikisource.org"
+        "mobileUrl": "https://es.wikisource.org"
     },
     "eswikiversity": {
         "shortName": "Wikiversidad",
@@ -2483,7 +2483,7 @@
         "languageCode": "es",
         "group": "wikiversity",
         "logo": "//es.wikiversity.org/static/images/project-logos/eswikiversity.png",
-        "mobileUrl": "https://es.m.wikiversity.org"
+        "mobileUrl": "https://es.wikiversity.org"
     },
     "eswikivoyage": {
         "shortName": "Wikiviajes",
@@ -2494,7 +2494,7 @@
         "languageCode": "es",
         "group": "wikivoyage",
         "logo": "//es.wikivoyage.org/static/images/project-logos/eswikivoyage.png",
-        "mobileUrl": "https://es.m.wikivoyage.org"
+        "mobileUrl": "https://es.wikivoyage.org"
     },
     "etwiki": {
         "shortName": "Vikipeedia",
@@ -2516,7 +2516,7 @@
         "languageCode": "et",
         "group": "wiktionary",
         "logo": "//et.wiktionary.org/static/images/project-logos/etwiktionary.png",
-        "mobileUrl": "https://et.m.wiktionary.org"
+        "mobileUrl": "https://et.wiktionary.org"
     },
     "etwikibooks": {
         "shortName": "Vikiõpikud",
@@ -2527,7 +2527,7 @@
         "languageCode": "et",
         "group": "wikibooks",
         "logo": "//et.wikibooks.org/static/images/project-logos/etwikibooks.png",
-        "mobileUrl": "https://et.m.wikibooks.org"
+        "mobileUrl": "https://et.wikibooks.org"
     },
     "etwikiquote": {
         "shortName": "Vikitsitaadid",
@@ -2538,7 +2538,7 @@
         "languageCode": "et",
         "group": "wikiquote",
         "logo": "//et.wikiquote.org/static/images/project-logos/etwikiquote.png",
-        "mobileUrl": "https://et.m.wikiquote.org"
+        "mobileUrl": "https://et.wikiquote.org"
     },
     "etwikisource": {
         "shortName": "Vikitekstid",
@@ -2549,7 +2549,7 @@
         "languageCode": "et",
         "group": "wikisource",
         "logo": "//et.wikisource.org/static/images/project-logos/etwikisource.png",
-        "mobileUrl": "https://et.m.wikisource.org"
+        "mobileUrl": "https://et.wikisource.org"
     },
     "euwiki": {
         "shortName": "Wikipedia",
@@ -2571,7 +2571,7 @@
         "languageCode": "eu",
         "group": "wiktionary",
         "logo": "//eu.wiktionary.org/static/images/project-logos/euwiktionary.png",
-        "mobileUrl": "https://eu.m.wiktionary.org"
+        "mobileUrl": "https://eu.wiktionary.org"
     },
     "euwikibooks": {
         "shortName": "Wikibooks",
@@ -2582,7 +2582,7 @@
         "languageCode": "eu",
         "group": "wikibooks",
         "logo": "//eu.wikibooks.org/static/images/project-logos/euwikibooks.png",
-        "mobileUrl": "https://eu.m.wikibooks.org"
+        "mobileUrl": "https://eu.wikibooks.org"
     },
     "euwikiquote": {
         "shortName": "Wikiquote",
@@ -2593,7 +2593,7 @@
         "languageCode": "eu",
         "group": "wikiquote",
         "logo": "//eu.wikiquote.org/static/images/project-logos/euwikiquote.png",
-        "mobileUrl": "https://eu.m.wikiquote.org"
+        "mobileUrl": "https://eu.wikiquote.org"
     },
     "euwikisource": {
         "shortName": "Wikiteka",
@@ -2604,7 +2604,7 @@
         "languageCode": "eu",
         "group": "wikisource",
         "logo": "//eu.wikisource.org/static/images/project-logos/euwikisource.png",
-        "mobileUrl": "https://eu.m.wikisource.org"
+        "mobileUrl": "https://eu.wikisource.org"
     },
     "extwiki": {
         "shortName": "Güiquipeya",
@@ -2626,7 +2626,7 @@
         "languageCode": "fa",
         "group": "wiki",
         "logo": "//fa.wikipedia.org/static/images/project-logos/fawiki.png",
-        "mobileUrl": "https://fa.m.wikipedia.org"
+        "mobileUrl": "https://fa.wikipedia.org"
     },
     "fawiktionary": {
         "shortName": "ویکی‌واژه",
@@ -2637,7 +2637,7 @@
         "languageCode": "fa",
         "group": "wiktionary",
         "logo": "//fa.wiktionary.org/static/images/project-logos/fawiktionary.png",
-        "mobileUrl": "https://fa.m.wiktionary.org"
+        "mobileUrl": "https://fa.wiktionary.org"
     },
     "fawikibooks": {
         "shortName": "ویکی‌کتاب",
@@ -2648,7 +2648,7 @@
         "languageCode": "fa",
         "group": "wikibooks",
         "logo": "//fa.wikibooks.org/static/images/project-logos/fawikibooks.png",
-        "mobileUrl": "https://fa.m.wikibooks.org"
+        "mobileUrl": "https://fa.wikibooks.org"
     },
     "fawikinews": {
         "shortName": "ویکی‌خبر",
@@ -2659,7 +2659,7 @@
         "languageCode": "fa",
         "group": "wikinews",
         "logo": "//fa.wikinews.org/static/images/project-logos/fawikinews.png",
-        "mobileUrl": "https://fa.m.wikinews.org"
+        "mobileUrl": "https://fa.wikinews.org"
     },
     "fawikiquote": {
         "shortName": "ویکی‌گفتاورد",
@@ -2670,7 +2670,7 @@
         "languageCode": "fa",
         "group": "wikiquote",
         "logo": "//fa.wikiquote.org/static/images/project-logos/fawikiquote.png",
-        "mobileUrl": "https://fa.m.wikiquote.org"
+        "mobileUrl": "https://fa.wikiquote.org"
     },
     "fawikisource": {
         "shortName": "ویکی‌نبشته",
@@ -2681,7 +2681,7 @@
         "languageCode": "fa",
         "group": "wikisource",
         "logo": "//fa.wikisource.org/static/images/project-logos/fawikisource.png",
-        "mobileUrl": "https://fa.m.wikisource.org"
+        "mobileUrl": "https://fa.wikisource.org"
     },
     "fawikivoyage": {
         "shortName": "ویکی‌سفر",
@@ -2692,7 +2692,7 @@
         "languageCode": "fa",
         "group": "wikivoyage",
         "logo": "//fa.wikivoyage.org/static/images/project-logos/fawikivoyage.png",
-        "mobileUrl": "https://fa.m.wikivoyage.org"
+        "mobileUrl": "https://fa.wikivoyage.org"
     },
     "fatwiki": {
         "shortName": "Wikipedia",
@@ -2736,7 +2736,7 @@
         "languageCode": "fi",
         "group": "wiktionary",
         "logo": "//fi.wiktionary.org/static/images/project-logos/fiwiktionary.png",
-        "mobileUrl": "https://fi.m.wiktionary.org"
+        "mobileUrl": "https://fi.wiktionary.org"
     },
     "fiwikibooks": {
         "shortName": "Wikikirjasto",
@@ -2747,7 +2747,7 @@
         "languageCode": "fi",
         "group": "wikibooks",
         "logo": "//fi.wikibooks.org/static/images/project-logos/fiwikibooks.png",
-        "mobileUrl": "https://fi.m.wikibooks.org"
+        "mobileUrl": "https://fi.wikibooks.org"
     },
     "fiwikinews": {
         "shortName": "Wikiuutiset",
@@ -2758,7 +2758,7 @@
         "languageCode": "fi",
         "group": "wikinews",
         "logo": "//fi.wikinews.org/static/images/project-logos/fiwikinews.png",
-        "mobileUrl": "https://fi.m.wikinews.org"
+        "mobileUrl": "https://fi.wikinews.org"
     },
     "fiwikiquote": {
         "shortName": "Wikisitaatit",
@@ -2769,7 +2769,7 @@
         "languageCode": "fi",
         "group": "wikiquote",
         "logo": "//fi.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://fi.m.wikiquote.org"
+        "mobileUrl": "https://fi.wikiquote.org"
     },
     "fiwikisource": {
         "shortName": "Wikiaineisto",
@@ -2780,7 +2780,7 @@
         "languageCode": "fi",
         "group": "wikisource",
         "logo": "//fi.wikisource.org/static/images/project-logos/fiwikisource.png",
-        "mobileUrl": "https://fi.m.wikisource.org"
+        "mobileUrl": "https://fi.wikisource.org"
     },
     "fiwikiversity": {
         "shortName": "Wikiopisto",
@@ -2791,7 +2791,7 @@
         "languageCode": "fi",
         "group": "wikiversity",
         "logo": "//fi.wikiversity.org/static/images/project-logos/fiwikiversity.png",
-        "mobileUrl": "https://fi.m.wikiversity.org"
+        "mobileUrl": "https://fi.wikiversity.org"
     },
     "fiwikivoyage": {
         "shortName": "Wikimatkat",
@@ -2802,7 +2802,7 @@
         "languageCode": "fi",
         "group": "wikivoyage",
         "logo": "//fi.wikivoyage.org/static/images/project-logos/fiwikivoyage.png",
-        "mobileUrl": "https://fi.m.wikivoyage.org"
+        "mobileUrl": "https://fi.wikivoyage.org"
     },
     "fjwiki": {
         "shortName": "Wikipedia",
@@ -2824,7 +2824,7 @@
         "languageCode": "fj",
         "group": "wiktionary",
         "logo": "//fj.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://fj.m.wiktionary.org"
+        "mobileUrl": "https://fj.wiktionary.org"
     },
     "fowiki": {
         "shortName": "Wikipedia",
@@ -2846,7 +2846,7 @@
         "languageCode": "fo",
         "group": "wiktionary",
         "logo": "//fo.wiktionary.org/static/images/project-logos/fowiktionary.png",
-        "mobileUrl": "https://fo.m.wiktionary.org"
+        "mobileUrl": "https://fo.wiktionary.org"
     },
     "fowikisource": {
         "shortName": "Wikiheimild",
@@ -2857,7 +2857,7 @@
         "languageCode": "fo",
         "group": "wikisource",
         "logo": "//fo.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://fo.m.wikisource.org"
+        "mobileUrl": "https://fo.wikisource.org"
     },
     "fonwiki": {
         "shortName": "Wikipedya",
@@ -2890,7 +2890,7 @@
         "languageCode": "fr",
         "group": "wiktionary",
         "logo": "//fr.wiktionary.org/static/images/project-logos/frwiktionary.png",
-        "mobileUrl": "https://fr.m.wiktionary.org"
+        "mobileUrl": "https://fr.wiktionary.org"
     },
     "frwikibooks": {
         "shortName": "Wikilivres",
@@ -2901,7 +2901,7 @@
         "languageCode": "fr",
         "group": "wikibooks",
         "logo": "//fr.wikibooks.org/static/images/project-logos/frwikibooks.png",
-        "mobileUrl": "https://fr.m.wikibooks.org"
+        "mobileUrl": "https://fr.wikibooks.org"
     },
     "frwikinews": {
         "shortName": "Wikinews",
@@ -2912,7 +2912,7 @@
         "languageCode": "fr",
         "group": "wikinews",
         "logo": "//fr.wikinews.org/static/images/project-logos/frwikinews.png",
-        "mobileUrl": "https://fr.m.wikinews.org"
+        "mobileUrl": "https://fr.wikinews.org"
     },
     "frwikiquote": {
         "shortName": "Wikiquote",
@@ -2923,7 +2923,7 @@
         "languageCode": "fr",
         "group": "wikiquote",
         "logo": "//fr.wikiquote.org/static/images/project-logos/frwikiquote.png",
-        "mobileUrl": "https://fr.m.wikiquote.org"
+        "mobileUrl": "https://fr.wikiquote.org"
     },
     "frwikisource": {
         "shortName": "Wikisource",
@@ -2934,7 +2934,7 @@
         "languageCode": "fr",
         "group": "wikisource",
         "logo": "//fr.wikisource.org/static/images/project-logos/frwikisource.png",
-        "mobileUrl": "https://fr.m.wikisource.org"
+        "mobileUrl": "https://fr.wikisource.org"
     },
     "frwikiversity": {
         "shortName": "Wikiversité",
@@ -2945,7 +2945,7 @@
         "languageCode": "fr",
         "group": "wikiversity",
         "logo": "//fr.wikiversity.org/static/images/project-logos/frwikiversity.png",
-        "mobileUrl": "https://fr.m.wikiversity.org"
+        "mobileUrl": "https://fr.wikiversity.org"
     },
     "frwikivoyage": {
         "shortName": "Wikivoyage",
@@ -2956,7 +2956,7 @@
         "languageCode": "fr",
         "group": "wikivoyage",
         "logo": "//fr.wikivoyage.org/static/images/project-logos/wikivoyage.png",
-        "mobileUrl": "https://fr.m.wikivoyage.org"
+        "mobileUrl": "https://fr.wikivoyage.org"
     },
     "frpwiki": {
         "shortName": "Vouiquipèdia",
@@ -3011,7 +3011,7 @@
         "languageCode": "fy",
         "group": "wiktionary",
         "logo": "//fy.wiktionary.org/static/images/project-logos/fywiktionary.png",
-        "mobileUrl": "https://fy.m.wiktionary.org"
+        "mobileUrl": "https://fy.wiktionary.org"
     },
     "fywikibooks": {
         "shortName": "Wikibooks",
@@ -3022,7 +3022,7 @@
         "languageCode": "fy",
         "group": "wikibooks",
         "logo": "//fy.wikibooks.org/static/images/project-logos/fywikibooks.png",
-        "mobileUrl": "https://fy.m.wikibooks.org"
+        "mobileUrl": "https://fy.wikibooks.org"
     },
     "gawiki": {
         "shortName": "Vicipéid",
@@ -3044,7 +3044,7 @@
         "languageCode": "ga",
         "group": "wiktionary",
         "logo": "//ga.wiktionary.org/static/images/project-logos/gawiktionary.png",
-        "mobileUrl": "https://ga.m.wiktionary.org"
+        "mobileUrl": "https://ga.wiktionary.org"
     },
     "gawikibooks": {
         "shortName": "Vicíleabhair",
@@ -3055,7 +3055,7 @@
         "languageCode": "ga",
         "group": "wikibooks",
         "logo": "//ga.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://ga.m.wikibooks.org"
+        "mobileUrl": "https://ga.wikibooks.org"
     },
     "gawikiquote": {
         "shortName": "Vicísliocht",
@@ -3066,7 +3066,7 @@
         "languageCode": "ga",
         "group": "wikiquote",
         "logo": "//ga.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://ga.m.wikiquote.org"
+        "mobileUrl": "https://ga.wikiquote.org"
     },
     "gagwiki": {
         "shortName": "Vikipediya",
@@ -3121,7 +3121,7 @@
         "languageCode": "gd",
         "group": "wiktionary",
         "logo": "//gd.wiktionary.org/static/images/project-logos/gdwiktionary.png",
-        "mobileUrl": "https://gd.m.wiktionary.org"
+        "mobileUrl": "https://gd.wiktionary.org"
     },
     "glwiki": {
         "shortName": "Wikipedia",
@@ -3143,7 +3143,7 @@
         "languageCode": "gl",
         "group": "wiktionary",
         "logo": "//gl.wiktionary.org/static/images/project-logos/glwiktionary.png",
-        "mobileUrl": "https://gl.m.wiktionary.org"
+        "mobileUrl": "https://gl.wiktionary.org"
     },
     "glwikibooks": {
         "shortName": "Wikibooks",
@@ -3154,7 +3154,7 @@
         "languageCode": "gl",
         "group": "wikibooks",
         "logo": "//gl.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://gl.m.wikibooks.org"
+        "mobileUrl": "https://gl.wikibooks.org"
     },
     "glwikiquote": {
         "shortName": "Wikiquote",
@@ -3165,7 +3165,7 @@
         "languageCode": "gl",
         "group": "wikiquote",
         "logo": "//gl.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://gl.m.wikiquote.org"
+        "mobileUrl": "https://gl.wikiquote.org"
     },
     "glwikisource": {
         "shortName": "Wikisource",
@@ -3176,7 +3176,7 @@
         "languageCode": "gl",
         "group": "wikisource",
         "logo": "//gl.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://gl.m.wikisource.org"
+        "mobileUrl": "https://gl.wikisource.org"
     },
     "glkwiki": {
         "shortName": "Wikipedia",
@@ -3209,7 +3209,7 @@
         "languageCode": "gn",
         "group": "wiktionary",
         "logo": "//gn.wiktionary.org/static/images/project-logos/gnwiktionary.png",
-        "mobileUrl": "https://gn.m.wiktionary.org"
+        "mobileUrl": "https://gn.wiktionary.org"
     },
     "gnwikibooks": {
         "shortName": "Wikibooks",
@@ -3220,7 +3220,7 @@
         "languageCode": "gn",
         "group": "wikibooks",
         "logo": "//gn.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://gn.m.wikibooks.org"
+        "mobileUrl": "https://gn.wikibooks.org"
     },
     "gomwiki": {
         "shortName": "विकिपीडिया",
@@ -3242,7 +3242,7 @@
         "languageCode": "gom",
         "group": "wiktionary",
         "logo": "//gom.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://gom.m.wiktionary.org"
+        "mobileUrl": "https://gom.wiktionary.org"
     },
     "gorwiki": {
         "shortName": "Wikipedia",
@@ -3264,7 +3264,7 @@
         "languageCode": "gor",
         "group": "wiktionary",
         "logo": "//gor.wiktionary.org/static/images/project-logos/gorwiktionary.png",
-        "mobileUrl": "https://gor.m.wiktionary.org"
+        "mobileUrl": "https://gor.wiktionary.org"
     },
     "gorwikiquote": {
         "shortName": "Wikilumadu",
@@ -3275,7 +3275,7 @@
         "languageCode": "gor",
         "group": "wikiquote",
         "logo": "//gor.wikiquote.org/static/images/project-logos/gorwikiquote.png",
-        "mobileUrl": "https://gor.m.wikiquote.org"
+        "mobileUrl": "https://gor.wikiquote.org"
     },
     "gotwiki": {
         "shortName": "Wikipedia",
@@ -3297,7 +3297,7 @@
         "languageCode": "got",
         "group": "wikibooks",
         "logo": "//got.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://got.m.wikibooks.org"
+        "mobileUrl": "https://got.wikibooks.org"
     },
     "gpewiki": {
         "shortName": "Wikipedia",
@@ -3341,7 +3341,7 @@
         "languageCode": "gu",
         "group": "wiktionary",
         "logo": "//gu.wiktionary.org/static/images/project-logos/guwiktionary.png",
-        "mobileUrl": "https://gu.m.wiktionary.org"
+        "mobileUrl": "https://gu.wiktionary.org"
     },
     "guwikibooks": {
         "shortName": "Wikibooks",
@@ -3352,7 +3352,7 @@
         "languageCode": "gu",
         "group": "wikibooks",
         "logo": "//gu.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://gu.m.wikibooks.org"
+        "mobileUrl": "https://gu.wikibooks.org"
     },
     "guwikiquote": {
         "shortName": "વિકિસૂક્તિ",
@@ -3363,7 +3363,7 @@
         "languageCode": "gu",
         "group": "wikiquote",
         "logo": "//gu.wikiquote.org/static/images/project-logos/guwikiquote.png",
-        "mobileUrl": "https://gu.m.wikiquote.org"
+        "mobileUrl": "https://gu.wikiquote.org"
     },
     "guwikisource": {
         "shortName": "વિકિસ્રોત",
@@ -3374,7 +3374,7 @@
         "languageCode": "gu",
         "group": "wikisource",
         "logo": "//gu.wikisource.org/static/images/project-logos/guwikisource.png",
-        "mobileUrl": "https://gu.m.wikisource.org"
+        "mobileUrl": "https://gu.wikisource.org"
     },
     "gucwiki": {
         "shortName": "Wikipeetia",
@@ -3418,7 +3418,7 @@
         "languageCode": "guw",
         "group": "wiktionary",
         "logo": "//guw.wiktionary.org/static/images/project-logos/guwwiktionary.png",
-        "mobileUrl": "https://guw.m.wiktionary.org"
+        "mobileUrl": "https://guw.wiktionary.org"
     },
     "guwwikinews": {
         "shortName": "Wikilinlin",
@@ -3429,7 +3429,7 @@
         "languageCode": "guw",
         "group": "wikinews",
         "logo": "//guw.wikinews.org/static/images/project-logos/guwwikinews.png",
-        "mobileUrl": "https://guw.m.wikinews.org"
+        "mobileUrl": "https://guw.wikinews.org"
     },
     "guwwikiquote": {
         "shortName": "Wikiquote",
@@ -3440,7 +3440,7 @@
         "languageCode": "guw",
         "group": "wikiquote",
         "logo": "//guw.wikiquote.org/static/images/project-logos/guwwikiquote.png",
-        "mobileUrl": "https://guw.m.wikiquote.org"
+        "mobileUrl": "https://guw.wikiquote.org"
     },
     "gvwiki": {
         "shortName": "Wikipedia",
@@ -3462,7 +3462,7 @@
         "languageCode": "gv",
         "group": "wiktionary",
         "logo": "//gv.wiktionary.org/static/images/project-logos/gvwiktionary.png",
-        "mobileUrl": "https://gv.m.wiktionary.org"
+        "mobileUrl": "https://gv.wiktionary.org"
     },
     "hawiki": {
         "shortName": "Wikipedia",
@@ -3484,7 +3484,7 @@
         "languageCode": "ha",
         "group": "wiktionary",
         "logo": "//ha.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://ha.m.wiktionary.org"
+        "mobileUrl": "https://ha.wiktionary.org"
     },
     "hakwiki": {
         "shortName": "Wikipedia",
@@ -3517,7 +3517,7 @@
         "languageCode": "he",
         "group": "wiki",
         "logo": "//he.wikipedia.org/static/images/project-logos/hewiki.png",
-        "mobileUrl": "https://he.m.wikipedia.org"
+        "mobileUrl": "https://he.wikipedia.org"
     },
     "hewiktionary": {
         "shortName": "ויקימילון",
@@ -3528,7 +3528,7 @@
         "languageCode": "he",
         "group": "wiktionary",
         "logo": "//he.wiktionary.org/static/images/project-logos/hewiktionary.png",
-        "mobileUrl": "https://he.m.wiktionary.org"
+        "mobileUrl": "https://he.wiktionary.org"
     },
     "hewikibooks": {
         "shortName": "ויקיספר",
@@ -3539,7 +3539,7 @@
         "languageCode": "he",
         "group": "wikibooks",
         "logo": "//he.wikibooks.org/static/images/project-logos/hewikibooks.png",
-        "mobileUrl": "https://he.m.wikibooks.org"
+        "mobileUrl": "https://he.wikibooks.org"
     },
     "hewikinews": {
         "shortName": "ויקיחדשות",
@@ -3550,7 +3550,7 @@
         "languageCode": "he",
         "group": "wikinews",
         "logo": "//he.wikinews.org/static/images/project-logos/hewikinews.png",
-        "mobileUrl": "https://he.m.wikinews.org"
+        "mobileUrl": "https://he.wikinews.org"
     },
     "hewikiquote": {
         "shortName": "ויקיציטוט",
@@ -3561,7 +3561,7 @@
         "languageCode": "he",
         "group": "wikiquote",
         "logo": "//he.wikiquote.org/static/images/project-logos/hewikiquote.png",
-        "mobileUrl": "https://he.m.wikiquote.org"
+        "mobileUrl": "https://he.wikiquote.org"
     },
     "hewikisource": {
         "shortName": "ויקיטקסט",
@@ -3572,7 +3572,7 @@
         "languageCode": "he",
         "group": "wikisource",
         "logo": "//he.wikisource.org/static/images/project-logos/hewikisource.png",
-        "mobileUrl": "https://he.m.wikisource.org"
+        "mobileUrl": "https://he.wikisource.org"
     },
     "hewikivoyage": {
         "shortName": "ויקימסע",
@@ -3583,7 +3583,7 @@
         "languageCode": "he",
         "group": "wikivoyage",
         "logo": "//he.wikivoyage.org/static/images/project-logos/hewikivoyage.png",
-        "mobileUrl": "https://he.m.wikivoyage.org"
+        "mobileUrl": "https://he.wikivoyage.org"
     },
     "hiwiki": {
         "shortName": "विकिपीडिया",
@@ -3605,7 +3605,7 @@
         "languageCode": "hi",
         "group": "wiktionary",
         "logo": "//hi.wiktionary.org/static/images/project-logos/hiwiktionary.png",
-        "mobileUrl": "https://hi.m.wiktionary.org"
+        "mobileUrl": "https://hi.wiktionary.org"
     },
     "hiwikibooks": {
         "shortName": "विकिपुस्तक",
@@ -3616,7 +3616,7 @@
         "languageCode": "hi",
         "group": "wikibooks",
         "logo": "//hi.wikibooks.org/static/images/project-logos/hiwikibooks.png",
-        "mobileUrl": "https://hi.m.wikibooks.org"
+        "mobileUrl": "https://hi.wikibooks.org"
     },
     "hiwikiquote": {
         "shortName": "विकिसूक्ति",
@@ -3627,7 +3627,7 @@
         "languageCode": "hi",
         "group": "wikiquote",
         "logo": "//hi.wikiquote.org/static/images/project-logos/hiwikiquote.png",
-        "mobileUrl": "https://hi.m.wikiquote.org"
+        "mobileUrl": "https://hi.wikiquote.org"
     },
     "hiwikisource": {
         "shortName": "विकिस्रोत",
@@ -3638,7 +3638,7 @@
         "languageCode": "hi",
         "group": "wikisource",
         "logo": "//hi.wikisource.org/static/images/project-logos/hiwikisource.png",
-        "mobileUrl": "https://hi.m.wikisource.org"
+        "mobileUrl": "https://hi.wikisource.org"
     },
     "hiwikiversity": {
         "shortName": "विकिविश्वविद्यालय",
@@ -3649,7 +3649,7 @@
         "languageCode": "hi",
         "group": "wikiversity",
         "logo": "//hi.wikiversity.org/static/images/project-logos/hiwikiversity.png",
-        "mobileUrl": "https://hi.m.wikiversity.org"
+        "mobileUrl": "https://hi.wikiversity.org"
     },
     "hiwikivoyage": {
         "shortName": "विकियात्रा",
@@ -3660,7 +3660,7 @@
         "languageCode": "hi",
         "group": "wikivoyage",
         "logo": "//hi.wikivoyage.org/static/images/project-logos/hiwikivoyage.png",
-        "mobileUrl": "https://hi.m.wikivoyage.org"
+        "mobileUrl": "https://hi.wikivoyage.org"
     },
     "hifwiki": {
         "shortName": "Wikipedia",
@@ -3682,7 +3682,7 @@
         "languageCode": "hif",
         "group": "wiktionary",
         "logo": "//hif.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://hif.m.wiktionary.org"
+        "mobileUrl": "https://hif.wiktionary.org"
     },
     "howiki": {
         "shortName": "Wikipedia",
@@ -3715,7 +3715,7 @@
         "languageCode": "hr",
         "group": "wiktionary",
         "logo": "//hr.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://hr.m.wiktionary.org"
+        "mobileUrl": "https://hr.wiktionary.org"
     },
     "hrwikibooks": {
         "shortName": "Wikibooks",
@@ -3726,7 +3726,7 @@
         "languageCode": "hr",
         "group": "wikibooks",
         "logo": "//hr.wikibooks.org/static/images/project-logos/hrwikibooks.png",
-        "mobileUrl": "https://hr.m.wikibooks.org"
+        "mobileUrl": "https://hr.wikibooks.org"
     },
     "hrwikiquote": {
         "shortName": "Wikicitat",
@@ -3737,7 +3737,7 @@
         "languageCode": "hr",
         "group": "wikiquote",
         "logo": "//hr.wikiquote.org/static/images/project-logos/hrwikiquote.png",
-        "mobileUrl": "https://hr.m.wikiquote.org"
+        "mobileUrl": "https://hr.wikiquote.org"
     },
     "hrwikisource": {
         "shortName": "Wikizvor",
@@ -3748,7 +3748,7 @@
         "languageCode": "hr",
         "group": "wikisource",
         "logo": "//hr.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://hr.m.wikisource.org"
+        "mobileUrl": "https://hr.wikisource.org"
     },
     "hsbwiki": {
         "shortName": "Wikipedija",
@@ -3770,7 +3770,7 @@
         "languageCode": "hsb",
         "group": "wiktionary",
         "logo": "//hsb.wiktionary.org/static/images/project-logos/hsbwiktionary.png",
-        "mobileUrl": "https://hsb.m.wiktionary.org"
+        "mobileUrl": "https://hsb.wiktionary.org"
     },
     "htwiki": {
         "shortName": "Wikipedya",
@@ -3792,7 +3792,7 @@
         "languageCode": "ht",
         "group": "wikisource",
         "logo": "//ht.wikisource.org/static/images/project-logos/htwikisource.png",
-        "mobileUrl": "https://ht.m.wikisource.org"
+        "mobileUrl": "https://ht.wikisource.org"
     },
     "huwiki": {
         "shortName": "Wikipédia",
@@ -3814,7 +3814,7 @@
         "languageCode": "hu",
         "group": "wiktionary",
         "logo": "//hu.wiktionary.org/static/images/project-logos/huwiktionary.png",
-        "mobileUrl": "https://hu.m.wiktionary.org"
+        "mobileUrl": "https://hu.wiktionary.org"
     },
     "huwikibooks": {
         "shortName": "Wikikönyvek",
@@ -3825,7 +3825,7 @@
         "languageCode": "hu",
         "group": "wikibooks",
         "logo": "//hu.wikibooks.org/static/images/project-logos/huwikibooks.png",
-        "mobileUrl": "https://hu.m.wikibooks.org"
+        "mobileUrl": "https://hu.wikibooks.org"
     },
     "huwikinews": {
         "shortName": "Wikihírek",
@@ -3836,7 +3836,7 @@
         "languageCode": "hu",
         "group": "wikinews",
         "logo": "//hu.wikinews.org/static/images/project-logos/huwikinews.png",
-        "mobileUrl": "https://hu.m.wikinews.org"
+        "mobileUrl": "https://hu.wikinews.org"
     },
     "huwikiquote": {
         "shortName": "Wikidézet",
@@ -3847,7 +3847,7 @@
         "languageCode": "hu",
         "group": "wikiquote",
         "logo": "//hu.wikiquote.org/static/images/project-logos/huwikiquote.png",
-        "mobileUrl": "https://hu.m.wikiquote.org"
+        "mobileUrl": "https://hu.wikiquote.org"
     },
     "huwikisource": {
         "shortName": "Wikiforrás",
@@ -3858,7 +3858,7 @@
         "languageCode": "hu",
         "group": "wikisource",
         "logo": "//hu.wikisource.org/static/images/project-logos/huwikisource.png",
-        "mobileUrl": "https://hu.m.wikisource.org"
+        "mobileUrl": "https://hu.wikisource.org"
     },
     "hywiki": {
         "shortName": "Վիքիպեդիա",
@@ -3880,7 +3880,7 @@
         "languageCode": "hy",
         "group": "wiktionary",
         "logo": "//hy.wiktionary.org/static/images/project-logos/hywiktionary.png",
-        "mobileUrl": "https://hy.m.wiktionary.org"
+        "mobileUrl": "https://hy.wiktionary.org"
     },
     "hywikibooks": {
         "shortName": "Վիքիգրքեր",
@@ -3891,7 +3891,7 @@
         "languageCode": "hy",
         "group": "wikibooks",
         "logo": "//hy.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://hy.m.wikibooks.org"
+        "mobileUrl": "https://hy.wikibooks.org"
     },
     "hywikiquote": {
         "shortName": "Վիքիքաղվածք",
@@ -3902,7 +3902,7 @@
         "languageCode": "hy",
         "group": "wikiquote",
         "logo": "//hy.wikiquote.org/static/images/project-logos/hywikiquote.png",
-        "mobileUrl": "https://hy.m.wikiquote.org"
+        "mobileUrl": "https://hy.wikiquote.org"
     },
     "hywikisource": {
         "shortName": "Վիքիդարան",
@@ -3913,7 +3913,7 @@
         "languageCode": "hy",
         "group": "wikisource",
         "logo": "//hy.wikisource.org/static/images/project-logos/hywikisource.png",
-        "mobileUrl": "https://hy.m.wikisource.org"
+        "mobileUrl": "https://hy.wikisource.org"
     },
     "hywwiki": {
         "shortName": "Ուիքիփետիա",
@@ -3957,7 +3957,7 @@
         "languageCode": "ia",
         "group": "wiktionary",
         "logo": "//ia.wiktionary.org/static/images/project-logos/iawiktionary.png",
-        "mobileUrl": "https://ia.m.wiktionary.org"
+        "mobileUrl": "https://ia.wiktionary.org"
     },
     "iawikibooks": {
         "shortName": "Wikibooks",
@@ -3968,7 +3968,7 @@
         "languageCode": "ia",
         "group": "wikibooks",
         "logo": "//ia.wikibooks.org/static/images/project-logos/iawikibooks.png",
-        "mobileUrl": "https://ia.m.wikibooks.org"
+        "mobileUrl": "https://ia.wikibooks.org"
     },
     "ibawiki": {
         "shortName": "Wikipedia",
@@ -4001,7 +4001,7 @@
         "languageCode": "id",
         "group": "wiktionary",
         "logo": "//id.wiktionary.org/static/images/project-logos/idwiktionary.png",
-        "mobileUrl": "https://id.m.wiktionary.org"
+        "mobileUrl": "https://id.wiktionary.org"
     },
     "idwikibooks": {
         "shortName": "Wikibuku",
@@ -4012,7 +4012,7 @@
         "languageCode": "id",
         "group": "wikibooks",
         "logo": "//id.wikibooks.org/static/images/project-logos/idwikibooks.png",
-        "mobileUrl": "https://id.m.wikibooks.org"
+        "mobileUrl": "https://id.wikibooks.org"
     },
     "idwikiquote": {
         "shortName": "Wikikutip",
@@ -4023,7 +4023,7 @@
         "languageCode": "id",
         "group": "wikiquote",
         "logo": "//id.wikiquote.org/static/images/project-logos/idwikiquote.png",
-        "mobileUrl": "https://id.m.wikiquote.org"
+        "mobileUrl": "https://id.wikiquote.org"
     },
     "idwikisource": {
         "shortName": "Wikisumber",
@@ -4034,7 +4034,7 @@
         "languageCode": "id",
         "group": "wikisource",
         "logo": "//id.wikisource.org/static/images/project-logos/idwikisource.png",
-        "mobileUrl": "https://id.m.wikisource.org"
+        "mobileUrl": "https://id.wikisource.org"
     },
     "idwikivoyage": {
         "shortName": "Wikiwisata",
@@ -4045,7 +4045,7 @@
         "languageCode": "id",
         "group": "wikivoyage",
         "logo": "//id.wikivoyage.org/static/images/project-logos/idwikivoyage.png",
-        "mobileUrl": "https://id.m.wikivoyage.org"
+        "mobileUrl": "https://id.wikivoyage.org"
     },
     "iewiki": {
         "shortName": "Wikipedia",
@@ -4067,7 +4067,7 @@
         "languageCode": "ie",
         "group": "wiktionary",
         "logo": "//ie.wiktionary.org/static/images/project-logos/iewiktionary.png",
-        "mobileUrl": "https://ie.m.wiktionary.org"
+        "mobileUrl": "https://ie.wiktionary.org"
     },
     "iewikibooks": {
         "shortName": "Wikibooks",
@@ -4078,7 +4078,7 @@
         "languageCode": "ie",
         "group": "wikibooks",
         "logo": "//ie.wikibooks.org/static/images/project-logos/iewikibooks.png",
-        "mobileUrl": "https://ie.m.wikibooks.org"
+        "mobileUrl": "https://ie.wikibooks.org"
     },
     "igwiki": {
         "shortName": "Wikipedia",
@@ -4100,7 +4100,7 @@
         "languageCode": "ig",
         "group": "wiktionary",
         "logo": "//ig.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://ig.m.wiktionary.org"
+        "mobileUrl": "https://ig.wiktionary.org"
     },
     "igwikiquote": {
         "shortName": "Wikiquote",
@@ -4111,7 +4111,7 @@
         "languageCode": "ig",
         "group": "wikiquote",
         "logo": "//ig.wikiquote.org/static/images/project-logos/igwikiquote.png",
-        "mobileUrl": "https://ig.m.wikiquote.org"
+        "mobileUrl": "https://ig.wikiquote.org"
     },
     "iglwiki": {
         "shortName": "Wikipídiya",
@@ -4155,7 +4155,7 @@
         "languageCode": "ik",
         "group": "wiktionary",
         "logo": "//ik.wiktionary.org/static/images/project-logos/ikwiktionary.png",
-        "mobileUrl": "https://ik.m.wiktionary.org"
+        "mobileUrl": "https://ik.wiktionary.org"
     },
     "ilowiki": {
         "shortName": "Wikipedia",
@@ -4199,7 +4199,7 @@
         "languageCode": "io",
         "group": "wiktionary",
         "logo": "//io.wiktionary.org/static/images/project-logos/iowiktionary.png",
-        "mobileUrl": "https://io.m.wiktionary.org"
+        "mobileUrl": "https://io.wiktionary.org"
     },
     "iswiki": {
         "shortName": "Wikipedia",
@@ -4221,7 +4221,7 @@
         "languageCode": "is",
         "group": "wiktionary",
         "logo": "//is.wiktionary.org/static/images/project-logos/iswiktionary.png",
-        "mobileUrl": "https://is.m.wiktionary.org"
+        "mobileUrl": "https://is.wiktionary.org"
     },
     "iswikibooks": {
         "shortName": "Wikibækur",
@@ -4232,7 +4232,7 @@
         "languageCode": "is",
         "group": "wikibooks",
         "logo": "//is.wikibooks.org/static/images/project-logos/iswikibooks.png",
-        "mobileUrl": "https://is.m.wikibooks.org"
+        "mobileUrl": "https://is.wikibooks.org"
     },
     "iswikiquote": {
         "shortName": "Wikivitnun",
@@ -4243,7 +4243,7 @@
         "languageCode": "is",
         "group": "wikiquote",
         "logo": "//is.wikiquote.org/static/images/project-logos/iswikiquote.png",
-        "mobileUrl": "https://is.m.wikiquote.org"
+        "mobileUrl": "https://is.wikiquote.org"
     },
     "iswikisource": {
         "shortName": "Wikiheimild",
@@ -4254,7 +4254,7 @@
         "languageCode": "is",
         "group": "wikisource",
         "logo": "//is.wikisource.org/static/images/project-logos/iswikisource.png",
-        "mobileUrl": "https://is.m.wikisource.org"
+        "mobileUrl": "https://is.wikisource.org"
     },
     "itwiki": {
         "shortName": "Wikipedia",
@@ -4265,7 +4265,7 @@
         "languageCode": "it",
         "group": "wiki",
         "logo": "//it.wikipedia.org/static/images/project-logos/itwiki.png",
-        "mobileUrl": "https://it.m.wikipedia.org"
+        "mobileUrl": "https://it.wikipedia.org"
     },
     "itwiktionary": {
         "shortName": "Wikizionario",
@@ -4276,7 +4276,7 @@
         "languageCode": "it",
         "group": "wiktionary",
         "logo": "//it.wiktionary.org/static/images/project-logos/itwiktionary.png",
-        "mobileUrl": "https://it.m.wiktionary.org"
+        "mobileUrl": "https://it.wiktionary.org"
     },
     "itwikibooks": {
         "shortName": "Wikibooks",
@@ -4287,7 +4287,7 @@
         "languageCode": "it",
         "group": "wikibooks",
         "logo": "//it.wikibooks.org/static/images/project-logos/itwikibooks.png",
-        "mobileUrl": "https://it.m.wikibooks.org"
+        "mobileUrl": "https://it.wikibooks.org"
     },
     "itwikinews": {
         "shortName": "Wikinotizie",
@@ -4298,7 +4298,7 @@
         "languageCode": "it",
         "group": "wikinews",
         "logo": "//it.wikinews.org/static/images/project-logos/itwikinews.png",
-        "mobileUrl": "https://it.m.wikinews.org"
+        "mobileUrl": "https://it.wikinews.org"
     },
     "itwikiquote": {
         "shortName": "Wikiquote",
@@ -4309,7 +4309,7 @@
         "languageCode": "it",
         "group": "wikiquote",
         "logo": "//it.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://it.m.wikiquote.org"
+        "mobileUrl": "https://it.wikiquote.org"
     },
     "itwikisource": {
         "shortName": "Wikisource",
@@ -4320,7 +4320,7 @@
         "languageCode": "it",
         "group": "wikisource",
         "logo": "//it.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://it.m.wikisource.org"
+        "mobileUrl": "https://it.wikisource.org"
     },
     "itwikiversity": {
         "shortName": "Wikiversità",
@@ -4331,7 +4331,7 @@
         "languageCode": "it",
         "group": "wikiversity",
         "logo": "//it.wikiversity.org/static/images/project-logos/itwikiversity.png",
-        "mobileUrl": "https://it.m.wikiversity.org"
+        "mobileUrl": "https://it.wikiversity.org"
     },
     "itwikivoyage": {
         "shortName": "Wikivoyage",
@@ -4342,7 +4342,7 @@
         "languageCode": "it",
         "group": "wikivoyage",
         "logo": "//it.wikivoyage.org/static/images/project-logos/wikivoyage.png",
-        "mobileUrl": "https://it.m.wikivoyage.org"
+        "mobileUrl": "https://it.wikivoyage.org"
     },
     "iuwiki": {
         "shortName": "ᐅᐃᑭᐱᑎᐊ",
@@ -4364,7 +4364,7 @@
         "languageCode": "iu",
         "group": "wiktionary",
         "logo": "//iu.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://iu.m.wiktionary.org"
+        "mobileUrl": "https://iu.wiktionary.org"
     },
     "jawiki": {
         "shortName": "Wikipedia",
@@ -4386,7 +4386,7 @@
         "languageCode": "ja",
         "group": "wiktionary",
         "logo": "//ja.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://ja.m.wiktionary.org"
+        "mobileUrl": "https://ja.wiktionary.org"
     },
     "jawikibooks": {
         "shortName": "Wikibooks",
@@ -4397,7 +4397,7 @@
         "languageCode": "ja",
         "group": "wikibooks",
         "logo": "//ja.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://ja.m.wikibooks.org"
+        "mobileUrl": "https://ja.wikibooks.org"
     },
     "jawikinews": {
         "shortName": "ウィキニュース",
@@ -4408,7 +4408,7 @@
         "languageCode": "ja",
         "group": "wikinews",
         "logo": "//ja.wikinews.org/static/images/project-logos/jawikinews.png",
-        "mobileUrl": "https://ja.m.wikinews.org"
+        "mobileUrl": "https://ja.wikinews.org"
     },
     "jawikiquote": {
         "shortName": "Wikiquote",
@@ -4419,7 +4419,7 @@
         "languageCode": "ja",
         "group": "wikiquote",
         "logo": "//ja.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://ja.m.wikiquote.org"
+        "mobileUrl": "https://ja.wikiquote.org"
     },
     "jawikisource": {
         "shortName": "Wikisource",
@@ -4430,7 +4430,7 @@
         "languageCode": "ja",
         "group": "wikisource",
         "logo": "//ja.wikisource.org/static/images/project-logos/jawikisource.png",
-        "mobileUrl": "https://ja.m.wikisource.org"
+        "mobileUrl": "https://ja.wikisource.org"
     },
     "jawikiversity": {
         "shortName": "ウィキバーシティ",
@@ -4441,7 +4441,7 @@
         "languageCode": "ja",
         "group": "wikiversity",
         "logo": "//ja.wikiversity.org/static/images/project-logos/jawikiversity.png",
-        "mobileUrl": "https://ja.m.wikiversity.org"
+        "mobileUrl": "https://ja.wikiversity.org"
     },
     "jawikivoyage": {
         "shortName": "ウィキボヤージュ",
@@ -4452,7 +4452,7 @@
         "languageCode": "ja",
         "group": "wikivoyage",
         "logo": "//ja.wikivoyage.org/static/images/project-logos/wikivoyage.png",
-        "mobileUrl": "https://ja.m.wikivoyage.org"
+        "mobileUrl": "https://ja.wikivoyage.org"
     },
     "jamwiki": {
         "shortName": "Wikipidia",
@@ -4485,7 +4485,7 @@
         "languageCode": "jbo",
         "group": "wiktionary",
         "logo": "//jbo.wiktionary.org/static/images/project-logos/jbowiktionary.png",
-        "mobileUrl": "https://jbo.m.wiktionary.org"
+        "mobileUrl": "https://jbo.wiktionary.org"
     },
     "jvwiki": {
         "shortName": "Wikipédia",
@@ -4507,7 +4507,7 @@
         "languageCode": "jv",
         "group": "wiktionary",
         "logo": "//jv.wiktionary.org/static/images/project-logos/jvwiktionary.png",
-        "mobileUrl": "https://jv.m.wiktionary.org"
+        "mobileUrl": "https://jv.wiktionary.org"
     },
     "jvwikisource": {
         "shortName": "Wikisumber",
@@ -4518,7 +4518,7 @@
         "languageCode": "jv",
         "group": "wikisource",
         "logo": "//jv.wikisource.org/static/images/project-logos/jvwikisource.png",
-        "mobileUrl": "https://jv.m.wikisource.org"
+        "mobileUrl": "https://jv.wikisource.org"
     },
     "kawiki": {
         "shortName": "ვიკიპედია",
@@ -4540,7 +4540,7 @@
         "languageCode": "ka",
         "group": "wiktionary",
         "logo": "//ka.wiktionary.org/static/images/project-logos/kawiktionary.png",
-        "mobileUrl": "https://ka.m.wiktionary.org"
+        "mobileUrl": "https://ka.wiktionary.org"
     },
     "kawikibooks": {
         "shortName": "ვიკიწიგნები",
@@ -4551,7 +4551,7 @@
         "languageCode": "ka",
         "group": "wikibooks",
         "logo": "//ka.wikibooks.org/static/images/project-logos/kawikibooks.png",
-        "mobileUrl": "https://ka.m.wikibooks.org"
+        "mobileUrl": "https://ka.wikibooks.org"
     },
     "kawikiquote": {
         "shortName": "ვიკიციტატა",
@@ -4562,7 +4562,7 @@
         "languageCode": "ka",
         "group": "wikiquote",
         "logo": "//ka.wikiquote.org/static/images/project-logos/kawikiquote.png",
-        "mobileUrl": "https://ka.m.wikiquote.org"
+        "mobileUrl": "https://ka.wikiquote.org"
     },
     "kawikisource": {
         "shortName": "ვიკიწყარო",
@@ -4573,7 +4573,7 @@
         "languageCode": "ka",
         "group": "wikisource",
         "logo": "//ka.wikisource.org/static/images/project-logos/kawikisource.png",
-        "mobileUrl": "https://ka.m.wikisource.org"
+        "mobileUrl": "https://ka.wikisource.org"
     },
     "kaawiki": {
         "shortName": "Wikipedia",
@@ -4595,7 +4595,7 @@
         "languageCode": "kaa",
         "group": "wiktionary",
         "logo": "//kaa.wiktionary.org/static/images/project-logos/kaawiktionary.png",
-        "mobileUrl": "https://kaa.m.wiktionary.org"
+        "mobileUrl": "https://kaa.wiktionary.org"
     },
     "kabwiki": {
         "shortName": "Wikipedia",
@@ -4628,7 +4628,7 @@
         "languageCode": "kbd",
         "group": "wiktionary",
         "logo": "//kbd.wiktionary.org/static/images/project-logos/kbdwiktionary.png",
-        "mobileUrl": "https://kbd.m.wiktionary.org"
+        "mobileUrl": "https://kbd.wiktionary.org"
     },
     "kbpwiki": {
         "shortName": "Wikipediya",
@@ -4661,7 +4661,7 @@
         "languageCode": "kcg",
         "group": "wiktionary",
         "logo": "//kcg.wiktionary.org/static/images/project-logos/kcgwiktionary.png",
-        "mobileUrl": "https://kcg.m.wiktionary.org"
+        "mobileUrl": "https://kcg.wiktionary.org"
     },
     "kgwiki": {
         "shortName": "Wikipedia",
@@ -4727,7 +4727,7 @@
         "languageCode": "kk",
         "group": "wiktionary",
         "logo": "//kk.wiktionary.org/static/images/project-logos/kkwiktionary.png",
-        "mobileUrl": "https://kk.m.wiktionary.org"
+        "mobileUrl": "https://kk.wiktionary.org"
     },
     "kkwikibooks": {
         "shortName": "Уикикітап",
@@ -4738,7 +4738,7 @@
         "languageCode": "kk",
         "group": "wikibooks",
         "logo": "//kk.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://kk.m.wikibooks.org"
+        "mobileUrl": "https://kk.wikibooks.org"
     },
     "kkwikiquote": {
         "shortName": "Уикидәйек",
@@ -4749,7 +4749,7 @@
         "languageCode": "kk",
         "group": "wikiquote",
         "logo": "//kk.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://kk.m.wikiquote.org"
+        "mobileUrl": "https://kk.wikiquote.org"
     },
     "klwiki": {
         "shortName": "Wikipedia",
@@ -4771,7 +4771,7 @@
         "languageCode": "kl",
         "group": "wiktionary",
         "logo": "//kl.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://kl.m.wiktionary.org"
+        "mobileUrl": "https://kl.wiktionary.org"
     },
     "kmwiki": {
         "shortName": "វិគីភីឌា",
@@ -4793,7 +4793,7 @@
         "languageCode": "km",
         "group": "wiktionary",
         "logo": "//km.wiktionary.org/static/images/project-logos/kmwiktionary.png",
-        "mobileUrl": "https://km.m.wiktionary.org"
+        "mobileUrl": "https://km.wiktionary.org"
     },
     "kmwikibooks": {
         "shortName": "Wikibooks",
@@ -4804,7 +4804,7 @@
         "languageCode": "km",
         "group": "wikibooks",
         "logo": "//km.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://km.m.wikibooks.org"
+        "mobileUrl": "https://km.wikibooks.org"
     },
     "knwiki": {
         "shortName": "ವಿಕಿಪೀಡಿಯ",
@@ -4826,7 +4826,7 @@
         "languageCode": "kn",
         "group": "wiktionary",
         "logo": "//kn.wiktionary.org/static/images/project-logos/knwiktionary.png",
-        "mobileUrl": "https://kn.m.wiktionary.org"
+        "mobileUrl": "https://kn.wiktionary.org"
     },
     "knwikibooks": {
         "shortName": "Wikibooks",
@@ -4837,7 +4837,7 @@
         "languageCode": "kn",
         "group": "wikibooks",
         "logo": "//kn.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://kn.m.wikibooks.org"
+        "mobileUrl": "https://kn.wikibooks.org"
     },
     "knwikiquote": {
         "shortName": "ವಿಕಿಕೋಟ್",
@@ -4848,7 +4848,7 @@
         "languageCode": "kn",
         "group": "wikiquote",
         "logo": "//kn.wikiquote.org/static/images/project-logos/knwikiquote.png",
-        "mobileUrl": "https://kn.m.wikiquote.org"
+        "mobileUrl": "https://kn.wikiquote.org"
     },
     "knwikisource": {
         "shortName": "ವಿಕಿಸೋರ್ಸ್",
@@ -4859,7 +4859,7 @@
         "languageCode": "kn",
         "group": "wikisource",
         "logo": "//kn.wikisource.org/static/images/project-logos/knwikisource.png",
-        "mobileUrl": "https://kn.m.wikisource.org"
+        "mobileUrl": "https://kn.wikisource.org"
     },
     "kncwiki": {
         "shortName": "Wikipedia",
@@ -4892,7 +4892,7 @@
         "languageCode": "ko",
         "group": "wiktionary",
         "logo": "//ko.wiktionary.org/static/images/project-logos/kowiktionary.png",
-        "mobileUrl": "https://ko.m.wiktionary.org"
+        "mobileUrl": "https://ko.wiktionary.org"
     },
     "kowikibooks": {
         "shortName": "위키책",
@@ -4903,7 +4903,7 @@
         "languageCode": "ko",
         "group": "wikibooks",
         "logo": "//ko.wikibooks.org/static/images/project-logos/kowikibooks.png",
-        "mobileUrl": "https://ko.m.wikibooks.org"
+        "mobileUrl": "https://ko.wikibooks.org"
     },
     "kowikinews": {
         "shortName": "위키뉴스",
@@ -4914,7 +4914,7 @@
         "languageCode": "ko",
         "group": "wikinews",
         "logo": "//ko.wikinews.org/static/images/project-logos/kowikinews.png",
-        "mobileUrl": "https://ko.m.wikinews.org"
+        "mobileUrl": "https://ko.wikinews.org"
     },
     "kowikiquote": {
         "shortName": "위키인용집",
@@ -4925,7 +4925,7 @@
         "languageCode": "ko",
         "group": "wikiquote",
         "logo": "//ko.wikiquote.org/static/images/project-logos/kowikiquote.png",
-        "mobileUrl": "https://ko.m.wikiquote.org"
+        "mobileUrl": "https://ko.wikiquote.org"
     },
     "kowikisource": {
         "shortName": "위키문헌",
@@ -4936,7 +4936,7 @@
         "languageCode": "ko",
         "group": "wikisource",
         "logo": "//ko.wikisource.org/static/images/project-logos/kowikisource.png",
-        "mobileUrl": "https://ko.m.wikisource.org"
+        "mobileUrl": "https://ko.wikisource.org"
     },
     "kowikiversity": {
         "shortName": "위키배움터",
@@ -4947,7 +4947,7 @@
         "languageCode": "ko",
         "group": "wikiversity",
         "logo": "//ko.wikiversity.org/static/images/project-logos/kowikiversity.png",
-        "mobileUrl": "https://ko.m.wikiversity.org"
+        "mobileUrl": "https://ko.wikiversity.org"
     },
     "koiwiki": {
         "shortName": "Википедия",
@@ -4980,7 +4980,7 @@
         "languageCode": "kr",
         "group": "wikiquote",
         "logo": "//kr.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://kr.m.wikiquote.org"
+        "mobileUrl": "https://kr.wikiquote.org"
     },
     "krcwiki": {
         "shortName": "Википедия",
@@ -5013,7 +5013,7 @@
         "languageCode": "ks",
         "group": "wiktionary",
         "logo": "//ks.wiktionary.org/static/images/project-logos/kswiktionary.png",
-        "mobileUrl": "https://ks.m.wiktionary.org"
+        "mobileUrl": "https://ks.wiktionary.org"
     },
     "kswikibooks": {
         "shortName": "Wikibooks",
@@ -5024,7 +5024,7 @@
         "languageCode": "ks",
         "group": "wikibooks",
         "logo": "//ks.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://ks.m.wikibooks.org"
+        "mobileUrl": "https://ks.wikibooks.org"
     },
     "kswikiquote": {
         "shortName": "Wikiquote",
@@ -5035,7 +5035,7 @@
         "languageCode": "ks",
         "group": "wikiquote",
         "logo": "//ks.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://ks.m.wikiquote.org"
+        "mobileUrl": "https://ks.wikiquote.org"
     },
     "kshwiki": {
         "shortName": "Wikipedia",
@@ -5068,7 +5068,7 @@
         "languageCode": "ku",
         "group": "wiktionary",
         "logo": "//ku.wiktionary.org/static/images/project-logos/kuwiktionary.png",
-        "mobileUrl": "https://ku.m.wiktionary.org"
+        "mobileUrl": "https://ku.wiktionary.org"
     },
     "kuwikibooks": {
         "shortName": "Wikibooks",
@@ -5079,7 +5079,7 @@
         "languageCode": "ku",
         "group": "wikibooks",
         "logo": "//ku.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://ku.m.wikibooks.org"
+        "mobileUrl": "https://ku.wikibooks.org"
     },
     "kuwikiquote": {
         "shortName": "Wikiquote",
@@ -5090,7 +5090,7 @@
         "languageCode": "ku",
         "group": "wikiquote",
         "logo": "//ku.wikiquote.org/static/images/project-logos/kuwikiquote.png",
-        "mobileUrl": "https://ku.m.wikiquote.org"
+        "mobileUrl": "https://ku.wikiquote.org"
     },
     "kuswiki": {
         "shortName": "Wikipiidia",
@@ -5134,7 +5134,7 @@
         "languageCode": "kw",
         "group": "wiktionary",
         "logo": "//kw.wiktionary.org/static/images/project-logos/kwwiktionary.png",
-        "mobileUrl": "https://kw.m.wiktionary.org"
+        "mobileUrl": "https://kw.wiktionary.org"
     },
     "kwwikiquote": {
         "shortName": "Wikiquote",
@@ -5145,7 +5145,7 @@
         "languageCode": "kw",
         "group": "wikiquote",
         "logo": "//kw.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://kw.m.wikiquote.org"
+        "mobileUrl": "https://kw.wikiquote.org"
     },
     "kywiki": {
         "shortName": "Википедия",
@@ -5167,7 +5167,7 @@
         "languageCode": "ky",
         "group": "wiktionary",
         "logo": "//ky.wiktionary.org/static/images/project-logos/kywiktionary.png",
-        "mobileUrl": "https://ky.m.wiktionary.org"
+        "mobileUrl": "https://ky.wiktionary.org"
     },
     "kywikibooks": {
         "shortName": "Wikibooks",
@@ -5178,7 +5178,7 @@
         "languageCode": "ky",
         "group": "wikibooks",
         "logo": "//ky.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://ky.m.wikibooks.org"
+        "mobileUrl": "https://ky.wikibooks.org"
     },
     "kywikiquote": {
         "shortName": "Wikiquote",
@@ -5189,7 +5189,7 @@
         "languageCode": "ky",
         "group": "wikiquote",
         "logo": "//ky.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://ky.m.wikiquote.org"
+        "mobileUrl": "https://ky.wikiquote.org"
     },
     "lawiki": {
         "shortName": "Vicipaedia",
@@ -5211,7 +5211,7 @@
         "languageCode": "la",
         "group": "wiktionary",
         "logo": "//la.wiktionary.org/static/images/project-logos/lawiktionary.png",
-        "mobileUrl": "https://la.m.wiktionary.org"
+        "mobileUrl": "https://la.wiktionary.org"
     },
     "lawikibooks": {
         "shortName": "Vicilibri",
@@ -5222,7 +5222,7 @@
         "languageCode": "la",
         "group": "wikibooks",
         "logo": "//la.wikibooks.org/static/images/project-logos/lawikibooks.png",
-        "mobileUrl": "https://la.m.wikibooks.org"
+        "mobileUrl": "https://la.wikibooks.org"
     },
     "lawikiquote": {
         "shortName": "Vicicitatio",
@@ -5233,7 +5233,7 @@
         "languageCode": "la",
         "group": "wikiquote",
         "logo": "//la.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://la.m.wikiquote.org"
+        "mobileUrl": "https://la.wikiquote.org"
     },
     "lawikisource": {
         "shortName": "Wikisource",
@@ -5244,7 +5244,7 @@
         "languageCode": "la",
         "group": "wikisource",
         "logo": "//la.wikisource.org/static/images/project-logos/lawikisource.png",
-        "mobileUrl": "https://la.m.wikisource.org"
+        "mobileUrl": "https://la.wikisource.org"
     },
     "ladwiki": {
         "shortName": "Vikipedya",
@@ -5277,7 +5277,7 @@
         "languageCode": "lb",
         "group": "wiktionary",
         "logo": "//lb.wiktionary.org/static/images/project-logos/lbwiktionary.png",
-        "mobileUrl": "https://lb.m.wiktionary.org"
+        "mobileUrl": "https://lb.wiktionary.org"
     },
     "lbwikibooks": {
         "shortName": "Wikibooks",
@@ -5288,7 +5288,7 @@
         "languageCode": "lb",
         "group": "wikibooks",
         "logo": "//lb.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://lb.m.wikibooks.org"
+        "mobileUrl": "https://lb.wikibooks.org"
     },
     "lbwikiquote": {
         "shortName": "Wikiquote",
@@ -5299,7 +5299,7 @@
         "languageCode": "lb",
         "group": "wikiquote",
         "logo": "//lb.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://lb.m.wikiquote.org"
+        "mobileUrl": "https://lb.wikiquote.org"
     },
     "lbewiki": {
         "shortName": "Википедия",
@@ -5365,7 +5365,7 @@
         "languageCode": "li",
         "group": "wiktionary",
         "logo": "//li.wiktionary.org/static/images/project-logos/liwiktionary.png",
-        "mobileUrl": "https://li.m.wiktionary.org"
+        "mobileUrl": "https://li.wiktionary.org"
     },
     "liwikibooks": {
         "shortName": "Wikibeuk",
@@ -5376,7 +5376,7 @@
         "languageCode": "li",
         "group": "wikibooks",
         "logo": "//li.wikibooks.org/static/images/project-logos/liwikibooks.png",
-        "mobileUrl": "https://li.m.wikibooks.org"
+        "mobileUrl": "https://li.wikibooks.org"
     },
     "liwikinews": {
         "shortName": "Wikinuujs",
@@ -5387,7 +5387,7 @@
         "languageCode": "li",
         "group": "wikinews",
         "logo": "//li.wikinews.org/static/images/project-logos/liwikinews.png",
-        "mobileUrl": "https://li.m.wikinews.org"
+        "mobileUrl": "https://li.wikinews.org"
     },
     "liwikiquote": {
         "shortName": "Wikiquote",
@@ -5398,7 +5398,7 @@
         "languageCode": "li",
         "group": "wikiquote",
         "logo": "//li.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://li.m.wikiquote.org"
+        "mobileUrl": "https://li.wikiquote.org"
     },
     "liwikisource": {
         "shortName": "Wikibrónne",
@@ -5409,7 +5409,7 @@
         "languageCode": "li",
         "group": "wikisource",
         "logo": "//li.wikisource.org/static/images/project-logos/liwikisource.png",
-        "mobileUrl": "https://li.m.wikisource.org"
+        "mobileUrl": "https://li.wikisource.org"
     },
     "lijwiki": {
         "shortName": "Wikipedia",
@@ -5431,7 +5431,7 @@
         "languageCode": "lij",
         "group": "wikisource",
         "logo": "//lij.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://lij.m.wikisource.org"
+        "mobileUrl": "https://lij.wikisource.org"
     },
     "lldwiki": {
         "shortName": "Wikipedia",
@@ -5464,7 +5464,7 @@
         "languageCode": "lmo",
         "group": "wiktionary",
         "logo": "//lmo.wiktionary.org/static/images/project-logos/lmowiktionary.png",
-        "mobileUrl": "https://lmo.m.wiktionary.org"
+        "mobileUrl": "https://lmo.wiktionary.org"
     },
     "lnwiki": {
         "shortName": "Wikipedia",
@@ -5486,7 +5486,7 @@
         "languageCode": "ln",
         "group": "wiktionary",
         "logo": "//ln.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://ln.m.wiktionary.org"
+        "mobileUrl": "https://ln.wiktionary.org"
     },
     "lnwikibooks": {
         "shortName": "Wikibooks",
@@ -5497,7 +5497,7 @@
         "languageCode": "ln",
         "group": "wikibooks",
         "logo": "//ln.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://ln.m.wikibooks.org"
+        "mobileUrl": "https://ln.wikibooks.org"
     },
     "lowiki": {
         "shortName": "ວິກິພີເດຍ",
@@ -5519,7 +5519,7 @@
         "languageCode": "lo",
         "group": "wiktionary",
         "logo": "//lo.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://lo.m.wiktionary.org"
+        "mobileUrl": "https://lo.wiktionary.org"
     },
     "lrcwiki": {
         "shortName": "ڤیکیپئدیا",
@@ -5552,7 +5552,7 @@
         "languageCode": "lt",
         "group": "wiktionary",
         "logo": "//lt.wiktionary.org/static/images/project-logos/ltwiktionary.png",
-        "mobileUrl": "https://lt.m.wiktionary.org"
+        "mobileUrl": "https://lt.wiktionary.org"
     },
     "ltwikibooks": {
         "shortName": "Wikibooks",
@@ -5563,7 +5563,7 @@
         "languageCode": "lt",
         "group": "wikibooks",
         "logo": "//lt.wikibooks.org/static/images/project-logos/ltwikibooks.png",
-        "mobileUrl": "https://lt.m.wikibooks.org"
+        "mobileUrl": "https://lt.wikibooks.org"
     },
     "ltwikiquote": {
         "shortName": "Wikiquote",
@@ -5574,7 +5574,7 @@
         "languageCode": "lt",
         "group": "wikiquote",
         "logo": "//lt.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://lt.m.wikiquote.org"
+        "mobileUrl": "https://lt.wikiquote.org"
     },
     "ltwikisource": {
         "shortName": "Vikišaltiniai",
@@ -5585,7 +5585,7 @@
         "languageCode": "lt",
         "group": "wikisource",
         "logo": "//lt.wikisource.org/static/images/project-logos/ltwikisource.png",
-        "mobileUrl": "https://lt.m.wikisource.org"
+        "mobileUrl": "https://lt.wikisource.org"
     },
     "ltgwiki": {
         "shortName": "Vikipedeja",
@@ -5618,7 +5618,7 @@
         "languageCode": "lv",
         "group": "wiktionary",
         "logo": "//lv.wiktionary.org/static/images/project-logos/lvwiktionary.png",
-        "mobileUrl": "https://lv.m.wiktionary.org"
+        "mobileUrl": "https://lv.wiktionary.org"
     },
     "lvwikibooks": {
         "shortName": "Wikibooks",
@@ -5629,7 +5629,7 @@
         "languageCode": "lv",
         "group": "wikibooks",
         "logo": "//lv.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://lv.m.wikibooks.org"
+        "mobileUrl": "https://lv.wikibooks.org"
     },
     "zh_classicalwiki": {
         "shortName": "維基大典",
@@ -5662,7 +5662,7 @@
         "languageCode": "mad",
         "group": "wiktionary",
         "logo": "//mad.wiktionary.org/static/images/project-logos/madwiktionary.png",
-        "mobileUrl": "https://mad.m.wiktionary.org"
+        "mobileUrl": "https://mad.wiktionary.org"
     },
     "madwikisource": {
         "shortName": "Wikigherbhung",
@@ -5673,7 +5673,7 @@
         "languageCode": "mad",
         "group": "wikisource",
         "logo": "//mad.wikisource.org/static/images/project-logos/madwikisource.png",
-        "mobileUrl": "https://mad.m.wikisource.org"
+        "mobileUrl": "https://mad.wikisource.org"
     },
     "maiwiki": {
         "shortName": "विकिपिडिया",
@@ -5728,7 +5728,7 @@
         "languageCode": "mg",
         "group": "wiktionary",
         "logo": "//mg.wiktionary.org/static/images/project-logos/mgwiktionary.png",
-        "mobileUrl": "https://mg.m.wiktionary.org"
+        "mobileUrl": "https://mg.wiktionary.org"
     },
     "mgwikibooks": {
         "shortName": "Wikibooks",
@@ -5739,7 +5739,7 @@
         "languageCode": "mg",
         "group": "wikibooks",
         "logo": "//mg.wikibooks.org/static/images/project-logos/mgwikibooks.png",
-        "mobileUrl": "https://mg.m.wikibooks.org"
+        "mobileUrl": "https://mg.wikibooks.org"
     },
     "mhwiki": {
         "shortName": "Wikipedia",
@@ -5761,7 +5761,7 @@
         "languageCode": "mh",
         "group": "wiktionary",
         "logo": "//mh.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://mh.m.wiktionary.org"
+        "mobileUrl": "https://mh.wiktionary.org"
     },
     "mhrwiki": {
         "shortName": "Википедий",
@@ -5794,7 +5794,7 @@
         "languageCode": "mi",
         "group": "wiktionary",
         "logo": "//mi.wiktionary.org/static/images/project-logos/miwiktionary.png",
-        "mobileUrl": "https://mi.m.wiktionary.org"
+        "mobileUrl": "https://mi.wiktionary.org"
     },
     "miwikibooks": {
         "shortName": "Wikibooks",
@@ -5805,7 +5805,7 @@
         "languageCode": "mi",
         "group": "wikibooks",
         "logo": "//mi.wikibooks.org/static/images/project-logos/miwikibooks.png",
-        "mobileUrl": "https://mi.m.wikibooks.org"
+        "mobileUrl": "https://mi.wikibooks.org"
     },
     "minwiki": {
         "shortName": "Wikipedia",
@@ -5827,7 +5827,7 @@
         "languageCode": "min",
         "group": "wiktionary",
         "logo": "//min.wiktionary.org/static/images/project-logos/minwiktionary.png",
-        "mobileUrl": "https://min.m.wiktionary.org"
+        "mobileUrl": "https://min.wiktionary.org"
     },
     "minwikibooks": {
         "shortName": "Wikibuku",
@@ -5838,7 +5838,7 @@
         "languageCode": "min",
         "group": "wikibooks",
         "logo": "//min.wikibooks.org/static/images/project-logos/minwikibooks.png",
-        "mobileUrl": "https://min.m.wikibooks.org"
+        "mobileUrl": "https://min.wikibooks.org"
     },
     "mkwiki": {
         "shortName": "Википедија",
@@ -5860,7 +5860,7 @@
         "languageCode": "mk",
         "group": "wiktionary",
         "logo": "//mk.wiktionary.org/static/images/project-logos/mkwiktionary.png",
-        "mobileUrl": "https://mk.m.wiktionary.org"
+        "mobileUrl": "https://mk.wiktionary.org"
     },
     "mkwikibooks": {
         "shortName": "Викикниги",
@@ -5871,7 +5871,7 @@
         "languageCode": "mk",
         "group": "wikibooks",
         "logo": "//mk.wikibooks.org/static/images/project-logos/mkwikibooks.png",
-        "mobileUrl": "https://mk.m.wikibooks.org"
+        "mobileUrl": "https://mk.wikibooks.org"
     },
     "mkwikisource": {
         "shortName": "Wikisource",
@@ -5882,7 +5882,7 @@
         "languageCode": "mk",
         "group": "wikisource",
         "logo": "//mk.wikisource.org/static/images/project-logos/mkwikisource.png",
-        "mobileUrl": "https://mk.m.wikisource.org"
+        "mobileUrl": "https://mk.wikisource.org"
     },
     "mlwiki": {
         "shortName": "വിക്കിപീഡിയ",
@@ -5904,7 +5904,7 @@
         "languageCode": "ml",
         "group": "wiktionary",
         "logo": "//ml.wiktionary.org/static/images/project-logos/mlwiktionary.png",
-        "mobileUrl": "https://ml.m.wiktionary.org"
+        "mobileUrl": "https://ml.wiktionary.org"
     },
     "mlwikibooks": {
         "shortName": "വിക്കിപാഠശാല",
@@ -5915,7 +5915,7 @@
         "languageCode": "ml",
         "group": "wikibooks",
         "logo": "//ml.wikibooks.org/static/images/project-logos/mlwikibooks.png",
-        "mobileUrl": "https://ml.m.wikibooks.org"
+        "mobileUrl": "https://ml.wikibooks.org"
     },
     "mlwikiquote": {
         "shortName": "വിക്കിചൊല്ലുകൾ",
@@ -5926,7 +5926,7 @@
         "languageCode": "ml",
         "group": "wikiquote",
         "logo": "//ml.wikiquote.org/static/images/project-logos/mlwikiquote.png",
-        "mobileUrl": "https://ml.m.wikiquote.org"
+        "mobileUrl": "https://ml.wikiquote.org"
     },
     "mlwikisource": {
         "shortName": "വിക്കിഗ്രന്ഥശാല",
@@ -5937,7 +5937,7 @@
         "languageCode": "ml",
         "group": "wikisource",
         "logo": "//ml.wikisource.org/static/images/project-logos/mlwikisource.png",
-        "mobileUrl": "https://ml.m.wikisource.org"
+        "mobileUrl": "https://ml.wikisource.org"
     },
     "mnwiki": {
         "shortName": "Википедиа",
@@ -5959,7 +5959,7 @@
         "languageCode": "mn",
         "group": "wiktionary",
         "logo": "//mn.wiktionary.org/static/images/project-logos/mnwiktionary.png",
-        "mobileUrl": "https://mn.m.wiktionary.org"
+        "mobileUrl": "https://mn.wiktionary.org"
     },
     "mnwikibooks": {
         "shortName": "Wikibooks",
@@ -5970,7 +5970,7 @@
         "languageCode": "mn",
         "group": "wikibooks",
         "logo": "//mn.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://mn.m.wikibooks.org"
+        "mobileUrl": "https://mn.wikibooks.org"
     },
     "mniwiki": {
         "shortName": "ꯋꯤꯀꯤꯄꯦꯗꯤꯌꯥ",
@@ -5992,7 +5992,7 @@
         "languageCode": "mni",
         "group": "wiktionary",
         "logo": "//mni.wiktionary.org/static/images/project-logos/mniwiktionary.png",
-        "mobileUrl": "https://mni.m.wiktionary.org"
+        "mobileUrl": "https://mni.wiktionary.org"
     },
     "mnwwiki": {
         "shortName": "ဝဳကဳပဳဒဳယာ",
@@ -6014,7 +6014,7 @@
         "languageCode": "mnw",
         "group": "wiktionary",
         "logo": "//mnw.wiktionary.org/static/images/project-logos/mnwwiktionary.png",
-        "mobileUrl": "https://mnw.m.wiktionary.org"
+        "mobileUrl": "https://mnw.wiktionary.org"
     },
     "moswiki": {
         "shortName": "Wikipidiya",
@@ -6047,7 +6047,7 @@
         "languageCode": "mr",
         "group": "wiktionary",
         "logo": "//mr.wiktionary.org/static/images/project-logos/mrwiktionary.png",
-        "mobileUrl": "https://mr.m.wiktionary.org"
+        "mobileUrl": "https://mr.wiktionary.org"
     },
     "mrwikibooks": {
         "shortName": "विकिबुक्स",
@@ -6058,7 +6058,7 @@
         "languageCode": "mr",
         "group": "wikibooks",
         "logo": "//mr.wikibooks.org/static/images/project-logos/mrwikibooks.png",
-        "mobileUrl": "https://mr.m.wikibooks.org"
+        "mobileUrl": "https://mr.wikibooks.org"
     },
     "mrwikiquote": {
         "shortName": "Wikiquote",
@@ -6069,7 +6069,7 @@
         "languageCode": "mr",
         "group": "wikiquote",
         "logo": "//mr.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://mr.m.wikiquote.org"
+        "mobileUrl": "https://mr.wikiquote.org"
     },
     "mrwikisource": {
         "shortName": "विकिस्रोत",
@@ -6080,7 +6080,7 @@
         "languageCode": "mr",
         "group": "wikisource",
         "logo": "//mr.wikisource.org/static/images/project-logos/mrwikisource.png",
-        "mobileUrl": "https://mr.m.wikisource.org"
+        "mobileUrl": "https://mr.wikisource.org"
     },
     "mrjwiki": {
         "shortName": "Википеди",
@@ -6113,7 +6113,7 @@
         "languageCode": "ms",
         "group": "wiktionary",
         "logo": "//ms.wiktionary.org/static/images/project-logos/mswiktionary.png",
-        "mobileUrl": "https://ms.m.wiktionary.org"
+        "mobileUrl": "https://ms.wiktionary.org"
     },
     "mswikibooks": {
         "shortName": "Wikibuku",
@@ -6124,7 +6124,18 @@
         "languageCode": "ms",
         "group": "wikibooks",
         "logo": "//ms.wikibooks.org/static/images/project-logos/mswikibooks.png",
-        "mobileUrl": "https://ms.m.wikibooks.org"
+        "mobileUrl": "https://ms.wikibooks.org"
+    },
+    "mswikiquote": {
+        "shortName": "Wikipetik",
+        "name": "Wikipetik",
+        "id": "mswikiquote",
+        "pageUrl": "//ms.wikiquote.org/wiki/$1",
+        "apiUrl": "//ms.wikiquote.org/w/api.php",
+        "languageCode": "ms",
+        "group": "wikiquote",
+        "logo": "//ms.wikiquote.org/static/images/project-logos/mswikiquote.png",
+        "mobileUrl": "https://ms.wikiquote.org"
     },
     "mswikisource": {
         "shortName": "Wikisumber",
@@ -6135,7 +6146,7 @@
         "languageCode": "ms",
         "group": "wikisource",
         "logo": "//ms.wikisource.org/static/images/project-logos/mswikisource.png",
-        "mobileUrl": "https://ms.m.wikisource.org"
+        "mobileUrl": "https://ms.wikisource.org"
     },
     "mtwiki": {
         "shortName": "Wikipedija",
@@ -6157,7 +6168,7 @@
         "languageCode": "mt",
         "group": "wiktionary",
         "logo": "//mt.wiktionary.org/static/images/project-logos/mtwiktionary.png",
-        "mobileUrl": "https://mt.m.wiktionary.org"
+        "mobileUrl": "https://mt.wiktionary.org"
     },
     "muswiki": {
         "shortName": "Wikipedia",
@@ -6201,7 +6212,7 @@
         "languageCode": "my",
         "group": "wiktionary",
         "logo": "//my.wiktionary.org/static/images/project-logos/mywiktionary.png",
-        "mobileUrl": "https://my.m.wiktionary.org"
+        "mobileUrl": "https://my.wiktionary.org"
     },
     "mywikibooks": {
         "shortName": "Wikibooks",
@@ -6212,7 +6223,7 @@
         "languageCode": "my",
         "group": "wikibooks",
         "logo": "//my.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://my.m.wikibooks.org"
+        "mobileUrl": "https://my.wikibooks.org"
     },
     "mywikisource": {
         "shortName": "ဝီကီရင်းမြစ်",
@@ -6223,7 +6234,7 @@
         "languageCode": "my",
         "group": "wikisource",
         "logo": "//my.wikisource.org/static/images/project-logos/mywikisource.png",
-        "mobileUrl": "https://my.m.wikisource.org"
+        "mobileUrl": "https://my.wikisource.org"
     },
     "myvwiki": {
         "shortName": "Википедиясь",
@@ -6267,7 +6278,7 @@
         "languageCode": "na",
         "group": "wiktionary",
         "logo": "//na.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://na.m.wiktionary.org"
+        "mobileUrl": "https://na.wiktionary.org"
     },
     "nawikibooks": {
         "shortName": "Wikibooks",
@@ -6278,7 +6289,7 @@
         "languageCode": "na",
         "group": "wikibooks",
         "logo": "//na.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://na.m.wikibooks.org"
+        "mobileUrl": "https://na.wikibooks.org"
     },
     "nawikiquote": {
         "shortName": "Wikiquote",
@@ -6289,7 +6300,7 @@
         "languageCode": "na",
         "group": "wikiquote",
         "logo": "//na.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://na.m.wikiquote.org"
+        "mobileUrl": "https://na.wikiquote.org"
     },
     "nahwiki": {
         "shortName": "Huiquipedia",
@@ -6311,7 +6322,7 @@
         "languageCode": "nah",
         "group": "wiktionary",
         "logo": "//nah.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://nah.m.wiktionary.org"
+        "mobileUrl": "https://nah.wiktionary.org"
     },
     "nahwikibooks": {
         "shortName": "Wikibooks",
@@ -6322,7 +6333,7 @@
         "languageCode": "nah",
         "group": "wikibooks",
         "logo": "//nah.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://nah.m.wikibooks.org"
+        "mobileUrl": "https://nah.wikibooks.org"
     },
     "zh_min_nanwiki": {
         "shortName": "Wikipedia",
@@ -6344,7 +6355,7 @@
         "languageCode": "nan",
         "group": "wiktionary",
         "logo": "//zh-min-nan.wiktionary.org/static/images/project-logos/zh_min_nanwiktionary.png",
-        "mobileUrl": "https://zh-min-nan.m.wiktionary.org"
+        "mobileUrl": "https://zh-min-nan.wiktionary.org"
     },
     "zh_min_nanwikibooks": {
         "shortName": "Wikibooks",
@@ -6355,7 +6366,7 @@
         "languageCode": "nan",
         "group": "wikibooks",
         "logo": "//zh-min-nan.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://zh-min-nan.m.wikibooks.org"
+        "mobileUrl": "https://zh-min-nan.wikibooks.org"
     },
     "zh_min_nanwikiquote": {
         "shortName": "Wikiquote",
@@ -6366,7 +6377,7 @@
         "languageCode": "nan",
         "group": "wikiquote",
         "logo": "//zh-min-nan.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://zh-min-nan.m.wikiquote.org"
+        "mobileUrl": "https://zh-min-nan.wikiquote.org"
     },
     "zh_min_nanwikisource": {
         "shortName": "Wiki Tô·-su-kóan",
@@ -6377,7 +6388,7 @@
         "languageCode": "nan",
         "group": "wikisource",
         "logo": "//zh-min-nan.wikisource.org/static/images/project-logos/zh_min_nanwikisource.png",
-        "mobileUrl": "https://zh-min-nan.m.wikisource.org"
+        "mobileUrl": "https://zh-min-nan.wikisource.org"
     },
     "napwiki": {
         "shortName": "Wikipedia",
@@ -6399,7 +6410,7 @@
         "languageCode": "nap",
         "group": "wikisource",
         "logo": "//nap.wikisource.org/static/images/project-logos/napwikisource.png",
-        "mobileUrl": "https://nap.m.wikisource.org"
+        "mobileUrl": "https://nap.wikisource.org"
     },
     "ndswiki": {
         "shortName": "Wikipedia",
@@ -6421,7 +6432,7 @@
         "languageCode": "nds",
         "group": "wiktionary",
         "logo": "//nds.wiktionary.org/static/images/project-logos/ndswiktionary.png",
-        "mobileUrl": "https://nds.m.wiktionary.org"
+        "mobileUrl": "https://nds.wiktionary.org"
     },
     "ndswikibooks": {
         "shortName": "Wikibooks",
@@ -6432,7 +6443,7 @@
         "languageCode": "nds",
         "group": "wikibooks",
         "logo": "//nds.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://nds.m.wikibooks.org"
+        "mobileUrl": "https://nds.wikibooks.org"
     },
     "ndswikiquote": {
         "shortName": "Wikiquote",
@@ -6443,7 +6454,7 @@
         "languageCode": "nds",
         "group": "wikiquote",
         "logo": "//nds.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://nds.m.wikiquote.org"
+        "mobileUrl": "https://nds.wikiquote.org"
     },
     "nds_nlwiki": {
         "shortName": "Wikipedia",
@@ -6476,7 +6487,7 @@
         "languageCode": "ne",
         "group": "wiktionary",
         "logo": "//ne.wiktionary.org/static/images/project-logos/newiktionary.png",
-        "mobileUrl": "https://ne.m.wiktionary.org"
+        "mobileUrl": "https://ne.wiktionary.org"
     },
     "newikibooks": {
         "shortName": "विकिपुस्तक",
@@ -6487,7 +6498,7 @@
         "languageCode": "ne",
         "group": "wikibooks",
         "logo": "//ne.wikibooks.org/static/images/project-logos/newikibooks.png",
-        "mobileUrl": "https://ne.m.wikibooks.org"
+        "mobileUrl": "https://ne.wikibooks.org"
     },
     "newwiki": {
         "shortName": "Wikipedia",
@@ -6531,7 +6542,7 @@
         "languageCode": "nia",
         "group": "wiktionary",
         "logo": "//nia.wiktionary.org/static/images/project-logos/niawiktionary.png",
-        "mobileUrl": "https://nia.m.wiktionary.org"
+        "mobileUrl": "https://nia.wiktionary.org"
     },
     "nlwiki": {
         "shortName": "Wikipedia",
@@ -6553,7 +6564,7 @@
         "languageCode": "nl",
         "group": "wiktionary",
         "logo": "//nl.wiktionary.org/static/images/project-logos/nlwiktionary.png",
-        "mobileUrl": "https://nl.m.wiktionary.org"
+        "mobileUrl": "https://nl.wiktionary.org"
     },
     "nlwikibooks": {
         "shortName": "Wikibooks",
@@ -6564,7 +6575,7 @@
         "languageCode": "nl",
         "group": "wikibooks",
         "logo": "//nl.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://nl.m.wikibooks.org"
+        "mobileUrl": "https://nl.wikibooks.org"
     },
     "nlwikinews": {
         "shortName": "Wikinieuws",
@@ -6575,7 +6586,7 @@
         "languageCode": "nl",
         "group": "wikinews",
         "logo": "//nl.wikinews.org/static/images/project-logos/nlwikinews.png",
-        "mobileUrl": "https://nl.m.wikinews.org"
+        "mobileUrl": "https://nl.wikinews.org"
     },
     "nlwikiquote": {
         "shortName": "Wikiquote",
@@ -6586,7 +6597,7 @@
         "languageCode": "nl",
         "group": "wikiquote",
         "logo": "//nl.wikiquote.org/static/images/project-logos/nlwikiquote.png",
-        "mobileUrl": "https://nl.m.wikiquote.org"
+        "mobileUrl": "https://nl.wikiquote.org"
     },
     "nlwikisource": {
         "shortName": "Wikisource",
@@ -6597,7 +6608,7 @@
         "languageCode": "nl",
         "group": "wikisource",
         "logo": "//nl.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://nl.m.wikisource.org"
+        "mobileUrl": "https://nl.wikisource.org"
     },
     "nlwikivoyage": {
         "shortName": "Wikivoyage",
@@ -6608,7 +6619,7 @@
         "languageCode": "nl",
         "group": "wikivoyage",
         "logo": "//nl.wikivoyage.org/static/images/project-logos/wikivoyage.png",
-        "mobileUrl": "https://nl.m.wikivoyage.org"
+        "mobileUrl": "https://nl.wikivoyage.org"
     },
     "nnwiki": {
         "shortName": "Wikipedia",
@@ -6630,7 +6641,7 @@
         "languageCode": "nn",
         "group": "wiktionary",
         "logo": "//nn.wiktionary.org/static/images/project-logos/nnwiktionary.png",
-        "mobileUrl": "https://nn.m.wiktionary.org"
+        "mobileUrl": "https://nn.wiktionary.org"
     },
     "nnwikiquote": {
         "shortName": "Wikiquote",
@@ -6641,7 +6652,7 @@
         "languageCode": "nn",
         "group": "wikiquote",
         "logo": "//nn.wikiquote.org/static/images/project-logos/nnwikiquote.png",
-        "mobileUrl": "https://nn.m.wikiquote.org"
+        "mobileUrl": "https://nn.wikiquote.org"
     },
     "nowiki": {
         "shortName": "Wikipedia",
@@ -6663,7 +6674,7 @@
         "languageCode": "nb",
         "group": "wiktionary",
         "logo": "//no.wiktionary.org/static/images/project-logos/nowiktionary.png",
-        "mobileUrl": "https://no.m.wiktionary.org"
+        "mobileUrl": "https://no.wiktionary.org"
     },
     "nowikibooks": {
         "shortName": "Wikibøker",
@@ -6674,7 +6685,7 @@
         "languageCode": "nb",
         "group": "wikibooks",
         "logo": "//no.wikibooks.org/static/images/project-logos/nowikibooks.png",
-        "mobileUrl": "https://no.m.wikibooks.org"
+        "mobileUrl": "https://no.wikibooks.org"
     },
     "nowikinews": {
         "shortName": "Wikinytt",
@@ -6685,7 +6696,7 @@
         "languageCode": "nb",
         "group": "wikinews",
         "logo": "//no.wikinews.org/static/images/project-logos/nowikinews.png",
-        "mobileUrl": "https://no.m.wikinews.org"
+        "mobileUrl": "https://no.wikinews.org"
     },
     "nowikiquote": {
         "shortName": "Wikiquote",
@@ -6696,7 +6707,7 @@
         "languageCode": "nb",
         "group": "wikiquote",
         "logo": "//no.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://no.m.wikiquote.org"
+        "mobileUrl": "https://no.wikiquote.org"
     },
     "nowikisource": {
         "shortName": "Wikikilden",
@@ -6707,7 +6718,7 @@
         "languageCode": "nb",
         "group": "wikisource",
         "logo": "//no.wikisource.org/static/images/project-logos/nowikisource.png",
-        "mobileUrl": "https://no.m.wikisource.org"
+        "mobileUrl": "https://no.wikisource.org"
     },
     "novwiki": {
         "shortName": "Wikipedia",
@@ -6817,7 +6828,7 @@
         "languageCode": "oc",
         "group": "wiktionary",
         "logo": "//oc.wiktionary.org/static/images/project-logos/ocwiktionary.png",
-        "mobileUrl": "https://oc.m.wiktionary.org"
+        "mobileUrl": "https://oc.wiktionary.org"
     },
     "ocwikibooks": {
         "shortName": "Wikilibres",
@@ -6828,7 +6839,7 @@
         "languageCode": "oc",
         "group": "wikibooks",
         "logo": "//oc.wikibooks.org/static/images/project-logos/ocwikibooks.png",
-        "mobileUrl": "https://oc.m.wikibooks.org"
+        "mobileUrl": "https://oc.wikibooks.org"
     },
     "olowiki": {
         "shortName": "Wikipedii",
@@ -6861,7 +6872,7 @@
         "languageCode": "om",
         "group": "wiktionary",
         "logo": "//om.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://om.m.wiktionary.org"
+        "mobileUrl": "https://om.wiktionary.org"
     },
     "orwiki": {
         "shortName": "ଉଇକିପିଡ଼ିଆ",
@@ -6883,7 +6894,7 @@
         "languageCode": "or",
         "group": "wiktionary",
         "logo": "//or.wiktionary.org/static/images/project-logos/orwiktionary.png",
-        "mobileUrl": "https://or.m.wiktionary.org"
+        "mobileUrl": "https://or.wiktionary.org"
     },
     "orwikisource": {
         "shortName": "ଉଇକିପାଠାଗାର",
@@ -6894,7 +6905,7 @@
         "languageCode": "or",
         "group": "wikisource",
         "logo": "//or.wikisource.org/static/images/project-logos/orwikisource.png",
-        "mobileUrl": "https://or.m.wikisource.org"
+        "mobileUrl": "https://or.wikisource.org"
     },
     "oswiki": {
         "shortName": "Википеди",
@@ -6927,7 +6938,7 @@
         "languageCode": "pa",
         "group": "wiktionary",
         "logo": "//pa.wiktionary.org/static/images/project-logos/pawiktionary.png",
-        "mobileUrl": "https://pa.m.wiktionary.org"
+        "mobileUrl": "https://pa.wiktionary.org"
     },
     "pawikibooks": {
         "shortName": "Wikibooks",
@@ -6938,7 +6949,7 @@
         "languageCode": "pa",
         "group": "wikibooks",
         "logo": "//pa.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://pa.m.wikibooks.org"
+        "mobileUrl": "https://pa.wikibooks.org"
     },
     "pawikisource": {
         "shortName": "ਵਿਕੀਸਰੋਤ",
@@ -6949,7 +6960,7 @@
         "languageCode": "pa",
         "group": "wikisource",
         "logo": "//pa.wikisource.org/static/images/project-logos/pawikisource.png",
-        "mobileUrl": "https://pa.m.wikisource.org"
+        "mobileUrl": "https://pa.wikisource.org"
     },
     "pagwiki": {
         "shortName": "Wikipedia",
@@ -7048,7 +7059,7 @@
         "languageCode": "pi",
         "group": "wiktionary",
         "logo": "//pi.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://pi.m.wiktionary.org"
+        "mobileUrl": "https://pi.wiktionary.org"
     },
     "pihwiki": {
         "shortName": "Wikipedia",
@@ -7081,7 +7092,7 @@
         "languageCode": "pl",
         "group": "wiktionary",
         "logo": "//pl.wiktionary.org/static/images/project-logos/plwiktionary.png",
-        "mobileUrl": "https://pl.m.wiktionary.org"
+        "mobileUrl": "https://pl.wiktionary.org"
     },
     "plwikibooks": {
         "shortName": "Wikibooks",
@@ -7092,7 +7103,7 @@
         "languageCode": "pl",
         "group": "wikibooks",
         "logo": "//pl.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://pl.m.wikibooks.org"
+        "mobileUrl": "https://pl.wikibooks.org"
     },
     "plwikinews": {
         "shortName": "Wikinews",
@@ -7103,7 +7114,7 @@
         "languageCode": "pl",
         "group": "wikinews",
         "logo": "//pl.wikinews.org/static/images/project-logos/plwikinews.png",
-        "mobileUrl": "https://pl.m.wikinews.org"
+        "mobileUrl": "https://pl.wikinews.org"
     },
     "plwikiquote": {
         "shortName": "Wikicytaty",
@@ -7114,7 +7125,7 @@
         "languageCode": "pl",
         "group": "wikiquote",
         "logo": "//pl.wikiquote.org/static/images/project-logos/plwikiquote.png",
-        "mobileUrl": "https://pl.m.wikiquote.org"
+        "mobileUrl": "https://pl.wikiquote.org"
     },
     "plwikisource": {
         "shortName": "Wikiźródła",
@@ -7125,7 +7136,7 @@
         "languageCode": "pl",
         "group": "wikisource",
         "logo": "//pl.wikisource.org/static/images/project-logos/plwikisource.png",
-        "mobileUrl": "https://pl.m.wikisource.org"
+        "mobileUrl": "https://pl.wikisource.org"
     },
     "plwikivoyage": {
         "shortName": "Wikipodróże",
@@ -7136,7 +7147,7 @@
         "languageCode": "pl",
         "group": "wikivoyage",
         "logo": "//pl.wikivoyage.org/static/images/project-logos/plwikivoyage.png",
-        "mobileUrl": "https://pl.m.wikivoyage.org"
+        "mobileUrl": "https://pl.wikivoyage.org"
     },
     "pmswiki": {
         "shortName": "Wikipedia",
@@ -7158,7 +7169,7 @@
         "languageCode": "pms",
         "group": "wikisource",
         "logo": "//pms.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://pms.m.wikisource.org"
+        "mobileUrl": "https://pms.wikisource.org"
     },
     "pnbwiki": {
         "shortName": "وکیپیڈیا",
@@ -7180,7 +7191,7 @@
         "languageCode": "pnb",
         "group": "wiktionary",
         "logo": "//pnb.wiktionary.org/static/images/project-logos/pnbwiktionary.png",
-        "mobileUrl": "https://pnb.m.wiktionary.org"
+        "mobileUrl": "https://pnb.wiktionary.org"
     },
     "pntwiki": {
         "shortName": "Βικιπαίδεια",
@@ -7213,7 +7224,7 @@
         "languageCode": "ps",
         "group": "wiktionary",
         "logo": "//ps.wiktionary.org/static/images/project-logos/pswiktionary.png",
-        "mobileUrl": "https://ps.m.wiktionary.org"
+        "mobileUrl": "https://ps.wiktionary.org"
     },
     "pswikibooks": {
         "shortName": "ويکيتابونه",
@@ -7224,7 +7235,7 @@
         "languageCode": "ps",
         "group": "wikibooks",
         "logo": "//ps.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://ps.m.wikibooks.org"
+        "mobileUrl": "https://ps.wikibooks.org"
     },
     "pswikivoyage": {
         "shortName": "ويکيسفر",
@@ -7235,7 +7246,7 @@
         "languageCode": "ps",
         "group": "wikivoyage",
         "logo": "//ps.wikivoyage.org/static/images/project-logos/pswikivoyage.png",
-        "mobileUrl": "https://ps.m.wikivoyage.org"
+        "mobileUrl": "https://ps.wikivoyage.org"
     },
     "ptwiki": {
         "shortName": "Wikipédia",
@@ -7257,7 +7268,7 @@
         "languageCode": "pt",
         "group": "wiktionary",
         "logo": "//pt.wiktionary.org/static/images/project-logos/ptwiktionary.png",
-        "mobileUrl": "https://pt.m.wiktionary.org"
+        "mobileUrl": "https://pt.wiktionary.org"
     },
     "ptwikibooks": {
         "shortName": "Wikilivros",
@@ -7268,7 +7279,7 @@
         "languageCode": "pt",
         "group": "wikibooks",
         "logo": "//pt.wikibooks.org/static/images/project-logos/ptwikibooks.png",
-        "mobileUrl": "https://pt.m.wikibooks.org"
+        "mobileUrl": "https://pt.wikibooks.org"
     },
     "ptwikinews": {
         "shortName": "Wikinotícias",
@@ -7279,7 +7290,7 @@
         "languageCode": "pt",
         "group": "wikinews",
         "logo": "//pt.wikinews.org/static/images/project-logos/ptwikinews.png",
-        "mobileUrl": "https://pt.m.wikinews.org"
+        "mobileUrl": "https://pt.wikinews.org"
     },
     "ptwikiquote": {
         "shortName": "Wikiquote",
@@ -7290,7 +7301,7 @@
         "languageCode": "pt",
         "group": "wikiquote",
         "logo": "//pt.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://pt.m.wikiquote.org"
+        "mobileUrl": "https://pt.wikiquote.org"
     },
     "ptwikisource": {
         "shortName": "Wikisource",
@@ -7301,7 +7312,7 @@
         "languageCode": "pt",
         "group": "wikisource",
         "logo": "//pt.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://pt.m.wikisource.org"
+        "mobileUrl": "https://pt.wikisource.org"
     },
     "ptwikiversity": {
         "shortName": "Wikiversidade",
@@ -7312,7 +7323,7 @@
         "languageCode": "pt",
         "group": "wikiversity",
         "logo": "//pt.wikiversity.org/static/images/project-logos/ptwikiversity.png",
-        "mobileUrl": "https://pt.m.wikiversity.org"
+        "mobileUrl": "https://pt.wikiversity.org"
     },
     "ptwikivoyage": {
         "shortName": "Wikivoyage",
@@ -7323,7 +7334,7 @@
         "languageCode": "pt",
         "group": "wikivoyage",
         "logo": "//pt.wikivoyage.org/static/images/project-logos/wikivoyage.png",
-        "mobileUrl": "https://pt.m.wikivoyage.org"
+        "mobileUrl": "https://pt.wikivoyage.org"
     },
     "pwnwiki": {
         "shortName": "Wikipedia",
@@ -7356,7 +7367,7 @@
         "languageCode": "qu",
         "group": "wiktionary",
         "logo": "//qu.wiktionary.org/static/images/project-logos/quwiktionary.png",
-        "mobileUrl": "https://qu.m.wiktionary.org"
+        "mobileUrl": "https://qu.wiktionary.org"
     },
     "quwikibooks": {
         "shortName": "Wikibooks",
@@ -7367,7 +7378,7 @@
         "languageCode": "qu",
         "group": "wikibooks",
         "logo": "//qu.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://qu.m.wikibooks.org"
+        "mobileUrl": "https://qu.wikibooks.org"
     },
     "quwikiquote": {
         "shortName": "Wikiquote",
@@ -7378,7 +7389,7 @@
         "languageCode": "qu",
         "group": "wikiquote",
         "logo": "//qu.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://qu.m.wikiquote.org"
+        "mobileUrl": "https://qu.wikiquote.org"
     },
     "rkiwiki": {
         "shortName": "ဝီကီးပီးဒီးယား",
@@ -7411,7 +7422,7 @@
         "languageCode": "rm",
         "group": "wiktionary",
         "logo": "//rm.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://rm.m.wiktionary.org"
+        "mobileUrl": "https://rm.wiktionary.org"
     },
     "rmwikibooks": {
         "shortName": "Wikibooks",
@@ -7422,7 +7433,7 @@
         "languageCode": "rm",
         "group": "wikibooks",
         "logo": "//rm.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://rm.m.wikibooks.org"
+        "mobileUrl": "https://rm.wikibooks.org"
     },
     "rmywiki": {
         "shortName": "Vikipidiya",
@@ -7455,7 +7466,7 @@
         "languageCode": "rn",
         "group": "wiktionary",
         "logo": "//rn.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://rn.m.wiktionary.org"
+        "mobileUrl": "https://rn.wiktionary.org"
     },
     "rowiki": {
         "shortName": "Wikipedia",
@@ -7477,7 +7488,7 @@
         "languageCode": "ro",
         "group": "wiktionary",
         "logo": "//ro.wiktionary.org/static/images/project-logos/rowiktionary.png",
-        "mobileUrl": "https://ro.m.wiktionary.org"
+        "mobileUrl": "https://ro.wiktionary.org"
     },
     "rowikibooks": {
         "shortName": "Wikimanuale",
@@ -7488,7 +7499,7 @@
         "languageCode": "ro",
         "group": "wikibooks",
         "logo": "//ro.wikibooks.org/static/images/project-logos/rowikibooks.png",
-        "mobileUrl": "https://ro.m.wikibooks.org"
+        "mobileUrl": "https://ro.wikibooks.org"
     },
     "rowikinews": {
         "shortName": "Wikiștiri",
@@ -7499,7 +7510,7 @@
         "languageCode": "ro",
         "group": "wikinews",
         "logo": "//ro.wikinews.org/static/images/project-logos/rowikinews.png",
-        "mobileUrl": "https://ro.m.wikinews.org"
+        "mobileUrl": "https://ro.wikinews.org"
     },
     "rowikiquote": {
         "shortName": "Wikicitat",
@@ -7510,7 +7521,7 @@
         "languageCode": "ro",
         "group": "wikiquote",
         "logo": "//ro.wikiquote.org/static/images/project-logos/rowikiquote.png",
-        "mobileUrl": "https://ro.m.wikiquote.org"
+        "mobileUrl": "https://ro.wikiquote.org"
     },
     "rowikisource": {
         "shortName": "Wikisource",
@@ -7521,7 +7532,7 @@
         "languageCode": "ro",
         "group": "wikisource",
         "logo": "//ro.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://ro.m.wikisource.org"
+        "mobileUrl": "https://ro.wikisource.org"
     },
     "rowikivoyage": {
         "shortName": "Wikivoyage",
@@ -7532,7 +7543,7 @@
         "languageCode": "ro",
         "group": "wikivoyage",
         "logo": "//ro.wikivoyage.org/static/images/project-logos/wikivoyage.png",
-        "mobileUrl": "https://ro.m.wikivoyage.org"
+        "mobileUrl": "https://ro.wikivoyage.org"
     },
     "roa_tarawiki": {
         "shortName": "Wikipedia",
@@ -7576,7 +7587,7 @@
         "languageCode": "ru",
         "group": "wiktionary",
         "logo": "//ru.wiktionary.org/static/images/project-logos/ruwiktionary.png",
-        "mobileUrl": "https://ru.m.wiktionary.org"
+        "mobileUrl": "https://ru.wiktionary.org"
     },
     "ruwikibooks": {
         "shortName": "Викиучебник",
@@ -7587,7 +7598,7 @@
         "languageCode": "ru",
         "group": "wikibooks",
         "logo": "//ru.wikibooks.org/static/images/project-logos/ruwikibooks.png",
-        "mobileUrl": "https://ru.m.wikibooks.org"
+        "mobileUrl": "https://ru.wikibooks.org"
     },
     "ruwikinews": {
         "shortName": "Викиновости",
@@ -7598,7 +7609,7 @@
         "languageCode": "ru",
         "group": "wikinews",
         "logo": "//ru.wikinews.org/static/images/project-logos/ruwikinews.png",
-        "mobileUrl": "https://ru.m.wikinews.org"
+        "mobileUrl": "https://ru.wikinews.org"
     },
     "ruwikiquote": {
         "shortName": "Викицитатник",
@@ -7609,7 +7620,7 @@
         "languageCode": "ru",
         "group": "wikiquote",
         "logo": "//ru.wikiquote.org/static/images/project-logos/ruwikiquote.png",
-        "mobileUrl": "https://ru.m.wikiquote.org"
+        "mobileUrl": "https://ru.wikiquote.org"
     },
     "ruwikisource": {
         "shortName": "Викитека",
@@ -7620,7 +7631,7 @@
         "languageCode": "ru",
         "group": "wikisource",
         "logo": "//ru.wikisource.org/static/images/project-logos/ruwikisource.png",
-        "mobileUrl": "https://ru.m.wikisource.org"
+        "mobileUrl": "https://ru.wikisource.org"
     },
     "ruwikiversity": {
         "shortName": "Викиверситет",
@@ -7631,7 +7642,7 @@
         "languageCode": "ru",
         "group": "wikiversity",
         "logo": "//ru.wikiversity.org/static/images/project-logos/ruwikiversity.png",
-        "mobileUrl": "https://ru.m.wikiversity.org"
+        "mobileUrl": "https://ru.wikiversity.org"
     },
     "ruwikivoyage": {
         "shortName": "Wikivoyage",
@@ -7642,7 +7653,7 @@
         "languageCode": "ru",
         "group": "wikivoyage",
         "logo": "//ru.wikivoyage.org/static/images/project-logos/ruwikivoyage.png",
-        "mobileUrl": "https://ru.m.wikivoyage.org"
+        "mobileUrl": "https://ru.wikivoyage.org"
     },
     "ruewiki": {
         "shortName": "Вікіпедія",
@@ -7675,7 +7686,7 @@
         "languageCode": "rup",
         "group": "wiktionary",
         "logo": "//roa-rup.wiktionary.org/static/images/project-logos/roa_rupwiktionary.png",
-        "mobileUrl": "https://roa-rup.m.wiktionary.org"
+        "mobileUrl": "https://roa-rup.wiktionary.org"
     },
     "rwwiki": {
         "shortName": "Wikipedia",
@@ -7697,7 +7708,7 @@
         "languageCode": "rw",
         "group": "wiktionary",
         "logo": "//rw.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://rw.m.wiktionary.org"
+        "mobileUrl": "https://rw.wiktionary.org"
     },
     "sawiki": {
         "shortName": "विकिपीडिया",
@@ -7719,7 +7730,7 @@
         "languageCode": "sa",
         "group": "wiktionary",
         "logo": "//sa.wiktionary.org/static/images/project-logos/sawiktionary.png",
-        "mobileUrl": "https://sa.m.wiktionary.org"
+        "mobileUrl": "https://sa.wiktionary.org"
     },
     "sawikibooks": {
         "shortName": "विकिपुस्तकानि",
@@ -7730,7 +7741,7 @@
         "languageCode": "sa",
         "group": "wikibooks",
         "logo": "//sa.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://sa.m.wikibooks.org"
+        "mobileUrl": "https://sa.wikibooks.org"
     },
     "sawikiquote": {
         "shortName": "विकिसूक्तिः",
@@ -7741,7 +7752,7 @@
         "languageCode": "sa",
         "group": "wikiquote",
         "logo": "//sa.wikiquote.org/static/images/project-logos/sawikiquote.png",
-        "mobileUrl": "https://sa.m.wikiquote.org"
+        "mobileUrl": "https://sa.wikiquote.org"
     },
     "sawikisource": {
         "shortName": "विकिस्रोतः",
@@ -7752,7 +7763,7 @@
         "languageCode": "sa",
         "group": "wikisource",
         "logo": "//sa.wikisource.org/static/images/project-logos/sawikisource.png",
-        "mobileUrl": "https://sa.m.wikisource.org"
+        "mobileUrl": "https://sa.wikisource.org"
     },
     "sahwiki": {
         "shortName": "Бикипиэдьийэ",
@@ -7774,7 +7785,7 @@
         "languageCode": "sah",
         "group": "wikiquote",
         "logo": "//sah.wikiquote.org/static/images/project-logos/sahwikiquote.png",
-        "mobileUrl": "https://sah.m.wikiquote.org"
+        "mobileUrl": "https://sah.wikiquote.org"
     },
     "sahwikisource": {
         "shortName": "Бикитиэкэ",
@@ -7785,7 +7796,7 @@
         "languageCode": "sah",
         "group": "wikisource",
         "logo": "//sah.wikisource.org/static/images/project-logos/sahwikisource.png",
-        "mobileUrl": "https://sah.m.wikisource.org"
+        "mobileUrl": "https://sah.wikisource.org"
     },
     "satwiki": {
         "shortName": "ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ",
@@ -7807,7 +7818,7 @@
         "languageCode": "sat",
         "group": "wiktionary",
         "logo": "//sat.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://sat.m.wiktionary.org"
+        "mobileUrl": "https://sat.wiktionary.org"
     },
     "scwiki": {
         "shortName": "Wikipedia",
@@ -7829,7 +7840,7 @@
         "languageCode": "sc",
         "group": "wiktionary",
         "logo": "//sc.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://sc.m.wiktionary.org"
+        "mobileUrl": "https://sc.wiktionary.org"
     },
     "scnwiki": {
         "shortName": "Wikipedia",
@@ -7851,7 +7862,7 @@
         "languageCode": "scn",
         "group": "wiktionary",
         "logo": "//scn.wiktionary.org/static/images/project-logos/scnwiktionary.png",
-        "mobileUrl": "https://scn.m.wiktionary.org"
+        "mobileUrl": "https://scn.wiktionary.org"
     },
     "scowiki": {
         "shortName": "Wikipedia",
@@ -7884,7 +7895,7 @@
         "languageCode": "sd",
         "group": "wiktionary",
         "logo": "//sd.wiktionary.org/static/images/project-logos/sdwiktionary.png",
-        "mobileUrl": "https://sd.m.wiktionary.org"
+        "mobileUrl": "https://sd.wiktionary.org"
     },
     "sdwikinews": {
         "shortName": "Wikinews",
@@ -7895,7 +7906,7 @@
         "languageCode": "sd",
         "group": "wikinews",
         "logo": "//sd.wikinews.org/static/images/project-logos/sdwikinews.png",
-        "mobileUrl": "https://sd.m.wikinews.org"
+        "mobileUrl": "https://sd.wikinews.org"
     },
     "sewiki": {
         "shortName": "Wikipedia",
@@ -7917,7 +7928,7 @@
         "languageCode": "se",
         "group": "wikibooks",
         "logo": "//se.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://se.m.wikibooks.org"
+        "mobileUrl": "https://se.wikibooks.org"
     },
     "sgwiki": {
         "shortName": "Wikipedia",
@@ -7939,7 +7950,7 @@
         "languageCode": "sg",
         "group": "wiktionary",
         "logo": "//sg.wiktionary.org/static/images/project-logos/sgwiktionary.png",
-        "mobileUrl": "https://sg.m.wiktionary.org"
+        "mobileUrl": "https://sg.wiktionary.org"
     },
     "bat_smgwiki": {
         "shortName": "Wikipedia",
@@ -7972,7 +7983,7 @@
         "languageCode": "sh",
         "group": "wiktionary",
         "logo": "//sh.wiktionary.org/static/images/project-logos/shwiktionary.png",
-        "mobileUrl": "https://sh.m.wiktionary.org"
+        "mobileUrl": "https://sh.wiktionary.org"
     },
     "shiwiki": {
         "shortName": "Wikipedia",
@@ -8005,7 +8016,7 @@
         "languageCode": "shn",
         "group": "wiktionary",
         "logo": "//shn.wiktionary.org/static/images/project-logos/shnwiktionary.png",
-        "mobileUrl": "https://shn.m.wiktionary.org"
+        "mobileUrl": "https://shn.wiktionary.org"
     },
     "shnwikibooks": {
         "shortName": "ဝီႇၶီႇပပ်ႉ",
@@ -8016,7 +8027,7 @@
         "languageCode": "shn",
         "group": "wikibooks",
         "logo": "//shn.wikibooks.org/static/images/project-logos/shnwikibooks.png",
-        "mobileUrl": "https://shn.m.wikibooks.org"
+        "mobileUrl": "https://shn.wikibooks.org"
     },
     "shnwikinews": {
         "shortName": "ဝီႇၶီႇၶၢဝ်ႇ",
@@ -8027,7 +8038,7 @@
         "languageCode": "shn",
         "group": "wikinews",
         "logo": "//shn.wikinews.org/static/images/project-logos/shnwikinews.png",
-        "mobileUrl": "https://shn.m.wikinews.org"
+        "mobileUrl": "https://shn.wikinews.org"
     },
     "shnwikivoyage": {
         "shortName": "ဝီႇၶီႇဝွႆးဢဵတ်ႇꩡ်",
@@ -8038,7 +8049,7 @@
         "languageCode": "shn",
         "group": "wikivoyage",
         "logo": "//shn.wikivoyage.org/static/images/project-logos/shnwikivoyage.png",
-        "mobileUrl": "https://shn.m.wikivoyage.org"
+        "mobileUrl": "https://shn.wikivoyage.org"
     },
     "shywiktionary": {
         "shortName": "Wikasegzawal",
@@ -8049,7 +8060,7 @@
         "languageCode": "shy-latn",
         "group": "wiktionary",
         "logo": "//shy.wiktionary.org/static/images/project-logos/shywiktionary.png",
-        "mobileUrl": "https://shy.m.wiktionary.org"
+        "mobileUrl": "https://shy.wiktionary.org"
     },
     "siwiki": {
         "shortName": "විකිපීඩියා",
@@ -8071,7 +8082,7 @@
         "languageCode": "si",
         "group": "wiktionary",
         "logo": "//si.wiktionary.org/static/images/project-logos/siwiktionary.png",
-        "mobileUrl": "https://si.m.wiktionary.org"
+        "mobileUrl": "https://si.wiktionary.org"
     },
     "siwikibooks": {
         "shortName": "Wikibooks",
@@ -8082,7 +8093,7 @@
         "languageCode": "si",
         "group": "wikibooks",
         "logo": "//si.wikibooks.org/static/images/project-logos/siwikibooks.png",
-        "mobileUrl": "https://si.m.wikibooks.org"
+        "mobileUrl": "https://si.wikibooks.org"
     },
     "simplewiki": {
         "shortName": "Wikipedia",
@@ -8104,7 +8115,7 @@
         "languageCode": "en",
         "group": "wiktionary",
         "logo": "//simple.wiktionary.org/static/images/project-logos/simplewiktionary.png",
-        "mobileUrl": "https://simple.m.wiktionary.org"
+        "mobileUrl": "https://simple.wiktionary.org"
     },
     "simplewikibooks": {
         "shortName": "Wikibooks",
@@ -8115,7 +8126,7 @@
         "languageCode": "en",
         "group": "wikibooks",
         "logo": "//simple.wikibooks.org/static/images/project-logos/simplewikibooks.png",
-        "mobileUrl": "https://simple.m.wikibooks.org"
+        "mobileUrl": "https://simple.wikibooks.org"
     },
     "simplewikiquote": {
         "shortName": "Wikiquote",
@@ -8126,7 +8137,7 @@
         "languageCode": "en",
         "group": "wikiquote",
         "logo": "//simple.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://simple.m.wikiquote.org"
+        "mobileUrl": "https://simple.wikiquote.org"
     },
     "skwiki": {
         "shortName": "Wikipédia",
@@ -8148,7 +8159,7 @@
         "languageCode": "sk",
         "group": "wiktionary",
         "logo": "//sk.wiktionary.org/static/images/project-logos/skwiktionary.png",
-        "mobileUrl": "https://sk.m.wiktionary.org"
+        "mobileUrl": "https://sk.wiktionary.org"
     },
     "skwikibooks": {
         "shortName": "Wikiknihy",
@@ -8159,7 +8170,7 @@
         "languageCode": "sk",
         "group": "wikibooks",
         "logo": "//sk.wikibooks.org/static/images/project-logos/skwikibooks.png",
-        "mobileUrl": "https://sk.m.wikibooks.org"
+        "mobileUrl": "https://sk.wikibooks.org"
     },
     "skwikiquote": {
         "shortName": "Wikicitáty",
@@ -8170,7 +8181,7 @@
         "languageCode": "sk",
         "group": "wikiquote",
         "logo": "//sk.wikiquote.org/static/images/project-logos/skwikiquote.png",
-        "mobileUrl": "https://sk.m.wikiquote.org"
+        "mobileUrl": "https://sk.wikiquote.org"
     },
     "skwikisource": {
         "shortName": "Wikizdroje",
@@ -8181,7 +8192,7 @@
         "languageCode": "sk",
         "group": "wikisource",
         "logo": "//sk.wikisource.org/static/images/project-logos/skwikisource.png",
-        "mobileUrl": "https://sk.m.wikisource.org"
+        "mobileUrl": "https://sk.wikisource.org"
     },
     "skrwiki": {
         "shortName": "وکیپیڈیا",
@@ -8203,7 +8214,7 @@
         "languageCode": "skr",
         "group": "wiktionary",
         "logo": "//skr.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://skr.m.wiktionary.org"
+        "mobileUrl": "https://skr.wiktionary.org"
     },
     "slwiki": {
         "shortName": "Wikipedija",
@@ -8225,7 +8236,7 @@
         "languageCode": "sl",
         "group": "wiktionary",
         "logo": "//sl.wiktionary.org/static/images/project-logos/slwiktionary.png",
-        "mobileUrl": "https://sl.m.wiktionary.org"
+        "mobileUrl": "https://sl.wiktionary.org"
     },
     "slwikibooks": {
         "shortName": "Wikiknjige",
@@ -8236,7 +8247,7 @@
         "languageCode": "sl",
         "group": "wikibooks",
         "logo": "//sl.wikibooks.org/static/images/project-logos/slwikibooks.png",
-        "mobileUrl": "https://sl.m.wikibooks.org"
+        "mobileUrl": "https://sl.wikibooks.org"
     },
     "slwikiquote": {
         "shortName": "Wikinavedek",
@@ -8247,7 +8258,7 @@
         "languageCode": "sl",
         "group": "wikiquote",
         "logo": "//sl.wikiquote.org/static/images/project-logos/slwikiquote.png",
-        "mobileUrl": "https://sl.m.wikiquote.org"
+        "mobileUrl": "https://sl.wikiquote.org"
     },
     "slwikisource": {
         "shortName": "Wikivir",
@@ -8258,7 +8269,7 @@
         "languageCode": "sl",
         "group": "wikisource",
         "logo": "//sl.wikisource.org/static/images/project-logos/slwikisource.png",
-        "mobileUrl": "https://sl.m.wikisource.org"
+        "mobileUrl": "https://sl.wikisource.org"
     },
     "slwikiversity": {
         "shortName": "Wikiverza",
@@ -8269,7 +8280,7 @@
         "languageCode": "sl",
         "group": "wikiversity",
         "logo": "//sl.wikiversity.org/static/images/project-logos/slwikiversity.png",
-        "mobileUrl": "https://sl.m.wikiversity.org"
+        "mobileUrl": "https://sl.wikiversity.org"
     },
     "smwiki": {
         "shortName": "Wikipedia",
@@ -8291,7 +8302,7 @@
         "languageCode": "sm",
         "group": "wiktionary",
         "logo": "//sm.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://sm.m.wiktionary.org"
+        "mobileUrl": "https://sm.wiktionary.org"
     },
     "smnwiki": {
         "shortName": "Wikipedia",
@@ -8324,7 +8335,7 @@
         "languageCode": "sn",
         "group": "wiktionary",
         "logo": "//sn.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://sn.m.wiktionary.org"
+        "mobileUrl": "https://sn.wiktionary.org"
     },
     "sowiki": {
         "shortName": "Wikipedia",
@@ -8346,7 +8357,7 @@
         "languageCode": "so",
         "group": "wiktionary",
         "logo": "//so.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://so.m.wiktionary.org"
+        "mobileUrl": "https://so.wiktionary.org"
     },
     "sqwiki": {
         "shortName": "Wikipedia",
@@ -8368,7 +8379,7 @@
         "languageCode": "sq",
         "group": "wiktionary",
         "logo": "//sq.wiktionary.org/static/images/project-logos/sqwiktionary.png",
-        "mobileUrl": "https://sq.m.wiktionary.org"
+        "mobileUrl": "https://sq.wiktionary.org"
     },
     "sqwikibooks": {
         "shortName": "Wikibooks",
@@ -8379,7 +8390,7 @@
         "languageCode": "sq",
         "group": "wikibooks",
         "logo": "//sq.wikibooks.org/static/images/project-logos/sqwikibooks.png",
-        "mobileUrl": "https://sq.m.wikibooks.org"
+        "mobileUrl": "https://sq.wikibooks.org"
     },
     "sqwikinews": {
         "shortName": "Wikilajme",
@@ -8390,7 +8401,7 @@
         "languageCode": "sq",
         "group": "wikinews",
         "logo": "//sq.wikinews.org/static/images/project-logos/sqwikinews.png",
-        "mobileUrl": "https://sq.m.wikinews.org"
+        "mobileUrl": "https://sq.wikinews.org"
     },
     "sqwikiquote": {
         "shortName": "Wikiquote",
@@ -8401,7 +8412,7 @@
         "languageCode": "sq",
         "group": "wikiquote",
         "logo": "//sq.wikiquote.org/static/images/project-logos/sqwikiquote.png",
-        "mobileUrl": "https://sq.m.wikiquote.org"
+        "mobileUrl": "https://sq.wikiquote.org"
     },
     "srwiki": {
         "shortName": "Википедија",
@@ -8423,7 +8434,7 @@
         "languageCode": "sr",
         "group": "wiktionary",
         "logo": "//sr.wiktionary.org/static/images/project-logos/srwiktionary.png",
-        "mobileUrl": "https://sr.m.wiktionary.org"
+        "mobileUrl": "https://sr.wiktionary.org"
     },
     "srwikibooks": {
         "shortName": "Викикњиге",
@@ -8434,7 +8445,7 @@
         "languageCode": "sr",
         "group": "wikibooks",
         "logo": "//sr.wikibooks.org/static/images/project-logos/srwikibooks.png",
-        "mobileUrl": "https://sr.m.wikibooks.org"
+        "mobileUrl": "https://sr.wikibooks.org"
     },
     "srwikinews": {
         "shortName": "Викиновости",
@@ -8445,7 +8456,7 @@
         "languageCode": "sr",
         "group": "wikinews",
         "logo": "//sr.wikinews.org/static/images/project-logos/srwikinews.png",
-        "mobileUrl": "https://sr.m.wikinews.org"
+        "mobileUrl": "https://sr.wikinews.org"
     },
     "srwikiquote": {
         "shortName": "Викицитат",
@@ -8456,7 +8467,7 @@
         "languageCode": "sr",
         "group": "wikiquote",
         "logo": "//sr.wikiquote.org/static/images/project-logos/srwikiquote.png",
-        "mobileUrl": "https://sr.m.wikiquote.org"
+        "mobileUrl": "https://sr.wikiquote.org"
     },
     "srwikisource": {
         "shortName": "Викизворник",
@@ -8467,7 +8478,7 @@
         "languageCode": "sr",
         "group": "wikisource",
         "logo": "//sr.wikisource.org/static/images/project-logos/srwikisource.png",
-        "mobileUrl": "https://sr.m.wikisource.org"
+        "mobileUrl": "https://sr.wikisource.org"
     },
     "srnwiki": {
         "shortName": "Wikipedia",
@@ -8500,7 +8511,7 @@
         "languageCode": "ss",
         "group": "wiktionary",
         "logo": "//ss.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://ss.m.wiktionary.org"
+        "mobileUrl": "https://ss.wiktionary.org"
     },
     "stwiki": {
         "shortName": "Wikipedia",
@@ -8522,7 +8533,7 @@
         "languageCode": "st",
         "group": "wiktionary",
         "logo": "//st.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://st.m.wiktionary.org"
+        "mobileUrl": "https://st.wiktionary.org"
     },
     "stqwiki": {
         "shortName": "Wikipedia",
@@ -8555,7 +8566,7 @@
         "languageCode": "su",
         "group": "wiktionary",
         "logo": "//su.wiktionary.org/static/images/project-logos/suwiktionary.png",
-        "mobileUrl": "https://su.m.wiktionary.org"
+        "mobileUrl": "https://su.wiktionary.org"
     },
     "suwikibooks": {
         "shortName": "Wikibooks",
@@ -8566,7 +8577,7 @@
         "languageCode": "su",
         "group": "wikibooks",
         "logo": "//su.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://su.m.wikibooks.org"
+        "mobileUrl": "https://su.wikibooks.org"
     },
     "suwikiquote": {
         "shortName": "Wikiquote",
@@ -8577,7 +8588,7 @@
         "languageCode": "su",
         "group": "wikiquote",
         "logo": "//su.wikiquote.org/static/images/project-logos/suwikiquote.png",
-        "mobileUrl": "https://su.m.wikiquote.org"
+        "mobileUrl": "https://su.wikiquote.org"
     },
     "suwikisource": {
         "shortName": "Wikipabukon",
@@ -8588,7 +8599,7 @@
         "languageCode": "su",
         "group": "wikisource",
         "logo": "//su.wikisource.org/static/images/project-logos/suwikisource.png",
-        "mobileUrl": "https://su.m.wikisource.org"
+        "mobileUrl": "https://su.wikisource.org"
     },
     "svwiki": {
         "shortName": "Wikipedia",
@@ -8610,7 +8621,7 @@
         "languageCode": "sv",
         "group": "wiktionary",
         "logo": "//sv.wiktionary.org/static/images/project-logos/svwiktionary.png",
-        "mobileUrl": "https://sv.m.wiktionary.org"
+        "mobileUrl": "https://sv.wiktionary.org"
     },
     "svwikibooks": {
         "shortName": "Wikibooks",
@@ -8621,7 +8632,7 @@
         "languageCode": "sv",
         "group": "wikibooks",
         "logo": "//sv.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://sv.m.wikibooks.org"
+        "mobileUrl": "https://sv.wikibooks.org"
     },
     "svwikinews": {
         "shortName": "Wikinews",
@@ -8632,7 +8643,7 @@
         "languageCode": "sv",
         "group": "wikinews",
         "logo": "//sv.wikinews.org/static/images/project-logos/svwikinews.png",
-        "mobileUrl": "https://sv.m.wikinews.org"
+        "mobileUrl": "https://sv.wikinews.org"
     },
     "svwikiquote": {
         "shortName": "Wikiquote",
@@ -8643,7 +8654,7 @@
         "languageCode": "sv",
         "group": "wikiquote",
         "logo": "//sv.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://sv.m.wikiquote.org"
+        "mobileUrl": "https://sv.wikiquote.org"
     },
     "svwikisource": {
         "shortName": "Wikisource",
@@ -8654,7 +8665,7 @@
         "languageCode": "sv",
         "group": "wikisource",
         "logo": "//sv.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://sv.m.wikisource.org"
+        "mobileUrl": "https://sv.wikisource.org"
     },
     "svwikiversity": {
         "shortName": "Wikiversity",
@@ -8665,7 +8676,7 @@
         "languageCode": "sv",
         "group": "wikiversity",
         "logo": "//sv.wikiversity.org/static/images/project-logos/svwikiversity.png",
-        "mobileUrl": "https://sv.m.wikiversity.org"
+        "mobileUrl": "https://sv.wikiversity.org"
     },
     "svwikivoyage": {
         "shortName": "Wikivoyage",
@@ -8676,7 +8687,7 @@
         "languageCode": "sv",
         "group": "wikivoyage",
         "logo": "//sv.wikivoyage.org/static/images/project-logos/wikivoyage.png",
-        "mobileUrl": "https://sv.m.wikivoyage.org"
+        "mobileUrl": "https://sv.wikivoyage.org"
     },
     "swwiki": {
         "shortName": "Wikipedia",
@@ -8698,7 +8709,7 @@
         "languageCode": "sw",
         "group": "wiktionary",
         "logo": "//sw.wiktionary.org/static/images/project-logos/swwiktionary.png",
-        "mobileUrl": "https://sw.m.wiktionary.org"
+        "mobileUrl": "https://sw.wiktionary.org"
     },
     "swwikibooks": {
         "shortName": "Wikibooks",
@@ -8709,7 +8720,7 @@
         "languageCode": "sw",
         "group": "wikibooks",
         "logo": "//sw.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://sw.m.wikibooks.org"
+        "mobileUrl": "https://sw.wikibooks.org"
     },
     "sylwiki": {
         "shortName": "ꠃꠁꠇꠤꠙꠤꠒꠤꠀ",
@@ -8764,7 +8775,7 @@
         "languageCode": "ta",
         "group": "wiktionary",
         "logo": "//ta.wiktionary.org/static/images/project-logos/tawiktionary.png",
-        "mobileUrl": "https://ta.m.wiktionary.org"
+        "mobileUrl": "https://ta.wiktionary.org"
     },
     "tawikibooks": {
         "shortName": "விக்கிநூல்கள்",
@@ -8775,7 +8786,7 @@
         "languageCode": "ta",
         "group": "wikibooks",
         "logo": "//ta.wikibooks.org/static/images/project-logos/tawikibooks.png",
-        "mobileUrl": "https://ta.m.wikibooks.org"
+        "mobileUrl": "https://ta.wikibooks.org"
     },
     "tawikinews": {
         "shortName": "விக்கிசெய்தி",
@@ -8786,7 +8797,7 @@
         "languageCode": "ta",
         "group": "wikinews",
         "logo": "//ta.wikinews.org/static/images/project-logos/tawikinews.png",
-        "mobileUrl": "https://ta.m.wikinews.org"
+        "mobileUrl": "https://ta.wikinews.org"
     },
     "tawikiquote": {
         "shortName": "விக்கிமேற்கோள்",
@@ -8797,7 +8808,7 @@
         "languageCode": "ta",
         "group": "wikiquote",
         "logo": "//ta.wikiquote.org/static/images/project-logos/tawikiquote.png",
-        "mobileUrl": "https://ta.m.wikiquote.org"
+        "mobileUrl": "https://ta.wikiquote.org"
     },
     "tawikisource": {
         "shortName": "விக்கிமூலம்",
@@ -8808,7 +8819,7 @@
         "languageCode": "ta",
         "group": "wikisource",
         "logo": "//ta.wikisource.org/static/images/project-logos/tawikisource.png",
-        "mobileUrl": "https://ta.m.wikisource.org"
+        "mobileUrl": "https://ta.wikisource.org"
     },
     "taywiki": {
         "shortName": "Wikipidia",
@@ -8841,7 +8852,7 @@
         "languageCode": "tcy",
         "group": "wiktionary",
         "logo": "//tcy.wiktionary.org/static/images/project-logos/tcywiktionary.png",
-        "mobileUrl": "https://tcy.m.wiktionary.org"
+        "mobileUrl": "https://tcy.wiktionary.org"
     },
     "tcywikisource": {
         "shortName": "ವಿಕಿಸೋರ್ಸ್",
@@ -8852,7 +8863,7 @@
         "languageCode": "tcy",
         "group": "wikisource",
         "logo": "//tcy.wikisource.org/static/images/project-logos/tcywikisource.png",
-        "mobileUrl": "https://tcy.m.wikisource.org"
+        "mobileUrl": "https://tcy.wikisource.org"
     },
     "tddwiki": {
         "shortName": "ᥝᥤᥱ ᥑᥤᥱ ᥚᥤᥱ ᥖᥤᥱ ᥕᥣᥱ",
@@ -8885,7 +8896,7 @@
         "languageCode": "te",
         "group": "wiktionary",
         "logo": "//te.wiktionary.org/static/images/project-logos/tewiktionary.png",
-        "mobileUrl": "https://te.m.wiktionary.org"
+        "mobileUrl": "https://te.wiktionary.org"
     },
     "tewikibooks": {
         "shortName": "Wikibooks",
@@ -8896,7 +8907,7 @@
         "languageCode": "te",
         "group": "wikibooks",
         "logo": "//te.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://te.m.wikibooks.org"
+        "mobileUrl": "https://te.wikibooks.org"
     },
     "tewikiquote": {
         "shortName": "వికీవ్యాఖ్య",
@@ -8907,7 +8918,7 @@
         "languageCode": "te",
         "group": "wikiquote",
         "logo": "//te.wikiquote.org/static/images/project-logos/tewikiquote.png",
-        "mobileUrl": "https://te.m.wikiquote.org"
+        "mobileUrl": "https://te.wikiquote.org"
     },
     "tewikisource": {
         "shortName": "వికీసోర్స్",
@@ -8918,7 +8929,7 @@
         "languageCode": "te",
         "group": "wikisource",
         "logo": "//te.wikisource.org/static/images/project-logos/tewikisource.png",
-        "mobileUrl": "https://te.m.wikisource.org"
+        "mobileUrl": "https://te.wikisource.org"
     },
     "tetwiki": {
         "shortName": "Wikipedia",
@@ -8951,7 +8962,7 @@
         "languageCode": "tg",
         "group": "wiktionary",
         "logo": "//tg.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://tg.m.wiktionary.org"
+        "mobileUrl": "https://tg.wiktionary.org"
     },
     "tgwikibooks": {
         "shortName": "Wikibooks",
@@ -8962,7 +8973,7 @@
         "languageCode": "tg",
         "group": "wikibooks",
         "logo": "//tg.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://tg.m.wikibooks.org"
+        "mobileUrl": "https://tg.wikibooks.org"
     },
     "thwiki": {
         "shortName": "วิกิพีเดีย",
@@ -8984,7 +8995,7 @@
         "languageCode": "th",
         "group": "wiktionary",
         "logo": "//th.wiktionary.org/static/images/project-logos/thwiktionary.png",
-        "mobileUrl": "https://th.m.wiktionary.org"
+        "mobileUrl": "https://th.wiktionary.org"
     },
     "thwikibooks": {
         "shortName": "วิกิตำรา",
@@ -8995,7 +9006,7 @@
         "languageCode": "th",
         "group": "wikibooks",
         "logo": "//th.wikibooks.org/static/images/project-logos/thwikibooks.png",
-        "mobileUrl": "https://th.m.wikibooks.org"
+        "mobileUrl": "https://th.wikibooks.org"
     },
     "thwikinews": {
         "shortName": "Wikinews",
@@ -9006,7 +9017,7 @@
         "languageCode": "th",
         "group": "wikinews",
         "logo": "//th.wikinews.org/static/images/project-logos/thwikinews.png",
-        "mobileUrl": "https://th.m.wikinews.org"
+        "mobileUrl": "https://th.wikinews.org"
     },
     "thwikiquote": {
         "shortName": "วิกิคำคม",
@@ -9017,7 +9028,7 @@
         "languageCode": "th",
         "group": "wikiquote",
         "logo": "//th.wikiquote.org/static/images/project-logos/thwikiquote.png",
-        "mobileUrl": "https://th.m.wikiquote.org"
+        "mobileUrl": "https://th.wikiquote.org"
     },
     "thwikisource": {
         "shortName": "วิกิซอร์ซ",
@@ -9028,7 +9039,7 @@
         "languageCode": "th",
         "group": "wikisource",
         "logo": "//th.wikisource.org/static/images/project-logos/thwikisource.png",
-        "mobileUrl": "https://th.m.wikisource.org"
+        "mobileUrl": "https://th.wikisource.org"
     },
     "tiwiki": {
         "shortName": "ዊኪፔዲያ",
@@ -9050,7 +9061,7 @@
         "languageCode": "ti",
         "group": "wiktionary",
         "logo": "//ti.wiktionary.org/static/images/project-logos/tiwiktionary.png",
-        "mobileUrl": "https://ti.m.wiktionary.org"
+        "mobileUrl": "https://ti.wiktionary.org"
     },
     "tigwiki": {
         "shortName": "ዊኪፒድያ",
@@ -9083,7 +9094,7 @@
         "languageCode": "tk",
         "group": "wiktionary",
         "logo": "//tk.wiktionary.org/static/images/project-logos/tkwiktionary.png",
-        "mobileUrl": "https://tk.m.wiktionary.org"
+        "mobileUrl": "https://tk.wiktionary.org"
     },
     "tkwikibooks": {
         "shortName": "Wikibooks",
@@ -9094,7 +9105,7 @@
         "languageCode": "tk",
         "group": "wikibooks",
         "logo": "//tk.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://tk.m.wikibooks.org"
+        "mobileUrl": "https://tk.wikibooks.org"
     },
     "tkwikiquote": {
         "shortName": "Wikiquote",
@@ -9105,7 +9116,7 @@
         "languageCode": "tk",
         "group": "wikiquote",
         "logo": "//tk.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://tk.m.wikiquote.org"
+        "mobileUrl": "https://tk.wikiquote.org"
     },
     "tlwiki": {
         "shortName": "Wikipedia",
@@ -9127,7 +9138,7 @@
         "languageCode": "tl",
         "group": "wiktionary",
         "logo": "//tl.wiktionary.org/static/images/project-logos/tlwiktionary.png",
-        "mobileUrl": "https://tl.m.wiktionary.org"
+        "mobileUrl": "https://tl.wiktionary.org"
     },
     "tlwikibooks": {
         "shortName": "Wikibooks",
@@ -9138,7 +9149,7 @@
         "languageCode": "tl",
         "group": "wikibooks",
         "logo": "//tl.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://tl.m.wikibooks.org"
+        "mobileUrl": "https://tl.wikibooks.org"
     },
     "tlwikiquote": {
         "shortName": "Wikiquote",
@@ -9149,7 +9160,7 @@
         "languageCode": "tl",
         "group": "wikiquote",
         "logo": "//tl.wikiquote.org/static/images/project-logos/tlwikiquote.png",
-        "mobileUrl": "https://tl.m.wikiquote.org"
+        "mobileUrl": "https://tl.wikiquote.org"
     },
     "tlwikisource": {
         "shortName": "Wikisource",
@@ -9160,7 +9171,7 @@
         "languageCode": "tl",
         "group": "wikisource",
         "logo": "//tl.wikisource.org/static/images/project-logos/wikisource.png",
-        "mobileUrl": "https://tl.m.wikisource.org"
+        "mobileUrl": "https://tl.wikisource.org"
     },
     "tlywiki": {
         "shortName": "Vikipedija",
@@ -9193,7 +9204,7 @@
         "languageCode": "tn",
         "group": "wiktionary",
         "logo": "//tn.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://tn.m.wiktionary.org"
+        "mobileUrl": "https://tn.wiktionary.org"
     },
     "towiki": {
         "shortName": "Wikipedia",
@@ -9215,7 +9226,7 @@
         "languageCode": "to",
         "group": "wiktionary",
         "logo": "//to.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://to.m.wiktionary.org"
+        "mobileUrl": "https://to.wiktionary.org"
     },
     "tpiwiki": {
         "shortName": "Wikipedia",
@@ -9237,7 +9248,7 @@
         "languageCode": "tpi",
         "group": "wiktionary",
         "logo": "//tpi.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://tpi.m.wiktionary.org"
+        "mobileUrl": "https://tpi.wiktionary.org"
     },
     "trwiki": {
         "shortName": "Vikipedi",
@@ -9259,7 +9270,7 @@
         "languageCode": "tr",
         "group": "wiktionary",
         "logo": "//tr.wiktionary.org/static/images/project-logos/trwiktionary.png",
-        "mobileUrl": "https://tr.m.wiktionary.org"
+        "mobileUrl": "https://tr.wiktionary.org"
     },
     "trwikibooks": {
         "shortName": "Vikikitap",
@@ -9270,7 +9281,7 @@
         "languageCode": "tr",
         "group": "wikibooks",
         "logo": "//tr.wikibooks.org/static/images/project-logos/trwikibooks.png",
-        "mobileUrl": "https://tr.m.wikibooks.org"
+        "mobileUrl": "https://tr.wikibooks.org"
     },
     "trwikinews": {
         "shortName": "Vikihaber",
@@ -9281,7 +9292,7 @@
         "languageCode": "tr",
         "group": "wikinews",
         "logo": "//tr.wikinews.org/static/images/project-logos/trwikinews.png",
-        "mobileUrl": "https://tr.m.wikinews.org"
+        "mobileUrl": "https://tr.wikinews.org"
     },
     "trwikiquote": {
         "shortName": "Vikisöz",
@@ -9292,7 +9303,7 @@
         "languageCode": "tr",
         "group": "wikiquote",
         "logo": "//tr.wikiquote.org/static/images/project-logos/trwikiquote.png",
-        "mobileUrl": "https://tr.m.wikiquote.org"
+        "mobileUrl": "https://tr.wikiquote.org"
     },
     "trwikisource": {
         "shortName": "Vikikaynak",
@@ -9303,7 +9314,7 @@
         "languageCode": "tr",
         "group": "wikisource",
         "logo": "//tr.wikisource.org/static/images/project-logos/trwikisource.png",
-        "mobileUrl": "https://tr.m.wikisource.org"
+        "mobileUrl": "https://tr.wikisource.org"
     },
     "trwikivoyage": {
         "shortName": "Vikigezgin",
@@ -9314,7 +9325,7 @@
         "languageCode": "tr",
         "group": "wikivoyage",
         "logo": "//tr.wikivoyage.org/static/images/project-logos/trwikivoyage.png",
-        "mobileUrl": "https://tr.m.wikivoyage.org"
+        "mobileUrl": "https://tr.wikivoyage.org"
     },
     "trvwiki": {
         "shortName": "Wikipidiya",
@@ -9347,7 +9358,7 @@
         "languageCode": "ts",
         "group": "wiktionary",
         "logo": "//ts.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://ts.m.wiktionary.org"
+        "mobileUrl": "https://ts.wiktionary.org"
     },
     "ttwiki": {
         "shortName": "Wikipedia",
@@ -9369,7 +9380,7 @@
         "languageCode": "tt",
         "group": "wiktionary",
         "logo": "//tt.wiktionary.org/static/images/project-logos/ttwiktionary.png",
-        "mobileUrl": "https://tt.m.wiktionary.org"
+        "mobileUrl": "https://tt.wiktionary.org"
     },
     "ttwikibooks": {
         "shortName": "Wikibooks",
@@ -9380,7 +9391,7 @@
         "languageCode": "tt",
         "group": "wikibooks",
         "logo": "//tt.wikibooks.org/static/images/project-logos/ttwikibooks.png",
-        "mobileUrl": "https://tt.m.wikibooks.org"
+        "mobileUrl": "https://tt.wikibooks.org"
     },
     "ttwikiquote": {
         "shortName": "Wikiquote",
@@ -9391,7 +9402,7 @@
         "languageCode": "tt",
         "group": "wikiquote",
         "logo": "//tt.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://tt.m.wikiquote.org"
+        "mobileUrl": "https://tt.wikiquote.org"
     },
     "tumwiki": {
         "shortName": "Wikipedia",
@@ -9424,7 +9435,7 @@
         "languageCode": "tw",
         "group": "wiktionary",
         "logo": "//tw.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://tw.m.wiktionary.org"
+        "mobileUrl": "https://tw.wiktionary.org"
     },
     "tywiki": {
         "shortName": "Wikipedia",
@@ -9479,7 +9490,7 @@
         "languageCode": "ug",
         "group": "wiktionary",
         "logo": "//ug.wiktionary.org/static/images/project-logos/ugwiktionary.png",
-        "mobileUrl": "https://ug.m.wiktionary.org"
+        "mobileUrl": "https://ug.wiktionary.org"
     },
     "ugwikibooks": {
         "shortName": "Wikibooks",
@@ -9490,7 +9501,7 @@
         "languageCode": "ug",
         "group": "wikibooks",
         "logo": "//ug.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://ug.m.wikibooks.org"
+        "mobileUrl": "https://ug.wikibooks.org"
     },
     "ugwikiquote": {
         "shortName": "Wikiquote",
@@ -9501,7 +9512,7 @@
         "languageCode": "ug",
         "group": "wikiquote",
         "logo": "//ug.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://ug.m.wikiquote.org"
+        "mobileUrl": "https://ug.wikiquote.org"
     },
     "ukwiki": {
         "shortName": "Вікіпедія",
@@ -9523,7 +9534,7 @@
         "languageCode": "uk",
         "group": "wiktionary",
         "logo": "//uk.wiktionary.org/static/images/project-logos/ukwiktionary.png",
-        "mobileUrl": "https://uk.m.wiktionary.org"
+        "mobileUrl": "https://uk.wiktionary.org"
     },
     "ukwikibooks": {
         "shortName": "Вікіпідручник",
@@ -9534,7 +9545,7 @@
         "languageCode": "uk",
         "group": "wikibooks",
         "logo": "//uk.wikibooks.org/static/images/project-logos/ukwikibooks.png",
-        "mobileUrl": "https://uk.m.wikibooks.org"
+        "mobileUrl": "https://uk.wikibooks.org"
     },
     "ukwikinews": {
         "shortName": "Вікіновини",
@@ -9545,7 +9556,7 @@
         "languageCode": "uk",
         "group": "wikinews",
         "logo": "//uk.wikinews.org/static/images/project-logos/ukwikinews.png",
-        "mobileUrl": "https://uk.m.wikinews.org"
+        "mobileUrl": "https://uk.wikinews.org"
     },
     "ukwikiquote": {
         "shortName": "Вікіцитати",
@@ -9556,7 +9567,7 @@
         "languageCode": "uk",
         "group": "wikiquote",
         "logo": "//uk.wikiquote.org/static/images/project-logos/ukwikiquote.png",
-        "mobileUrl": "https://uk.m.wikiquote.org"
+        "mobileUrl": "https://uk.wikiquote.org"
     },
     "ukwikisource": {
         "shortName": "Вікіджерела",
@@ -9567,7 +9578,7 @@
         "languageCode": "uk",
         "group": "wikisource",
         "logo": "//uk.wikisource.org/static/images/project-logos/ukwikisource.png",
-        "mobileUrl": "https://uk.m.wikisource.org"
+        "mobileUrl": "https://uk.wikisource.org"
     },
     "ukwikivoyage": {
         "shortName": "Вікімандри",
@@ -9578,7 +9589,7 @@
         "languageCode": "uk",
         "group": "wikivoyage",
         "logo": "//uk.wikivoyage.org/static/images/project-logos/ukwikivoyage.png",
-        "mobileUrl": "https://uk.m.wikivoyage.org"
+        "mobileUrl": "https://uk.wikivoyage.org"
     },
     "urwiki": {
         "shortName": "ویکیپیڈیا",
@@ -9600,7 +9611,7 @@
         "languageCode": "ur",
         "group": "wiktionary",
         "logo": "//ur.wiktionary.org/static/images/project-logos/urwiktionary.png",
-        "mobileUrl": "https://ur.m.wiktionary.org"
+        "mobileUrl": "https://ur.wiktionary.org"
     },
     "urwikibooks": {
         "shortName": "ویکی کتب",
@@ -9611,7 +9622,7 @@
         "languageCode": "ur",
         "group": "wikibooks",
         "logo": "//ur.wikibooks.org/static/images/project-logos/urwikibooks.png",
-        "mobileUrl": "https://ur.m.wikibooks.org"
+        "mobileUrl": "https://ur.wikibooks.org"
     },
     "urwikiquote": {
         "shortName": "ویکی اقتباس",
@@ -9622,7 +9633,7 @@
         "languageCode": "ur",
         "group": "wikiquote",
         "logo": "//ur.wikiquote.org/static/images/project-logos/urwikiquote.png",
-        "mobileUrl": "https://ur.m.wikiquote.org"
+        "mobileUrl": "https://ur.wikiquote.org"
     },
     "uzwiki": {
         "shortName": "Vikipediya",
@@ -9644,7 +9655,7 @@
         "languageCode": "uz",
         "group": "wiktionary",
         "logo": "//uz.wiktionary.org/static/images/project-logos/uzwiktionary.png",
-        "mobileUrl": "https://uz.m.wiktionary.org"
+        "mobileUrl": "https://uz.wiktionary.org"
     },
     "uzwikibooks": {
         "shortName": "Vikikitob",
@@ -9655,7 +9666,7 @@
         "languageCode": "uz",
         "group": "wikibooks",
         "logo": "//uz.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://uz.m.wikibooks.org"
+        "mobileUrl": "https://uz.wikibooks.org"
     },
     "uzwikiquote": {
         "shortName": "Vikiiqtibos",
@@ -9666,7 +9677,7 @@
         "languageCode": "uz",
         "group": "wikiquote",
         "logo": "//uz.wikiquote.org/static/images/project-logos/uzwikiquote.png",
-        "mobileUrl": "https://uz.m.wikiquote.org"
+        "mobileUrl": "https://uz.wikiquote.org"
     },
     "vewiki": {
         "shortName": "Wikipedia",
@@ -9699,7 +9710,7 @@
         "languageCode": "vec",
         "group": "wiktionary",
         "logo": "//vec.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://vec.m.wiktionary.org"
+        "mobileUrl": "https://vec.wiktionary.org"
     },
     "vecwikisource": {
         "shortName": "Wikisource",
@@ -9710,7 +9721,7 @@
         "languageCode": "vec",
         "group": "wikisource",
         "logo": "//vec.wikisource.org/static/images/project-logos/vecwikisource.png",
-        "mobileUrl": "https://vec.m.wikisource.org"
+        "mobileUrl": "https://vec.wikisource.org"
     },
     "vepwiki": {
         "shortName": "Vikipedii",
@@ -9743,7 +9754,7 @@
         "languageCode": "vi",
         "group": "wiktionary",
         "logo": "//vi.wiktionary.org/static/images/project-logos/viwiktionary.png",
-        "mobileUrl": "https://vi.m.wiktionary.org"
+        "mobileUrl": "https://vi.wiktionary.org"
     },
     "viwikibooks": {
         "shortName": "Wikibooks",
@@ -9754,7 +9765,7 @@
         "languageCode": "vi",
         "group": "wikibooks",
         "logo": "//vi.wikibooks.org/static/images/project-logos/viwikibooks.png",
-        "mobileUrl": "https://vi.m.wikibooks.org"
+        "mobileUrl": "https://vi.wikibooks.org"
     },
     "viwikiquote": {
         "shortName": "Wikiquote",
@@ -9765,7 +9776,7 @@
         "languageCode": "vi",
         "group": "wikiquote",
         "logo": "//vi.wikiquote.org/static/images/project-logos/viwikiquote.png",
-        "mobileUrl": "https://vi.m.wikiquote.org"
+        "mobileUrl": "https://vi.wikiquote.org"
     },
     "viwikisource": {
         "shortName": "Wikisource",
@@ -9776,7 +9787,7 @@
         "languageCode": "vi",
         "group": "wikisource",
         "logo": "//vi.wikisource.org/static/images/project-logos/enwikisource.png",
-        "mobileUrl": "https://vi.m.wikisource.org"
+        "mobileUrl": "https://vi.wikisource.org"
     },
     "viwikivoyage": {
         "shortName": "Wikivoyage",
@@ -9787,7 +9798,7 @@
         "languageCode": "vi",
         "group": "wikivoyage",
         "logo": "//vi.wikivoyage.org/static/images/project-logos/viwikivoyage.png",
-        "mobileUrl": "https://vi.m.wikivoyage.org"
+        "mobileUrl": "https://vi.wikivoyage.org"
     },
     "vlswiki": {
         "shortName": "Wikipedia",
@@ -9820,7 +9831,7 @@
         "languageCode": "vo",
         "group": "wiktionary",
         "logo": "//vo.wiktionary.org/static/images/project-logos/vowiktionary.png",
-        "mobileUrl": "https://vo.m.wiktionary.org"
+        "mobileUrl": "https://vo.wiktionary.org"
     },
     "vowikibooks": {
         "shortName": "Vükibuks",
@@ -9831,7 +9842,7 @@
         "languageCode": "vo",
         "group": "wikibooks",
         "logo": "//vo.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://vo.m.wikibooks.org"
+        "mobileUrl": "https://vo.wikibooks.org"
     },
     "vowikiquote": {
         "shortName": "Wikiquote",
@@ -9842,7 +9853,7 @@
         "languageCode": "vo",
         "group": "wikiquote",
         "logo": "//vo.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://vo.m.wikiquote.org"
+        "mobileUrl": "https://vo.wikiquote.org"
     },
     "fiu_vrowiki": {
         "shortName": "Wikipedia",
@@ -9875,7 +9886,7 @@
         "languageCode": "wa",
         "group": "wiktionary",
         "logo": "//wa.wiktionary.org/static/images/project-logos/wawiktionary.png",
-        "mobileUrl": "https://wa.m.wiktionary.org"
+        "mobileUrl": "https://wa.wiktionary.org"
     },
     "wawikibooks": {
         "shortName": "Wikibooks",
@@ -9886,7 +9897,7 @@
         "languageCode": "wa",
         "group": "wikibooks",
         "logo": "//wa.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://wa.m.wikibooks.org"
+        "mobileUrl": "https://wa.wikibooks.org"
     },
     "wawikisource": {
         "shortName": "Wikisource",
@@ -9897,7 +9908,7 @@
         "languageCode": "wa",
         "group": "wikisource",
         "logo": "//wa.wikisource.org/static/images/project-logos/wawikisource.png",
-        "mobileUrl": "https://wa.m.wikisource.org"
+        "mobileUrl": "https://wa.wikisource.org"
     },
     "warwiki": {
         "shortName": "Wikipedia",
@@ -9930,7 +9941,7 @@
         "languageCode": "wo",
         "group": "wiktionary",
         "logo": "//wo.wiktionary.org/static/images/project-logos/wowiktionary.png",
-        "mobileUrl": "https://wo.m.wiktionary.org"
+        "mobileUrl": "https://wo.wiktionary.org"
     },
     "wowikiquote": {
         "shortName": "Wikiquote",
@@ -9941,7 +9952,7 @@
         "languageCode": "wo",
         "group": "wikiquote",
         "logo": "//wo.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://wo.m.wikiquote.org"
+        "mobileUrl": "https://wo.wikiquote.org"
     },
     "wuuwiki": {
         "shortName": "维基百科",
@@ -9985,7 +9996,7 @@
         "languageCode": "xh",
         "group": "wiktionary",
         "logo": "//xh.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://xh.m.wiktionary.org"
+        "mobileUrl": "https://xh.wiktionary.org"
     },
     "xhwikibooks": {
         "shortName": "Wikibooks",
@@ -9996,7 +10007,7 @@
         "languageCode": "xh",
         "group": "wikibooks",
         "logo": "//xh.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://xh.m.wikibooks.org"
+        "mobileUrl": "https://xh.wikibooks.org"
     },
     "xmfwiki": {
         "shortName": "ვიკიპედია",
@@ -10029,7 +10040,7 @@
         "languageCode": "yi",
         "group": "wiktionary",
         "logo": "//yi.wiktionary.org/static/images/project-logos/yiwiktionary.png",
-        "mobileUrl": "https://yi.m.wiktionary.org"
+        "mobileUrl": "https://yi.wiktionary.org"
     },
     "yiwikisource": {
         "shortName": "װיקיביבליאָטעק",
@@ -10040,7 +10051,7 @@
         "languageCode": "yi",
         "group": "wikisource",
         "logo": "//yi.wikisource.org/static/images/project-logos/yiwikisource.png",
-        "mobileUrl": "https://yi.m.wikisource.org"
+        "mobileUrl": "https://yi.wikisource.org"
     },
     "yowiki": {
         "shortName": "Wikipedia",
@@ -10062,7 +10073,7 @@
         "languageCode": "yo",
         "group": "wiktionary",
         "logo": "//yo.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://yo.m.wiktionary.org"
+        "mobileUrl": "https://yo.wiktionary.org"
     },
     "yowikibooks": {
         "shortName": "Wikibooks",
@@ -10073,7 +10084,7 @@
         "languageCode": "yo",
         "group": "wikibooks",
         "logo": "//yo.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://yo.m.wikibooks.org"
+        "mobileUrl": "https://yo.wikibooks.org"
     },
     "zh_yuewiki": {
         "shortName": "維基百科",
@@ -10095,7 +10106,7 @@
         "languageCode": "yue",
         "group": "wiktionary",
         "logo": "//yue.wiktionary.org/static/images/project-logos/yuewiktionary.png",
-        "mobileUrl": "https://yue.m.wiktionary.org"
+        "mobileUrl": "https://yue.wiktionary.org"
     },
     "zawiki": {
         "shortName": "Wikipedia",
@@ -10117,7 +10128,7 @@
         "languageCode": "za",
         "group": "wiktionary",
         "logo": "//za.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://za.m.wiktionary.org"
+        "mobileUrl": "https://za.wiktionary.org"
     },
     "zawikibooks": {
         "shortName": "Wikibooks",
@@ -10128,7 +10139,7 @@
         "languageCode": "za",
         "group": "wikibooks",
         "logo": "//za.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://za.m.wikibooks.org"
+        "mobileUrl": "https://za.wikibooks.org"
     },
     "zawikiquote": {
         "shortName": "Wikiquote",
@@ -10139,7 +10150,7 @@
         "languageCode": "za",
         "group": "wikiquote",
         "logo": "//za.wikiquote.org/static/images/project-logos/wikiquote.png",
-        "mobileUrl": "https://za.m.wikiquote.org"
+        "mobileUrl": "https://za.wikiquote.org"
     },
     "zeawiki": {
         "shortName": "Wikipedia",
@@ -10172,7 +10183,7 @@
         "languageCode": "zgh",
         "group": "wiktionary",
         "logo": "//zgh.wiktionary.org/static/images/project-logos/zghwiktionary.png",
-        "mobileUrl": "https://zgh.m.wiktionary.org"
+        "mobileUrl": "https://zgh.wiktionary.org"
     },
     "zhwiki": {
         "shortName": "Wikipedia",
@@ -10194,7 +10205,7 @@
         "languageCode": "zh",
         "group": "wiktionary",
         "logo": "//zh.wiktionary.org/static/images/project-logos/zhwiktionary.png",
-        "mobileUrl": "https://zh.m.wiktionary.org"
+        "mobileUrl": "https://zh.wiktionary.org"
     },
     "zhwikibooks": {
         "shortName": "Wikibooks",
@@ -10205,7 +10216,7 @@
         "languageCode": "zh",
         "group": "wikibooks",
         "logo": "//zh.wikibooks.org/static/images/project-logos/zhwikibooks.png",
-        "mobileUrl": "https://zh.m.wikibooks.org"
+        "mobileUrl": "https://zh.wikibooks.org"
     },
     "zhwikinews": {
         "shortName": "Wikinews",
@@ -10216,7 +10227,7 @@
         "languageCode": "zh",
         "group": "wikinews",
         "logo": "//zh.wikinews.org/static/images/project-logos/zhwikinews.png",
-        "mobileUrl": "https://zh.m.wikinews.org"
+        "mobileUrl": "https://zh.wikinews.org"
     },
     "zhwikiquote": {
         "shortName": "Wikiquote",
@@ -10227,7 +10238,7 @@
         "languageCode": "zh",
         "group": "wikiquote",
         "logo": "//zh.wikiquote.org/static/images/project-logos/zhwikiquote.png",
-        "mobileUrl": "https://zh.m.wikiquote.org"
+        "mobileUrl": "https://zh.wikiquote.org"
     },
     "zhwikisource": {
         "shortName": "Wikisource",
@@ -10238,7 +10249,7 @@
         "languageCode": "zh",
         "group": "wikisource",
         "logo": "//zh.wikisource.org/static/images/project-logos/zhwikisource.png",
-        "mobileUrl": "https://zh.m.wikisource.org"
+        "mobileUrl": "https://zh.wikisource.org"
     },
     "zhwikiversity": {
         "shortName": "維基學院",
@@ -10249,7 +10260,7 @@
         "languageCode": "zh",
         "group": "wikiversity",
         "logo": "//zh.wikiversity.org/static/images/project-logos/zhwikiversity.png",
-        "mobileUrl": "https://zh.m.wikiversity.org"
+        "mobileUrl": "https://zh.wikiversity.org"
     },
     "zhwikivoyage": {
         "shortName": "维基导游",
@@ -10260,7 +10271,7 @@
         "languageCode": "zh",
         "group": "wikivoyage",
         "logo": "//zh.wikivoyage.org/static/images/project-logos/zhwikivoyage.png",
-        "mobileUrl": "https://zh.m.wikivoyage.org"
+        "mobileUrl": "https://zh.wikivoyage.org"
     },
     "zuwiki": {
         "shortName": "Wikipedia",
@@ -10282,7 +10293,7 @@
         "languageCode": "zu",
         "group": "wiktionary",
         "logo": "//zu.wiktionary.org/static/images/project-logos/wiktionary.png",
-        "mobileUrl": "https://zu.m.wiktionary.org"
+        "mobileUrl": "https://zu.wiktionary.org"
     },
     "zuwikibooks": {
         "shortName": "Wikibooks",
@@ -10293,6 +10304,6 @@
         "languageCode": "zu",
         "group": "wikibooks",
         "logo": "//zu.wikibooks.org/static/images/project-logos/wikibooks.png",
-        "mobileUrl": "https://zu.m.wikibooks.org"
+        "mobileUrl": "https://zu.wikibooks.org"
     }
 }
