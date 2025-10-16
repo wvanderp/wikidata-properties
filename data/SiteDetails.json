@@ -8,7 +8,7 @@
         "languageCode": "aa",
         "group": "wiki",
         "logo": "//aa.wikipedia.org/static/images/project-logos/aawiki.png",
-        "mobileUrl": "https://aa.m.wikipedia.org"
+        "mobileUrl": "https://aa.wikipedia.org"
     },
     "aawiktionary": {
         "shortName": "Wiktionary",
@@ -41,7 +41,7 @@
         "languageCode": "ab",
         "group": "wiki",
         "logo": "//ab.wikipedia.org/static/images/project-logos/abwiki.png",
-        "mobileUrl": "https://ab.m.wikipedia.org"
+        "mobileUrl": "https://ab.wikipedia.org"
     },
     "abwiktionary": {
         "shortName": "Wiktionary",
@@ -63,7 +63,7 @@
         "languageCode": "ace",
         "group": "wiki",
         "logo": "//ace.wikipedia.org/static/images/project-logos/acewiki.png",
-        "mobileUrl": "https://ace.m.wikipedia.org"
+        "mobileUrl": "https://ace.wikipedia.org"
     },
     "adywiki": {
         "shortName": "Википедие",
@@ -74,7 +74,7 @@
         "languageCode": "ady",
         "group": "wiki",
         "logo": "//ady.wikipedia.org/static/images/project-logos/adywiki.png",
-        "mobileUrl": "https://ady.m.wikipedia.org"
+        "mobileUrl": "https://ady.wikipedia.org"
     },
     "afwiki": {
         "shortName": "Wikipedia",
@@ -85,7 +85,7 @@
         "languageCode": "af",
         "group": "wiki",
         "logo": "//af.wikipedia.org/static/images/project-logos/afwiki.png",
-        "mobileUrl": "https://af.m.wikipedia.org"
+        "mobileUrl": "https://af.wikipedia.org"
     },
     "afwiktionary": {
         "shortName": "Wiktionary",
@@ -129,7 +129,7 @@
         "languageCode": "ak",
         "group": "wiki",
         "logo": "//ak.wikipedia.org/static/images/project-logos/akwiki.png",
-        "mobileUrl": "https://ak.m.wikipedia.org"
+        "mobileUrl": "https://ak.wikipedia.org"
     },
     "akwiktionary": {
         "shortName": "Wiktionary",
@@ -162,7 +162,7 @@
         "languageCode": "alt",
         "group": "wiki",
         "logo": "//alt.wikipedia.org/static/images/project-logos/altwiki.png",
-        "mobileUrl": "https://alt.m.wikipedia.org"
+        "mobileUrl": "https://alt.wikipedia.org"
     },
     "amwiki": {
         "shortName": "ውክፔዲያ",
@@ -173,7 +173,7 @@
         "languageCode": "am",
         "group": "wiki",
         "logo": "//am.wikipedia.org/static/images/project-logos/amwiki.png",
-        "mobileUrl": "https://am.m.wikipedia.org"
+        "mobileUrl": "https://am.wikipedia.org"
     },
     "amwiktionary": {
         "shortName": "Wiktionary",
@@ -206,7 +206,7 @@
         "languageCode": "ami",
         "group": "wiki",
         "logo": "//ami.wikipedia.org/static/images/project-logos/amiwiki.png",
-        "mobileUrl": "https://ami.m.wikipedia.org"
+        "mobileUrl": "https://ami.wikipedia.org"
     },
     "anwiki": {
         "shortName": "Wikipedia",
@@ -217,7 +217,7 @@
         "languageCode": "an",
         "group": "wiki",
         "logo": "//an.wikipedia.org/static/images/project-logos/anwiki.png",
-        "mobileUrl": "https://an.m.wikipedia.org"
+        "mobileUrl": "https://an.wikipedia.org"
     },
     "anwiktionary": {
         "shortName": "Wiktionary",
@@ -239,7 +239,7 @@
         "languageCode": "ang",
         "group": "wiki",
         "logo": "//ang.wikipedia.org/static/images/project-logos/angwiki.png",
-        "mobileUrl": "https://ang.m.wikipedia.org"
+        "mobileUrl": "https://ang.wikipedia.org"
     },
     "angwiktionary": {
         "shortName": "Wikiwordbōc",
@@ -294,7 +294,7 @@
         "languageCode": "ann",
         "group": "wiki",
         "logo": "//ann.wikipedia.org/static/images/project-logos/annwiki.png",
-        "mobileUrl": "https://ann.m.wikipedia.org"
+        "mobileUrl": "https://ann.wikipedia.org"
     },
     "anpwiki": {
         "shortName": "विकिपीडिया",
@@ -305,7 +305,7 @@
         "languageCode": "anp",
         "group": "wiki",
         "logo": "//anp.wikipedia.org/static/images/project-logos/anpwiki.png",
-        "mobileUrl": "https://anp.m.wikipedia.org"
+        "mobileUrl": "https://anp.wikipedia.org"
     },
     "arwiki": {
         "shortName": "ويكيبيديا",
@@ -316,7 +316,7 @@
         "languageCode": "ar",
         "group": "wiki",
         "logo": "//ar.wikipedia.org/static/images/project-logos/arwiki.png",
-        "mobileUrl": "https://ar.m.wikipedia.org"
+        "mobileUrl": "https://ar.wikipedia.org"
     },
     "arwiktionary": {
         "shortName": "ويكاموس",
@@ -393,7 +393,7 @@
         "languageCode": "arc",
         "group": "wiki",
         "logo": "//arc.wikipedia.org/static/images/project-logos/arcwiki.png",
-        "mobileUrl": "https://arc.m.wikipedia.org"
+        "mobileUrl": "https://arc.wikipedia.org"
     },
     "arywiki": {
         "shortName": "ويكيپيديا",
@@ -404,7 +404,7 @@
         "languageCode": "ary",
         "group": "wiki",
         "logo": "//ary.wikipedia.org/static/images/project-logos/arywiki.png",
-        "mobileUrl": "https://ary.m.wikipedia.org"
+        "mobileUrl": "https://ary.wikipedia.org"
     },
     "arzwiki": {
         "shortName": "ويكيبيديا",
@@ -415,7 +415,7 @@
         "languageCode": "arz",
         "group": "wiki",
         "logo": "//arz.wikipedia.org/static/images/project-logos/arzwiki.png",
-        "mobileUrl": "https://arz.m.wikipedia.org"
+        "mobileUrl": "https://arz.wikipedia.org"
     },
     "aswiki": {
         "shortName": "অসমীয়া ৱিকিপিডিয়া",
@@ -426,7 +426,7 @@
         "languageCode": "as",
         "group": "wiki",
         "logo": "//as.wikipedia.org/static/images/project-logos/aswiki.png",
-        "mobileUrl": "https://as.m.wikipedia.org"
+        "mobileUrl": "https://as.wikipedia.org"
     },
     "aswiktionary": {
         "shortName": "Wiktionary",
@@ -481,7 +481,7 @@
         "languageCode": "ast",
         "group": "wiki",
         "logo": "//ast.wikipedia.org/static/images/project-logos/astwiki.png",
-        "mobileUrl": "https://ast.m.wikipedia.org"
+        "mobileUrl": "https://ast.wikipedia.org"
     },
     "astwiktionary": {
         "shortName": "Wikcionariu",
@@ -525,7 +525,7 @@
         "languageCode": "atj",
         "group": "wiki",
         "logo": "//atj.wikipedia.org/static/images/project-logos/atjwiki.png",
-        "mobileUrl": "https://atj.m.wikipedia.org"
+        "mobileUrl": "https://atj.wikipedia.org"
     },
     "avwiki": {
         "shortName": "Wikipedia",
@@ -536,7 +536,7 @@
         "languageCode": "av",
         "group": "wiki",
         "logo": "//av.wikipedia.org/static/images/project-logos/avwiki.png",
-        "mobileUrl": "https://av.m.wikipedia.org"
+        "mobileUrl": "https://av.wikipedia.org"
     },
     "avwiktionary": {
         "shortName": "Wiktionary",
@@ -558,7 +558,7 @@
         "languageCode": "avk",
         "group": "wiki",
         "logo": "//avk.wikipedia.org/static/images/project-logos/avkwiki.png",
-        "mobileUrl": "https://avk.m.wikipedia.org"
+        "mobileUrl": "https://avk.wikipedia.org"
     },
     "awawiki": {
         "shortName": "विकिपीडिया",
@@ -569,7 +569,7 @@
         "languageCode": "awa",
         "group": "wiki",
         "logo": "//awa.wikipedia.org/static/images/project-logos/awawiki.png",
-        "mobileUrl": "https://awa.m.wikipedia.org"
+        "mobileUrl": "https://awa.wikipedia.org"
     },
     "aywiki": {
         "shortName": "Wikipedia",
@@ -580,7 +580,7 @@
         "languageCode": "ay",
         "group": "wiki",
         "logo": "//ay.wikipedia.org/static/images/project-logos/aywiki.png",
-        "mobileUrl": "https://ay.m.wikipedia.org"
+        "mobileUrl": "https://ay.wikipedia.org"
     },
     "aywiktionary": {
         "shortName": "Wiktionary",
@@ -613,7 +613,7 @@
         "languageCode": "az",
         "group": "wiki",
         "logo": "//az.wikipedia.org/static/images/project-logos/azwiki.png",
-        "mobileUrl": "https://az.m.wikipedia.org"
+        "mobileUrl": "https://az.wikipedia.org"
     },
     "azwiktionary": {
         "shortName": "Wiktionary",
@@ -668,7 +668,7 @@
         "languageCode": "azb",
         "group": "wiki",
         "logo": "//azb.wikipedia.org/static/images/project-logos/azbwiki.png",
-        "mobileUrl": "https://azb.m.wikipedia.org"
+        "mobileUrl": "https://azb.wikipedia.org"
     },
     "bawiki": {
         "shortName": "Википедия",
@@ -679,7 +679,7 @@
         "languageCode": "ba",
         "group": "wiki",
         "logo": "//ba.wikipedia.org/static/images/project-logos/bawiki.png",
-        "mobileUrl": "https://ba.m.wikipedia.org"
+        "mobileUrl": "https://ba.wikipedia.org"
     },
     "bawikibooks": {
         "shortName": "Викидәреслек",
@@ -701,7 +701,7 @@
         "languageCode": "ban",
         "group": "wiki",
         "logo": "//ban.wikipedia.org/static/images/project-logos/banwiki.png",
-        "mobileUrl": "https://ban.m.wikipedia.org"
+        "mobileUrl": "https://ban.wikipedia.org"
     },
     "banwikisource": {
         "shortName": "Wikisource",
@@ -723,7 +723,7 @@
         "languageCode": "bar",
         "group": "wiki",
         "logo": "//bar.wikipedia.org/static/images/project-logos/barwiki.png",
-        "mobileUrl": "https://bar.m.wikipedia.org"
+        "mobileUrl": "https://bar.wikipedia.org"
     },
     "bbcwiki": {
         "shortName": "Wikipedia",
@@ -734,7 +734,7 @@
         "languageCode": "bbc",
         "group": "wiki",
         "logo": "//bbc.wikipedia.org/static/images/project-logos/enwiki.png",
-        "mobileUrl": "https://bbc.m.wikipedia.org"
+        "mobileUrl": "https://bbc.wikipedia.org"
     },
     "bclwiki": {
         "shortName": "Wikipedia",
@@ -745,7 +745,7 @@
         "languageCode": "bcl",
         "group": "wiki",
         "logo": "//bcl.wikipedia.org/static/images/project-logos/bclwiki.png",
-        "mobileUrl": "https://bcl.m.wikipedia.org"
+        "mobileUrl": "https://bcl.wikipedia.org"
     },
     "bclwiktionary": {
         "shortName": "Wiksyunaryo",
@@ -789,7 +789,7 @@
         "languageCode": "bdr",
         "group": "wiki",
         "logo": "//bdr.wikipedia.org/static/images/project-logos/bdrwiki.png",
-        "mobileUrl": "https://bdr.m.wikipedia.org"
+        "mobileUrl": "https://bdr.wikipedia.org"
     },
     "bewiki": {
         "shortName": "Вікіпедыя",
@@ -800,7 +800,7 @@
         "languageCode": "be",
         "group": "wiki",
         "logo": "//be.wikipedia.org/static/images/project-logos/bewiki.png",
-        "mobileUrl": "https://be.m.wikipedia.org"
+        "mobileUrl": "https://be.wikipedia.org"
     },
     "bewiktionary": {
         "shortName": "Вікіслоўнік",
@@ -855,7 +855,7 @@
         "languageCode": "be-tarask",
         "group": "wiki",
         "logo": "//be-tarask.wikipedia.org/static/images/project-logos/be_x_oldwiki.png",
-        "mobileUrl": "https://be-tarask.m.wikipedia.org"
+        "mobileUrl": "https://be-tarask.wikipedia.org"
     },
     "bewwiki": {
         "shortName": "Wikipédi",
@@ -866,7 +866,7 @@
         "languageCode": "bew",
         "group": "wiki",
         "logo": "//bew.wikipedia.org/static/images/project-logos/bewwiki.png",
-        "mobileUrl": "https://bew.m.wikipedia.org"
+        "mobileUrl": "https://bew.wikipedia.org"
     },
     "bewwiktionary": {
         "shortName": "Wikikamus",
@@ -888,7 +888,7 @@
         "languageCode": "bg",
         "group": "wiki",
         "logo": "//bg.wikipedia.org/static/images/project-logos/bgwiki.png",
-        "mobileUrl": "https://bg.m.wikipedia.org"
+        "mobileUrl": "https://bg.wikipedia.org"
     },
     "bgwiktionary": {
         "shortName": "Уикиречник",
@@ -954,7 +954,7 @@
         "languageCode": "bho",
         "group": "wiki",
         "logo": "//bh.wikipedia.org/static/images/project-logos/bhwiki.png",
-        "mobileUrl": "https://bh.m.wikipedia.org"
+        "mobileUrl": "https://bh.wikipedia.org"
     },
     "bhwiktionary": {
         "shortName": "Wiktionary",
@@ -976,7 +976,7 @@
         "languageCode": "bi",
         "group": "wiki",
         "logo": "//bi.wikipedia.org/static/images/project-logos/biwiki.png",
-        "mobileUrl": "https://bi.m.wikipedia.org"
+        "mobileUrl": "https://bi.wikipedia.org"
     },
     "biwiktionary": {
         "shortName": "Wiktionary",
@@ -1009,7 +1009,7 @@
         "languageCode": "bjn",
         "group": "wiki",
         "logo": "//bjn.wikipedia.org/static/images/project-logos/bjnwiki.png",
-        "mobileUrl": "https://bjn.m.wikipedia.org"
+        "mobileUrl": "https://bjn.wikipedia.org"
     },
     "bjnwiktionary": {
         "shortName": "Wiktionary",
@@ -1042,7 +1042,7 @@
         "languageCode": "blk",
         "group": "wiki",
         "logo": "//blk.wikipedia.org/static/images/project-logos/blkwiki.png",
-        "mobileUrl": "https://blk.m.wikipedia.org"
+        "mobileUrl": "https://blk.wikipedia.org"
     },
     "blkwiktionary": {
         "shortName": "ဝိစ်သိဉ်နရီ",
@@ -1064,7 +1064,7 @@
         "languageCode": "bm",
         "group": "wiki",
         "logo": "//bm.wikipedia.org/static/images/project-logos/bmwiki.png",
-        "mobileUrl": "https://bm.m.wikipedia.org"
+        "mobileUrl": "https://bm.wikipedia.org"
     },
     "bmwiktionary": {
         "shortName": "Wiktionary",
@@ -1108,7 +1108,7 @@
         "languageCode": "bn",
         "group": "wiki",
         "logo": "//bn.wikipedia.org/static/images/project-logos/bnwiki.png",
-        "mobileUrl": "https://bn.m.wikipedia.org"
+        "mobileUrl": "https://bn.wikipedia.org"
     },
     "bnwiktionary": {
         "shortName": "উইকিঅভিধান",
@@ -1174,7 +1174,7 @@
         "languageCode": "bo",
         "group": "wiki",
         "logo": "//bo.wikipedia.org/static/images/project-logos/bowiki.png",
-        "mobileUrl": "https://bo.m.wikipedia.org"
+        "mobileUrl": "https://bo.wikipedia.org"
     },
     "bowiktionary": {
         "shortName": "Wiktionary",
@@ -1207,7 +1207,7 @@
         "languageCode": "bpy",
         "group": "wiki",
         "logo": "//bpy.wikipedia.org/static/images/project-logos/bpywiki.png",
-        "mobileUrl": "https://bpy.m.wikipedia.org"
+        "mobileUrl": "https://bpy.wikipedia.org"
     },
     "brwiki": {
         "shortName": "Wikipedia",
@@ -1218,7 +1218,7 @@
         "languageCode": "br",
         "group": "wiki",
         "logo": "//br.wikipedia.org/static/images/project-logos/brwiki.png",
-        "mobileUrl": "https://br.m.wikipedia.org"
+        "mobileUrl": "https://br.wikipedia.org"
     },
     "brwiktionary": {
         "shortName": "Wikeriadur",
@@ -1262,7 +1262,7 @@
         "languageCode": "bs",
         "group": "wiki",
         "logo": "//bs.wikipedia.org/static/images/project-logos/bswiki.png",
-        "mobileUrl": "https://bs.m.wikipedia.org"
+        "mobileUrl": "https://bs.wikipedia.org"
     },
     "bswiktionary": {
         "shortName": "Wikirječnik",
@@ -1328,7 +1328,7 @@
         "languageCode": "btm",
         "group": "wiki",
         "logo": "//btm.wikipedia.org/static/images/project-logos/enwiki.png",
-        "mobileUrl": "https://btm.m.wikipedia.org"
+        "mobileUrl": "https://btm.wikipedia.org"
     },
     "btmwiktionary": {
         "shortName": "Wikikamus",
@@ -1350,7 +1350,7 @@
         "languageCode": "bug",
         "group": "wiki",
         "logo": "//bug.wikipedia.org/static/images/project-logos/bugwiki.png",
-        "mobileUrl": "https://bug.m.wikipedia.org"
+        "mobileUrl": "https://bug.wikipedia.org"
     },
     "bxrwiki": {
         "shortName": "Wikipedia",
@@ -1361,7 +1361,7 @@
         "languageCode": "bxr",
         "group": "wiki",
         "logo": "//bxr.wikipedia.org/static/images/project-logos/bxrwiki.png",
-        "mobileUrl": "https://bxr.m.wikipedia.org"
+        "mobileUrl": "https://bxr.wikipedia.org"
     },
     "cawiki": {
         "shortName": "Viquipèdia",
@@ -1438,7 +1438,7 @@
         "languageCode": "cbk",
         "group": "wiki",
         "logo": "//cbk-zam.wikipedia.org/static/images/project-logos/cbk_zamwiki.png",
-        "mobileUrl": "https://cbk-zam.m.wikipedia.org"
+        "mobileUrl": "https://cbk-zam.wikipedia.org"
     },
     "cdowiki": {
         "shortName": "Wikipedia",
@@ -1449,7 +1449,7 @@
         "languageCode": "cdo",
         "group": "wiki",
         "logo": "//cdo.wikipedia.org/static/images/project-logos/cdowiki.png",
-        "mobileUrl": "https://cdo.m.wikipedia.org"
+        "mobileUrl": "https://cdo.wikipedia.org"
     },
     "cewiki": {
         "shortName": "Википеди",
@@ -1460,7 +1460,7 @@
         "languageCode": "ce",
         "group": "wiki",
         "logo": "//ce.wikipedia.org/static/images/project-logos/cewiki.png",
-        "mobileUrl": "https://ce.m.wikipedia.org"
+        "mobileUrl": "https://ce.wikipedia.org"
     },
     "cebwiki": {
         "shortName": "Wikipedia",
@@ -1471,7 +1471,7 @@
         "languageCode": "ceb",
         "group": "wiki",
         "logo": "//ceb.wikipedia.org/static/images/project-logos/cebwiki.png",
-        "mobileUrl": "https://ceb.m.wikipedia.org"
+        "mobileUrl": "https://ceb.wikipedia.org"
     },
     "chwiki": {
         "shortName": "Wikipedia",
@@ -1482,7 +1482,7 @@
         "languageCode": "ch",
         "group": "wiki",
         "logo": "//ch.wikipedia.org/static/images/project-logos/chwiki.png",
-        "mobileUrl": "https://ch.m.wikipedia.org"
+        "mobileUrl": "https://ch.wikipedia.org"
     },
     "chwiktionary": {
         "shortName": "Wiktionary",
@@ -1515,7 +1515,7 @@
         "languageCode": "cho",
         "group": "wiki",
         "logo": "//cho.wikipedia.org/static/images/project-logos/chowiki.png",
-        "mobileUrl": "https://cho.m.wikipedia.org"
+        "mobileUrl": "https://cho.wikipedia.org"
     },
     "chrwiki": {
         "shortName": "Wikipedia",
@@ -1526,7 +1526,7 @@
         "languageCode": "chr",
         "group": "wiki",
         "logo": "//chr.wikipedia.org/static/images/project-logos/chrwiki.png",
-        "mobileUrl": "https://chr.m.wikipedia.org"
+        "mobileUrl": "https://chr.wikipedia.org"
     },
     "chrwiktionary": {
         "shortName": "Wiktionary",
@@ -1548,7 +1548,7 @@
         "languageCode": "chy",
         "group": "wiki",
         "logo": "//chy.wikipedia.org/static/images/project-logos/chywiki.png",
-        "mobileUrl": "https://chy.m.wikipedia.org"
+        "mobileUrl": "https://chy.wikipedia.org"
     },
     "ckbwiki": {
         "shortName": "ویکیپیدیا",
@@ -1559,7 +1559,7 @@
         "languageCode": "ckb",
         "group": "wiki",
         "logo": "//ckb.wikipedia.org/static/images/project-logos/ckbwiki.png",
-        "mobileUrl": "https://ckb.m.wikipedia.org"
+        "mobileUrl": "https://ckb.wikipedia.org"
     },
     "ckbwiktionary": {
         "shortName": "ویکیفەرھەنگ",
@@ -1581,7 +1581,7 @@
         "languageCode": "co",
         "group": "wiki",
         "logo": "//co.wikipedia.org/static/images/project-logos/cowiki.png",
-        "mobileUrl": "https://co.m.wikipedia.org"
+        "mobileUrl": "https://co.wikipedia.org"
     },
     "cowiktionary": {
         "shortName": "Wiktionary",
@@ -1625,7 +1625,7 @@
         "languageCode": "cr",
         "group": "wiki",
         "logo": "//cr.wikipedia.org/static/images/project-logos/crwiki.png",
-        "mobileUrl": "https://cr.m.wikipedia.org"
+        "mobileUrl": "https://cr.wikipedia.org"
     },
     "crwiktionary": {
         "shortName": "Wiktionary",
@@ -1658,7 +1658,7 @@
         "languageCode": "crh",
         "group": "wiki",
         "logo": "//crh.wikipedia.org/static/images/project-logos/crhwiki.png",
-        "mobileUrl": "https://crh.m.wikipedia.org"
+        "mobileUrl": "https://crh.wikipedia.org"
     },
     "cswiki": {
         "shortName": "Wikipedie",
@@ -1669,7 +1669,7 @@
         "languageCode": "cs",
         "group": "wiki",
         "logo": "//cs.wikipedia.org/static/images/project-logos/cswiki.png",
-        "mobileUrl": "https://cs.m.wikipedia.org"
+        "mobileUrl": "https://cs.wikipedia.org"
     },
     "cswiktionary": {
         "shortName": "Wikislovník",
@@ -1757,7 +1757,7 @@
         "languageCode": "csb",
         "group": "wiki",
         "logo": "//csb.wikipedia.org/static/images/project-logos/csbwiki.png",
-        "mobileUrl": "https://csb.m.wikipedia.org"
+        "mobileUrl": "https://csb.wikipedia.org"
     },
     "csbwiktionary": {
         "shortName": "Wiktionary",
@@ -1779,7 +1779,7 @@
         "languageCode": "cu",
         "group": "wiki",
         "logo": "//cu.wikipedia.org/static/images/project-logos/cuwiki.png",
-        "mobileUrl": "https://cu.m.wikipedia.org"
+        "mobileUrl": "https://cu.wikipedia.org"
     },
     "cvwiki": {
         "shortName": "Википеди",
@@ -1790,7 +1790,7 @@
         "languageCode": "cv",
         "group": "wiki",
         "logo": "//cv.wikipedia.org/static/images/project-logos/cvwiki.png",
-        "mobileUrl": "https://cv.m.wikipedia.org"
+        "mobileUrl": "https://cv.wikipedia.org"
     },
     "cvwikibooks": {
         "shortName": "Wikibooks",
@@ -1812,7 +1812,7 @@
         "languageCode": "cy",
         "group": "wiki",
         "logo": "//cy.wikipedia.org/static/images/project-logos/cywiki.png",
-        "mobileUrl": "https://cy.m.wikipedia.org"
+        "mobileUrl": "https://cy.wikipedia.org"
     },
     "cywiktionary": {
         "shortName": "Wiciadur",
@@ -1867,7 +1867,7 @@
         "languageCode": "da",
         "group": "wiki",
         "logo": "//da.wikipedia.org/static/images/project-logos/dawiki.png",
-        "mobileUrl": "https://da.m.wikipedia.org"
+        "mobileUrl": "https://da.wikipedia.org"
     },
     "dawiktionary": {
         "shortName": "Wiktionary",
@@ -1922,7 +1922,7 @@
         "languageCode": "dag",
         "group": "wiki",
         "logo": "//dag.wikipedia.org/static/images/project-logos/dagwiki.png",
-        "mobileUrl": "https://dag.m.wikipedia.org"
+        "mobileUrl": "https://dag.wikipedia.org"
     },
     "dewiki": {
         "shortName": "Wikipedia",
@@ -1933,7 +1933,7 @@
         "languageCode": "de",
         "group": "wiki",
         "logo": "//de.wikipedia.org/static/images/project-logos/dewiki.png",
-        "mobileUrl": "https://de.m.wikipedia.org"
+        "mobileUrl": "https://de.wikipedia.org"
     },
     "dewiktionary": {
         "shortName": "Wiktionary",
@@ -2021,7 +2021,7 @@
         "languageCode": "dga",
         "group": "wiki",
         "logo": "//dga.wikipedia.org/static/images/project-logos/dgawiki.png",
-        "mobileUrl": "https://dga.m.wikipedia.org"
+        "mobileUrl": "https://dga.wikipedia.org"
     },
     "dinwiki": {
         "shortName": "Wikipedia",
@@ -2032,7 +2032,7 @@
         "languageCode": "din",
         "group": "wiki",
         "logo": "//din.wikipedia.org/static/images/project-logos/dinwiki.png",
-        "mobileUrl": "https://din.m.wikipedia.org"
+        "mobileUrl": "https://din.wikipedia.org"
     },
     "diqwiki": {
         "shortName": "Wikipedia",
@@ -2043,7 +2043,7 @@
         "languageCode": "diq",
         "group": "wiki",
         "logo": "//diq.wikipedia.org/static/images/project-logos/diqwiki.png",
-        "mobileUrl": "https://diq.m.wikipedia.org"
+        "mobileUrl": "https://diq.wikipedia.org"
     },
     "diqwiktionary": {
         "shortName": "Wikiqısebend",
@@ -2065,7 +2065,7 @@
         "languageCode": "dsb",
         "group": "wiki",
         "logo": "//dsb.wikipedia.org/static/images/project-logos/dsbwiki.png",
-        "mobileUrl": "https://dsb.m.wikipedia.org"
+        "mobileUrl": "https://dsb.wikipedia.org"
     },
     "dtpwiki": {
         "shortName": "Wikipedia",
@@ -2076,7 +2076,7 @@
         "languageCode": "dtp",
         "group": "wiki",
         "logo": "//dtp.wikipedia.org/static/images/project-logos/dtpwiki.png",
-        "mobileUrl": "https://dtp.m.wikipedia.org"
+        "mobileUrl": "https://dtp.wikipedia.org"
     },
     "dtywiki": {
         "shortName": "विकिपिडिया",
@@ -2087,7 +2087,7 @@
         "languageCode": "dty",
         "group": "wiki",
         "logo": "//dty.wikipedia.org/static/images/project-logos/dtywiki.png",
-        "mobileUrl": "https://dty.m.wikipedia.org"
+        "mobileUrl": "https://dty.wikipedia.org"
     },
     "dvwiki": {
         "shortName": "ވިކިޕީޑިއާ",
@@ -2098,7 +2098,7 @@
         "languageCode": "dv",
         "group": "wiki",
         "logo": "//dv.wikipedia.org/static/images/project-logos/dvwiki.png",
-        "mobileUrl": "https://dv.m.wikipedia.org"
+        "mobileUrl": "https://dv.wikipedia.org"
     },
     "dvwiktionary": {
         "shortName": "ވިކިރަދީފު",
@@ -2120,7 +2120,7 @@
         "languageCode": "dz",
         "group": "wiki",
         "logo": "//dz.wikipedia.org/static/images/project-logos/dzwiki.png",
-        "mobileUrl": "https://dz.m.wikipedia.org"
+        "mobileUrl": "https://dz.wikipedia.org"
     },
     "dzwiktionary": {
         "shortName": "Wiktionary",
@@ -2142,7 +2142,7 @@
         "languageCode": "ee",
         "group": "wiki",
         "logo": "//ee.wikipedia.org/static/images/project-logos/eewiki.png",
-        "mobileUrl": "https://ee.m.wikipedia.org"
+        "mobileUrl": "https://ee.wikipedia.org"
     },
     "elwiki": {
         "shortName": "Βικιπαίδεια",
@@ -2153,7 +2153,7 @@
         "languageCode": "el",
         "group": "wiki",
         "logo": "//el.wikipedia.org/static/images/project-logos/elwiki.png",
-        "mobileUrl": "https://el.m.wikipedia.org"
+        "mobileUrl": "https://el.wikipedia.org"
     },
     "elwiktionary": {
         "shortName": "Βικιλεξικό",
@@ -2241,7 +2241,7 @@
         "languageCode": "eml",
         "group": "wiki",
         "logo": "//eml.wikipedia.org/static/images/project-logos/emlwiki.png",
-        "mobileUrl": "https://eml.m.wikipedia.org"
+        "mobileUrl": "https://eml.wikipedia.org"
     },
     "enwiki": {
         "shortName": "Wikipedia",
@@ -2252,7 +2252,7 @@
         "languageCode": "en",
         "group": "wiki",
         "logo": "//en.wikipedia.org/static/images/project-logos/enwiki.png",
-        "mobileUrl": "https://en.m.wikipedia.org"
+        "mobileUrl": "https://en.wikipedia.org"
     },
     "enwiktionary": {
         "shortName": "Wiktionary",
@@ -2340,7 +2340,7 @@
         "languageCode": "eo",
         "group": "wiki",
         "logo": "//eo.wikipedia.org/static/images/project-logos/eowiki.png",
-        "mobileUrl": "https://eo.m.wikipedia.org"
+        "mobileUrl": "https://eo.wikipedia.org"
     },
     "eowiktionary": {
         "shortName": "Vikivortaro",
@@ -2417,7 +2417,7 @@
         "languageCode": "es",
         "group": "wiki",
         "logo": "//es.wikipedia.org/static/images/project-logos/eswiki.png",
-        "mobileUrl": "https://es.m.wikipedia.org"
+        "mobileUrl": "https://es.wikipedia.org"
     },
     "eswiktionary": {
         "shortName": "Wikcionario",
@@ -2505,7 +2505,7 @@
         "languageCode": "et",
         "group": "wiki",
         "logo": "//et.wikipedia.org/static/images/project-logos/etwiki.png",
-        "mobileUrl": "https://et.m.wikipedia.org"
+        "mobileUrl": "https://et.wikipedia.org"
     },
     "etwiktionary": {
         "shortName": "Vikisõnastik",
@@ -2560,7 +2560,7 @@
         "languageCode": "eu",
         "group": "wiki",
         "logo": "//eu.wikipedia.org/static/images/project-logos/euwiki.png",
-        "mobileUrl": "https://eu.m.wikipedia.org"
+        "mobileUrl": "https://eu.wikipedia.org"
     },
     "euwiktionary": {
         "shortName": "Wiktionary",
@@ -2615,7 +2615,7 @@
         "languageCode": "ext",
         "group": "wiki",
         "logo": "//ext.wikipedia.org/static/images/project-logos/extwiki.png",
-        "mobileUrl": "https://ext.m.wikipedia.org"
+        "mobileUrl": "https://ext.wikipedia.org"
     },
     "fawiki": {
         "shortName": "ویکی‌پدیا",
@@ -2703,7 +2703,7 @@
         "languageCode": "fat",
         "group": "wiki",
         "logo": "//fat.wikipedia.org/static/images/project-logos/fatwiki.png",
-        "mobileUrl": "https://fat.m.wikipedia.org"
+        "mobileUrl": "https://fat.wikipedia.org"
     },
     "ffwiki": {
         "shortName": "Wikipedia",
@@ -2714,7 +2714,7 @@
         "languageCode": "ff",
         "group": "wiki",
         "logo": "//ff.wikipedia.org/static/images/project-logos/ffwiki.png",
-        "mobileUrl": "https://ff.m.wikipedia.org"
+        "mobileUrl": "https://ff.wikipedia.org"
     },
     "fiwiki": {
         "shortName": "Wikipedia",
@@ -2725,7 +2725,7 @@
         "languageCode": "fi",
         "group": "wiki",
         "logo": "//fi.wikipedia.org/static/images/project-logos/fiwiki.png",
-        "mobileUrl": "https://fi.m.wikipedia.org"
+        "mobileUrl": "https://fi.wikipedia.org"
     },
     "fiwiktionary": {
         "shortName": "Wikisanakirja",
@@ -2813,7 +2813,7 @@
         "languageCode": "fj",
         "group": "wiki",
         "logo": "//fj.wikipedia.org/static/images/project-logos/fjwiki.png",
-        "mobileUrl": "https://fj.m.wikipedia.org"
+        "mobileUrl": "https://fj.wikipedia.org"
     },
     "fjwiktionary": {
         "shortName": "Wiktionary",
@@ -2835,7 +2835,7 @@
         "languageCode": "fo",
         "group": "wiki",
         "logo": "//fo.wikipedia.org/static/images/project-logos/fowiki.png",
-        "mobileUrl": "https://fo.m.wikipedia.org"
+        "mobileUrl": "https://fo.wikipedia.org"
     },
     "fowiktionary": {
         "shortName": "Wiktionary",
@@ -2868,7 +2868,7 @@
         "languageCode": "fon",
         "group": "wiki",
         "logo": "//fon.wikipedia.org/static/images/project-logos/fonwiki.png",
-        "mobileUrl": "https://fon.m.wikipedia.org"
+        "mobileUrl": "https://fon.wikipedia.org"
     },
     "frwiki": {
         "shortName": "Wikipédia",
@@ -2879,7 +2879,7 @@
         "languageCode": "fr",
         "group": "wiki",
         "logo": "//fr.wikipedia.org/static/images/project-logos/frwiki.png",
-        "mobileUrl": "https://fr.m.wikipedia.org"
+        "mobileUrl": "https://fr.wikipedia.org"
     },
     "frwiktionary": {
         "shortName": "Wiktionnaire",
@@ -2967,7 +2967,7 @@
         "languageCode": "frp",
         "group": "wiki",
         "logo": "//frp.wikipedia.org/static/images/project-logos/frpwiki.png",
-        "mobileUrl": "https://frp.m.wikipedia.org"
+        "mobileUrl": "https://frp.wikipedia.org"
     },
     "frrwiki": {
         "shortName": "Wikipedia",
@@ -2978,7 +2978,7 @@
         "languageCode": "frr",
         "group": "wiki",
         "logo": "//frr.wikipedia.org/static/images/project-logos/frrwiki.png",
-        "mobileUrl": "https://frr.m.wikipedia.org"
+        "mobileUrl": "https://frr.wikipedia.org"
     },
     "furwiki": {
         "shortName": "Vichipedie",
@@ -2989,7 +2989,7 @@
         "languageCode": "fur",
         "group": "wiki",
         "logo": "//fur.wikipedia.org/static/images/project-logos/furwiki.png",
-        "mobileUrl": "https://fur.m.wikipedia.org"
+        "mobileUrl": "https://fur.wikipedia.org"
     },
     "fywiki": {
         "shortName": "Wikipedy",
@@ -3000,7 +3000,7 @@
         "languageCode": "fy",
         "group": "wiki",
         "logo": "//fy.wikipedia.org/static/images/project-logos/fywiki.png",
-        "mobileUrl": "https://fy.m.wikipedia.org"
+        "mobileUrl": "https://fy.wikipedia.org"
     },
     "fywiktionary": {
         "shortName": "Wikiwurdboek",
@@ -3033,7 +3033,7 @@
         "languageCode": "ga",
         "group": "wiki",
         "logo": "//ga.wikipedia.org/static/images/project-logos/gawiki.png",
-        "mobileUrl": "https://ga.m.wikipedia.org"
+        "mobileUrl": "https://ga.wikipedia.org"
     },
     "gawiktionary": {
         "shortName": "Vicífhoclóir",
@@ -3077,7 +3077,7 @@
         "languageCode": "gag",
         "group": "wiki",
         "logo": "//gag.wikipedia.org/static/images/project-logos/gagwiki.png",
-        "mobileUrl": "https://gag.m.wikipedia.org"
+        "mobileUrl": "https://gag.wikipedia.org"
     },
     "ganwiki": {
         "shortName": "維基百科",
@@ -3088,7 +3088,7 @@
         "languageCode": "gan",
         "group": "wiki",
         "logo": "//gan.wikipedia.org/static/images/project-logos/ganwiki.png",
-        "mobileUrl": "https://gan.m.wikipedia.org"
+        "mobileUrl": "https://gan.wikipedia.org"
     },
     "gcrwiki": {
         "shortName": "Wikipédja",
@@ -3099,7 +3099,7 @@
         "languageCode": "gcr",
         "group": "wiki",
         "logo": "//gcr.wikipedia.org/static/images/project-logos/gcrwiki.png",
-        "mobileUrl": "https://gcr.m.wikipedia.org"
+        "mobileUrl": "https://gcr.wikipedia.org"
     },
     "gdwiki": {
         "shortName": "Uicipeid",
@@ -3110,7 +3110,7 @@
         "languageCode": "gd",
         "group": "wiki",
         "logo": "//gd.wikipedia.org/static/images/project-logos/gdwiki.png",
-        "mobileUrl": "https://gd.m.wikipedia.org"
+        "mobileUrl": "https://gd.wikipedia.org"
     },
     "gdwiktionary": {
         "shortName": "Wiktionary",
@@ -3132,7 +3132,7 @@
         "languageCode": "gl",
         "group": "wiki",
         "logo": "//gl.wikipedia.org/static/images/project-logos/glwiki.png",
-        "mobileUrl": "https://gl.m.wikipedia.org"
+        "mobileUrl": "https://gl.wikipedia.org"
     },
     "glwiktionary": {
         "shortName": "Wiktionary",
@@ -3187,7 +3187,7 @@
         "languageCode": "glk",
         "group": "wiki",
         "logo": "//glk.wikipedia.org/static/images/project-logos/glkwiki.png",
-        "mobileUrl": "https://glk.m.wikipedia.org"
+        "mobileUrl": "https://glk.wikipedia.org"
     },
     "gnwiki": {
         "shortName": "Vikipetã",
@@ -3198,7 +3198,7 @@
         "languageCode": "gn",
         "group": "wiki",
         "logo": "//gn.wikipedia.org/static/images/project-logos/gnwiki.png",
-        "mobileUrl": "https://gn.m.wikipedia.org"
+        "mobileUrl": "https://gn.wikipedia.org"
     },
     "gnwiktionary": {
         "shortName": "Wiktionary",
@@ -3231,7 +3231,7 @@
         "languageCode": "gom",
         "group": "wiki",
         "logo": "//gom.wikipedia.org/static/images/project-logos/gomwiki.png",
-        "mobileUrl": "https://gom.m.wikipedia.org"
+        "mobileUrl": "https://gom.wikipedia.org"
     },
     "gomwiktionary": {
         "shortName": "Wiktionary",
@@ -3253,7 +3253,7 @@
         "languageCode": "gor",
         "group": "wiki",
         "logo": "//gor.wikipedia.org/static/images/project-logos/gorwiki.png",
-        "mobileUrl": "https://gor.m.wikipedia.org"
+        "mobileUrl": "https://gor.wikipedia.org"
     },
     "gorwiktionary": {
         "shortName": "Wikikamus",
@@ -3286,7 +3286,7 @@
         "languageCode": "got",
         "group": "wiki",
         "logo": "//got.wikipedia.org/static/images/project-logos/gotwiki.png",
-        "mobileUrl": "https://got.m.wikipedia.org"
+        "mobileUrl": "https://got.wikipedia.org"
     },
     "gotwikibooks": {
         "shortName": "Wikibooks",
@@ -3308,7 +3308,7 @@
         "languageCode": "gpe",
         "group": "wiki",
         "logo": "//gpe.wikipedia.org/static/images/project-logos/gpewiki.png",
-        "mobileUrl": "https://gpe.m.wikipedia.org"
+        "mobileUrl": "https://gpe.wikipedia.org"
     },
     "alswiki": {
         "shortName": "Wikipedia",
@@ -3319,7 +3319,7 @@
         "languageCode": "gsw",
         "group": "wiki",
         "logo": "//als.wikipedia.org/static/images/project-logos/alswiki.png",
-        "mobileUrl": "https://als.m.wikipedia.org"
+        "mobileUrl": "https://als.wikipedia.org"
     },
     "guwiki": {
         "shortName": "વિકિપીડિયા",
@@ -3330,7 +3330,7 @@
         "languageCode": "gu",
         "group": "wiki",
         "logo": "//gu.wikipedia.org/static/images/project-logos/guwiki.png",
-        "mobileUrl": "https://gu.m.wikipedia.org"
+        "mobileUrl": "https://gu.wikipedia.org"
     },
     "guwiktionary": {
         "shortName": "વિકિકોશ",
@@ -3385,7 +3385,7 @@
         "languageCode": "guc",
         "group": "wiki",
         "logo": "//guc.wikipedia.org/static/images/project-logos/gucwiki.png",
-        "mobileUrl": "https://guc.m.wikipedia.org"
+        "mobileUrl": "https://guc.wikipedia.org"
     },
     "gurwiki": {
         "shortName": "Wikipiidiya",
@@ -3396,7 +3396,7 @@
         "languageCode": "gur",
         "group": "wiki",
         "logo": "//gur.wikipedia.org/static/images/project-logos/gurwiki.png",
-        "mobileUrl": "https://gur.m.wikipedia.org"
+        "mobileUrl": "https://gur.wikipedia.org"
     },
     "guwwiki": {
         "shortName": "Wikipedia",
@@ -3407,7 +3407,7 @@
         "languageCode": "guw",
         "group": "wiki",
         "logo": "//guw.wikipedia.org/static/images/project-logos/guwwiki.png",
-        "mobileUrl": "https://guw.m.wikipedia.org"
+        "mobileUrl": "https://guw.wikipedia.org"
     },
     "guwwiktionary": {
         "shortName": "Wiktionary",
@@ -3451,7 +3451,7 @@
         "languageCode": "gv",
         "group": "wiki",
         "logo": "//gv.wikipedia.org/static/images/project-logos/gvwiki.png",
-        "mobileUrl": "https://gv.m.wikipedia.org"
+        "mobileUrl": "https://gv.wikipedia.org"
     },
     "gvwiktionary": {
         "shortName": "Wiktionary",
@@ -3473,7 +3473,7 @@
         "languageCode": "ha",
         "group": "wiki",
         "logo": "//ha.wikipedia.org/static/images/project-logos/hawiki.png",
-        "mobileUrl": "https://ha.m.wikipedia.org"
+        "mobileUrl": "https://ha.wikipedia.org"
     },
     "hawiktionary": {
         "shortName": "Wiktionary",
@@ -3495,7 +3495,7 @@
         "languageCode": "hak",
         "group": "wiki",
         "logo": "//hak.wikipedia.org/static/images/project-logos/hakwiki.png",
-        "mobileUrl": "https://hak.m.wikipedia.org"
+        "mobileUrl": "https://hak.wikipedia.org"
     },
     "hawwiki": {
         "shortName": "Wikipedia",
@@ -3506,7 +3506,7 @@
         "languageCode": "haw",
         "group": "wiki",
         "logo": "//haw.wikipedia.org/static/images/project-logos/hawwiki.png",
-        "mobileUrl": "https://haw.m.wikipedia.org"
+        "mobileUrl": "https://haw.wikipedia.org"
     },
     "hewiki": {
         "shortName": "ויקיפדיה",
@@ -3594,7 +3594,7 @@
         "languageCode": "hi",
         "group": "wiki",
         "logo": "//hi.wikipedia.org/static/images/project-logos/hiwiki.png",
-        "mobileUrl": "https://hi.m.wikipedia.org"
+        "mobileUrl": "https://hi.wikipedia.org"
     },
     "hiwiktionary": {
         "shortName": "विक्षनरी",
@@ -3671,7 +3671,7 @@
         "languageCode": "hif",
         "group": "wiki",
         "logo": "//hif.wikipedia.org/static/images/project-logos/hifwiki.png",
-        "mobileUrl": "https://hif.m.wikipedia.org"
+        "mobileUrl": "https://hif.wikipedia.org"
     },
     "hifwiktionary": {
         "shortName": "Sabdkosh",
@@ -3693,7 +3693,7 @@
         "languageCode": "ho",
         "group": "wiki",
         "logo": "//ho.wikipedia.org/static/images/project-logos/howiki.png",
-        "mobileUrl": "https://ho.m.wikipedia.org"
+        "mobileUrl": "https://ho.wikipedia.org"
     },
     "hrwiki": {
         "shortName": "Wikipedija",
@@ -3704,7 +3704,7 @@
         "languageCode": "hr",
         "group": "wiki",
         "logo": "//hr.wikipedia.org/static/images/project-logos/hrwiki.png",
-        "mobileUrl": "https://hr.m.wikipedia.org"
+        "mobileUrl": "https://hr.wikipedia.org"
     },
     "hrwiktionary": {
         "shortName": "Wiktionary",
@@ -3759,7 +3759,7 @@
         "languageCode": "hsb",
         "group": "wiki",
         "logo": "//hsb.wikipedia.org/static/images/project-logos/hsbwiki.png",
-        "mobileUrl": "https://hsb.m.wikipedia.org"
+        "mobileUrl": "https://hsb.wikipedia.org"
     },
     "hsbwiktionary": {
         "shortName": "Wikisłownik",
@@ -3781,7 +3781,7 @@
         "languageCode": "ht",
         "group": "wiki",
         "logo": "//ht.wikipedia.org/static/images/project-logos/htwiki.png",
-        "mobileUrl": "https://ht.m.wikipedia.org"
+        "mobileUrl": "https://ht.wikipedia.org"
     },
     "htwikisource": {
         "shortName": "Wikisòrs",
@@ -3803,7 +3803,7 @@
         "languageCode": "hu",
         "group": "wiki",
         "logo": "//hu.wikipedia.org/static/images/project-logos/huwiki.png",
-        "mobileUrl": "https://hu.m.wikipedia.org"
+        "mobileUrl": "https://hu.wikipedia.org"
     },
     "huwiktionary": {
         "shortName": "Wikiszótár",
@@ -3869,7 +3869,7 @@
         "languageCode": "hy",
         "group": "wiki",
         "logo": "//hy.wikipedia.org/static/images/project-logos/hywiki.png",
-        "mobileUrl": "https://hy.m.wikipedia.org"
+        "mobileUrl": "https://hy.wikipedia.org"
     },
     "hywiktionary": {
         "shortName": "Վիքիբառարան",
@@ -3924,7 +3924,7 @@
         "languageCode": "hyw",
         "group": "wiki",
         "logo": "//hyw.wikipedia.org/static/images/project-logos/hywwiki.png",
-        "mobileUrl": "https://hyw.m.wikipedia.org"
+        "mobileUrl": "https://hyw.wikipedia.org"
     },
     "hzwiki": {
         "shortName": "Wikipedia",
@@ -3935,7 +3935,7 @@
         "languageCode": "hz",
         "group": "wiki",
         "logo": "//hz.wikipedia.org/static/images/project-logos/hzwiki.png",
-        "mobileUrl": "https://hz.m.wikipedia.org"
+        "mobileUrl": "https://hz.wikipedia.org"
     },
     "iawiki": {
         "shortName": "Wikipedia",
@@ -3946,7 +3946,7 @@
         "languageCode": "ia",
         "group": "wiki",
         "logo": "//ia.wikipedia.org/static/images/project-logos/iawiki.png",
-        "mobileUrl": "https://ia.m.wikipedia.org"
+        "mobileUrl": "https://ia.wikipedia.org"
     },
     "iawiktionary": {
         "shortName": "Wiktionario",
@@ -3979,7 +3979,7 @@
         "languageCode": "iba",
         "group": "wiki",
         "logo": "//iba.wikipedia.org/static/images/project-logos/ibawiki.png",
-        "mobileUrl": "https://iba.m.wikipedia.org"
+        "mobileUrl": "https://iba.wikipedia.org"
     },
     "idwiki": {
         "shortName": "Wikipedia",
@@ -3990,7 +3990,7 @@
         "languageCode": "id",
         "group": "wiki",
         "logo": "//id.wikipedia.org/static/images/project-logos/idwiki.png",
-        "mobileUrl": "https://id.m.wikipedia.org"
+        "mobileUrl": "https://id.wikipedia.org"
     },
     "idwiktionary": {
         "shortName": "Wikikamus",
@@ -4056,7 +4056,7 @@
         "languageCode": "ie",
         "group": "wiki",
         "logo": "//ie.wikipedia.org/static/images/project-logos/iewiki.png",
-        "mobileUrl": "https://ie.m.wikipedia.org"
+        "mobileUrl": "https://ie.wikipedia.org"
     },
     "iewiktionary": {
         "shortName": "Wiktionary",
@@ -4089,7 +4089,7 @@
         "languageCode": "ig",
         "group": "wiki",
         "logo": "//ig.wikipedia.org/static/images/project-logos/igwiki.png",
-        "mobileUrl": "https://ig.m.wikipedia.org"
+        "mobileUrl": "https://ig.wikipedia.org"
     },
     "igwiktionary": {
         "shortName": "Wiktionary",
@@ -4122,7 +4122,7 @@
         "languageCode": "igl",
         "group": "wiki",
         "logo": "//igl.wikipedia.org/static/images/project-logos/iglwiki.png",
-        "mobileUrl": "https://igl.m.wikipedia.org"
+        "mobileUrl": "https://igl.wikipedia.org"
     },
     "iiwiki": {
         "shortName": "Wikipedia",
@@ -4133,7 +4133,7 @@
         "languageCode": "ii",
         "group": "wiki",
         "logo": "//ii.wikipedia.org/static/images/project-logos/iiwiki.png",
-        "mobileUrl": "https://ii.m.wikipedia.org"
+        "mobileUrl": "https://ii.wikipedia.org"
     },
     "ikwiki": {
         "shortName": "Wikipedia",
@@ -4144,7 +4144,7 @@
         "languageCode": "ik",
         "group": "wiki",
         "logo": "//ik.wikipedia.org/static/images/project-logos/ikwiki.png",
-        "mobileUrl": "https://ik.m.wikipedia.org"
+        "mobileUrl": "https://ik.wikipedia.org"
     },
     "ikwiktionary": {
         "shortName": "Wiktionary",
@@ -4166,7 +4166,7 @@
         "languageCode": "ilo",
         "group": "wiki",
         "logo": "//ilo.wikipedia.org/static/images/project-logos/ilowiki.png",
-        "mobileUrl": "https://ilo.m.wikipedia.org"
+        "mobileUrl": "https://ilo.wikipedia.org"
     },
     "inhwiki": {
         "shortName": "Википеди",
@@ -4177,7 +4177,7 @@
         "languageCode": "inh",
         "group": "wiki",
         "logo": "//inh.wikipedia.org/static/images/project-logos/inhwiki.png",
-        "mobileUrl": "https://inh.m.wikipedia.org"
+        "mobileUrl": "https://inh.wikipedia.org"
     },
     "iowiki": {
         "shortName": "Wikipedio",
@@ -4188,7 +4188,7 @@
         "languageCode": "io",
         "group": "wiki",
         "logo": "//io.wikipedia.org/static/images/project-logos/iowiki.png",
-        "mobileUrl": "https://io.m.wikipedia.org"
+        "mobileUrl": "https://io.wikipedia.org"
     },
     "iowiktionary": {
         "shortName": "Wikivortaro",
@@ -4210,7 +4210,7 @@
         "languageCode": "is",
         "group": "wiki",
         "logo": "//is.wikipedia.org/static/images/project-logos/iswiki.png",
-        "mobileUrl": "https://is.m.wikipedia.org"
+        "mobileUrl": "https://is.wikipedia.org"
     },
     "iswiktionary": {
         "shortName": "Wikiorðabók",
@@ -4353,7 +4353,7 @@
         "languageCode": "iu",
         "group": "wiki",
         "logo": "//iu.wikipedia.org/static/images/project-logos/iuwiki.png",
-        "mobileUrl": "https://iu.m.wikipedia.org"
+        "mobileUrl": "https://iu.wikipedia.org"
     },
     "iuwiktionary": {
         "shortName": "Wiktionary",
@@ -4375,7 +4375,7 @@
         "languageCode": "ja",
         "group": "wiki",
         "logo": "//ja.wikipedia.org/static/images/project-logos/jawiki.png",
-        "mobileUrl": "https://ja.m.wikipedia.org"
+        "mobileUrl": "https://ja.wikipedia.org"
     },
     "jawiktionary": {
         "shortName": "Wiktionary",
@@ -4463,7 +4463,7 @@
         "languageCode": "jam",
         "group": "wiki",
         "logo": "//jam.wikipedia.org/static/images/project-logos/jamwiki.png",
-        "mobileUrl": "https://jam.m.wikipedia.org"
+        "mobileUrl": "https://jam.wikipedia.org"
     },
     "jbowiki": {
         "shortName": "Wikipedia",
@@ -4474,7 +4474,7 @@
         "languageCode": "jbo",
         "group": "wiki",
         "logo": "//jbo.wikipedia.org/static/images/project-logos/jbowiki.png",
-        "mobileUrl": "https://jbo.m.wikipedia.org"
+        "mobileUrl": "https://jbo.wikipedia.org"
     },
     "jbowiktionary": {
         "shortName": "Wiktionary",
@@ -4496,7 +4496,7 @@
         "languageCode": "jv",
         "group": "wiki",
         "logo": "//jv.wikipedia.org/static/images/project-logos/jvwiki.png",
-        "mobileUrl": "https://jv.m.wikipedia.org"
+        "mobileUrl": "https://jv.wikipedia.org"
     },
     "jvwiktionary": {
         "shortName": "Wikisastra",
@@ -4529,7 +4529,7 @@
         "languageCode": "ka",
         "group": "wiki",
         "logo": "//ka.wikipedia.org/static/images/project-logos/kawiki.png",
-        "mobileUrl": "https://ka.m.wikipedia.org"
+        "mobileUrl": "https://ka.wikipedia.org"
     },
     "kawiktionary": {
         "shortName": "ვიქსიკონი",
@@ -4584,7 +4584,7 @@
         "languageCode": "kaa",
         "group": "wiki",
         "logo": "//kaa.wikipedia.org/static/images/project-logos/kaawiki.png",
-        "mobileUrl": "https://kaa.m.wikipedia.org"
+        "mobileUrl": "https://kaa.wikipedia.org"
     },
     "kaawiktionary": {
         "shortName": "Wikisózlik",
@@ -4606,7 +4606,7 @@
         "languageCode": "kab",
         "group": "wiki",
         "logo": "//kab.wikipedia.org/static/images/project-logos/kabwiki.png",
-        "mobileUrl": "https://kab.m.wikipedia.org"
+        "mobileUrl": "https://kab.wikipedia.org"
     },
     "kbdwiki": {
         "shortName": "Уикипедиэ",
@@ -4617,7 +4617,7 @@
         "languageCode": "kbd",
         "group": "wiki",
         "logo": "//kbd.wikipedia.org/static/images/project-logos/kbdwiki.png",
-        "mobileUrl": "https://kbd.m.wikipedia.org"
+        "mobileUrl": "https://kbd.wikipedia.org"
     },
     "kbdwiktionary": {
         "shortName": "Википсалъалъэ",
@@ -4639,7 +4639,7 @@
         "languageCode": "kbp",
         "group": "wiki",
         "logo": "//kbp.wikipedia.org/static/images/project-logos/kbpwiki.png",
-        "mobileUrl": "https://kbp.m.wikipedia.org"
+        "mobileUrl": "https://kbp.wikipedia.org"
     },
     "kcgwiki": {
         "shortName": "Wikipedia",
@@ -4650,7 +4650,7 @@
         "languageCode": "kcg",
         "group": "wiki",
         "logo": "//kcg.wikipedia.org/static/images/project-logos/kcgwiki.png",
-        "mobileUrl": "https://kcg.m.wikipedia.org"
+        "mobileUrl": "https://kcg.wikipedia.org"
     },
     "kcgwiktionary": {
         "shortName": "Swánga̱lyiatwuki",
@@ -4672,7 +4672,7 @@
         "languageCode": "kg",
         "group": "wiki",
         "logo": "//kg.wikipedia.org/static/images/project-logos/kgwiki.png",
-        "mobileUrl": "https://kg.m.wikipedia.org"
+        "mobileUrl": "https://kg.wikipedia.org"
     },
     "kgewiki": {
         "shortName": "Wikipidiya",
@@ -4683,7 +4683,7 @@
         "languageCode": "kge",
         "group": "wiki",
         "logo": "//kge.wikipedia.org/static/images/project-logos/kgewiki.png",
-        "mobileUrl": "https://kge.m.wikipedia.org"
+        "mobileUrl": "https://kge.wikipedia.org"
     },
     "kiwiki": {
         "shortName": "Wikipedia",
@@ -4694,7 +4694,7 @@
         "languageCode": "ki",
         "group": "wiki",
         "logo": "//ki.wikipedia.org/static/images/project-logos/kiwiki.png",
-        "mobileUrl": "https://ki.m.wikipedia.org"
+        "mobileUrl": "https://ki.wikipedia.org"
     },
     "kjwiki": {
         "shortName": "Wikipedia",
@@ -4705,7 +4705,7 @@
         "languageCode": "kj",
         "group": "wiki",
         "logo": "//kj.wikipedia.org/static/images/project-logos/kjwiki.png",
-        "mobileUrl": "https://kj.m.wikipedia.org"
+        "mobileUrl": "https://kj.wikipedia.org"
     },
     "kkwiki": {
         "shortName": "Уикипедия",
@@ -4716,7 +4716,7 @@
         "languageCode": "kk",
         "group": "wiki",
         "logo": "//kk.wikipedia.org/static/images/project-logos/kkwiki.png",
-        "mobileUrl": "https://kk.m.wikipedia.org"
+        "mobileUrl": "https://kk.wikipedia.org"
     },
     "kkwiktionary": {
         "shortName": "Уикисөздік",
@@ -4760,7 +4760,7 @@
         "languageCode": "kl",
         "group": "wiki",
         "logo": "//kl.wikipedia.org/static/images/project-logos/klwiki.png",
-        "mobileUrl": "https://kl.m.wikipedia.org"
+        "mobileUrl": "https://kl.wikipedia.org"
     },
     "klwiktionary": {
         "shortName": "Wiktionary",
@@ -4782,7 +4782,7 @@
         "languageCode": "km",
         "group": "wiki",
         "logo": "//km.wikipedia.org/static/images/project-logos/kmwiki.png",
-        "mobileUrl": "https://km.m.wikipedia.org"
+        "mobileUrl": "https://km.wikipedia.org"
     },
     "kmwiktionary": {
         "shortName": "Wiktionary",
@@ -4815,7 +4815,7 @@
         "languageCode": "kn",
         "group": "wiki",
         "logo": "//kn.wikipedia.org/static/images/project-logos/knwiki.png",
-        "mobileUrl": "https://kn.m.wikipedia.org"
+        "mobileUrl": "https://kn.wikipedia.org"
     },
     "knwiktionary": {
         "shortName": "ವಿಕ್ಷನರಿ",
@@ -4870,7 +4870,7 @@
         "languageCode": "knc",
         "group": "wiki",
         "logo": "//knc.wikipedia.org/static/images/project-logos/enwiki.png",
-        "mobileUrl": "https://knc.m.wikipedia.org"
+        "mobileUrl": "https://knc.wikipedia.org"
     },
     "kowiki": {
         "shortName": "위키백과",
@@ -4881,7 +4881,7 @@
         "languageCode": "ko",
         "group": "wiki",
         "logo": "//ko.wikipedia.org/static/images/project-logos/kowiki.png",
-        "mobileUrl": "https://ko.m.wikipedia.org"
+        "mobileUrl": "https://ko.wikipedia.org"
     },
     "kowiktionary": {
         "shortName": "위키낱말사전",
@@ -4958,7 +4958,7 @@
         "languageCode": "koi",
         "group": "wiki",
         "logo": "//koi.wikipedia.org/static/images/project-logos/koiwiki.png",
-        "mobileUrl": "https://koi.m.wikipedia.org"
+        "mobileUrl": "https://koi.wikipedia.org"
     },
     "krwiki": {
         "shortName": "Wikipedia",
@@ -4969,7 +4969,7 @@
         "languageCode": "kr",
         "group": "wiki",
         "logo": "//kr.wikipedia.org/static/images/project-logos/krwiki.png",
-        "mobileUrl": "https://kr.m.wikipedia.org"
+        "mobileUrl": "https://kr.wikipedia.org"
     },
     "krwikiquote": {
         "shortName": "Wikiquote",
@@ -4991,7 +4991,7 @@
         "languageCode": "krc",
         "group": "wiki",
         "logo": "//krc.wikipedia.org/static/images/project-logos/krcwiki.png",
-        "mobileUrl": "https://krc.m.wikipedia.org"
+        "mobileUrl": "https://krc.wikipedia.org"
     },
     "kswiki": {
         "shortName": "وِکیٖپیٖڈیا",
@@ -5002,7 +5002,7 @@
         "languageCode": "ks",
         "group": "wiki",
         "logo": "//ks.wikipedia.org/static/images/project-logos/kswiki.png",
-        "mobileUrl": "https://ks.m.wikipedia.org"
+        "mobileUrl": "https://ks.wikipedia.org"
     },
     "kswiktionary": {
         "shortName": "وِکیٖلۄغَتھ",
@@ -5046,7 +5046,7 @@
         "languageCode": "ksh",
         "group": "wiki",
         "logo": "//ksh.wikipedia.org/static/images/project-logos/kshwiki.png",
-        "mobileUrl": "https://ksh.m.wikipedia.org"
+        "mobileUrl": "https://ksh.wikipedia.org"
     },
     "kuwiki": {
         "shortName": "Wîkîpediya",
@@ -5057,7 +5057,7 @@
         "languageCode": "ku",
         "group": "wiki",
         "logo": "//ku.wikipedia.org/static/images/project-logos/kuwiki.png",
-        "mobileUrl": "https://ku.m.wikipedia.org"
+        "mobileUrl": "https://ku.wikipedia.org"
     },
     "kuwiktionary": {
         "shortName": "Wîkîferheng",
@@ -5101,7 +5101,7 @@
         "languageCode": "kus",
         "group": "wiki",
         "logo": "//kus.wikipedia.org/static/images/project-logos/kuswiki.png",
-        "mobileUrl": "https://kus.m.wikipedia.org"
+        "mobileUrl": "https://kus.wikipedia.org"
     },
     "kvwiki": {
         "shortName": "Wikipedia",
@@ -5112,7 +5112,7 @@
         "languageCode": "kv",
         "group": "wiki",
         "logo": "//kv.wikipedia.org/static/images/project-logos/kvwiki.png",
-        "mobileUrl": "https://kv.m.wikipedia.org"
+        "mobileUrl": "https://kv.wikipedia.org"
     },
     "kwwiki": {
         "shortName": "Wikipedia",
@@ -5123,7 +5123,7 @@
         "languageCode": "kw",
         "group": "wiki",
         "logo": "//kw.wikipedia.org/static/images/project-logos/kwwiki.png",
-        "mobileUrl": "https://kw.m.wikipedia.org"
+        "mobileUrl": "https://kw.wikipedia.org"
     },
     "kwwiktionary": {
         "shortName": "Wiktionary",
@@ -5156,7 +5156,7 @@
         "languageCode": "ky",
         "group": "wiki",
         "logo": "//ky.wikipedia.org/static/images/project-logos/kywiki.png",
-        "mobileUrl": "https://ky.m.wikipedia.org"
+        "mobileUrl": "https://ky.wikipedia.org"
     },
     "kywiktionary": {
         "shortName": "Wiktionary",
@@ -5200,7 +5200,7 @@
         "languageCode": "la",
         "group": "wiki",
         "logo": "//la.wikipedia.org/static/images/project-logos/lawiki.png",
-        "mobileUrl": "https://la.m.wikipedia.org"
+        "mobileUrl": "https://la.wikipedia.org"
     },
     "lawiktionary": {
         "shortName": "Victionarium",
@@ -5255,7 +5255,7 @@
         "languageCode": "lad",
         "group": "wiki",
         "logo": "//lad.wikipedia.org/static/images/project-logos/ladwiki.png",
-        "mobileUrl": "https://lad.m.wikipedia.org"
+        "mobileUrl": "https://lad.wikipedia.org"
     },
     "lbwiki": {
         "shortName": "Wikipedia",
@@ -5266,7 +5266,7 @@
         "languageCode": "lb",
         "group": "wiki",
         "logo": "//lb.wikipedia.org/static/images/project-logos/lbwiki.png",
-        "mobileUrl": "https://lb.m.wikipedia.org"
+        "mobileUrl": "https://lb.wikipedia.org"
     },
     "lbwiktionary": {
         "shortName": "Wiktionnaire",
@@ -5310,7 +5310,7 @@
         "languageCode": "lbe",
         "group": "wiki",
         "logo": "//lbe.wikipedia.org/static/images/project-logos/lbewiki.png",
-        "mobileUrl": "https://lbe.m.wikipedia.org"
+        "mobileUrl": "https://lbe.wikipedia.org"
     },
     "lezwiki": {
         "shortName": "Википедия",
@@ -5321,7 +5321,7 @@
         "languageCode": "lez",
         "group": "wiki",
         "logo": "//lez.wikipedia.org/static/images/project-logos/lezwiki.png",
-        "mobileUrl": "https://lez.m.wikipedia.org"
+        "mobileUrl": "https://lez.wikipedia.org"
     },
     "lfnwiki": {
         "shortName": "Vicipedia",
@@ -5332,7 +5332,7 @@
         "languageCode": "lfn",
         "group": "wiki",
         "logo": "//lfn.wikipedia.org/static/images/project-logos/lfnwiki.png",
-        "mobileUrl": "https://lfn.m.wikipedia.org"
+        "mobileUrl": "https://lfn.wikipedia.org"
     },
     "lgwiki": {
         "shortName": "Wikipedia",
@@ -5343,7 +5343,7 @@
         "languageCode": "lg",
         "group": "wiki",
         "logo": "//lg.wikipedia.org/static/images/project-logos/lgwiki.png",
-        "mobileUrl": "https://lg.m.wikipedia.org"
+        "mobileUrl": "https://lg.wikipedia.org"
     },
     "liwiki": {
         "shortName": "Wikipedia",
@@ -5354,7 +5354,7 @@
         "languageCode": "li",
         "group": "wiki",
         "logo": "//li.wikipedia.org/static/images/project-logos/liwiki.png",
-        "mobileUrl": "https://li.m.wikipedia.org"
+        "mobileUrl": "https://li.wikipedia.org"
     },
     "liwiktionary": {
         "shortName": "Wiktionary",
@@ -5420,7 +5420,7 @@
         "languageCode": "lij",
         "group": "wiki",
         "logo": "//lij.wikipedia.org/static/images/project-logos/lijwiki.png",
-        "mobileUrl": "https://lij.m.wikipedia.org"
+        "mobileUrl": "https://lij.wikipedia.org"
     },
     "lijwikisource": {
         "shortName": "Wikivivàgna",
@@ -5442,7 +5442,7 @@
         "languageCode": "lld",
         "group": "wiki",
         "logo": "//lld.wikipedia.org/static/images/project-logos/lldwiki.png",
-        "mobileUrl": "https://lld.m.wikipedia.org"
+        "mobileUrl": "https://lld.wikipedia.org"
     },
     "lmowiki": {
         "shortName": "Wikipedia",
@@ -5453,7 +5453,7 @@
         "languageCode": "lmo",
         "group": "wiki",
         "logo": "//lmo.wikipedia.org/static/images/project-logos/lmowiki.png",
-        "mobileUrl": "https://lmo.m.wikipedia.org"
+        "mobileUrl": "https://lmo.wikipedia.org"
     },
     "lmowiktionary": {
         "shortName": "Wiktionary",
@@ -5475,7 +5475,7 @@
         "languageCode": "ln",
         "group": "wiki",
         "logo": "//ln.wikipedia.org/static/images/project-logos/lnwiki.png",
-        "mobileUrl": "https://ln.m.wikipedia.org"
+        "mobileUrl": "https://ln.wikipedia.org"
     },
     "lnwiktionary": {
         "shortName": "Wiktionary",
@@ -5508,7 +5508,7 @@
         "languageCode": "lo",
         "group": "wiki",
         "logo": "//lo.wikipedia.org/static/images/project-logos/lowiki.png",
-        "mobileUrl": "https://lo.m.wikipedia.org"
+        "mobileUrl": "https://lo.wikipedia.org"
     },
     "lowiktionary": {
         "shortName": "Wiktionary",
@@ -5530,7 +5530,7 @@
         "languageCode": "lrc",
         "group": "wiki",
         "logo": "//lrc.wikipedia.org/static/images/project-logos/lrcwiki.png",
-        "mobileUrl": "https://lrc.m.wikipedia.org"
+        "mobileUrl": "https://lrc.wikipedia.org"
     },
     "ltwiki": {
         "shortName": "Vikipedija",
@@ -5541,7 +5541,7 @@
         "languageCode": "lt",
         "group": "wiki",
         "logo": "//lt.wikipedia.org/static/images/project-logos/ltwiki.png",
-        "mobileUrl": "https://lt.m.wikipedia.org"
+        "mobileUrl": "https://lt.wikipedia.org"
     },
     "ltwiktionary": {
         "shortName": "Vikižodynas",
@@ -5596,7 +5596,7 @@
         "languageCode": "ltg",
         "group": "wiki",
         "logo": "//ltg.wikipedia.org/static/images/project-logos/ltgwiki.png",
-        "mobileUrl": "https://ltg.m.wikipedia.org"
+        "mobileUrl": "https://ltg.wikipedia.org"
     },
     "lvwiki": {
         "shortName": "Vikipēdija",
@@ -5607,7 +5607,7 @@
         "languageCode": "lv",
         "group": "wiki",
         "logo": "//lv.wikipedia.org/static/images/project-logos/lvwiki.png",
-        "mobileUrl": "https://lv.m.wikipedia.org"
+        "mobileUrl": "https://lv.wikipedia.org"
     },
     "lvwiktionary": {
         "shortName": "Wiktionary",
@@ -5640,7 +5640,7 @@
         "languageCode": "lzh",
         "group": "wiki",
         "logo": "//zh-classical.wikipedia.org/static/images/project-logos/zh_classicalwiki.png",
-        "mobileUrl": "https://zh-classical.m.wikipedia.org"
+        "mobileUrl": "https://zh-classical.wikipedia.org"
     },
     "madwiki": {
         "shortName": "Wikipedia",
@@ -5651,7 +5651,7 @@
         "languageCode": "mad",
         "group": "wiki",
         "logo": "//mad.wikipedia.org/static/images/project-logos/madwiki.png",
-        "mobileUrl": "https://mad.m.wikipedia.org"
+        "mobileUrl": "https://mad.wikipedia.org"
     },
     "madwiktionary": {
         "shortName": "Wikikamus",
@@ -5684,7 +5684,7 @@
         "languageCode": "mai",
         "group": "wiki",
         "logo": "//mai.wikipedia.org/static/images/project-logos/maiwiki.png",
-        "mobileUrl": "https://mai.m.wikipedia.org"
+        "mobileUrl": "https://mai.wikipedia.org"
     },
     "map_bmswiki": {
         "shortName": "Wikipedia",
@@ -5695,7 +5695,7 @@
         "languageCode": "map-bms",
         "group": "wiki",
         "logo": "//map-bms.wikipedia.org/static/images/project-logos/idwiki.png",
-        "mobileUrl": "https://map-bms.m.wikipedia.org"
+        "mobileUrl": "https://map-bms.wikipedia.org"
     },
     "mdfwiki": {
         "shortName": "Википедиесь",
@@ -5706,7 +5706,7 @@
         "languageCode": "mdf",
         "group": "wiki",
         "logo": "//mdf.wikipedia.org/static/images/project-logos/mdfwiki.png",
-        "mobileUrl": "https://mdf.m.wikipedia.org"
+        "mobileUrl": "https://mdf.wikipedia.org"
     },
     "mgwiki": {
         "shortName": "Wikipedia",
@@ -5717,7 +5717,7 @@
         "languageCode": "mg",
         "group": "wiki",
         "logo": "//mg.wikipedia.org/static/images/project-logos/mgwiki.png",
-        "mobileUrl": "https://mg.m.wikipedia.org"
+        "mobileUrl": "https://mg.wikipedia.org"
     },
     "mgwiktionary": {
         "shortName": "Wiktionary",
@@ -5750,7 +5750,7 @@
         "languageCode": "mh",
         "group": "wiki",
         "logo": "//mh.wikipedia.org/static/images/project-logos/mhwiki.png",
-        "mobileUrl": "https://mh.m.wikipedia.org"
+        "mobileUrl": "https://mh.wikipedia.org"
     },
     "mhwiktionary": {
         "shortName": "Wiktionary",
@@ -5772,7 +5772,7 @@
         "languageCode": "mhr",
         "group": "wiki",
         "logo": "//mhr.wikipedia.org/static/images/project-logos/mhrwiki.png",
-        "mobileUrl": "https://mhr.m.wikipedia.org"
+        "mobileUrl": "https://mhr.wikipedia.org"
     },
     "miwiki": {
         "shortName": "Wikipedia",
@@ -5783,7 +5783,7 @@
         "languageCode": "mi",
         "group": "wiki",
         "logo": "//mi.wikipedia.org/static/images/project-logos/miwiki.png",
-        "mobileUrl": "https://mi.m.wikipedia.org"
+        "mobileUrl": "https://mi.wikipedia.org"
     },
     "miwiktionary": {
         "shortName": "Wiktionary",
@@ -5816,7 +5816,7 @@
         "languageCode": "min",
         "group": "wiki",
         "logo": "//min.wikipedia.org/static/images/project-logos/minwiki.png",
-        "mobileUrl": "https://min.m.wikipedia.org"
+        "mobileUrl": "https://min.wikipedia.org"
     },
     "minwiktionary": {
         "shortName": "Wikikato",
@@ -5849,7 +5849,7 @@
         "languageCode": "mk",
         "group": "wiki",
         "logo": "//mk.wikipedia.org/static/images/project-logos/mkwiki.png",
-        "mobileUrl": "https://mk.m.wikipedia.org"
+        "mobileUrl": "https://mk.wikipedia.org"
     },
     "mkwiktionary": {
         "shortName": "Викиречник",
@@ -5893,7 +5893,7 @@
         "languageCode": "ml",
         "group": "wiki",
         "logo": "//ml.wikipedia.org/static/images/project-logos/mlwiki.png",
-        "mobileUrl": "https://ml.m.wikipedia.org"
+        "mobileUrl": "https://ml.wikipedia.org"
     },
     "mlwiktionary": {
         "shortName": "വിക്കിനിഘണ്ടു",
@@ -5948,7 +5948,7 @@
         "languageCode": "mn",
         "group": "wiki",
         "logo": "//mn.wikipedia.org/static/images/project-logos/mnwiki.png",
-        "mobileUrl": "https://mn.m.wikipedia.org"
+        "mobileUrl": "https://mn.wikipedia.org"
     },
     "mnwiktionary": {
         "shortName": "Викитоль",
@@ -5981,7 +5981,7 @@
         "languageCode": "mni",
         "group": "wiki",
         "logo": "//mni.wikipedia.org/static/images/project-logos/mniwiki.png",
-        "mobileUrl": "https://mni.m.wikipedia.org"
+        "mobileUrl": "https://mni.wikipedia.org"
     },
     "mniwiktionary": {
         "shortName": "ꯋꯤꯛꯁꯟꯅꯔꯤ",
@@ -6003,7 +6003,7 @@
         "languageCode": "mnw",
         "group": "wiki",
         "logo": "//mnw.wikipedia.org/static/images/project-logos/mnwwiki.png",
-        "mobileUrl": "https://mnw.m.wikipedia.org"
+        "mobileUrl": "https://mnw.wikipedia.org"
     },
     "mnwwiktionary": {
         "shortName": "ဝိက်ရှေန်နရဳ",
@@ -6025,7 +6025,7 @@
         "languageCode": "mos",
         "group": "wiki",
         "logo": "//mos.wikipedia.org/static/images/project-logos/moswiki.png",
-        "mobileUrl": "https://mos.m.wikipedia.org"
+        "mobileUrl": "https://mos.wikipedia.org"
     },
     "mrwiki": {
         "shortName": "विकिपीडिया",
@@ -6036,7 +6036,7 @@
         "languageCode": "mr",
         "group": "wiki",
         "logo": "//mr.wikipedia.org/static/images/project-logos/mrwiki.png",
-        "mobileUrl": "https://mr.m.wikipedia.org"
+        "mobileUrl": "https://mr.wikipedia.org"
     },
     "mrwiktionary": {
         "shortName": "Wiktionary",
@@ -6091,7 +6091,7 @@
         "languageCode": "mrj",
         "group": "wiki",
         "logo": "//mrj.wikipedia.org/static/images/project-logos/mrjwiki.png",
-        "mobileUrl": "https://mrj.m.wikipedia.org"
+        "mobileUrl": "https://mrj.wikipedia.org"
     },
     "mswiki": {
         "shortName": "Wikipedia",
@@ -6102,7 +6102,7 @@
         "languageCode": "ms",
         "group": "wiki",
         "logo": "//ms.wikipedia.org/static/images/project-logos/mswiki.png",
-        "mobileUrl": "https://ms.m.wikipedia.org"
+        "mobileUrl": "https://ms.wikipedia.org"
     },
     "mswiktionary": {
         "shortName": "Wikikamus",
@@ -6157,7 +6157,7 @@
         "languageCode": "mt",
         "group": "wiki",
         "logo": "//mt.wikipedia.org/static/images/project-logos/mtwiki.png",
-        "mobileUrl": "https://mt.m.wikipedia.org"
+        "mobileUrl": "https://mt.wikipedia.org"
     },
     "mtwiktionary": {
         "shortName": "Wikizzjunarju",
@@ -6179,7 +6179,7 @@
         "languageCode": "mus",
         "group": "wiki",
         "logo": "//mus.wikipedia.org/static/images/project-logos/muswiki.png",
-        "mobileUrl": "https://mus.m.wikipedia.org"
+        "mobileUrl": "https://mus.wikipedia.org"
     },
     "mwlwiki": {
         "shortName": "Biquipédia",
@@ -6190,7 +6190,7 @@
         "languageCode": "mwl",
         "group": "wiki",
         "logo": "//mwl.wikipedia.org/static/images/project-logos/mwlwiki.png",
-        "mobileUrl": "https://mwl.m.wikipedia.org"
+        "mobileUrl": "https://mwl.wikipedia.org"
     },
     "mywiki": {
         "shortName": "ဝီကီပီးဒီးယား",
@@ -6201,7 +6201,7 @@
         "languageCode": "my",
         "group": "wiki",
         "logo": "//my.wikipedia.org/static/images/project-logos/mywiki.png",
-        "mobileUrl": "https://my.m.wikipedia.org"
+        "mobileUrl": "https://my.wikipedia.org"
     },
     "mywiktionary": {
         "shortName": "ဝစ်ရှင်နရီ",
@@ -6245,7 +6245,7 @@
         "languageCode": "myv",
         "group": "wiki",
         "logo": "//myv.wikipedia.org/static/images/project-logos/myvwiki.png",
-        "mobileUrl": "https://myv.m.wikipedia.org"
+        "mobileUrl": "https://myv.wikipedia.org"
     },
     "mznwiki": {
         "shortName": "ویکی‌پدیا",
@@ -6256,7 +6256,7 @@
         "languageCode": "mzn",
         "group": "wiki",
         "logo": "//mzn.wikipedia.org/static/images/project-logos/mznwiki.png",
-        "mobileUrl": "https://mzn.m.wikipedia.org"
+        "mobileUrl": "https://mzn.wikipedia.org"
     },
     "nawiki": {
         "shortName": "Wikipedia",
@@ -6267,7 +6267,7 @@
         "languageCode": "na",
         "group": "wiki",
         "logo": "//na.wikipedia.org/static/images/project-logos/nawiki.png",
-        "mobileUrl": "https://na.m.wikipedia.org"
+        "mobileUrl": "https://na.wikipedia.org"
     },
     "nawiktionary": {
         "shortName": "Wiktionary",
@@ -6311,7 +6311,7 @@
         "languageCode": "nah",
         "group": "wiki",
         "logo": "//nah.wikipedia.org/static/images/project-logos/nahwiki.png",
-        "mobileUrl": "https://nah.m.wikipedia.org"
+        "mobileUrl": "https://nah.wikipedia.org"
     },
     "nahwiktionary": {
         "shortName": "Wiktionary",
@@ -6344,7 +6344,7 @@
         "languageCode": "nan",
         "group": "wiki",
         "logo": "//zh-min-nan.wikipedia.org/static/images/project-logos/zh_min_nanwiki.png",
-        "mobileUrl": "https://zh-min-nan.m.wikipedia.org"
+        "mobileUrl": "https://zh-min-nan.wikipedia.org"
     },
     "zh_min_nanwiktionary": {
         "shortName": "Wiktionary",
@@ -6399,7 +6399,7 @@
         "languageCode": "nap",
         "group": "wiki",
         "logo": "//nap.wikipedia.org/static/images/project-logos/napwiki.png",
-        "mobileUrl": "https://nap.m.wikipedia.org"
+        "mobileUrl": "https://nap.wikipedia.org"
     },
     "napwikisource": {
         "shortName": "Wikisource",
@@ -6421,7 +6421,7 @@
         "languageCode": "nds",
         "group": "wiki",
         "logo": "//nds.wikipedia.org/static/images/project-logos/ndswiki.png",
-        "mobileUrl": "https://nds.m.wikipedia.org"
+        "mobileUrl": "https://nds.wikipedia.org"
     },
     "ndswiktionary": {
         "shortName": "Wiktionary",
@@ -6465,7 +6465,7 @@
         "languageCode": "nds-nl",
         "group": "wiki",
         "logo": "//nds-nl.wikipedia.org/static/images/project-logos/nds_nlwiki.png",
-        "mobileUrl": "https://nds-nl.m.wikipedia.org"
+        "mobileUrl": "https://nds-nl.wikipedia.org"
     },
     "newiki": {
         "shortName": "विकिपिडिया",
@@ -6476,7 +6476,7 @@
         "languageCode": "ne",
         "group": "wiki",
         "logo": "//ne.wikipedia.org/static/images/project-logos/newiki.png",
-        "mobileUrl": "https://ne.m.wikipedia.org"
+        "mobileUrl": "https://ne.wikipedia.org"
     },
     "newiktionary": {
         "shortName": "Wiktionary",
@@ -6509,7 +6509,7 @@
         "languageCode": "new",
         "group": "wiki",
         "logo": "//new.wikipedia.org/static/images/project-logos/newwiki.png",
-        "mobileUrl": "https://new.m.wikipedia.org"
+        "mobileUrl": "https://new.wikipedia.org"
     },
     "ngwiki": {
         "shortName": "Wikipedia",
@@ -6520,7 +6520,7 @@
         "languageCode": "ng",
         "group": "wiki",
         "logo": "//ng.wikipedia.org/static/images/project-logos/ngwiki.png",
-        "mobileUrl": "https://ng.m.wikipedia.org"
+        "mobileUrl": "https://ng.wikipedia.org"
     },
     "niawiki": {
         "shortName": "Wikipedia",
@@ -6531,7 +6531,7 @@
         "languageCode": "nia",
         "group": "wiki",
         "logo": "//nia.wikipedia.org/static/images/project-logos/niawiki.png",
-        "mobileUrl": "https://nia.m.wikipedia.org"
+        "mobileUrl": "https://nia.wikipedia.org"
     },
     "niawiktionary": {
         "shortName": "Wiktionary",
@@ -6553,7 +6553,7 @@
         "languageCode": "nl",
         "group": "wiki",
         "logo": "//nl.wikipedia.org/static/images/project-logos/nlwiki.png",
-        "mobileUrl": "https://nl.m.wikipedia.org"
+        "mobileUrl": "https://nl.wikipedia.org"
     },
     "nlwiktionary": {
         "shortName": "WikiWoordenboek",
@@ -6630,7 +6630,7 @@
         "languageCode": "nn",
         "group": "wiki",
         "logo": "//nn.wikipedia.org/static/images/project-logos/nnwiki.png",
-        "mobileUrl": "https://nn.m.wikipedia.org"
+        "mobileUrl": "https://nn.wikipedia.org"
     },
     "nnwiktionary": {
         "shortName": "Wiktionary",
@@ -6663,7 +6663,7 @@
         "languageCode": "nb",
         "group": "wiki",
         "logo": "//no.wikipedia.org/static/images/project-logos/nowiki.png",
-        "mobileUrl": "https://no.m.wikipedia.org"
+        "mobileUrl": "https://no.wikipedia.org"
     },
     "nowiktionary": {
         "shortName": "Wiktionary",
@@ -6729,7 +6729,7 @@
         "languageCode": "nov",
         "group": "wiki",
         "logo": "//nov.wikipedia.org/static/images/project-logos/novwiki.png",
-        "mobileUrl": "https://nov.m.wikipedia.org"
+        "mobileUrl": "https://nov.wikipedia.org"
     },
     "nqowiki": {
         "shortName": "ߥߞߌߔߘߋߞߎ",
@@ -6740,7 +6740,7 @@
         "languageCode": "nqo",
         "group": "wiki",
         "logo": "//nqo.wikipedia.org/static/images/project-logos/nqowiki.png",
-        "mobileUrl": "https://nqo.m.wikipedia.org"
+        "mobileUrl": "https://nqo.wikipedia.org"
     },
     "nrwiki": {
         "shortName": "Wikiphidiya",
@@ -6751,7 +6751,7 @@
         "languageCode": "nr",
         "group": "wiki",
         "logo": "//nr.wikipedia.org/static/images/project-logos/enwiki.png",
-        "mobileUrl": "https://nr.m.wikipedia.org"
+        "mobileUrl": "https://nr.wikipedia.org"
     },
     "nrmwiki": {
         "shortName": "Wikipedia",
@@ -6762,7 +6762,7 @@
         "languageCode": "nrm",
         "group": "wiki",
         "logo": "//nrm.wikipedia.org/static/images/project-logos/nrmwiki.png",
-        "mobileUrl": "https://nrm.m.wikipedia.org"
+        "mobileUrl": "https://nrm.wikipedia.org"
     },
     "nsowiki": {
         "shortName": "Wikipedia",
@@ -6773,7 +6773,7 @@
         "languageCode": "nso",
         "group": "wiki",
         "logo": "//nso.wikipedia.org/static/images/project-logos/nsowiki.png",
-        "mobileUrl": "https://nso.m.wikipedia.org"
+        "mobileUrl": "https://nso.wikipedia.org"
     },
     "nupwiki": {
         "shortName": "Wikipedia",
@@ -6784,7 +6784,7 @@
         "languageCode": "nup",
         "group": "wiki",
         "logo": "//nup.wikipedia.org/static/images/project-logos/enwiki.png",
-        "mobileUrl": "https://nup.m.wikipedia.org"
+        "mobileUrl": "https://nup.wikipedia.org"
     },
     "nvwiki": {
         "shortName": "Wikipedia",
@@ -6795,7 +6795,7 @@
         "languageCode": "nv",
         "group": "wiki",
         "logo": "//nv.wikipedia.org/static/images/project-logos/nvwiki.png",
-        "mobileUrl": "https://nv.m.wikipedia.org"
+        "mobileUrl": "https://nv.wikipedia.org"
     },
     "nywiki": {
         "shortName": "Wikipedia",
@@ -6806,7 +6806,7 @@
         "languageCode": "ny",
         "group": "wiki",
         "logo": "//ny.wikipedia.org/static/images/project-logos/nywiki.png",
-        "mobileUrl": "https://ny.m.wikipedia.org"
+        "mobileUrl": "https://ny.wikipedia.org"
     },
     "ocwiki": {
         "shortName": "Wikipèdia",
@@ -6817,7 +6817,7 @@
         "languageCode": "oc",
         "group": "wiki",
         "logo": "//oc.wikipedia.org/static/images/project-logos/ocwiki.png",
-        "mobileUrl": "https://oc.m.wikipedia.org"
+        "mobileUrl": "https://oc.wikipedia.org"
     },
     "ocwiktionary": {
         "shortName": "Wikiccionari",
@@ -6850,7 +6850,7 @@
         "languageCode": "olo",
         "group": "wiki",
         "logo": "//olo.wikipedia.org/static/images/project-logos/olowiki.png",
-        "mobileUrl": "https://olo.m.wikipedia.org"
+        "mobileUrl": "https://olo.wikipedia.org"
     },
     "omwiki": {
         "shortName": "Wikipedia",
@@ -6861,7 +6861,7 @@
         "languageCode": "om",
         "group": "wiki",
         "logo": "//om.wikipedia.org/static/images/project-logos/omwiki.png",
-        "mobileUrl": "https://om.m.wikipedia.org"
+        "mobileUrl": "https://om.wikipedia.org"
     },
     "omwiktionary": {
         "shortName": "Wiktionary",
@@ -6883,7 +6883,7 @@
         "languageCode": "or",
         "group": "wiki",
         "logo": "//or.wikipedia.org/static/images/project-logos/orwiki.png",
-        "mobileUrl": "https://or.m.wikipedia.org"
+        "mobileUrl": "https://or.wikipedia.org"
     },
     "orwiktionary": {
         "shortName": "ଉଇକିଅଭିଧାନ",
@@ -6916,7 +6916,7 @@
         "languageCode": "os",
         "group": "wiki",
         "logo": "//os.wikipedia.org/static/images/project-logos/oswiki.png",
-        "mobileUrl": "https://os.m.wikipedia.org"
+        "mobileUrl": "https://os.wikipedia.org"
     },
     "pawiki": {
         "shortName": "ਵਿਕੀਪੀਡੀਆ",
@@ -6927,7 +6927,7 @@
         "languageCode": "pa",
         "group": "wiki",
         "logo": "//pa.wikipedia.org/static/images/project-logos/pawiki.png",
-        "mobileUrl": "https://pa.m.wikipedia.org"
+        "mobileUrl": "https://pa.wikipedia.org"
     },
     "pawiktionary": {
         "shortName": "Wiktionary",
@@ -6971,7 +6971,7 @@
         "languageCode": "pag",
         "group": "wiki",
         "logo": "//pag.wikipedia.org/static/images/project-logos/pagwiki.png",
-        "mobileUrl": "https://pag.m.wikipedia.org"
+        "mobileUrl": "https://pag.wikipedia.org"
     },
     "pamwiki": {
         "shortName": "Wikipedia",
@@ -6982,7 +6982,7 @@
         "languageCode": "pam",
         "group": "wiki",
         "logo": "//pam.wikipedia.org/static/images/project-logos/pamwiki.png",
-        "mobileUrl": "https://pam.m.wikipedia.org"
+        "mobileUrl": "https://pam.wikipedia.org"
     },
     "papwiki": {
         "shortName": "Wikipedia",
@@ -6993,7 +6993,7 @@
         "languageCode": "pap",
         "group": "wiki",
         "logo": "//pap.wikipedia.org/static/images/project-logos/papwiki.png",
-        "mobileUrl": "https://pap.m.wikipedia.org"
+        "mobileUrl": "https://pap.wikipedia.org"
     },
     "pcdwiki": {
         "shortName": "Wikipedia",
@@ -7004,7 +7004,7 @@
         "languageCode": "pcd",
         "group": "wiki",
         "logo": "//pcd.wikipedia.org/static/images/project-logos/pcdwiki.png",
-        "mobileUrl": "https://pcd.m.wikipedia.org"
+        "mobileUrl": "https://pcd.wikipedia.org"
     },
     "pcmwiki": {
         "shortName": "Wikipedia",
@@ -7015,7 +7015,7 @@
         "languageCode": "pcm",
         "group": "wiki",
         "logo": "//pcm.wikipedia.org/static/images/project-logos/pcmwiki.png",
-        "mobileUrl": "https://pcm.m.wikipedia.org"
+        "mobileUrl": "https://pcm.wikipedia.org"
     },
     "pdcwiki": {
         "shortName": "Wikipedia",
@@ -7026,7 +7026,7 @@
         "languageCode": "pdc",
         "group": "wiki",
         "logo": "//pdc.wikipedia.org/static/images/project-logos/pdcwiki.png",
-        "mobileUrl": "https://pdc.m.wikipedia.org"
+        "mobileUrl": "https://pdc.wikipedia.org"
     },
     "pflwiki": {
         "shortName": "Wikipedia",
@@ -7037,7 +7037,7 @@
         "languageCode": "pfl",
         "group": "wiki",
         "logo": "//pfl.wikipedia.org/static/images/project-logos/pflwiki.png",
-        "mobileUrl": "https://pfl.m.wikipedia.org"
+        "mobileUrl": "https://pfl.wikipedia.org"
     },
     "piwiki": {
         "shortName": "Wikipedia",
@@ -7048,7 +7048,7 @@
         "languageCode": "pi",
         "group": "wiki",
         "logo": "//pi.wikipedia.org/static/images/project-logos/piwiki.png",
-        "mobileUrl": "https://pi.m.wikipedia.org"
+        "mobileUrl": "https://pi.wikipedia.org"
     },
     "piwiktionary": {
         "shortName": "Wiktionary",
@@ -7070,7 +7070,7 @@
         "languageCode": "pih",
         "group": "wiki",
         "logo": "//pih.wikipedia.org/static/images/project-logos/pihwiki.png",
-        "mobileUrl": "https://pih.m.wikipedia.org"
+        "mobileUrl": "https://pih.wikipedia.org"
     },
     "plwiki": {
         "shortName": "Wikipedia",
@@ -7081,7 +7081,7 @@
         "languageCode": "pl",
         "group": "wiki",
         "logo": "//pl.wikipedia.org/static/images/project-logos/plwiki.png",
-        "mobileUrl": "https://pl.m.wikipedia.org"
+        "mobileUrl": "https://pl.wikipedia.org"
     },
     "plwiktionary": {
         "shortName": "Wikisłownik",
@@ -7158,7 +7158,7 @@
         "languageCode": "pms",
         "group": "wiki",
         "logo": "//pms.wikipedia.org/static/images/project-logos/pmswiki.png",
-        "mobileUrl": "https://pms.m.wikipedia.org"
+        "mobileUrl": "https://pms.wikipedia.org"
     },
     "pmswikisource": {
         "shortName": "Wikisource",
@@ -7180,7 +7180,7 @@
         "languageCode": "pnb",
         "group": "wiki",
         "logo": "//pnb.wikipedia.org/static/images/project-logos/pnbwiki.png",
-        "mobileUrl": "https://pnb.m.wikipedia.org"
+        "mobileUrl": "https://pnb.wikipedia.org"
     },
     "pnbwiktionary": {
         "shortName": "وکشنری",
@@ -7202,7 +7202,7 @@
         "languageCode": "pnt",
         "group": "wiki",
         "logo": "//pnt.wikipedia.org/static/images/project-logos/pntwiki.png",
-        "mobileUrl": "https://pnt.m.wikipedia.org"
+        "mobileUrl": "https://pnt.wikipedia.org"
     },
     "pswiki": {
         "shortName": "ويکيپېډيا",
@@ -7213,7 +7213,7 @@
         "languageCode": "ps",
         "group": "wiki",
         "logo": "//ps.wikipedia.org/static/images/project-logos/pswiki.png",
-        "mobileUrl": "https://ps.m.wikipedia.org"
+        "mobileUrl": "https://ps.wikipedia.org"
     },
     "pswiktionary": {
         "shortName": "ويکيسيند",
@@ -7257,7 +7257,7 @@
         "languageCode": "pt",
         "group": "wiki",
         "logo": "//pt.wikipedia.org/static/images/project-logos/ptwiki.png",
-        "mobileUrl": "https://pt.m.wikipedia.org"
+        "mobileUrl": "https://pt.wikipedia.org"
     },
     "ptwiktionary": {
         "shortName": "Wikcionário",
@@ -7345,7 +7345,7 @@
         "languageCode": "pwn",
         "group": "wiki",
         "logo": "//pwn.wikipedia.org/static/images/project-logos/pwnwiki.png",
-        "mobileUrl": "https://pwn.m.wikipedia.org"
+        "mobileUrl": "https://pwn.wikipedia.org"
     },
     "quwiki": {
         "shortName": "Wikipedia",
@@ -7356,7 +7356,7 @@
         "languageCode": "qu",
         "group": "wiki",
         "logo": "//qu.wikipedia.org/static/images/project-logos/quwiki.png",
-        "mobileUrl": "https://qu.m.wikipedia.org"
+        "mobileUrl": "https://qu.wikipedia.org"
     },
     "quwiktionary": {
         "shortName": "Wiktionary",
@@ -7400,7 +7400,7 @@
         "languageCode": "rki",
         "group": "wiki",
         "logo": "//rki.wikipedia.org/static/images/project-logos/rkiwiki.png",
-        "mobileUrl": "https://rki.m.wikipedia.org"
+        "mobileUrl": "https://rki.wikipedia.org"
     },
     "rmwiki": {
         "shortName": "Wikipedia",
@@ -7411,7 +7411,7 @@
         "languageCode": "rm",
         "group": "wiki",
         "logo": "//rm.wikipedia.org/static/images/project-logos/rmwiki.png",
-        "mobileUrl": "https://rm.m.wikipedia.org"
+        "mobileUrl": "https://rm.wikipedia.org"
     },
     "rmwiktionary": {
         "shortName": "Wiktionary",
@@ -7444,7 +7444,7 @@
         "languageCode": "rmy",
         "group": "wiki",
         "logo": "//rmy.wikipedia.org/static/images/project-logos/rmywiki.png",
-        "mobileUrl": "https://rmy.m.wikipedia.org"
+        "mobileUrl": "https://rmy.wikipedia.org"
     },
     "rnwiki": {
         "shortName": "Wikipedia",
@@ -7455,7 +7455,7 @@
         "languageCode": "rn",
         "group": "wiki",
         "logo": "//rn.wikipedia.org/static/images/project-logos/rnwiki.png",
-        "mobileUrl": "https://rn.m.wikipedia.org"
+        "mobileUrl": "https://rn.wikipedia.org"
     },
     "rnwiktionary": {
         "shortName": "Wiktionary",
@@ -7477,7 +7477,7 @@
         "languageCode": "ro",
         "group": "wiki",
         "logo": "//ro.wikipedia.org/static/images/project-logos/rowiki.png",
-        "mobileUrl": "https://ro.m.wikipedia.org"
+        "mobileUrl": "https://ro.wikipedia.org"
     },
     "rowiktionary": {
         "shortName": "Wikționar",
@@ -7554,7 +7554,7 @@
         "languageCode": "roa-tara",
         "group": "wiki",
         "logo": "//roa-tara.wikipedia.org/static/images/project-logos/roa_tarawiki.png",
-        "mobileUrl": "https://roa-tara.m.wikipedia.org"
+        "mobileUrl": "https://roa-tara.wikipedia.org"
     },
     "rskwiki": {
         "shortName": "Википедия",
@@ -7565,7 +7565,7 @@
         "languageCode": "rsk",
         "group": "wiki",
         "logo": "//rsk.wikipedia.org/static/images/project-logos/rskwiki.png",
-        "mobileUrl": "https://rsk.m.wikipedia.org"
+        "mobileUrl": "https://rsk.wikipedia.org"
     },
     "ruwiki": {
         "shortName": "Википедия",
@@ -7576,7 +7576,7 @@
         "languageCode": "ru",
         "group": "wiki",
         "logo": "//ru.wikipedia.org/static/images/project-logos/ruwiki.png",
-        "mobileUrl": "https://ru.m.wikipedia.org"
+        "mobileUrl": "https://ru.wikipedia.org"
     },
     "ruwiktionary": {
         "shortName": "Викисловарь",
@@ -7664,7 +7664,7 @@
         "languageCode": "rue",
         "group": "wiki",
         "logo": "//rue.wikipedia.org/static/images/project-logos/ruewiki.png",
-        "mobileUrl": "https://rue.m.wikipedia.org"
+        "mobileUrl": "https://rue.wikipedia.org"
     },
     "roa_rupwiki": {
         "shortName": "Wikipedia",
@@ -7675,7 +7675,7 @@
         "languageCode": "rup",
         "group": "wiki",
         "logo": "//roa-rup.wikipedia.org/static/images/project-logos/roa_rupwiki.png",
-        "mobileUrl": "https://roa-rup.m.wikipedia.org"
+        "mobileUrl": "https://roa-rup.wikipedia.org"
     },
     "roa_rupwiktionary": {
         "shortName": "Wiktionary",
@@ -7697,7 +7697,7 @@
         "languageCode": "rw",
         "group": "wiki",
         "logo": "//rw.wikipedia.org/static/images/project-logos/rwwiki.png",
-        "mobileUrl": "https://rw.m.wikipedia.org"
+        "mobileUrl": "https://rw.wikipedia.org"
     },
     "rwwiktionary": {
         "shortName": "Wiktionary",
@@ -7719,7 +7719,7 @@
         "languageCode": "sa",
         "group": "wiki",
         "logo": "//sa.wikipedia.org/static/images/project-logos/sawiki.png",
-        "mobileUrl": "https://sa.m.wikipedia.org"
+        "mobileUrl": "https://sa.wikipedia.org"
     },
     "sawiktionary": {
         "shortName": "विकिशब्दकोशः",
@@ -7774,7 +7774,7 @@
         "languageCode": "sah",
         "group": "wiki",
         "logo": "//sah.wikipedia.org/static/images/project-logos/sahwiki.png",
-        "mobileUrl": "https://sah.m.wikipedia.org"
+        "mobileUrl": "https://sah.wikipedia.org"
     },
     "sahwikiquote": {
         "shortName": "Биики_Домох",
@@ -7807,7 +7807,7 @@
         "languageCode": "sat",
         "group": "wiki",
         "logo": "//sat.wikipedia.org/static/images/project-logos/satwiki.png",
-        "mobileUrl": "https://sat.m.wikipedia.org"
+        "mobileUrl": "https://sat.wikipedia.org"
     },
     "satwiktionary": {
         "shortName": "ᱣᱤᱠᱤ ᱟᱹᱲᱟᱹ ᱢᱩᱨᱟᱹᱭ",
@@ -7829,7 +7829,7 @@
         "languageCode": "sc",
         "group": "wiki",
         "logo": "//sc.wikipedia.org/static/images/project-logos/scwiki.png",
-        "mobileUrl": "https://sc.m.wikipedia.org"
+        "mobileUrl": "https://sc.wikipedia.org"
     },
     "scwiktionary": {
         "shortName": "Wiktionary",
@@ -7851,7 +7851,7 @@
         "languageCode": "scn",
         "group": "wiki",
         "logo": "//scn.wikipedia.org/static/images/project-logos/scnwiki.png",
-        "mobileUrl": "https://scn.m.wikipedia.org"
+        "mobileUrl": "https://scn.wikipedia.org"
     },
     "scnwiktionary": {
         "shortName": "Wikizziunariu",
@@ -7873,7 +7873,7 @@
         "languageCode": "sco",
         "group": "wiki",
         "logo": "//sco.wikipedia.org/static/images/project-logos/scowiki.png",
-        "mobileUrl": "https://sco.m.wikipedia.org"
+        "mobileUrl": "https://sco.wikipedia.org"
     },
     "sdwiki": {
         "shortName": "وڪيپيڊيا",
@@ -7884,7 +7884,7 @@
         "languageCode": "sd",
         "group": "wiki",
         "logo": "//sd.wikipedia.org/static/images/project-logos/sdwiki.png",
-        "mobileUrl": "https://sd.m.wikipedia.org"
+        "mobileUrl": "https://sd.wikipedia.org"
     },
     "sdwiktionary": {
         "shortName": "Wiktionary",
@@ -7917,7 +7917,7 @@
         "languageCode": "se",
         "group": "wiki",
         "logo": "//se.wikipedia.org/static/images/project-logos/sewiki.png",
-        "mobileUrl": "https://se.m.wikipedia.org"
+        "mobileUrl": "https://se.wikipedia.org"
     },
     "sewikibooks": {
         "shortName": "Wikibooks",
@@ -7939,7 +7939,7 @@
         "languageCode": "sg",
         "group": "wiki",
         "logo": "//sg.wikipedia.org/static/images/project-logos/sgwiki.png",
-        "mobileUrl": "https://sg.m.wikipedia.org"
+        "mobileUrl": "https://sg.wikipedia.org"
     },
     "sgwiktionary": {
         "shortName": "Wiktionary",
@@ -7961,7 +7961,7 @@
         "languageCode": "sgs",
         "group": "wiki",
         "logo": "//bat-smg.wikipedia.org/static/images/project-logos/bat_smgwiki.png",
-        "mobileUrl": "https://bat-smg.m.wikipedia.org"
+        "mobileUrl": "https://bat-smg.wikipedia.org"
     },
     "shwiki": {
         "shortName": "Wikipedija",
@@ -7972,7 +7972,7 @@
         "languageCode": "sh",
         "group": "wiki",
         "logo": "//sh.wikipedia.org/static/images/project-logos/shwiki.png",
-        "mobileUrl": "https://sh.m.wikipedia.org"
+        "mobileUrl": "https://sh.wikipedia.org"
     },
     "shwiktionary": {
         "shortName": "Wikirječnik",
@@ -7994,7 +7994,7 @@
         "languageCode": "shi",
         "group": "wiki",
         "logo": "//shi.wikipedia.org/static/images/project-logos/shiwiki.png",
-        "mobileUrl": "https://shi.m.wikipedia.org"
+        "mobileUrl": "https://shi.wikipedia.org"
     },
     "shnwiki": {
         "shortName": "ဝီႇၶီႇၽီးတီးယႃး",
@@ -8005,7 +8005,7 @@
         "languageCode": "shn",
         "group": "wiki",
         "logo": "//shn.wikipedia.org/static/images/project-logos/shnwiki.png",
-        "mobileUrl": "https://shn.m.wikipedia.org"
+        "mobileUrl": "https://shn.wikipedia.org"
     },
     "shnwiktionary": {
         "shortName": "ဝိၵ်ႇသျိၼ်ႇၼရီႇ",
@@ -8071,7 +8071,7 @@
         "languageCode": "si",
         "group": "wiki",
         "logo": "//si.wikipedia.org/static/images/project-logos/siwiki.png",
-        "mobileUrl": "https://si.m.wikipedia.org"
+        "mobileUrl": "https://si.wikipedia.org"
     },
     "siwiktionary": {
         "shortName": "Wiktionary",
@@ -8104,7 +8104,7 @@
         "languageCode": "en",
         "group": "wiki",
         "logo": "//simple.wikipedia.org/static/images/project-logos/simplewiki.png",
-        "mobileUrl": "https://simple.m.wikipedia.org"
+        "mobileUrl": "https://simple.wikipedia.org"
     },
     "simplewiktionary": {
         "shortName": "Wiktionary",
@@ -8148,7 +8148,7 @@
         "languageCode": "sk",
         "group": "wiki",
         "logo": "//sk.wikipedia.org/static/images/project-logos/skwiki.png",
-        "mobileUrl": "https://sk.m.wikipedia.org"
+        "mobileUrl": "https://sk.wikipedia.org"
     },
     "skwiktionary": {
         "shortName": "Wikislovník",
@@ -8203,7 +8203,7 @@
         "languageCode": "skr",
         "group": "wiki",
         "logo": "//skr.wikipedia.org/static/images/project-logos/skrwiki.png",
-        "mobileUrl": "https://skr.m.wikipedia.org"
+        "mobileUrl": "https://skr.wikipedia.org"
     },
     "skrwiktionary": {
         "shortName": "وکشنری",
@@ -8225,7 +8225,7 @@
         "languageCode": "sl",
         "group": "wiki",
         "logo": "//sl.wikipedia.org/static/images/project-logos/slwiki.png",
-        "mobileUrl": "https://sl.m.wikipedia.org"
+        "mobileUrl": "https://sl.wikipedia.org"
     },
     "slwiktionary": {
         "shortName": "Wikislovar",
@@ -8291,7 +8291,7 @@
         "languageCode": "sm",
         "group": "wiki",
         "logo": "//sm.wikipedia.org/static/images/project-logos/smwiki.png",
-        "mobileUrl": "https://sm.m.wikipedia.org"
+        "mobileUrl": "https://sm.wikipedia.org"
     },
     "smwiktionary": {
         "shortName": "Wiktionary",
@@ -8313,7 +8313,7 @@
         "languageCode": "smn",
         "group": "wiki",
         "logo": "//smn.wikipedia.org/static/images/project-logos/smnwiki.png",
-        "mobileUrl": "https://smn.m.wikipedia.org"
+        "mobileUrl": "https://smn.wikipedia.org"
     },
     "snwiki": {
         "shortName": "Wikipedia",
@@ -8324,7 +8324,7 @@
         "languageCode": "sn",
         "group": "wiki",
         "logo": "//sn.wikipedia.org/static/images/project-logos/snwiki.png",
-        "mobileUrl": "https://sn.m.wikipedia.org"
+        "mobileUrl": "https://sn.wikipedia.org"
     },
     "snwiktionary": {
         "shortName": "Wiktionary",
@@ -8346,7 +8346,7 @@
         "languageCode": "so",
         "group": "wiki",
         "logo": "//so.wikipedia.org/static/images/project-logos/sowiki.png",
-        "mobileUrl": "https://so.m.wikipedia.org"
+        "mobileUrl": "https://so.wikipedia.org"
     },
     "sowiktionary": {
         "shortName": "Wiktionary",
@@ -8368,7 +8368,7 @@
         "languageCode": "sq",
         "group": "wiki",
         "logo": "//sq.wikipedia.org/static/images/project-logos/sqwiki.png",
-        "mobileUrl": "https://sq.m.wikipedia.org"
+        "mobileUrl": "https://sq.wikipedia.org"
     },
     "sqwiktionary": {
         "shortName": "Wiktionary",
@@ -8423,7 +8423,7 @@
         "languageCode": "sr",
         "group": "wiki",
         "logo": "//sr.wikipedia.org/static/images/project-logos/srwiki.png",
-        "mobileUrl": "https://sr.m.wikipedia.org"
+        "mobileUrl": "https://sr.wikipedia.org"
     },
     "srwiktionary": {
         "shortName": "Викиречник",
@@ -8489,7 +8489,7 @@
         "languageCode": "srn",
         "group": "wiki",
         "logo": "//srn.wikipedia.org/static/images/project-logos/srnwiki.png",
-        "mobileUrl": "https://srn.m.wikipedia.org"
+        "mobileUrl": "https://srn.wikipedia.org"
     },
     "sswiki": {
         "shortName": "Wikipedia",
@@ -8500,7 +8500,7 @@
         "languageCode": "ss",
         "group": "wiki",
         "logo": "//ss.wikipedia.org/static/images/project-logos/sswiki.png",
-        "mobileUrl": "https://ss.m.wikipedia.org"
+        "mobileUrl": "https://ss.wikipedia.org"
     },
     "sswiktionary": {
         "shortName": "Wiktionary",
@@ -8522,7 +8522,7 @@
         "languageCode": "st",
         "group": "wiki",
         "logo": "//st.wikipedia.org/static/images/project-logos/stwiki.png",
-        "mobileUrl": "https://st.m.wikipedia.org"
+        "mobileUrl": "https://st.wikipedia.org"
     },
     "stwiktionary": {
         "shortName": "Wiktionary",
@@ -8544,7 +8544,7 @@
         "languageCode": "stq",
         "group": "wiki",
         "logo": "//stq.wikipedia.org/static/images/project-logos/stqwiki.png",
-        "mobileUrl": "https://stq.m.wikipedia.org"
+        "mobileUrl": "https://stq.wikipedia.org"
     },
     "suwiki": {
         "shortName": "Wikipedia",
@@ -8555,7 +8555,7 @@
         "languageCode": "su",
         "group": "wiki",
         "logo": "//su.wikipedia.org/static/images/project-logos/suwiki.png",
-        "mobileUrl": "https://su.m.wikipedia.org"
+        "mobileUrl": "https://su.wikipedia.org"
     },
     "suwiktionary": {
         "shortName": "Wiktionary",
@@ -8610,7 +8610,7 @@
         "languageCode": "sv",
         "group": "wiki",
         "logo": "//sv.wikipedia.org/static/images/project-logos/svwiki.png",
-        "mobileUrl": "https://sv.m.wikipedia.org"
+        "mobileUrl": "https://sv.wikipedia.org"
     },
     "svwiktionary": {
         "shortName": "Wiktionary",
@@ -8698,7 +8698,7 @@
         "languageCode": "sw",
         "group": "wiki",
         "logo": "//sw.wikipedia.org/static/images/project-logos/swwiki.png",
-        "mobileUrl": "https://sw.m.wikipedia.org"
+        "mobileUrl": "https://sw.wikipedia.org"
     },
     "swwiktionary": {
         "shortName": "Wiktionary",
@@ -8731,7 +8731,7 @@
         "languageCode": "syl",
         "group": "wiki",
         "logo": "//syl.wikipedia.org/static/images/project-logos/sylwiki.png",
-        "mobileUrl": "https://syl.m.wikipedia.org"
+        "mobileUrl": "https://syl.wikipedia.org"
     },
     "szlwiki": {
         "shortName": "Wikipedia",
@@ -8742,7 +8742,7 @@
         "languageCode": "szl",
         "group": "wiki",
         "logo": "//szl.wikipedia.org/static/images/project-logos/szlwiki.png",
-        "mobileUrl": "https://szl.m.wikipedia.org"
+        "mobileUrl": "https://szl.wikipedia.org"
     },
     "szywiki": {
         "shortName": "Wikipitiya",
@@ -8753,7 +8753,7 @@
         "languageCode": "szy",
         "group": "wiki",
         "logo": "//szy.wikipedia.org/static/images/project-logos/szywiki.png",
-        "mobileUrl": "https://szy.m.wikipedia.org"
+        "mobileUrl": "https://szy.wikipedia.org"
     },
     "tawiki": {
         "shortName": "விக்கிப்பீடியா",
@@ -8764,7 +8764,7 @@
         "languageCode": "ta",
         "group": "wiki",
         "logo": "//ta.wikipedia.org/static/images/project-logos/tawiki.png",
-        "mobileUrl": "https://ta.m.wikipedia.org"
+        "mobileUrl": "https://ta.wikipedia.org"
     },
     "tawiktionary": {
         "shortName": "விக்சனரி",
@@ -8830,7 +8830,7 @@
         "languageCode": "tay",
         "group": "wiki",
         "logo": "//tay.wikipedia.org/static/images/project-logos/taywiki.png",
-        "mobileUrl": "https://tay.m.wikipedia.org"
+        "mobileUrl": "https://tay.wikipedia.org"
     },
     "tcywiki": {
         "shortName": "ವಿಕಿಪೀಡಿಯ",
@@ -8841,7 +8841,7 @@
         "languageCode": "tcy",
         "group": "wiki",
         "logo": "//tcy.wikipedia.org/static/images/project-logos/tcywiki.png",
-        "mobileUrl": "https://tcy.m.wikipedia.org"
+        "mobileUrl": "https://tcy.wikipedia.org"
     },
     "tcywiktionary": {
         "shortName": "ವಿಕ್ಷನರಿ",
@@ -8874,7 +8874,7 @@
         "languageCode": "tdd",
         "group": "wiki",
         "logo": "//tdd.wikipedia.org/static/images/project-logos/tddwiki.png",
-        "mobileUrl": "https://tdd.m.wikipedia.org"
+        "mobileUrl": "https://tdd.wikipedia.org"
     },
     "tewiki": {
         "shortName": "వికీపీడియా",
@@ -8885,7 +8885,7 @@
         "languageCode": "te",
         "group": "wiki",
         "logo": "//te.wikipedia.org/static/images/project-logos/tewiki.png",
-        "mobileUrl": "https://te.m.wikipedia.org"
+        "mobileUrl": "https://te.wikipedia.org"
     },
     "tewiktionary": {
         "shortName": "విక్షనరీ",
@@ -8940,7 +8940,7 @@
         "languageCode": "tet",
         "group": "wiki",
         "logo": "//tet.wikipedia.org/static/images/project-logos/tetwiki.png",
-        "mobileUrl": "https://tet.m.wikipedia.org"
+        "mobileUrl": "https://tet.wikipedia.org"
     },
     "tgwiki": {
         "shortName": "Википедиа",
@@ -8951,7 +8951,7 @@
         "languageCode": "tg",
         "group": "wiki",
         "logo": "//tg.wikipedia.org/static/images/project-logos/tgwiki.png",
-        "mobileUrl": "https://tg.m.wikipedia.org"
+        "mobileUrl": "https://tg.wikipedia.org"
     },
     "tgwiktionary": {
         "shortName": "Wiktionary",
@@ -8984,7 +8984,7 @@
         "languageCode": "th",
         "group": "wiki",
         "logo": "//th.wikipedia.org/static/images/project-logos/thwiki.png",
-        "mobileUrl": "https://th.m.wikipedia.org"
+        "mobileUrl": "https://th.wikipedia.org"
     },
     "thwiktionary": {
         "shortName": "Wiktionary",
@@ -9050,7 +9050,7 @@
         "languageCode": "ti",
         "group": "wiki",
         "logo": "//ti.wikipedia.org/static/images/project-logos/tiwiki.png",
-        "mobileUrl": "https://ti.m.wikipedia.org"
+        "mobileUrl": "https://ti.wikipedia.org"
     },
     "tiwiktionary": {
         "shortName": "ዊኪ-መዝገበ-ቃላት",
@@ -9072,7 +9072,7 @@
         "languageCode": "tig",
         "group": "wiki",
         "logo": "//tig.wikipedia.org/static/images/project-logos/tigwiki.png",
-        "mobileUrl": "https://tig.m.wikipedia.org"
+        "mobileUrl": "https://tig.wikipedia.org"
     },
     "tkwiki": {
         "shortName": "Wikipediýa",
@@ -9083,7 +9083,7 @@
         "languageCode": "tk",
         "group": "wiki",
         "logo": "//tk.wikipedia.org/static/images/project-logos/tkwiki.png",
-        "mobileUrl": "https://tk.m.wikipedia.org"
+        "mobileUrl": "https://tk.wikipedia.org"
     },
     "tkwiktionary": {
         "shortName": "Wikisözlük",
@@ -9127,7 +9127,7 @@
         "languageCode": "tl",
         "group": "wiki",
         "logo": "//tl.wikipedia.org/static/images/project-logos/tlwiki.png",
-        "mobileUrl": "https://tl.m.wikipedia.org"
+        "mobileUrl": "https://tl.wikipedia.org"
     },
     "tlwiktionary": {
         "shortName": "Wiksiyonaryo",
@@ -9182,7 +9182,7 @@
         "languageCode": "tly",
         "group": "wiki",
         "logo": "//tly.wikipedia.org/static/images/project-logos/tlywiki.png",
-        "mobileUrl": "https://tly.m.wikipedia.org"
+        "mobileUrl": "https://tly.wikipedia.org"
     },
     "tnwiki": {
         "shortName": "Wikipedia",
@@ -9193,7 +9193,7 @@
         "languageCode": "tn",
         "group": "wiki",
         "logo": "//tn.wikipedia.org/static/images/project-logos/tnwiki.png",
-        "mobileUrl": "https://tn.m.wikipedia.org"
+        "mobileUrl": "https://tn.wikipedia.org"
     },
     "tnwiktionary": {
         "shortName": "Wiktionary",
@@ -9215,7 +9215,7 @@
         "languageCode": "to",
         "group": "wiki",
         "logo": "//to.wikipedia.org/static/images/project-logos/towiki.png",
-        "mobileUrl": "https://to.m.wikipedia.org"
+        "mobileUrl": "https://to.wikipedia.org"
     },
     "towiktionary": {
         "shortName": "Wiktionary",
@@ -9237,7 +9237,7 @@
         "languageCode": "tpi",
         "group": "wiki",
         "logo": "//tpi.wikipedia.org/static/images/project-logos/tpiwiki.png",
-        "mobileUrl": "https://tpi.m.wikipedia.org"
+        "mobileUrl": "https://tpi.wikipedia.org"
     },
     "tpiwiktionary": {
         "shortName": "Wiktionary",
@@ -9259,7 +9259,7 @@
         "languageCode": "tr",
         "group": "wiki",
         "logo": "//tr.wikipedia.org/static/images/project-logos/trwiki.png",
-        "mobileUrl": "https://tr.m.wikipedia.org"
+        "mobileUrl": "https://tr.wikipedia.org"
     },
     "trwiktionary": {
         "shortName": "Vikisözlük",
@@ -9336,7 +9336,7 @@
         "languageCode": "trv",
         "group": "wiki",
         "logo": "//trv.wikipedia.org/static/images/project-logos/trvwiki.png",
-        "mobileUrl": "https://trv.m.wikipedia.org"
+        "mobileUrl": "https://trv.wikipedia.org"
     },
     "tswiki": {
         "shortName": "Wikipedia",
@@ -9347,7 +9347,7 @@
         "languageCode": "ts",
         "group": "wiki",
         "logo": "//ts.wikipedia.org/static/images/project-logos/tswiki.png",
-        "mobileUrl": "https://ts.m.wikipedia.org"
+        "mobileUrl": "https://ts.wikipedia.org"
     },
     "tswiktionary": {
         "shortName": "Wiktionary",
@@ -9369,7 +9369,7 @@
         "languageCode": "tt",
         "group": "wiki",
         "logo": "//tt.wikipedia.org/static/images/project-logos/ttwiki.png",
-        "mobileUrl": "https://tt.m.wikipedia.org"
+        "mobileUrl": "https://tt.wikipedia.org"
     },
     "ttwiktionary": {
         "shortName": "Wiktionary",
@@ -9413,7 +9413,7 @@
         "languageCode": "tum",
         "group": "wiki",
         "logo": "//tum.wikipedia.org/static/images/project-logos/tumwiki.png",
-        "mobileUrl": "https://tum.m.wikipedia.org"
+        "mobileUrl": "https://tum.wikipedia.org"
     },
     "twwiki": {
         "shortName": "Wikipedia",
@@ -9424,7 +9424,7 @@
         "languageCode": "tw",
         "group": "wiki",
         "logo": "//tw.wikipedia.org/static/images/project-logos/akwiki.png",
-        "mobileUrl": "https://tw.m.wikipedia.org"
+        "mobileUrl": "https://tw.wikipedia.org"
     },
     "twwiktionary": {
         "shortName": "Wiktionary",
@@ -9446,7 +9446,7 @@
         "languageCode": "ty",
         "group": "wiki",
         "logo": "//ty.wikipedia.org/static/images/project-logos/tywiki.png",
-        "mobileUrl": "https://ty.m.wikipedia.org"
+        "mobileUrl": "https://ty.wikipedia.org"
     },
     "tyvwiki": {
         "shortName": "Википедия",
@@ -9457,7 +9457,7 @@
         "languageCode": "tyv",
         "group": "wiki",
         "logo": "//tyv.wikipedia.org/static/images/project-logos/tyvwiki.png",
-        "mobileUrl": "https://tyv.m.wikipedia.org"
+        "mobileUrl": "https://tyv.wikipedia.org"
     },
     "udmwiki": {
         "shortName": "Википедия",
@@ -9468,7 +9468,7 @@
         "languageCode": "udm",
         "group": "wiki",
         "logo": "//udm.wikipedia.org/static/images/project-logos/udmwiki.png",
-        "mobileUrl": "https://udm.m.wikipedia.org"
+        "mobileUrl": "https://udm.wikipedia.org"
     },
     "ugwiki": {
         "shortName": "Wikipedia",
@@ -9479,7 +9479,7 @@
         "languageCode": "ug",
         "group": "wiki",
         "logo": "//ug.wikipedia.org/static/images/project-logos/ugwiki.png",
-        "mobileUrl": "https://ug.m.wikipedia.org"
+        "mobileUrl": "https://ug.wikipedia.org"
     },
     "ugwiktionary": {
         "shortName": "Wiktionary",
@@ -9523,7 +9523,7 @@
         "languageCode": "uk",
         "group": "wiki",
         "logo": "//uk.wikipedia.org/static/images/project-logos/ukwiki.png",
-        "mobileUrl": "https://uk.m.wikipedia.org"
+        "mobileUrl": "https://uk.wikipedia.org"
     },
     "ukwiktionary": {
         "shortName": "Вікісловник",
@@ -9600,7 +9600,7 @@
         "languageCode": "ur",
         "group": "wiki",
         "logo": "//ur.wikipedia.org/static/images/project-logos/urwiki.png",
-        "mobileUrl": "https://ur.m.wikipedia.org"
+        "mobileUrl": "https://ur.wikipedia.org"
     },
     "urwiktionary": {
         "shortName": "ویکی لغت",
@@ -9644,7 +9644,7 @@
         "languageCode": "uz",
         "group": "wiki",
         "logo": "//uz.wikipedia.org/static/images/project-logos/uzwiki.png",
-        "mobileUrl": "https://uz.m.wikipedia.org"
+        "mobileUrl": "https://uz.wikipedia.org"
     },
     "uzwiktionary": {
         "shortName": "Vikilugʻat",
@@ -9688,7 +9688,7 @@
         "languageCode": "ve",
         "group": "wiki",
         "logo": "//ve.wikipedia.org/static/images/project-logos/vewiki.png",
-        "mobileUrl": "https://ve.m.wikipedia.org"
+        "mobileUrl": "https://ve.wikipedia.org"
     },
     "vecwiki": {
         "shortName": "Wikipedia",
@@ -9699,7 +9699,7 @@
         "languageCode": "vec",
         "group": "wiki",
         "logo": "//vec.wikipedia.org/static/images/project-logos/vecwiki.png",
-        "mobileUrl": "https://vec.m.wikipedia.org"
+        "mobileUrl": "https://vec.wikipedia.org"
     },
     "vecwiktionary": {
         "shortName": "Wikisionario",
@@ -9732,7 +9732,7 @@
         "languageCode": "vep",
         "group": "wiki",
         "logo": "//vep.wikipedia.org/static/images/project-logos/vepwiki.png",
-        "mobileUrl": "https://vep.m.wikipedia.org"
+        "mobileUrl": "https://vep.wikipedia.org"
     },
     "viwiki": {
         "shortName": "Wikipedia",
@@ -9743,7 +9743,7 @@
         "languageCode": "vi",
         "group": "wiki",
         "logo": "//vi.wikipedia.org/static/images/project-logos/viwiki.png",
-        "mobileUrl": "https://vi.m.wikipedia.org"
+        "mobileUrl": "https://vi.wikipedia.org"
     },
     "viwiktionary": {
         "shortName": "Wiktionary",
@@ -9809,7 +9809,7 @@
         "languageCode": "vls",
         "group": "wiki",
         "logo": "//vls.wikipedia.org/static/images/project-logos/vlswiki.png",
-        "mobileUrl": "https://vls.m.wikipedia.org"
+        "mobileUrl": "https://vls.wikipedia.org"
     },
     "vowiki": {
         "shortName": "Vükiped",
@@ -9820,7 +9820,7 @@
         "languageCode": "vo",
         "group": "wiki",
         "logo": "//vo.wikipedia.org/static/images/project-logos/vowiki.png",
-        "mobileUrl": "https://vo.m.wikipedia.org"
+        "mobileUrl": "https://vo.wikipedia.org"
     },
     "vowiktionary": {
         "shortName": "Vükivödabuk",
@@ -9864,7 +9864,7 @@
         "languageCode": "vro",
         "group": "wiki",
         "logo": "//fiu-vro.wikipedia.org/static/images/project-logos/fiu_vrowiki.png",
-        "mobileUrl": "https://fiu-vro.m.wikipedia.org"
+        "mobileUrl": "https://fiu-vro.wikipedia.org"
     },
     "wawiki": {
         "shortName": "Wikipedia",
@@ -9875,7 +9875,7 @@
         "languageCode": "wa",
         "group": "wiki",
         "logo": "//wa.wikipedia.org/static/images/project-logos/wawiki.png",
-        "mobileUrl": "https://wa.m.wikipedia.org"
+        "mobileUrl": "https://wa.wikipedia.org"
     },
     "wawiktionary": {
         "shortName": "Wiccionaire",
@@ -9919,7 +9919,7 @@
         "languageCode": "war",
         "group": "wiki",
         "logo": "//war.wikipedia.org/static/images/project-logos/warwiki.png",
-        "mobileUrl": "https://war.m.wikipedia.org"
+        "mobileUrl": "https://war.wikipedia.org"
     },
     "wowiki": {
         "shortName": "Wikipedia",
@@ -9930,7 +9930,7 @@
         "languageCode": "wo",
         "group": "wiki",
         "logo": "//wo.wikipedia.org/static/images/project-logos/wowiki.png",
-        "mobileUrl": "https://wo.m.wikipedia.org"
+        "mobileUrl": "https://wo.wikipedia.org"
     },
     "wowiktionary": {
         "shortName": "Wiktionary",
@@ -9963,7 +9963,7 @@
         "languageCode": "wuu",
         "group": "wiki",
         "logo": "//wuu.wikipedia.org/static/images/project-logos/wuuwiki.png",
-        "mobileUrl": "https://wuu.m.wikipedia.org"
+        "mobileUrl": "https://wuu.wikipedia.org"
     },
     "xalwiki": {
         "shortName": "Wikipedia",
@@ -9974,7 +9974,7 @@
         "languageCode": "xal",
         "group": "wiki",
         "logo": "//xal.wikipedia.org/static/images/project-logos/xalwiki.png",
-        "mobileUrl": "https://xal.m.wikipedia.org"
+        "mobileUrl": "https://xal.wikipedia.org"
     },
     "xhwiki": {
         "shortName": "Wikipedia",
@@ -9985,7 +9985,7 @@
         "languageCode": "xh",
         "group": "wiki",
         "logo": "//xh.wikipedia.org/static/images/project-logos/xhwiki.png",
-        "mobileUrl": "https://xh.m.wikipedia.org"
+        "mobileUrl": "https://xh.wikipedia.org"
     },
     "xhwiktionary": {
         "shortName": "Wiktionary",
@@ -10018,7 +10018,7 @@
         "languageCode": "xmf",
         "group": "wiki",
         "logo": "//xmf.wikipedia.org/static/images/project-logos/xmfwiki.png",
-        "mobileUrl": "https://xmf.m.wikipedia.org"
+        "mobileUrl": "https://xmf.wikipedia.org"
     },
     "yiwiki": {
         "shortName": "װיקיפּעדיע",
@@ -10029,7 +10029,7 @@
         "languageCode": "yi",
         "group": "wiki",
         "logo": "//yi.wikipedia.org/static/images/project-logos/yiwiki.png",
-        "mobileUrl": "https://yi.m.wikipedia.org"
+        "mobileUrl": "https://yi.wikipedia.org"
     },
     "yiwiktionary": {
         "shortName": "װיקיװערטערבוך",
@@ -10062,7 +10062,7 @@
         "languageCode": "yo",
         "group": "wiki",
         "logo": "//yo.wikipedia.org/static/images/project-logos/yowiki.png",
-        "mobileUrl": "https://yo.m.wikipedia.org"
+        "mobileUrl": "https://yo.wikipedia.org"
     },
     "yowiktionary": {
         "shortName": "Wiktionary",
@@ -10095,7 +10095,7 @@
         "languageCode": "yue",
         "group": "wiki",
         "logo": "//zh-yue.wikipedia.org/static/images/project-logos/zh_yuewiki.png",
-        "mobileUrl": "https://zh-yue.m.wikipedia.org"
+        "mobileUrl": "https://zh-yue.wikipedia.org"
     },
     "yuewiktionary": {
         "shortName": "維基辭典",
@@ -10117,7 +10117,7 @@
         "languageCode": "za",
         "group": "wiki",
         "logo": "//za.wikipedia.org/static/images/project-logos/zawiki.png",
-        "mobileUrl": "https://za.m.wikipedia.org"
+        "mobileUrl": "https://za.wikipedia.org"
     },
     "zawiktionary": {
         "shortName": "Wiktionary",
@@ -10161,7 +10161,7 @@
         "languageCode": "zea",
         "group": "wiki",
         "logo": "//zea.wikipedia.org/static/images/project-logos/zeawiki.png",
-        "mobileUrl": "https://zea.m.wikipedia.org"
+        "mobileUrl": "https://zea.wikipedia.org"
     },
     "zghwiki": {
         "shortName": "ⵡⵉⴽⵉⴱⵉⴷⵢⴰ",
@@ -10172,7 +10172,7 @@
         "languageCode": "zgh",
         "group": "wiki",
         "logo": "//zgh.wikipedia.org/static/images/project-logos/zghwiki.png",
-        "mobileUrl": "https://zgh.m.wikipedia.org"
+        "mobileUrl": "https://zgh.wikipedia.org"
     },
     "zghwiktionary": {
         "shortName": "ⵡⵉⴽⵉⵎⴰⵡⴰⵍ",
@@ -10194,7 +10194,7 @@
         "languageCode": "zh",
         "group": "wiki",
         "logo": "//zh.wikipedia.org/static/images/project-logos/zhwiki.png",
-        "mobileUrl": "https://zh.m.wikipedia.org"
+        "mobileUrl": "https://zh.wikipedia.org"
     },
     "zhwiktionary": {
         "shortName": "Wiktionary",
@@ -10282,7 +10282,7 @@
         "languageCode": "zu",
         "group": "wiki",
         "logo": "//zu.wikipedia.org/static/images/project-logos/zuwiki.png",
-        "mobileUrl": "https://zu.m.wikipedia.org"
+        "mobileUrl": "https://zu.wikipedia.org"
     },
     "zuwiktionary": {
         "shortName": "Wiktionary",

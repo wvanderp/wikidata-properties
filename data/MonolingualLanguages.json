@@ -15,6 +15,11 @@
         "name": "Abkhazian"
     },
     {
+        "code": "abr",
+        "autonym": "Abron",
+        "name": "Abron"
+    },
+    {
         "code": "abs",
         "autonym": "bahasa ambon",
         "name": "Ambonese Malay"
@@ -3085,11 +3090,6 @@
         "name": "Abaza"
     },
     {
-        "code": "abr",
-        "autonym": "abr",
-        "name": "Abron"
-    },
-    {
         "code": "ach",
         "autonym": "ach",
         "name": "Acoli"
@@ -5648,6 +5648,11 @@
         "code": "sux-xsux",
         "autonym": "sux-xsux",
         "name": "Sumerian (Cuneiform script)"
+    },
+    {
+        "code": "sva",
+        "autonym": "sva",
+        "name": "Svan"
     },
     {
         "code": "sw-cd",
