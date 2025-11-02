@@ -616,8 +616,8 @@
         "mobileUrl": "https://az.wikipedia.org"
     },
     "azwiktionary": {
-        "shortName": "Wiktionary",
-        "name": "Wiktionary",
+        "shortName": "Vikilüğət",
+        "name": "Vikilüğət",
         "id": "azwiktionary",
         "pageUrl": "//az.wiktionary.org/wiki/$1",
         "apiUrl": "//az.wiktionary.org/w/api.php",
@@ -5840,6 +5840,17 @@
         "logo": "//min.wikibooks.org/static/images/project-logos/minwikibooks.png",
         "mobileUrl": "https://min.wikibooks.org"
     },
+    "minwikisource": {
+        "shortName": "Wikibasurek",
+        "name": "Wikibasurek",
+        "id": "minwikisource",
+        "pageUrl": "//min.wikisource.org/wiki/$1",
+        "apiUrl": "//min.wikisource.org/w/api.php",
+        "languageCode": "min",
+        "group": "wikisource",
+        "logo": "//min.wikisource.org/static/images/project-logos/minwikisource.png",
+        "mobileUrl": "https://min.wikisource.org"
+    },
     "mkwiki": {
         "shortName": "Википедија",
         "name": "Википедија",
@@ -7016,6 +7027,17 @@
         "group": "wiki",
         "logo": "//pcm.wikipedia.org/static/images/project-logos/pcmwiki.png",
         "mobileUrl": "https://pcm.wikipedia.org"
+    },
+    "pcmwikiquote": {
+        "shortName": "Wikitok",
+        "name": "Wikitok",
+        "id": "pcmwikiquote",
+        "pageUrl": "//pcm.wikiquote.org/wiki/$1",
+        "apiUrl": "//pcm.wikiquote.org/w/api.php",
+        "languageCode": "pcm",
+        "group": "wikiquote",
+        "logo": "//pcm.wikiquote.org/static/images/project-logos/pcmwikiquote.png",
+        "mobileUrl": "https://pcm.wikiquote.org"
     },
     "pdcwiki": {
         "shortName": "Wikipedia",

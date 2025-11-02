@@ -3505,6 +3505,11 @@
         "name": "Bulu"
     },
     {
+        "code": "bvb",
+        "autonym": "bvb",
+        "name": "Bube"
+    },
+    {
         "code": "bwr",
         "autonym": "bwr",
         "name": "Bura-Pabir"
@@ -4460,6 +4465,11 @@
         "name": "Maharashtrian Konkani"
     },
     {
+        "code": "ko-cn",
+        "autonym": "ko-cn",
+        "name": "Korean (China)"
+    },
+    {
         "code": "ko-hani",
         "autonym": "ko-hani",
         "name": "Korean (Hanja script)"
@@ -4632,6 +4642,11 @@
     {
         "code": "mak",
         "autonym": "mak",
+        "name": "Makasar"
+    },
+    {
+        "code": "mak-bugi",
+        "autonym": "mak-bugi",
         "name": "Makasar (Buginese script)"
     },
     {
