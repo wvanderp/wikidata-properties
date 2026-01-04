@@ -2,6 +2,10 @@ import axios from "axios";
 import fs from "fs";
 import path from "path";
 
+const headers = {
+    'User-Agent': 'wikidata-properties/1.0.0 (https://github.com/wvanderp/wikidata-properties)'
+};
+
 // API response types
 export interface SiteMatrix {
     sitematrix: {
@@ -168,7 +172,7 @@ const SITEINFO_QUERY =
     "?action=query&meta=siteinfo&siprop=general&format=json&origin=*";
 
 async function getSiteMatrix(): Promise<SiteEntry[]> {
-    const { sitematrix } = (await axios.get<SiteMatrix>(SITE_MATRIX_ENDPOINT)).data;
+    const { sitematrix } = (await axios.get<SiteMatrix>(SITE_MATRIX_ENDPOINT, { headers })).data;
     const sites: SiteEntry[] = [];
 
     for (const key of Object.keys(sitematrix)) {
@@ -213,7 +217,7 @@ async function enrichSiteFromEntry(site: SiteEntry): Promise<RichSite | null> {
 
     const api = `${site.url}/w/api.php${SITEINFO_QUERY}`;
     try {
-        const data = (await axios.get<Siteinfo>(api)).data;
+        const data = (await axios.get<Siteinfo>(api, { headers })).data;
         const general = data?.query?.general
 
         return {

@@ -14,24 +14,21 @@
   "main": "lib/src/index.js",
   "types": "lib/src/index.d.ts",
   "scripts": {
-    "scrape": "ts-node utils/scrape.ts",
+    "scrape": "ts-node utils/index.ts",
     "build": "npm run scrape && tsc -b",
     "test": "mocha"
   },
-  "dependencies": {
-    "lodash": "^4.17.21"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@types/chai": "^5.2.2",
-    "@types/lodash": "^4.17.17",
+    "@types/chai": "^5.2.3",
     "@types/mocha": "^10.0.10",
-    "@types/node": "^24.0.3",
+    "@types/node": "^25.0.3",
     "@wmde/wikibase-datamodel-types": "git+https://github.com/wvanderp/WikibaseDataModelTypes.git",
-    "axios": "1.10.0",
-    "chai": "^5.2.0",
-    "mocha": "^11.6.0",
+    "axios": "1.13.2",
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.3",
-    "wtf_wikipedia": "^10.4.0"
+    "typescript": "^5.9.3",
+    "wtf_wikipedia": "^10.4.1"
   }
 }
