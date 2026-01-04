@@ -390,6 +390,11 @@
         "name": "Tibetan"
     },
     {
+        "code": "bol",
+        "autonym": "bòo pìkkà",
+        "name": "Bole"
+    },
+    {
         "code": "bpy",
         "autonym": "বিষ্ণুপ্রিয়া মণিপুরী",
         "name": "Bishnupriya"
@@ -1290,6 +1295,11 @@
         "name": "Javanese"
     },
     {
+        "code": "jv-java",
+        "autonym": "ꦗꦮ",
+        "name": "Javanese (Javanese script)"
+    },
+    {
         "code": "ka",
         "autonym": "ქართული",
         "name": "Georgian"
@@ -1308,6 +1318,11 @@
         "code": "kai",
         "autonym": "Karai-karai",
         "name": "Karekare"
+    },
+    {
+        "code": "kaj",
+        "autonym": "Jju",
+        "name": "Jju"
     },
     {
         "code": "kbd",
@@ -2183,6 +2198,11 @@
         "code": "pnt",
         "autonym": "Ποντιακά",
         "name": "Pontic"
+    },
+    {
+        "code": "ppl",
+        "autonym": "Nawat",
+        "name": "Nawat"
     },
     {
         "code": "prg",

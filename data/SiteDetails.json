@@ -6545,8 +6545,8 @@
         "mobileUrl": "https://nia.wikipedia.org"
     },
     "niawiktionary": {
-        "shortName": "Wiktionary",
-        "name": "Wiktionary",
+        "shortName": "Wikikamus",
+        "name": "Wikikamus",
         "id": "niawiktionary",
         "pageUrl": "//nia.wiktionary.org/wiki/$1",
         "apiUrl": "//nia.wiktionary.org/w/api.php",
@@ -9249,6 +9249,17 @@
         "group": "wiktionary",
         "logo": "//to.wiktionary.org/static/images/project-logos/wiktionary.png",
         "mobileUrl": "https://to.wiktionary.org"
+    },
+    "tokwiki": {
+        "shortName": "lipu Wikipesija",
+        "name": "lipu Wikipesija",
+        "id": "tokwiki",
+        "pageUrl": "//tok.wikipedia.org/wiki/$1",
+        "apiUrl": "//tok.wikipedia.org/w/api.php",
+        "languageCode": "tok",
+        "group": "wiki",
+        "logo": "//tok.wikipedia.org/static/images/project-logos/tokwiki.png",
+        "mobileUrl": "https://tok.wikipedia.org"
     },
     "tpiwiki": {
         "shortName": "Wikipedia",
