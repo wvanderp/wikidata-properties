@@ -2251,7 +2251,7 @@
         "apiUrl": "//en.wikipedia.org/w/api.php",
         "languageCode": "en",
         "group": "wiki",
-        "logo": "//en.wikipedia.org/static/images/project-logos/enwiki.png",
+        "logo": "//en.wikipedia.org/static/images/project-logos/enwiki-25.png",
         "mobileUrl": "https://en.wikipedia.org"
     },
     "enwiktionary": {
@@ -4264,7 +4264,7 @@
         "apiUrl": "//it.wikipedia.org/w/api.php",
         "languageCode": "it",
         "group": "wiki",
-        "logo": "//it.wikipedia.org/static/images/project-logos/itwiki.png",
+        "logo": "//it.wikipedia.org/static/images/project-logos/itwiki-temp25.png",
         "mobileUrl": "https://it.wikipedia.org"
     },
     "itwiktionary": {
@@ -4715,7 +4715,7 @@
         "apiUrl": "//kk.wikipedia.org/w/api.php",
         "languageCode": "kk",
         "group": "wiki",
-        "logo": "//kk.wikipedia.org/static/images/project-logos/kkwiki.png",
+        "logo": "//kk.wikipedia.org/static/images/project-logos/kkwiki-temp25.png",
         "mobileUrl": "https://kk.wikipedia.org"
     },
     "kkwiktionary": {
@@ -8246,7 +8246,7 @@
         "apiUrl": "//sl.wikipedia.org/w/api.php",
         "languageCode": "sl",
         "group": "wiki",
-        "logo": "//sl.wikipedia.org/static/images/project-logos/slwiki.png",
+        "logo": "//sl.wikipedia.org/static/images/project-logos/slwiki-temp25.png",
         "mobileUrl": "https://sl.wikipedia.org"
     },
     "slwiktionary": {
@@ -10226,7 +10226,7 @@
         "apiUrl": "//zh.wikipedia.org/w/api.php",
         "languageCode": "zh",
         "group": "wiki",
-        "logo": "//zh.wikipedia.org/static/images/project-logos/zhwiki.png",
+        "logo": "//zh.wikipedia.org/static/images/project-logos/zhwiki-25.png",
         "mobileUrl": "https://zh.wikipedia.org"
     },
     "zhwiktionary": {

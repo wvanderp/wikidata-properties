@@ -3125,6 +3125,11 @@
         "name": "Andegerebinha"
     },
     {
+        "code": "ady-latn",
+        "autonym": "ady-latn",
+        "name": "Adyghe (Latin script)"
+    },
+    {
         "code": "ae",
         "autonym": "ae",
         "name": "Avestan"
@@ -3145,9 +3150,19 @@
         "name": "Eastern Arrernte"
     },
     {
+        "code": "afa",
+        "autonym": "afa",
+        "name": "Afroasiatic languages"
+    },
+    {
         "code": "afh",
         "autonym": "afh",
         "name": "Afrihili"
+    },
+    {
+        "code": "aha",
+        "autonym": "aha",
+        "name": "Ahanta"
     },
     {
         "code": "ahr",
@@ -3168,6 +3183,21 @@
         "code": "ajg",
         "autonym": "ajg",
         "name": "Ajagbe"
+    },
+    {
+        "code": "ajp",
+        "autonym": "ajp",
+        "name": "South Levantine Arabic"
+    },
+    {
+        "code": "ajp-arab",
+        "autonym": "ajp-arab",
+        "name": "South Levantine Arabic (Arabic script)"
+    },
+    {
+        "code": "ajp-latn",
+        "autonym": "ajp-latn",
+        "name": "South Levantine Arabic (Latin script)"
     },
     {
         "code": "akb",
@@ -3210,6 +3240,11 @@
         "name": "Aleut (Cyrillic script)"
     },
     {
+        "code": "alg",
+        "autonym": "alg",
+        "name": "Algonquian languages"
+    },
+    {
         "code": "alq",
         "autonym": "alq",
         "name": "Algonquin"
@@ -3230,9 +3265,24 @@
         "name": "Xârâcùù"
     },
     {
+        "code": "apa",
+        "autonym": "apa",
+        "name": "Southern Athabaskan"
+    },
+    {
+        "code": "apc-arab",
+        "autonym": "apc-arab",
+        "name": "Levantine Arabic (Arabic script)"
+    },
+    {
         "code": "apc-latn",
         "autonym": "apc-latn",
         "name": "Levantine Arabic (Latin script)"
+    },
+    {
+        "code": "apw",
+        "autonym": "apw",
+        "name": "Western Apache"
     },
     {
         "code": "ar-001",
@@ -3260,6 +3310,11 @@
         "name": "Najdi Arabic"
     },
     {
+        "code": "art",
+        "autonym": "art",
+        "name": "constructed languages"
+    },
+    {
         "code": "arw",
         "autonym": "arw",
         "name": "Arawak"
@@ -3280,9 +3335,19 @@
         "name": "Asu"
     },
     {
+        "code": "ath",
+        "autonym": "ath",
+        "name": "Athabaskan languages"
+    },
+    {
         "code": "atv",
         "autonym": "atv",
         "name": "Northern Altai"
+    },
+    {
+        "code": "aus",
+        "autonym": "aus",
+        "name": "Australian Aboriginal languages"
     },
     {
         "code": "axe",
@@ -3300,9 +3365,34 @@
         "name": "Hadhrami Arabic"
     },
     {
+        "code": "az-arab",
+        "autonym": "az-arab",
+        "name": "Azerbaijani (Arabic script)"
+    },
+    {
         "code": "az-cyrl",
         "autonym": "az-cyrl",
         "name": "Azerbaijani (Cyrillic script)"
+    },
+    {
+        "code": "az-latn",
+        "autonym": "az-latn",
+        "name": "Azerbaijani (Latin script)"
+    },
+    {
+        "code": "azj",
+        "autonym": "azj",
+        "name": "North Azerbaijani"
+    },
+    {
+        "code": "bad",
+        "autonym": "bad",
+        "name": "Banda languages"
+    },
+    {
+        "code": "bai",
+        "autonym": "bai",
+        "name": "Bamileke languages"
     },
     {
         "code": "bal",
@@ -3315,6 +3405,16 @@
         "name": "Baluchi (Latin script)"
     },
     {
+        "code": "bat",
+        "autonym": "bat",
+        "name": "Baltic languages"
+    },
+    {
+        "code": "bbc-batk",
+        "autonym": "bbc-batk",
+        "name": "Batak Toba (Batak script)"
+    },
+    {
         "code": "bej",
         "autonym": "bej",
         "name": "Beja"
@@ -3323,6 +3423,11 @@
         "code": "bem",
         "autonym": "bem",
         "name": "Bemba"
+    },
+    {
+        "code": "ber",
+        "autonym": "ber",
+        "name": "Berber languages"
     },
     {
         "code": "bez",
@@ -3430,6 +3535,11 @@
         "name": "Bini"
     },
     {
+        "code": "bkn",
+        "autonym": "bkn",
+        "name": "Bukitan"
+    },
+    {
         "code": "bla",
         "autonym": "bla",
         "name": "Siksiká"
@@ -3450,9 +3560,24 @@
         "name": "Tai Dam"
     },
     {
+        "code": "bnb",
+        "autonym": "bnb",
+        "name": "Bookan"
+    },
+    {
         "code": "bnn",
         "autonym": "bnn",
         "name": "Bunun"
+    },
+    {
+        "code": "bnt",
+        "autonym": "bnt",
+        "name": "Bantu languages"
+    },
+    {
+        "code": "bny",
+        "autonym": "bny",
+        "name": "Bintulu"
     },
     {
         "code": "bom",
@@ -3493,6 +3618,16 @@
         "code": "btd",
         "autonym": "btd",
         "name": "Batak Dairi"
+    },
+    {
+        "code": "bth",
+        "autonym": "bth",
+        "name": "Biatah"
+    },
+    {
+        "code": "btk",
+        "autonym": "btk",
+        "name": "Batak languages"
     },
     {
         "code": "bts",
@@ -3550,14 +3685,29 @@
         "name": "Caddo"
     },
     {
+        "code": "cai",
+        "autonym": "cai",
+        "name": "Mesoamerican languages"
+    },
+    {
         "code": "car",
         "autonym": "car",
         "name": "Carib"
     },
     {
+        "code": "cau",
+        "autonym": "cau",
+        "name": "Caucasian languages"
+    },
+    {
         "code": "cay",
         "autonym": "cay",
         "name": "Cayuga"
+    },
+    {
+        "code": "cbk",
+        "autonym": "Chavacano de Zamboanga",
+        "name": "Chavacano"
     },
     {
         "code": "cch",
@@ -3578,6 +3728,11 @@
         "code": "cdz-beng",
         "autonym": "cdz-beng",
         "name": "Koda (Bengali script)"
+    },
+    {
+        "code": "cel",
+        "autonym": "cel",
+        "name": "Celtic languages"
     },
     {
         "code": "cgg",
@@ -3613,6 +3768,11 @@
         "code": "cic",
         "autonym": "cic",
         "name": "Chickasaw"
+    },
+    {
+        "code": "ciw",
+        "autonym": "ciw",
+        "name": "Chippewa"
     },
     {
         "code": "cja",
@@ -3700,6 +3860,11 @@
         "name": "Chilcotin"
     },
     {
+        "code": "cmc",
+        "autonym": "cmc",
+        "name": "Chamic languages"
+    },
+    {
         "code": "cmg",
         "autonym": "cmg",
         "name": "Classical Mongolian"
@@ -3723,6 +3888,36 @@
         "code": "cnx",
         "autonym": "cnx",
         "name": "Middle Cornish"
+    },
+    {
+        "code": "coa",
+        "autonym": "coa",
+        "name": "Cocos Malay"
+    },
+    {
+        "code": "cpe",
+        "autonym": "cpe",
+        "name": "English-based creole languages"
+    },
+    {
+        "code": "cpf",
+        "autonym": "cpf",
+        "name": "French-based creole languages"
+    },
+    {
+        "code": "cpp",
+        "autonym": "cpp",
+        "name": "Portuguese-based creole languages"
+    },
+    {
+        "code": "cr-cans",
+        "autonym": "cr-cans",
+        "name": "Cree (Canadian Aboriginal syllabics)"
+    },
+    {
+        "code": "cr-latn",
+        "autonym": "cr-latn",
+        "name": "Cree (Latin script)"
     },
     {
         "code": "crb",
@@ -3755,6 +3950,11 @@
         "name": "Moose Cree"
     },
     {
+        "code": "crp",
+        "autonym": "crp",
+        "name": "creoles and pidgins"
+    },
+    {
         "code": "crr",
         "autonym": "crr",
         "name": "Carolina Algonquian"
@@ -3775,6 +3975,11 @@
         "name": "Chittagonian"
     },
     {
+        "code": "cus",
+        "autonym": "cus",
+        "name": "Cushitic languages"
+    },
+    {
         "code": "dak",
         "autonym": "dak",
         "name": "Dakota"
@@ -3788,6 +3993,16 @@
         "code": "dav",
         "autonym": "dav",
         "name": "Taita"
+    },
+    {
+        "code": "day",
+        "autonym": "day",
+        "name": "Land Dayak languages"
+    },
+    {
+        "code": "dbj",
+        "autonym": "dbj",
+        "name": "Idaʼan"
     },
     {
         "code": "ddn",
@@ -3820,6 +4035,21 @@
         "name": "Zarma"
     },
     {
+        "code": "dkr",
+        "autonym": "dkr",
+        "name": "Kuijau"
+    },
+    {
+        "code": "dmg",
+        "autonym": "dmg",
+        "name": "Upper Kinabatangan"
+    },
+    {
+        "code": "dmv",
+        "autonym": "dmv",
+        "name": "Dumpas"
+    },
+    {
         "code": "doi",
         "autonym": "doi",
         "name": "Dogri"
@@ -3840,9 +4070,39 @@
         "name": "Dogri (Dogra script)"
     },
     {
+        "code": "dpp",
+        "autonym": "dpp",
+        "name": "Papar"
+    },
+    {
+        "code": "dra",
+        "autonym": "dra",
+        "name": "Dravidian languages"
+    },
+    {
+        "code": "drg",
+        "autonym": "drg",
+        "name": "Rungus"
+    },
+    {
+        "code": "dro",
+        "autonym": "dro",
+        "name": "Daro-Matu"
+    },
+    {
         "code": "dru",
         "autonym": "dru",
         "name": "Rukai"
+    },
+    {
+        "code": "dtb",
+        "autonym": "dtb",
+        "name": "Eastern Kadazan"
+    },
+    {
+        "code": "dtr",
+        "autonym": "dtr",
+        "name": "Lotud"
     },
     {
         "code": "duf",
@@ -3925,6 +4185,11 @@
         "name": "New Zealand English"
     },
     {
+        "code": "en-uk",
+        "autonym": "en-uk",
+        "name": "British English"
+    },
+    {
         "code": "enm",
         "autonym": "enm",
         "name": "Middle English"
@@ -3948,6 +4213,11 @@
         "code": "es-mx",
         "autonym": "es-mx",
         "name": "Mexican Spanish"
+    },
+    {
+        "code": "es-ni",
+        "autonym": "es-ni",
+        "name": "Spanish (Nicaragua)"
     },
     {
         "code": "ess",
@@ -3975,14 +4245,34 @@
         "name": "Dari"
     },
     {
+        "code": "fab",
+        "autonym": "fab",
+        "name": "Annobonese Creole"
+    },
+    {
         "code": "fan",
         "autonym": "fan",
         "name": "Fang"
     },
     {
+        "code": "fax",
+        "autonym": "fax",
+        "name": "Fala"
+    },
+    {
+        "code": "fay",
+        "autonym": "fay",
+        "name": "Kuhmareyi"
+    },
+    {
         "code": "fil",
         "autonym": "fil",
         "name": "Filipino"
+    },
+    {
+        "code": "fiu",
+        "autonym": "fiu",
+        "name": "Finno-Ugric languages"
     },
     {
         "code": "fos",
@@ -4035,6 +4325,11 @@
         "name": "Pular"
     },
     {
+        "code": "gah",
+        "autonym": "gah",
+        "name": "Alekano"
+    },
+    {
         "code": "gay",
         "autonym": "gay",
         "name": "Gayo"
@@ -4075,6 +4370,11 @@
         "name": "Zoroastrian Dari"
     },
     {
+        "code": "gem",
+        "autonym": "gem",
+        "name": "Germanic languages"
+    },
+    {
         "code": "gez",
         "autonym": "gez",
         "name": "Geez"
@@ -4110,6 +4410,11 @@
         "name": "Mycenaean Greek"
     },
     {
+        "code": "gnq",
+        "autonym": "gnq",
+        "name": "Ganaʼ"
+    },
+    {
         "code": "goh",
         "autonym": "goh",
         "name": "Old High German"
@@ -4135,6 +4440,11 @@
         "name": "Alsatian"
     },
     {
+        "code": "gum",
+        "autonym": "gum",
+        "name": "Guambiano"
+    },
+    {
         "code": "guz",
         "autonym": "guz",
         "name": "Gusii"
@@ -4148,6 +4458,11 @@
         "code": "ha-arab",
         "autonym": "ha-arab",
         "name": "Hausa (Arabic script)"
+    },
+    {
+        "code": "ha-latn",
+        "autonym": "ha-latn",
+        "name": "Hausa (Latin script)"
     },
     {
         "code": "ha-ne",
@@ -4198,6 +4513,11 @@
         "code": "hif-deva",
         "autonym": "hif-deva",
         "name": "Fiji Hindi (Devanagari script)"
+    },
+    {
+        "code": "him",
+        "autonym": "him",
+        "name": "Western Pahari"
     },
     {
         "code": "hit",
@@ -4255,9 +4575,19 @@
         "name": "Halkomelem"
     },
     {
+        "code": "ifu",
+        "autonym": "ifu",
+        "name": "Mayoyao Ifugao"
+    },
+    {
         "code": "igb",
         "autonym": "igb",
         "name": "Ebira"
+    },
+    {
+        "code": "ijo",
+        "autonym": "ijo",
+        "name": "Ijaw languages"
     },
     {
         "code": "ikt",
@@ -4265,9 +4595,54 @@
         "name": "Western Canadian Inuktitut"
     },
     {
+        "code": "inc",
+        "autonym": "inc",
+        "name": "Indo-Aryan languages"
+    },
+    {
+        "code": "ine",
+        "autonym": "ine",
+        "name": "Indo-European languages"
+    },
+    {
+        "code": "ira",
+        "autonym": "ira",
+        "name": "Iranian languages"
+    },
+    {
+        "code": "iro",
+        "autonym": "iro",
+        "name": "Iroquoian languages"
+    },
+    {
         "code": "ish",
         "autonym": "ish",
         "name": "Esan"
+    },
+    {
+        "code": "isk-arab",
+        "autonym": "isk-arab",
+        "name": "Ishkashimi (Arabic script)"
+    },
+    {
+        "code": "isk-cyrl",
+        "autonym": "isk-cyrl",
+        "name": "Ishkashimi (Cyrillic script)"
+    },
+    {
+        "code": "isk-latn",
+        "autonym": "isk-latn",
+        "name": "Ishkashimi (Latin script)"
+    },
+    {
+        "code": "ist",
+        "autonym": "ist",
+        "name": "Istriot"
+    },
+    {
+        "code": "ivb",
+        "autonym": "ivb",
+        "name": "Ibatan"
     },
     {
         "code": "izh",
@@ -4300,9 +4675,19 @@
         "name": "Popti'"
     },
     {
+        "code": "jak",
+        "autonym": "jak",
+        "name": "Jakun"
+    },
+    {
         "code": "jdt",
         "autonym": "jdt",
         "name": "Judeo-Tat"
+    },
+    {
+        "code": "jdt-cyrl",
+        "autonym": "jdt-cyrl",
+        "name": "Judeo-Tat (Cyrillic script)"
     },
     {
         "code": "jgo",
@@ -4335,14 +4720,29 @@
         "name": "Kachin"
     },
     {
+        "code": "kag",
+        "autonym": "kag",
+        "name": "Kajaman"
+    },
+    {
         "code": "kam",
         "autonym": "kam",
         "name": "Kamba"
     },
     {
+        "code": "kar",
+        "autonym": "kar",
+        "name": "Karenic languages"
+    },
+    {
         "code": "kaw",
         "autonym": "kaw",
         "name": "Kawi"
+    },
+    {
+        "code": "kbd-latn",
+        "autonym": "kbd-latn",
+        "name": "Kabardian (Latin script)"
     },
     {
         "code": "kbl",
@@ -4358,6 +4758,11 @@
         "code": "kde",
         "autonym": "kde",
         "name": "Makonde"
+    },
+    {
+        "code": "kek",
+        "autonym": "kek",
+        "name": "Qʼeqchiʼ"
     },
     {
         "code": "ken",
@@ -4388,6 +4793,11 @@
         "code": "kha",
         "autonym": "kha",
         "name": "Khasi"
+    },
+    {
+        "code": "khi",
+        "autonym": "khi",
+        "name": "Khoisan languages"
     },
     {
         "code": "kho",
@@ -4470,6 +4880,11 @@
         "name": "Maharashtrian Konkani"
     },
     {
+        "code": "knq",
+        "autonym": "knq",
+        "name": "Kintaq"
+    },
+    {
         "code": "ko-cn",
         "autonym": "ko-cn",
         "name": "Korean (China)"
@@ -4505,6 +4920,26 @@
         "name": "Kpelle"
     },
     {
+        "code": "kqr",
+        "autonym": "kqr",
+        "name": "Kimaragang"
+    },
+    {
+        "code": "kqt",
+        "autonym": "kqt",
+        "name": "Klias River Kadazan"
+    },
+    {
+        "code": "kqv",
+        "autonym": "kqv",
+        "name": "Okolod"
+    },
+    {
+        "code": "kro",
+        "autonym": "kro",
+        "name": "Kru languages"
+    },
+    {
         "code": "kru",
         "autonym": "kru",
         "name": "Kurukh"
@@ -4525,9 +4960,29 @@
         "name": "Kutenai"
     },
     {
+        "code": "kve",
+        "autonym": "kve",
+        "name": "Kalabakan"
+    },
+    {
         "code": "kwk",
         "autonym": "kwk",
         "name": "Kwakʼwala"
+    },
+    {
+        "code": "kxd",
+        "autonym": "kxd",
+        "name": "Brunei Malay"
+    },
+    {
+        "code": "kxi",
+        "autonym": "kxi",
+        "name": "Keningau Murut"
+    },
+    {
+        "code": "kxn",
+        "autonym": "kxn",
+        "name": "Kanowit"
     },
     {
         "code": "kxv",
@@ -4548,6 +5003,11 @@
         "code": "lad-hebr",
         "autonym": "lad-hebr",
         "name": "Ladino (Hebrew script)"
+    },
+    {
+        "code": "lad-latn",
+        "autonym": "lad-latn",
+        "name": "Ladino (Latin script)"
     },
     {
         "code": "lag",
@@ -4620,6 +5080,11 @@
         "name": "Luba-Katanga"
     },
     {
+        "code": "lud",
+        "autonym": "lud",
+        "name": "Ludic"
+    },
+    {
         "code": "lui",
         "autonym": "lui",
         "name": "Luiseno"
@@ -4633,6 +5098,11 @@
         "code": "luo",
         "autonym": "luo",
         "name": "Luo"
+    },
+    {
+        "code": "lut",
+        "autonym": "lut",
+        "name": "Lushootseed"
     },
     {
         "code": "luy",
@@ -4658,6 +5128,11 @@
         "code": "man",
         "autonym": "man",
         "name": "Mandingo"
+    },
+    {
+        "code": "map",
+        "autonym": "map",
+        "name": "Austronesian languages"
     },
     {
         "code": "mas",
@@ -4730,6 +5205,11 @@
         "name": "Mungaka"
     },
     {
+        "code": "mhn",
+        "autonym": "mhn",
+        "name": "Mòcheno"
+    },
+    {
         "code": "mic",
         "autonym": "mic",
         "name": "Mi'kmaw"
@@ -4738,6 +5218,11 @@
         "code": "mid",
         "autonym": "mid",
         "name": "Mandaic"
+    },
+    {
+        "code": "miq",
+        "autonym": "miq",
+        "name": "Miskito"
     },
     {
         "code": "mis",
@@ -4755,9 +5240,39 @@
         "name": "Mahali (Bengali script)"
     },
     {
+        "code": "mkh",
+        "autonym": "mkh",
+        "name": "Mon-Khmer"
+    },
+    {
+        "code": "mn-cyrl",
+        "autonym": "mn-cyrl",
+        "name": "Mongolian (Cyrillic script)"
+    },
+    {
         "code": "mn-mong",
         "autonym": "mn-mong",
         "name": "Mongolian (Mongolian script)"
+    },
+    {
+        "code": "mni-beng",
+        "autonym": "mni-beng",
+        "name": "Manipuri (Bengali script)"
+    },
+    {
+        "code": "mnj",
+        "autonym": "mnj",
+        "name": "Munji"
+    },
+    {
+        "code": "mno",
+        "autonym": "mno",
+        "name": "Manobo languages"
+    },
+    {
+        "code": "mnq",
+        "autonym": "mnq",
+        "name": "Minriq"
     },
     {
         "code": "mns",
@@ -4773,6 +5288,11 @@
         "code": "moh",
         "autonym": "moh",
         "name": "Mohawk"
+    },
+    {
+        "code": "mr-modi",
+        "autonym": "mr-modi",
+        "name": "Marathi (Modi script)"
     },
     {
         "code": "mrt",
@@ -4795,6 +5315,11 @@
         "name": "multiple languages"
     },
     {
+        "code": "mun",
+        "autonym": "mun",
+        "name": "Munda languages"
+    },
+    {
         "code": "mvf",
         "autonym": "mvf",
         "name": "Peripheral Mongolian"
@@ -4808,6 +5333,11 @@
         "code": "mvi-hira",
         "autonym": "mvi-hira",
         "name": "Miyako (Hiragana script)"
+    },
+    {
+        "code": "mvv",
+        "autonym": "mvv",
+        "name": "Tagol"
     },
     {
         "code": "mwr",
@@ -4835,6 +5365,16 @@
         "name": "Myene"
     },
     {
+        "code": "myn",
+        "autonym": "myn",
+        "name": "Mayan languages"
+    },
+    {
+        "code": "nai",
+        "autonym": "nai",
+        "name": "Indigenous languages of North America"
+    },
+    {
         "code": "nan-hans",
         "autonym": "nan-hans",
         "name": "Minnan (Simplified Han script)"
@@ -4848,6 +5388,11 @@
         "code": "nd",
         "autonym": "nd",
         "name": "North Ndebele"
+    },
+    {
+        "code": "nic",
+        "autonym": "nic",
+        "name": "Niger–Congo languages"
     },
     {
         "code": "njo",
@@ -4893,6 +5438,21 @@
         "code": "nsk",
         "autonym": "nsk",
         "name": "Naskapi"
+    },
+    {
+        "code": "nsl",
+        "autonym": "nsl",
+        "name": "Norwegian Sign Language"
+    },
+    {
+        "code": "ntd",
+        "autonym": "ntd",
+        "name": "Sesayap Tidung"
+    },
+    {
+        "code": "nub",
+        "autonym": "nub",
+        "name": "Nubian languages"
     },
     {
         "code": "nus",
@@ -5010,6 +5570,11 @@
         "name": "Old Turkish"
     },
     {
+        "code": "oto",
+        "autonym": "oto",
+        "name": "Otomian languages"
+    },
+    {
         "code": "ovd",
         "autonym": "ovd",
         "name": "Elfdalian"
@@ -5018,6 +5583,16 @@
         "code": "owl",
         "autonym": "owl",
         "name": "Old Welsh"
+    },
+    {
+        "code": "pa-guru",
+        "autonym": "pa-guru",
+        "name": "Punjabi (Gurmukhi script)"
+    },
+    {
+        "code": "paa",
+        "autonym": "paa",
+        "name": "Papuan languages"
     },
     {
         "code": "pal",
@@ -5085,6 +5660,16 @@
         "name": "Gāndhārī (Kharoshthi script)"
     },
     {
+        "code": "pgl",
+        "autonym": "pgl",
+        "name": "Primitive Irish"
+    },
+    {
+        "code": "phi",
+        "autonym": "phi",
+        "name": "Philippine languages"
+    },
+    {
         "code": "phl",
         "autonym": "phl",
         "name": "Palula"
@@ -5125,9 +5710,29 @@
         "name": "Pitjantjatjara"
     },
     {
+        "code": "pkc",
+        "autonym": "pkc",
+        "name": "Paekche"
+    },
+    {
+        "code": "pko",
+        "autonym": "pko",
+        "name": "Pökoot"
+    },
+    {
         "code": "pks",
         "autonym": "pks",
         "name": "Pakistan Sign Language"
+    },
+    {
+        "code": "plv",
+        "autonym": "plv",
+        "name": "Southwest Palawano"
+    },
+    {
+        "code": "plw",
+        "autonym": "plw",
+        "name": "Brooke's Point Palawano"
     },
     {
         "code": "pon",
@@ -5148,6 +5753,16 @@
         "code": "pqm",
         "autonym": "pqm",
         "name": "Maliseet-Passamaquoddy"
+    },
+    {
+        "code": "pra",
+        "autonym": "pra",
+        "name": "Prakrit"
+    },
+    {
+        "code": "prc",
+        "autonym": "prc",
+        "name": "Parachi"
     },
     {
         "code": "pro",
@@ -5365,6 +5980,11 @@
         "name": "Moldavian"
     },
     {
+        "code": "roa",
+        "autonym": "roa",
+        "name": "Romance languages"
+    },
+    {
         "code": "rof",
         "autonym": "rof",
         "name": "Rombo"
@@ -5423,6 +6043,16 @@
         "code": "sad",
         "autonym": "sad",
         "name": "Sandawe"
+    },
+    {
+        "code": "sai",
+        "autonym": "sai",
+        "name": "South American indigenous languages"
+    },
+    {
+        "code": "sal",
+        "autonym": "sal",
+        "name": "Salishan languages"
     },
     {
         "code": "sam",
@@ -5500,6 +6130,16 @@
         "name": "Southern Kurdish (Latin script)"
     },
     {
+        "code": "sdo",
+        "autonym": "sdo",
+        "name": "Bukar–Sadong"
+    },
+    {
+        "code": "sea",
+        "autonym": "sea",
+        "name": "Semai"
+    },
+    {
         "code": "see",
         "autonym": "see",
         "name": "Seneca"
@@ -5515,6 +6155,11 @@
         "name": "Selkup"
     },
     {
+        "code": "sem",
+        "autonym": "sem",
+        "name": "Semitic languages"
+    },
+    {
         "code": "ser",
         "autonym": "ser",
         "name": "Serrano"
@@ -5528,6 +6173,36 @@
         "code": "sgh",
         "autonym": "sgh",
         "name": "Shughni"
+    },
+    {
+        "code": "sgh-arab",
+        "autonym": "sgh-arab",
+        "name": "Shughni (Arabic script)"
+    },
+    {
+        "code": "sgh-cyrl",
+        "autonym": "sgh-cyrl",
+        "name": "Shughni (Cyrillic script)"
+    },
+    {
+        "code": "sgh-latn",
+        "autonym": "sgh-latn",
+        "name": "Shughni (Latin script)"
+    },
+    {
+        "code": "sgn",
+        "autonym": "sgn",
+        "name": "sign languages"
+    },
+    {
+        "code": "sgy-arab",
+        "autonym": "sgy-arab",
+        "name": "Sanglechi (Arabic script)"
+    },
+    {
+        "code": "sgy-latn",
+        "autonym": "sgy-latn",
+        "name": "Sanglechi (Latin script)"
     },
     {
         "code": "shd",
@@ -5560,6 +6235,16 @@
         "name": "Sidamo"
     },
     {
+        "code": "sio",
+        "autonym": "sio",
+        "name": "Siouan languages"
+    },
+    {
+        "code": "sit",
+        "autonym": "sit",
+        "name": "Sino-Tibetan languages"
+    },
+    {
         "code": "sjk",
         "autonym": "sjk",
         "name": "Kemi Sami"
@@ -5580,6 +6265,11 @@
         "name": "Ter Sami"
     },
     {
+        "code": "sla",
+        "autonym": "sla",
+        "name": "Slavic languages"
+    },
+    {
         "code": "slh",
         "autonym": "slh",
         "name": "Southern Lushootseed"
@@ -5595,6 +6285,16 @@
         "name": "Selayar"
     },
     {
+        "code": "smi",
+        "autonym": "smi",
+        "name": "Sámi languages"
+    },
+    {
+        "code": "sne",
+        "autonym": "sne",
+        "name": "Jagoi"
+    },
+    {
         "code": "snk",
         "autonym": "snk",
         "name": "Soninke"
@@ -5603,6 +6303,11 @@
         "code": "sog",
         "autonym": "sog",
         "name": "Sogdien"
+    },
+    {
+        "code": "son",
+        "autonym": "son",
+        "name": "Songhay languages"
     },
     {
         "code": "spv",
@@ -5625,9 +6330,39 @@
         "name": "Montenegrin"
     },
     {
+        "code": "srh-arab",
+        "autonym": "srh-arab",
+        "name": "Sarikoli (Arabic script)"
+    },
+    {
+        "code": "srh-cyrl",
+        "autonym": "srh-cyrl",
+        "name": "Sarikoli (Cyrillic script)"
+    },
+    {
+        "code": "srh-latn",
+        "autonym": "srh-latn",
+        "name": "Sarikoli (Latin script)"
+    },
+    {
+        "code": "srk",
+        "autonym": "srk",
+        "name": "Serudung"
+    },
+    {
         "code": "srr",
         "autonym": "srr",
         "name": "Serer"
+    },
+    {
+        "code": "ssa",
+        "autonym": "ssa",
+        "name": "Nilo-Saharan languages"
+    },
+    {
+        "code": "ssb",
+        "autonym": "ssb",
+        "name": "Southern Sama"
     },
     {
         "code": "ssf",
@@ -5675,6 +6410,11 @@
         "name": "Sumerian (Cuneiform script)"
     },
     {
+        "code": "suz",
+        "autonym": "suz",
+        "name": "Sunwar"
+    },
+    {
         "code": "sva",
         "autonym": "sva",
         "name": "Svan"
@@ -5710,9 +6450,19 @@
         "name": "Sylheti (Bengali script)"
     },
     {
+        "code": "syl-sylo",
+        "autonym": "syl-sylo",
+        "name": "Sylheti (Sylheti Nagri script)"
+    },
+    {
         "code": "syr",
         "autonym": "syr",
         "name": "Syriac"
+    },
+    {
+        "code": "tai",
+        "autonym": "tai",
+        "name": "Tai languages"
     },
     {
         "code": "tao",
@@ -5760,6 +6510,11 @@
         "name": "Tahltan"
     },
     {
+        "code": "tih",
+        "autonym": "tih",
+        "name": "Timugon"
+    },
+    {
         "code": "tiv",
         "autonym": "tiv",
         "name": "Tiv"
@@ -5772,7 +6527,7 @@
     {
         "code": "tkl",
         "autonym": "tkl",
-        "name": "Tokelau"
+        "name": "Tokelauan"
     },
     {
         "code": "tkr",
@@ -5810,6 +6565,11 @@
         "name": "Tamashek"
     },
     {
+        "code": "tmr",
+        "autonym": "tmr",
+        "name": "Jewish Babylonian Aramaic"
+    },
+    {
         "code": "tnq",
         "autonym": "tnq",
         "name": "Taíno"
@@ -5825,6 +6585,11 @@
         "name": "Tonga (Botatwe)"
     },
     {
+        "code": "trp",
+        "autonym": "trp",
+        "name": "Kokborok"
+    },
+    {
         "code": "trw",
         "autonym": "trw",
         "name": "Torwali"
@@ -5833,6 +6598,11 @@
         "code": "tsd",
         "autonym": "tsd",
         "name": "Tsakonian"
+    },
+    {
+        "code": "tsg",
+        "autonym": "tsg",
+        "name": "Tausug"
     },
     {
         "code": "tsi",
@@ -5860,14 +6630,34 @@
         "name": "Tupuri"
     },
     {
+        "code": "tup",
+        "autonym": "tup",
+        "name": "Tupian languages"
+    },
+    {
+        "code": "tut",
+        "autonym": "tut",
+        "name": "Altaic languages"
+    },
+    {
         "code": "tvl",
         "autonym": "tvl",
         "name": "Tuvalu"
     },
     {
+        "code": "twd",
+        "autonym": "twd",
+        "name": "Tweants"
+    },
+    {
         "code": "twq",
         "autonym": "twq",
         "name": "Tasawaq"
+    },
+    {
+        "code": "txa",
+        "autonym": "txa",
+        "name": "Tombonuwo"
     },
     {
         "code": "txg",
@@ -5885,14 +6675,29 @@
         "name": "Toto (Toto script)"
     },
     {
+        "code": "txx",
+        "autonym": "txx",
+        "name": "Tatana"
+    },
+    {
         "code": "tzl",
         "autonym": "tzl",
         "name": "Talossan"
     },
     {
+        "code": "ug-cyrl",
+        "autonym": "ug-cyrl",
+        "name": "Uyghur (Cyrillic script)"
+    },
+    {
         "code": "uga",
         "autonym": "uga",
         "name": "Ugaritic"
+    },
+    {
+        "code": "ulc",
+        "autonym": "ulc",
+        "name": "Ulch"
     },
     {
         "code": "uln",
@@ -5930,6 +6735,16 @@
         "name": "Mundari (Nag Mundari script)"
     },
     {
+        "code": "urk",
+        "autonym": "urk",
+        "name": "Urak Lawoiʼ"
+    },
+    {
+        "code": "ush",
+        "autonym": "ush",
+        "name": "Ushoji"
+    },
+    {
         "code": "uun",
         "autonym": "uun",
         "name": "Pazeh"
@@ -5955,14 +6770,54 @@
         "name": "Walser"
     },
     {
+        "code": "wak",
+        "autonym": "wak",
+        "name": "Wakashan languages"
+    },
+    {
         "code": "was",
         "autonym": "was",
         "name": "Washo"
     },
     {
+        "code": "wbl-arab",
+        "autonym": "wbl-arab",
+        "name": "Wakhi (Arabic script)"
+    },
+    {
+        "code": "wbl-arab-af",
+        "autonym": "wbl-arab-af",
+        "name": "Wakhi (Arabic script, Afghanistan)"
+    },
+    {
+        "code": "wbl-arab-cn",
+        "autonym": "wbl-arab-cn",
+        "name": "Wakhi (Arabic script, China)"
+    },
+    {
+        "code": "wbl-arab-pk",
+        "autonym": "wbl-arab-pk",
+        "name": "Wakhi (Arabic script, Pakistan)"
+    },
+    {
+        "code": "wbl-cyrl",
+        "autonym": "wbl-cyrl",
+        "name": "Wakhi (Cyrillic script)"
+    },
+    {
+        "code": "wbl-latn",
+        "autonym": "wbl-latn",
+        "name": "Wakhi (Latin script)"
+    },
+    {
         "code": "wbp",
         "autonym": "wbp",
         "name": "Warlpiri"
+    },
+    {
+        "code": "wen",
+        "autonym": "wen",
+        "name": "Sorbian languages"
     },
     {
         "code": "wlm",
@@ -5988,6 +6843,11 @@
         "code": "xbm",
         "autonym": "xbm",
         "name": "Middle Breton"
+    },
+    {
+        "code": "xmm",
+        "autonym": "xmm",
+        "name": "Manado Malay"
     },
     {
         "code": "xnb",
@@ -6035,6 +6895,26 @@
         "name": "Sanumá"
     },
     {
+        "code": "yah-cyrl",
+        "autonym": "yah-cyrl",
+        "name": "Yazghulami (Cyrillic script)"
+    },
+    {
+        "code": "yah-latn",
+        "autonym": "yah-latn",
+        "name": "Yazghulami (Latin script)"
+    },
+    {
+        "code": "yai-cyrl",
+        "autonym": "yai-cyrl",
+        "name": "Yaghnobi (Cyrillic script)"
+    },
+    {
+        "code": "yai-latn",
+        "autonym": "yai-latn",
+        "name": "Yaghnobi (Latin script)"
+    },
+    {
         "code": "yao",
         "autonym": "yao",
         "name": "Yao"
@@ -6043,6 +6923,16 @@
         "code": "yap",
         "autonym": "yap",
         "name": "Yapese"
+    },
+    {
+        "code": "ydd",
+        "autonym": "ydd",
+        "name": "Eastern Yiddish"
+    },
+    {
+        "code": "ydg",
+        "autonym": "ydg",
+        "name": "Yidgha"
     },
     {
         "code": "yec",
@@ -6075,6 +6965,11 @@
         "name": "Yoron (Hiragana script)"
     },
     {
+        "code": "ypk",
+        "autonym": "ypk",
+        "name": "Yupik languages"
+    },
+    {
         "code": "yrk",
         "autonym": "yrk",
         "name": "Nenets"
@@ -6103,6 +6998,11 @@
         "code": "zmi",
         "autonym": "zmi",
         "name": "Negeri Sembilan Malay"
+    },
+    {
+        "code": "znd",
+        "autonym": "znd",
+        "name": "Zande languages"
     },
     {
         "code": "zpu",
