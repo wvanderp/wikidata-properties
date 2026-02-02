@@ -3472,7 +3472,7 @@
         "apiUrl": "//ha.wikipedia.org/w/api.php",
         "languageCode": "ha",
         "group": "wiki",
-        "logo": "//ha.wikipedia.org/static/images/project-logos/hawiki.png",
+        "logo": "//ha.wikipedia.org/static/images/project-logos/hawiki-temp25.png",
         "mobileUrl": "https://ha.wikipedia.org"
     },
     "hawiktionary": {
@@ -4583,7 +4583,7 @@
         "apiUrl": "//kaa.wikipedia.org/w/api.php",
         "languageCode": "kaa",
         "group": "wiki",
-        "logo": "//kaa.wikipedia.org/static/images/project-logos/kaawiki.png",
+        "logo": "//kaa.wikipedia.org/static/images/project-logos/kaawiki-temp25.png",
         "mobileUrl": "https://kaa.wikipedia.org"
     },
     "kaawiktionary": {
@@ -4607,6 +4607,17 @@
         "group": "wiki",
         "logo": "//kab.wikipedia.org/static/images/project-logos/kabwiki.png",
         "mobileUrl": "https://kab.wikipedia.org"
+    },
+    "kajwiki": {
+        "shortName": "Wikipedia",
+        "name": "Wikipedia",
+        "id": "kajwiki",
+        "pageUrl": "//kaj.wikipedia.org/wiki/$1",
+        "apiUrl": "//kaj.wikipedia.org/w/api.php",
+        "languageCode": "kaj",
+        "group": "wiki",
+        "logo": "//kaj.wikipedia.org/static/images/project-logos/kajwiki.png",
+        "mobileUrl": "https://kaj.wikipedia.org"
     },
     "kbdwiki": {
         "shortName": "Уикипедиэ",
@@ -7226,6 +7237,17 @@
         "logo": "//pnt.wikipedia.org/static/images/project-logos/pntwiki.png",
         "mobileUrl": "https://pnt.wikipedia.org"
     },
+    "pplwiki": {
+        "shortName": "Wikipedia",
+        "name": "Wikipedia",
+        "id": "pplwiki",
+        "pageUrl": "//ppl.wikipedia.org/wiki/$1",
+        "apiUrl": "//ppl.wikipedia.org/w/api.php",
+        "languageCode": "ppl",
+        "group": "wiki",
+        "logo": "//ppl.wikipedia.org/static/images/project-logos/enwiki.png",
+        "mobileUrl": "https://ppl.wikipedia.org"
+    },
     "pswiki": {
         "shortName": "ويکيپېډيا",
         "name": "ويکيپېډيا",
@@ -8972,7 +8994,7 @@
         "apiUrl": "//tg.wikipedia.org/w/api.php",
         "languageCode": "tg",
         "group": "wiki",
-        "logo": "//tg.wikipedia.org/static/images/project-logos/tgwiki.png",
+        "logo": "//tg.wikipedia.org/static/images/project-logos/tgwiki-temp25.png",
         "mobileUrl": "https://tg.wikipedia.org"
     },
     "tgwiktionary": {
