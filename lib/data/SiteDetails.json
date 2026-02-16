@@ -330,8 +330,8 @@
         "mobileUrl": "https://ar.wiktionary.org"
     },
     "arwikibooks": {
-        "shortName": "ويكي الكتب",
-        "name": "ويكي الكتب",
+        "shortName": "ويكي كتب",
+        "name": "ويكي كتب",
         "id": "arwikibooks",
         "pageUrl": "//ar.wikibooks.org/wiki/$1",
         "apiUrl": "//ar.wikibooks.org/w/api.php",
@@ -7238,14 +7238,14 @@
         "mobileUrl": "https://pnt.wikipedia.org"
     },
     "pplwiki": {
-        "shortName": "Wikipedia",
-        "name": "Wikipedia",
+        "shortName": "Wikiamachti",
+        "name": "Wikiamachti",
         "id": "pplwiki",
         "pageUrl": "//ppl.wikipedia.org/wiki/$1",
         "apiUrl": "//ppl.wikipedia.org/w/api.php",
         "languageCode": "ppl",
         "group": "wiki",
-        "logo": "//ppl.wikipedia.org/static/images/project-logos/enwiki.png",
+        "logo": "//ppl.wikipedia.org/static/images/project-logos/pplwiki.png",
         "mobileUrl": "https://ppl.wikipedia.org"
     },
     "pswiki": {
