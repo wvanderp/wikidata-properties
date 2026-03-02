@@ -4280,6 +4280,11 @@
         "name": "Siraya"
     },
     {
+        "code": "fr-be",
+        "autonym": "fr-be",
+        "name": "Belgian French"
+    },
+    {
         "code": "fr-ca",
         "autonym": "fr-ca",
         "name": "Canadian French"
