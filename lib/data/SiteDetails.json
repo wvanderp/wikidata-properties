@@ -4608,6 +4608,17 @@
         "logo": "//kab.wikipedia.org/static/images/project-logos/kabwiki.png",
         "mobileUrl": "https://kab.wikipedia.org"
     },
+    "kaiwiki": {
+        "shortName": "Wikipèdiya",
+        "name": "Wikipèdiya",
+        "id": "kaiwiki",
+        "pageUrl": "//kai.wikipedia.org/wiki/$1",
+        "apiUrl": "//kai.wikipedia.org/w/api.php",
+        "languageCode": "kai",
+        "group": "wiki",
+        "logo": "//kai.wikipedia.org/static/images/project-logos/kaiwiki.png",
+        "mobileUrl": "https://kai.wikipedia.org"
+    },
     "kajwiki": {
         "shortName": "Wikipedia",
         "name": "Wikipedia",
@@ -9690,6 +9701,17 @@
         "logo": "//ur.wikiquote.org/static/images/project-logos/urwikiquote.png",
         "mobileUrl": "https://ur.wikiquote.org"
     },
+    "urwikisource": {
+        "shortName": "ویکی ماخذ",
+        "name": "ویکی ماخذ",
+        "id": "urwikisource",
+        "pageUrl": "//ur.wikisource.org/wiki/$1",
+        "apiUrl": "//ur.wikisource.org/w/api.php",
+        "languageCode": "ur",
+        "group": "wikisource",
+        "logo": "//ur.wikisource.org/static/images/project-logos/urwikisource.png",
+        "mobileUrl": "https://ur.wikisource.org"
+    },
     "uzwiki": {
         "shortName": "Vikipediya",
         "name": "Vikipediya",
@@ -10248,7 +10270,7 @@
         "apiUrl": "//zh.wikipedia.org/w/api.php",
         "languageCode": "zh",
         "group": "wiki",
-        "logo": "//zh.wikipedia.org/static/images/project-logos/zhwiki-cny2026.png",
+        "logo": "//zh.wikipedia.org/static/images/project-logos/zhwiki-25.png",
         "mobileUrl": "https://zh.wikipedia.org"
     },
     "zhwiktionary": {

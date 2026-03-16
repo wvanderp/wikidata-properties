@@ -5050,6 +5050,16 @@
         "name": "Láadan"
     },
     {
+        "code": "li-be",
+        "autonym": "li-be",
+        "name": "Belgian Limburgish"
+    },
+    {
+        "code": "li-nl",
+        "autonym": "li-nl",
+        "name": "Dutch Limburgish"
+    },
+    {
         "code": "lij-mc",
         "autonym": "lij-mc",
         "name": "Monégasque"
@@ -5843,6 +5853,11 @@
         "code": "pt-pt",
         "autonym": "pt-pt",
         "name": "European Portuguese"
+    },
+    {
+        "code": "pwo",
+        "autonym": "pwo",
+        "name": "Western Pwo"
     },
     {
         "code": "pyu",
