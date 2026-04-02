@@ -1220,6 +1220,11 @@
         "name": "Isu"
     },
     {
+        "code": "isv",
+        "autonym": "medžuslovjansky",
+        "name": "medžuslovjansky"
+    },
+    {
         "code": "isv-cyrl",
         "autonym": "меджусловјанскы",
         "name": "Interslavic (Cyrillic script)"
@@ -4725,6 +4730,11 @@
         "name": "Judeo-Arabic"
     },
     {
+        "code": "juk",
+        "autonym": "juk",
+        "name": "Wapan"
+    },
+    {
         "code": "kac",
         "autonym": "kac",
         "name": "Kachin"
@@ -6637,7 +6647,7 @@
     {
         "code": "tsu",
         "autonym": "tsu",
-        "name": "Tsou "
+        "name": "Tsou"
     },
     {
         "code": "ttm",

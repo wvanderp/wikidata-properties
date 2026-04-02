@@ -1250,6 +1250,11 @@
         "name": "Isu"
     },
     {
+        "code": "isv",
+        "autonym": "medžuslovjansky",
+        "name": "medžuslovjansky"
+    },
+    {
         "code": "isv-cyrl",
         "autonym": "меджусловјанскы",
         "name": "Interslavic (Cyrillic script)"
