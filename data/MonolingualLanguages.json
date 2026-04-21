@@ -1605,6 +1605,11 @@
         "name": "Laki"
     },
     {
+        "code": "lkt",
+        "autonym": "Lakȟótiyapi",
+        "name": "Lakota"
+    },
+    {
         "code": "lld",
         "autonym": "Ladin",
         "name": "Ladin"
@@ -5078,11 +5083,6 @@
         "code": "lil",
         "autonym": "lil",
         "name": "Lillooet"
-    },
-    {
-        "code": "lkt",
-        "autonym": "lkt",
-        "name": "Lakota"
     },
     {
         "code": "lmn",

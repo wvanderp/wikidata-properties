@@ -10270,7 +10270,7 @@
         "apiUrl": "//zh.wikipedia.org/w/api.php",
         "languageCode": "zh",
         "group": "wiki",
-        "logo": "//zh.wikipedia.org/static/images/project-logos/zhwiki-25.png",
+        "logo": "//zh.wikipedia.org/static/images/project-logos/zhwiki.png",
         "mobileUrl": "https://zh.wikipedia.org"
     },
     "zhwiktionary": {
@@ -10303,7 +10303,7 @@
         "apiUrl": "//zh.wikinews.org/w/api.php",
         "languageCode": "zh",
         "group": "wikinews",
-        "logo": "//zh.wikinews.org/static/images/project-logos/zhwikinews.png",
+        "logo": "//zh.wikinews.org/static/images/project-logos/zhwikinews-20.png",
         "mobileUrl": "https://zh.wikinews.org"
     },
     "zhwikiquote": {
