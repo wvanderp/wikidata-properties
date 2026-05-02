@@ -3105,6 +3105,11 @@
         "name": "Zulu"
     },
     {
+        "code": "sva",
+        "autonym": "sva",
+        "name": "Svan"
+    },
+    {
         "code": "abe",
         "autonym": "abe",
         "name": "Western Abenaki"
@@ -6448,11 +6453,6 @@
         "code": "suz",
         "autonym": "suz",
         "name": "Sunwar"
-    },
-    {
-        "code": "sva",
-        "autonym": "sva",
-        "name": "Svan"
     },
     {
         "code": "sw-cd",

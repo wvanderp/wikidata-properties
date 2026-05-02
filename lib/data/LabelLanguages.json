@@ -3165,6 +3165,11 @@
         "name": "Zulu"
     },
     {
+        "code": "sva",
+        "autonym": "sva",
+        "name": "Svan"
+    },
+    {
         "code": "mul",
         "autonym": "mul",
         "name": "default for all languages"
