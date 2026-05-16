@@ -10303,7 +10303,7 @@
         "apiUrl": "//zh.wikinews.org/w/api.php",
         "languageCode": "zh",
         "group": "wikinews",
-        "logo": "//zh.wikinews.org/static/images/project-logos/zhwikinews-20.png",
+        "logo": "//zh.wikinews.org/static/images/project-logos/zhwikinews.png",
         "mobileUrl": "https://zh.wikinews.org"
     },
     "zhwikiquote": {

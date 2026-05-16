@@ -880,6 +880,11 @@
         "name": "Northern Frisian"
     },
     {
+        "code": "frs",
+        "autonym": "Oostfräisk",
+        "name": "Eastern Frisian"
+    },
+    {
         "code": "fur",
         "autonym": "furlan",
         "name": "Friulian"
@@ -1352,7 +1357,7 @@
     {
         "code": "kea",
         "autonym": "kabuverdianu",
-        "name": "Kabuverdianu"
+        "name": "Cape Verdean Creole"
     },
     {
         "code": "ker",
@@ -2650,6 +2655,11 @@
         "name": "Swedish"
     },
     {
+        "code": "sva",
+        "autonym": "ლუშნუ",
+        "name": "Svan"
+    },
+    {
         "code": "sw",
         "autonym": "Kiswahili",
         "name": "Swahili"
@@ -3163,11 +3173,6 @@
         "code": "zu",
         "autonym": "isiZulu",
         "name": "Zulu"
-    },
-    {
-        "code": "sva",
-        "autonym": "sva",
-        "name": "Svan"
     },
     {
         "code": "mul",
