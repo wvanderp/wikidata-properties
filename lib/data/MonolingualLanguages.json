@@ -1350,6 +1350,11 @@
         "name": "Kusunda"
     },
     {
+        "code": "kha",
+        "autonym": "খসি",
+        "name": "Khasi"
+    },
+    {
         "code": "khw",
         "autonym": "کھوار",
         "name": "Khowar"
@@ -4520,6 +4525,11 @@
         "name": "Biblical Hebrew"
     },
     {
+        "code": "hea",
+        "autonym": "hea",
+        "name": "Northern Qiandong Miao"
+    },
+    {
         "code": "hi-kthi",
         "autonym": "hi-kthi",
         "name": "Hindi (Kaithi script)"
@@ -4818,11 +4828,6 @@
         "code": "kgp",
         "autonym": "kgp",
         "name": "Kaingang"
-    },
-    {
-        "code": "kha",
-        "autonym": "kha",
-        "name": "Khasi"
     },
     {
         "code": "khi",
