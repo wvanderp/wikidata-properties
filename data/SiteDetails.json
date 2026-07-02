@@ -2878,7 +2878,7 @@
         "apiUrl": "//fr.wikipedia.org/w/api.php",
         "languageCode": "fr",
         "group": "wiki",
-        "logo": "//fr.wikipedia.org/static/images/project-logos/frwiki.png",
+        "logo": "//fr.wikipedia.org/static/images/project-logos/frwiki-25.png",
         "mobileUrl": "https://fr.wikipedia.org"
     },
     "frwiktionary": {
@@ -4255,6 +4255,17 @@
         "group": "wikisource",
         "logo": "//is.wikisource.org/static/images/project-logos/iswikisource.png",
         "mobileUrl": "https://is.wikisource.org"
+    },
+    "isvwiki": {
+        "shortName": "Vikipedija",
+        "name": "Vikipedija",
+        "id": "isvwiki",
+        "pageUrl": "//isv.wikipedia.org/wiki/$1",
+        "apiUrl": "//isv.wikipedia.org/w/api.php",
+        "languageCode": "isv",
+        "group": "wiki",
+        "logo": "//isv.wikipedia.org/static/images/project-logos/isvwiki.png",
+        "mobileUrl": "https://isv.wikipedia.org"
     },
     "itwiki": {
         "shortName": "Wikipedia",
@@ -5697,6 +5708,17 @@
         "logo": "//mad.wikisource.org/static/images/project-logos/madwikisource.png",
         "mobileUrl": "https://mad.wikisource.org"
     },
+    "magwiki": {
+        "shortName": "विकिपीडिया",
+        "name": "विकिपीडिया",
+        "id": "magwiki",
+        "pageUrl": "//mag.wikipedia.org/wiki/$1",
+        "apiUrl": "//mag.wikipedia.org/w/api.php",
+        "languageCode": "mag",
+        "group": "wiki",
+        "logo": "//mag.wikipedia.org/static/images/project-logos/hiwiki.png",
+        "mobileUrl": "https://mag.wikipedia.org"
+    },
     "maiwiki": {
         "shortName": "विकिपिडिया",
         "name": "विकिपिडिया",
@@ -6585,7 +6607,7 @@
         "apiUrl": "//nl.wikipedia.org/w/api.php",
         "languageCode": "nl",
         "group": "wiki",
-        "logo": "//nl.wikipedia.org/static/images/project-logos/nlwiki-25.png",
+        "logo": "//nl.wikipedia.org/static/images/project-logos/nlwiki.png",
         "mobileUrl": "https://nl.wikipedia.org"
     },
     "nlwiktionary": {
@@ -7124,7 +7146,7 @@
         "apiUrl": "//pl.wikipedia.org/w/api.php",
         "languageCode": "pl",
         "group": "wiki",
-        "logo": "//pl.wikipedia.org/static/images/project-logos/plwiki.png",
+        "logo": "//pl.wikipedia.org/static/images/project-logos/plwiki-1700000.png",
         "mobileUrl": "https://pl.wikipedia.org"
     },
     "plwiktionary": {

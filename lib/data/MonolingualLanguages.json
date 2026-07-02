@@ -857,7 +857,7 @@
     {
         "code": "frs",
         "autonym": "Oostfräisk",
-        "name": "Eastern Frisian"
+        "name": "Eastern Frisian Low Saxon"
     },
     {
         "code": "fur",
@@ -1227,7 +1227,7 @@
     {
         "code": "isv",
         "autonym": "medžuslovjansky",
-        "name": "medžuslovjansky"
+        "name": "Interslavic"
     },
     {
         "code": "isv-cyrl",
@@ -1351,7 +1351,7 @@
     },
     {
         "code": "kha",
-        "autonym": "খসি",
+        "autonym": "Khasi",
         "name": "Khasi"
     },
     {
