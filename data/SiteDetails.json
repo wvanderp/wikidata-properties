@@ -2607,8 +2607,8 @@
         "mobileUrl": "https://eu.wikisource.org"
     },
     "extwiki": {
-        "shortName": "Güiquipeya",
-        "name": "Güiquipeya",
+        "shortName": "Güiquipedia",
+        "name": "Güiquipedia",
         "id": "extwiki",
         "pageUrl": "//ext.wikipedia.org/wiki/$1",
         "apiUrl": "//ext.wikipedia.org/w/api.php",
@@ -5884,6 +5884,17 @@
         "logo": "//min.wikibooks.org/static/images/project-logos/minwikibooks.png",
         "mobileUrl": "https://min.wikibooks.org"
     },
+    "minwikiquote": {
+        "shortName": "Wikipituah",
+        "name": "Wikipituah",
+        "id": "minwikiquote",
+        "pageUrl": "//min.wikiquote.org/wiki/$1",
+        "apiUrl": "//min.wikiquote.org/w/api.php",
+        "languageCode": "min",
+        "group": "wikiquote",
+        "logo": "//min.wikiquote.org/static/images/project-logos/minwikiquote.png",
+        "mobileUrl": "https://min.wikiquote.org"
+    },
     "minwikisource": {
         "shortName": "Wikibasurek",
         "name": "Wikibasurek",
@@ -7146,7 +7157,7 @@
         "apiUrl": "//pl.wikipedia.org/w/api.php",
         "languageCode": "pl",
         "group": "wiki",
-        "logo": "//pl.wikipedia.org/static/images/project-logos/plwiki-1700000.png",
+        "logo": "//pl.wikipedia.org/static/images/project-logos/plwiki.png",
         "mobileUrl": "https://pl.wikipedia.org"
     },
     "plwiktionary": {
@@ -9060,7 +9071,7 @@
         "apiUrl": "//th.wikipedia.org/w/api.php",
         "languageCode": "th",
         "group": "wiki",
-        "logo": "//th.wikipedia.org/static/images/project-logos/thwiki.png",
+        "logo": "//th.wikipedia.org/static/images/project-logos/thwiki-temp25.png",
         "mobileUrl": "https://th.wikipedia.org"
     },
     "thwiktionary": {
