@@ -1198,6 +1198,17 @@
         "logo": "//bo.wikibooks.org/static/images/project-logos/wikibooks.png",
         "mobileUrl": "https://bo.wikibooks.org"
     },
+    "bolwiki": {
+        "shortName": "Wikipidiya",
+        "name": "Wikipidiya",
+        "id": "bolwiki",
+        "pageUrl": "//bol.wikipedia.org/wiki/$1",
+        "apiUrl": "//bol.wikipedia.org/w/api.php",
+        "languageCode": "bol",
+        "group": "wiki",
+        "logo": "//bol.wikipedia.org/static/images/project-logos/bolwiki.png",
+        "mobileUrl": "https://bol.wikipedia.org"
+    },
     "bpywiki": {
         "shortName": "উইকিপিডিয়া",
         "name": "উইকিপিডিয়া",
@@ -5716,7 +5727,7 @@
         "apiUrl": "//mag.wikipedia.org/w/api.php",
         "languageCode": "mag",
         "group": "wiki",
-        "logo": "//mag.wikipedia.org/static/images/project-logos/hiwiki.png",
+        "logo": "//mag.wikipedia.org/static/images/project-logos/magwiki.png",
         "mobileUrl": "https://mag.wikipedia.org"
     },
     "maiwiki": {
