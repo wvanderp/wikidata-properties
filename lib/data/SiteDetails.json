@@ -2889,7 +2889,7 @@
         "apiUrl": "//fr.wikipedia.org/w/api.php",
         "languageCode": "fr",
         "group": "wiki",
-        "logo": "//fr.wikipedia.org/static/images/project-logos/frwiki-25.png",
+        "logo": "//fr.wikipedia.org/static/images/project-logos/frwiki.png",
         "mobileUrl": "https://fr.wikipedia.org"
     },
     "frwiktionary": {
@@ -4286,7 +4286,7 @@
         "apiUrl": "//it.wikipedia.org/w/api.php",
         "languageCode": "it",
         "group": "wiki",
-        "logo": "//it.wikipedia.org/static/images/project-logos/itwiki-temp25.png",
+        "logo": "//it.wikipedia.org/static/images/project-logos/itwiki.png",
         "mobileUrl": "https://it.wikipedia.org"
     },
     "itwiktionary": {
@@ -8323,7 +8323,7 @@
         "apiUrl": "//sl.wikipedia.org/w/api.php",
         "languageCode": "sl",
         "group": "wiki",
-        "logo": "//sl.wikipedia.org/static/images/project-logos/slwiki-temp25.png",
+        "logo": "//sl.wikipedia.org/static/images/project-logos/slwiki.png",
         "mobileUrl": "https://sl.wikipedia.org"
     },
     "slwiktionary": {
@@ -8939,7 +8939,7 @@
         "apiUrl": "//tcy.wikipedia.org/w/api.php",
         "languageCode": "tcy",
         "group": "wiki",
-        "logo": "//tcy.wikipedia.org/static/images/project-logos/tcywiki.png",
+        "logo": "//tcy.wikipedia.org/static/images/project-logos/tcywiki-10-alt.png",
         "mobileUrl": "https://tcy.wikipedia.org"
     },
     "tcywiktionary": {
@@ -9049,7 +9049,7 @@
         "apiUrl": "//tg.wikipedia.org/w/api.php",
         "languageCode": "tg",
         "group": "wiki",
-        "logo": "//tg.wikipedia.org/static/images/project-logos/tgwiki-temp25.png",
+        "logo": "//tg.wikipedia.org/static/images/project-logos/tgwiki.png",
         "mobileUrl": "https://tg.wikipedia.org"
     },
     "tgwiktionary": {
