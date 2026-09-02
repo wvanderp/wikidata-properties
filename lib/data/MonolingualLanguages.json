@@ -3135,6 +3135,11 @@
         "name": "Abaza"
     },
     {
+        "code": "abu",
+        "autonym": "abu",
+        "name": "Abure"
+    },
+    {
         "code": "ach",
         "autonym": "ach",
         "name": "Acoli"
@@ -4215,6 +4220,11 @@
         "name": "New Zealand English"
     },
     {
+        "code": "en-shaw",
+        "autonym": "en-shaw",
+        "name": "English (Shavian script)"
+    },
+    {
         "code": "en-uk",
         "autonym": "en-uk",
         "name": "British English"
@@ -4685,6 +4695,11 @@
         "name": "Ingrian"
     },
     {
+        "code": "izr",
+        "autonym": "izr",
+        "name": "Izere"
+    },
+    {
         "code": "ja-hani",
         "autonym": "ja-hani",
         "name": "Japanese (Kanji script)"
@@ -4853,6 +4868,11 @@
         "code": "kip",
         "autonym": "kip",
         "name": "Sheshi Kham"
+    },
+    {
+        "code": "kix",
+        "autonym": "kix",
+        "name": "Khiamniungan Naga"
     },
     {
         "code": "kkj",
@@ -6660,6 +6680,11 @@
         "name": "Tsou"
     },
     {
+        "code": "tsw",
+        "autonym": "tsw",
+        "name": "Tsishingini"
+    },
+    {
         "code": "ttm",
         "autonym": "ttm",
         "name": "Northern Tutchone"
@@ -6793,6 +6818,11 @@
         "code": "uun",
         "autonym": "uun",
         "name": "Pazeh"
+    },
+    {
+        "code": "uzs",
+        "autonym": "uzs",
+        "name": "Southern Uzbek"
     },
     {
         "code": "vai",
