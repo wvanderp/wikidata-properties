@@ -17,9 +17,9 @@ importers:
       '@types/node':
         specifier: ^26.5.0
         version: 26.5.0
-      '@wmde/wikibase-datamodel-types':
-        specifier: github:wvanderp/WikibaseDataModelTypes#1b2a497b0b1dd6a9dbe90058ac7683d9a0fc6271
-        version: https://codeload.github.com/wvanderp/WikibaseDataModelTypes/tar.gz/1b2a497b0b1dd6a9dbe90058ac7683d9a0fc6271
+      '@wvanderp/wikibase-datamodel-types':
+        specifier: 1.0.0
+        version: 1.0.0
       axios:
         specifier: 1.20.0
         version: 1.20.0
@@ -202,9 +202,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@wmde/wikibase-datamodel-types@https://codeload.github.com/wvanderp/WikibaseDataModelTypes/tar.gz/1b2a497b0b1dd6a9dbe90058ac7683d9a0fc6271':
-    resolution: {tarball: https://codeload.github.com/wvanderp/WikibaseDataModelTypes/tar.gz/1b2a497b0b1dd6a9dbe90058ac7683d9a0fc6271}
-    version: 0.2.0
+  '@wvanderp/wikibase-datamodel-types@1.0.0':
+    resolution: {integrity: sha512-m9Kch4to5mI2Kop7pDfai8J589RqOGDxIAVHPYjaCxWtigEsvMQxgJhUQvmVeSTY/Gt8JQCT8qfgHxV1ibsyyw==}
 
   acorn-walk@8.2.0:
     resolution: {integrity: sha512-k+iyHEuPgSw6SbuDpGQM+06HQUa04DZ3o+F6CSzXMvvI5KMvnaEqXe+YVe555R9nn6GPt404fos4wcgpw12SDA==}
@@ -623,7 +622,7 @@ snapshots:
   '@typescript/typescript-win32-x64@7.0.2':
     optional: true
 
-  '@wmde/wikibase-datamodel-types@https://codeload.github.com/wvanderp/WikibaseDataModelTypes/tar.gz/1b2a497b0b1dd6a9dbe90058ac7683d9a0fc6271': {}
+  '@wvanderp/wikibase-datamodel-types@1.0.0': {}
 
   acorn-walk@8.2.0: {}
 

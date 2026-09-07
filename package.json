@@ -23,7 +23,7 @@
     "@types/chai": "^5.2.3",
     "@types/mocha": "^10.0.10",
     "@types/node": "^26.5.0",
-    "@wmde/wikibase-datamodel-types": "github:wvanderp/WikibaseDataModelTypes#1b2a497b0b1dd6a9dbe90058ac7683d9a0fc6271",
+    "@wvanderp/wikibase-datamodel-types": "1.0.0",
     "axios": "1.20.0",
     "chai": "^6.2.2",
     "mocha": "^12.0.0",
