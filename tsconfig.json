@@ -15,10 +15,13 @@
     "allowSyntheticDefaultImports": true
   },
   "include": [
-    "./src/index.ts"
+    "src/**/*.ts",
+    "scripts/**/*.ts",
+    "tests/**/*.ts",
+    "tsdown.config.ts"
   ],
   "exclude": [
     "node_modules",
-    "**/__tests__/*",
+    "lib"
   ]
 }

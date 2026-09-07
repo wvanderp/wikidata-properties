@@ -26,12 +26,15 @@ This will give you access to the following data and functions:
 
 * An array of Property objects, which represent individual Wikidata properties. Each Property object has the following fields:
   * `id`: a string containing the property's ID
-  * `label`: a string containing the property's label
-  * `description`: a string containing the property's description
-  * `alias`: an optional array of strings containing the property's aliases
-  * `labels`: an optional object containing labels for the property in different languages
-  * `descriptions`: an optional object containing descriptions for the property in different languages
-  * `aliases`: an optional object containing aliases for the property in different languages
+  * `label`: the property's English label, or `null` when unavailable
+  * `description`: the property's English description, or `null` when unavailable
+  * `alias`: an array of English aliases, or `null` when unavailable
+  * `labels`: an object containing labels for the property in different languages
+  * `descriptions`: an object containing descriptions for the property in different languages
+  * `aliases`: an object containing aliases for the property in different languages
+  * `urlFormat`: optional formatter URL statements and their qualifiers
+  * `urlFormatThirdParty`: optional third-party formatter URL statements and their qualifiers
+  * `formatRegex`: optional format constraints
   * `datatype`: a string representing the property's datatype
 * An array of language objects, which represent languages used in Wikidata. Each language object has the following fields:
   * `code`: a string containing the language's code
@@ -45,6 +48,8 @@ This will give you access to the following data and functions:
   * `apiUrl`: a string containing the site's API URL
   * `languageCode`: a string containing the site's language code
   * `group`: a string containing the site's group
+  * `logo`: an optional URL for the site's logo
+  * `mobileUrl`: an optional mobile-server URL
 * A `getProperty` function, which allows you to look up a specific Wikidata property by its ID.
   * The function takes a property ID as an argument and returns the corresponding Property object, or null if no property with the given ID was found.
 
@@ -55,7 +60,7 @@ import wikidataProperties from 'wikidata-properties';
 
 // Get the label for the "country of citizenship" property in English
 const citizenshipProperty = wikidataProperties.getProperty('P27');
-const label = citizenshipProperty.labels['en'];
+const label = citizenshipProperty?.labels.en ?? null;
 console.log(label); // "country of citizenship"
 
 // Get the list of all Wikidata sites

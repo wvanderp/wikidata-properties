@@ -1,263 +1,184 @@
-import axios from "axios";
-import fs from "fs";
-import path from "path";
+import axios from 'axios';
 
-const headers = {
-    'User-Agent': 'wikidata-properties/1.0.0 (https://github.com/wvanderp/wikidata-properties)'
+import { retry } from './utils/retry';
+
+const requestConfig = {
+    headers: {
+        'User-Agent': 'wikidata-properties/1.0.0 (https://github.com/wvanderp/wikidata-properties)'
+    },
+    timeout: 60_000
 };
 
-// API response types
-export interface SiteMatrix {
+interface MatrixSite {
+    url: string;
+    dbname: string;
+    code: string;
+    sitename: string;
+    lang?: string;
+    closed?: boolean;
+    private?: boolean;
+}
+
+export interface SiteMatrixResponse {
+    continue?: { smcontinue?: string; continue?: string };
     sitematrix: {
-        [key: number]: {
-            code: string;
-            name: string;
-            site?: {
-                url: string;
-                dbname: string;
-                code: string;
-                sitename: string;
-                closed?: string;
-            }[];
-            dir: string;
-            localname: string;
-        };
+        [key: string]: unknown;
         count: number;
-        specials?: {
-            url: string;
-            dbname: string;
-            code: string;
-            lang: string;
-            sitename: string;
-            private?: string;
-            closed?: string;
-            fishbowl?: string;
-        }[];
+        specials?: MatrixSite[];
     };
 }
 
-export interface Siteinfo {
-    batchcomplete: string;
-    query: {
-        general: {
-            mainpage: string;
-            base: string;
-            sitename: string;
-            logo: string;
-            generator: string;
-            phpversion: string;
-            phpsapi: string;
-            dbtype: string;
-            dbversion: string;
-            langconversion: string;
-            linkconversion: string;
-            titleconversion: string;
-            linkprefixcharset: string;
-            linkprefix: string;
-            linktrail: string;
-            legaltitlechars: string;
-            invalidusernamechars: string;
-            fixarabicunicode: string;
-            fixmalayalamunicode: string;
-            "git-hash": string;
-            "git-branch": string;
-            case: string;
-            lang: string;
-            fallback?: (null)[] | null;
-            fallback8bitEncoding: string;
-            writeapi: string;
-            maxarticlesize: number;
-            timezone: string;
-            timeoffset: number;
-            articlepath: string;
-            scriptpath: string;
-            script: string;
-            variantarticlepath: boolean;
-            server: string;
-            servername: string;
-            wikiid: string;
-            time: string;
-            misermode: string;
-            maxuploadsize: number;
-            minuploadchunksize: number;
-            galleryoptions: {
-                imagesPerRow: number;
-                imageWidth: number;
-                imageHeight: number;
-                captionLength: string;
-                showBytes: string;
-                mode: string;
-                showDimensions: string;
-            };
-            thumblimits?: (number)[] | null;
-            imagelimits?: ({
-                width: number;
-                height: number;
-            })[] | null;
-            favicon: string;
-            centralidlookupprovider: string;
-            allcentralidlookupproviders?: (string)[] | null;
-            interwikimagic: string;
-            magiclinks: {
-                ISBN: string;
-                PMID: string;
-                RFC: string;
-            };
-            categorycollation: string;
-            nofollowlinks: string;
-            nofollownsexceptions?: (null)[] | null;
-            nofollowdomainexceptions?: (string)[] | null;
-            "wmf-config": {
-                wmfMasterDatacenter: string;
-                wmfEtcdLastModifiedIndex: number;
-                wmgCirrusSearchDefaultCluster: string;
-                wgCirrusSearchDefaultCluster: string;
-            };
-            "max-page-id": number;
-            "linter": {
-                high?: (string)[] | null;
-                medium?: (string)[] | null;
-                low?: (string)[] | null;
-            };
-            "mobileserver": string;
-            "pageviewservice-supported-metrics": {
-                pageviews: {
-                    pageviews: string;
-                };
-                siteviews: {
-                    pageviews: string;
-                    uniques: string;
-                };
-                mostviewed: {
-                    pageviews: string;
-                };
-            };
-            "readinglists-config": {
-                maxListsPerUser: number;
-                maxEntriesPerList: number;
-                deletedRetentionDays: number;
-            };
+interface SiteInfoResponse {
+    query?: {
+        general?: {
+            sitename?: string;
+            logo?: string;
+            lang?: string;
+            articlepath?: string;
+            scriptpath?: string;
+            server?: string;
+            wikiid?: string;
+            mobileserver?: string;
         };
     };
 }
 
-// INTERMEDIATE TYPES
 export interface SiteEntry {
-    "code": string; // project code (wikipedia, wiktionary…)
-    "dbname": string; // aawiki
-    "url": string; // https://aa.wikipedia.org
-    "sitename": string; // Wikipedia
-    "closed"?: string; // ''
+    code: string;
+    dbname: string;
+    url: string;
+    sitename: string;
+    lang?: string;
 }
 
-// FINAL TYPES
-interface RichSite {
-    shortName: string; // e.g. "Frysk", español, Wikidata
-    name: string; // e.g. "Frysk", español, Wikidata
-    id: string; // e.g. "fywiki", eswikibooks, wikidatawiki
-    pageUrl: string; // e.g. "//fy.wikipedia.org/wiki/$1", //es.wikibooks.org/wiki/$1 //www.wikidata.org/wiki/$1
-    apiUrl: string; // e.g. "//fy.wikipedia.org/w/api.php", //es.wikibooks.org/w/api.php //www.wikidata.org/w/api.php
-    languageCode: string; // e.g. "fy", "es" en
-    group: string; // e.g. "wikipedia", "wikibooks" special
-
-    logo?: string; // optional logo URL
-    mobileUrl?: string; // optional mobile URL
+export interface RichSite {
+    shortName: string;
+    name: string;
+    id: string;
+    pageUrl: string;
+    apiUrl: string;
+    languageCode: string;
+    group: string;
+    logo?: string;
+    mobileUrl?: string;
 }
 
+const SITE_MATRIX_ENDPOINT = 'https://meta.wikimedia.org/w/api.php';
 
-const SITE_MATRIX_ENDPOINT =
-    "https://meta.wikimedia.org/w/api.php?action=sitematrix&format=json&smtype=language&origin=*";
+function isMatrixSite(value: unknown): value is MatrixSite {
+    if (typeof value !== 'object' || value === null) return false;
+    const site = value as Record<string, unknown>;
+    return typeof site.url === 'string'
+        && typeof site.dbname === 'string'
+        && typeof site.code === 'string'
+        && typeof site.sitename === 'string';
+}
 
-const SITEINFO_QUERY =
-    "?action=query&meta=siteinfo&siprop=general&format=json&origin=*";
+export function parseSiteMatrix(response: SiteMatrixResponse): SiteEntry[] {
+    const candidates: MatrixSite[] = [];
+
+    for (const [key, value] of Object.entries(response.sitematrix)) {
+        if (key === 'count' || key === 'specials') continue;
+        if (typeof value !== 'object' || value === null) continue;
+        const sites = (value as { site?: unknown }).site;
+        if (Array.isArray(sites)) candidates.push(...sites.filter(isMatrixSite));
+    }
+    if (Array.isArray(response.sitematrix.specials)) candidates.push(...response.sitematrix.specials);
+
+    return candidates
+        .filter((site) => !site.closed && !site.private)
+        .map((site) => ({
+            code: site.code,
+            dbname: site.dbname,
+            url: site.url.replace(/\/$/, ''),
+            sitename: site.sitename,
+            lang: site.lang
+        }));
+}
 
 async function getSiteMatrix(): Promise<SiteEntry[]> {
-    const { sitematrix } = (await axios.get<SiteMatrix>(SITE_MATRIX_ENDPOINT, { headers })).data;
-    const sites: SiteEntry[] = [];
+    const sites = new Map<string, SiteEntry>();
+    let smcontinue: string | undefined;
 
-    for (const key of Object.keys(sitematrix)) {
-        if (key === "count") continue; // skip metadata
+    do {
+        const response = await retry(() => axios.get<SiteMatrixResponse>(SITE_MATRIX_ENDPOINT, {
+            ...requestConfig,
+            params: {
+                action: 'sitematrix',
+                format: 'json',
+                formatversion: 2,
+                smtype: 'language|special',
+                smlimit: 'max',
+                ...(smcontinue ? { smcontinue } : {})
+            }
+        }));
+        for (const site of parseSiteMatrix(response.data)) sites.set(site.dbname, site);
+        smcontinue = response.data.continue?.smcontinue;
+    } while (smcontinue);
 
-        const entry = (sitematrix[key as keyof typeof sitematrix]) as SiteMatrix["sitematrix"][1];
-        if (entry?.site) {
-            sites.push(
-                ...entry.site.map((s) => ({
-                    code: s.code,
-                    dbname: s.dbname,
-                    url: s.url.replace(/\/$/, ""), // remove trailing slash
-                    sitename: s.sitename,
-                    closed: s.closed || "",
-                }))
-            );
-        }
-    }
-
-    // “specials” comes as an array rather than an object
-    if (Array.isArray(sitematrix.specials)) {
-        sites.push(
-            ...sitematrix.specials.map((s: any) => ({
-                code: s.code,
-                dbname: s.dbname,
-                url: s.url.replace(/\/$/, ""),
-                sitename: s.sitename,
-                closed: s.closed,
-            }))
-        );
-    }
-    return sites;
+    return [...sites.values()].sort((a, b) => a.dbname.localeCompare(b.dbname));
 }
 
-async function enrichSiteFromEntry(site: SiteEntry): Promise<RichSite | null> {
-    // wait for 1s to avoid hitting API rate limits
-    await new Promise((resolve) => setTimeout(resolve, 1000));
+export function buildSiteDetail(site: SiteEntry, data: SiteInfoResponse): RichSite {
+    const general = data.query?.general;
+    if (!general?.sitename || !general.server || !general.articlepath || !general.scriptpath || !general.lang) {
+        throw new Error(`Incomplete siteinfo response for ${site.dbname}`);
+    }
+
+    return {
+        shortName: general.sitename,
+        name: general.sitename,
+        id: general.wikiid ?? site.dbname,
+        pageUrl: `${general.server}${general.articlepath}`,
+        apiUrl: `${general.server}${general.scriptpath}/api.php`,
+        languageCode: general.lang,
+        group: site.code,
+        ...(general.logo ? { logo: general.logo } : {}),
+        ...(general.mobileserver ? { mobileUrl: general.mobileserver } : {})
+    };
+}
+
+async function enrichSite(site: SiteEntry): Promise<RichSite> {
     console.log(`Fetching details for ${site.dbname}...`);
-
-    // Skip closed wikis
-    if (site.closed) return null;
-
-    const api = `${site.url}/w/api.php${SITEINFO_QUERY}`;
-    try {
-        const data = (await axios.get<Siteinfo>(api, { headers })).data;
-        const general = data?.query?.general
-
-        return {
-            shortName: general.sitename,
-            name: general.sitename,
-            id: general.wikiid ?? site.dbname,
-            pageUrl: `${general.server}${general.articlepath}`,
-            apiUrl: `${general.server}${general.scriptpath}/api.php`,
-            languageCode: general.lang,
-            group: site.code, // e.g. "wikipedia", "wikibooks"
-
-            logo: general.logo,
-            mobileUrl: general.mobileserver
-        } as RichSite;
-    } catch (err) {
-        console.warn(`⚠️  ${site.dbname} failed:`, (err as Error).message);
-        return null;
-    }
+    const response = await retry(() => axios.get<SiteInfoResponse>(`${site.url}/w/api.php`, {
+        ...requestConfig,
+        params: { action: 'query', meta: 'siteinfo', siprop: 'general', format: 'json', formatversion: 2 }
+    }));
+    return buildSiteDetail(site, response.data);
 }
 
-export default async function getSiteDetails() {
-    console.log("Getting SiteDetails...");
+async function mapConcurrent<T, R>(items: readonly T[], concurrency: number, mapper: (item: T) => Promise<R>): Promise<R[]> {
+    const results = new Array<R>(items.length);
+    let nextIndex = 0;
 
-    const matrix = await getSiteMatrix();
-    console.log(`Fetched ${matrix.length} raw records`);
-
-    const richSites = {} as Record<string, RichSite>;
-
-    for (const site of matrix) {
-        const richSite = await enrichSiteFromEntry(site);
-
-        if (richSite !== null) {
-            richSites[richSite.id] = richSite;
+    async function worker(): Promise<void> {
+        while (nextIndex < items.length) {
+            const index = nextIndex++;
+            results[index] = await mapper(items[index]);
         }
     }
 
+    await Promise.all(Array.from({ length: Math.min(concurrency, items.length) }, () => worker()));
+    return results;
+}
 
-    fs.writeFileSync(
-        path.join(__dirname, "../data/SiteDetails.json"),
-        JSON.stringify(richSites, undefined, 4)
-    );
-    console.log("Saved → SiteDetails.json");
+export function validateSiteDetails(sites: readonly RichSite[], requireSpecialSites = true): void {
+    const ids = sites.map(({ id }) => id);
+    if (new Set(ids).size !== ids.length) throw new Error('Duplicate site IDs were generated');
+
+    if (requireSpecialSites) {
+        const required = ['wikidatawiki', 'commonswiki', 'metawiki'];
+        const missing = required.filter((id) => !ids.includes(id));
+        if (missing.length) throw new Error(`Required Wikimedia sites are missing: ${missing.join(', ')}`);
+    }
+}
+
+export default async function getSiteDetails(): Promise<Record<string, RichSite>> {
+    console.log('Getting SiteDetails...');
+    const matrix = await getSiteMatrix();
+    if (matrix.length === 0) throw new Error('The site matrix returned no active public sites');
+
+    const sites = await mapConcurrent(matrix, 5, enrichSite);
+    validateSiteDetails(sites);
+    return Object.fromEntries(sites.map((site) => [site.id, site]));
 }

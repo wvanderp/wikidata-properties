@@ -1,64 +1,89 @@
-import fs from 'fs';
-import path from 'path';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import axios from 'axios';
 
-import siteDetails from './siteDetails';
 import { getProperties } from './getProperties';
-import delay from './utils/delay';
+import getSiteDetails from './siteDetails';
+import { retry } from './utils/retry';
+import { writeJsonFilesAtomic } from './utils/writeJsonAtomic';
 
 const axiosConfig = {
-	timeout: 60000, // 60 seconds timeout
-	headers: {
-		'User-Agent': 'wikidata-properties/1.0.0 (https://github.com/wvanderp/wikidata-properties)'
-	}
+    timeout: 60_000,
+    headers: {
+        'User-Agent': 'wikidata-properties/1.0.0 (https://github.com/wvanderp/wikidata-properties)'
+    }
 };
 
-interface Response {
-	batchcomplete: boolean;
-	query: {
-		wbcontentlanguages: {
-			[key: string]: {
-				code: string;
-				autonym: string;
-				name: string
-			}
-		}[]
-	}
+interface Language {
+    code: string;
+    autonym: string;
+    name: string;
 }
 
-async function getLanguages(url: string, name: string) {
-	console.log(`Getting ${name}...`)
-	const response = await axios.get<Response>(url, axiosConfig)
-	const data = Object.values(response.data.query.wbcontentlanguages);
-
-	fs.writeFileSync(path.join(__dirname, `../data/${name}.json`), JSON.stringify(data, null, 4));
+interface LanguageResponse {
+    query?: { wbcontentlanguages?: Record<string, Language> };
 }
 
-async function getDataTypes() {
-	console.log('Getting wikidata DataTypes...');
-	const url = 'https://www.wikidata.org/w/api.php?action=query&meta=siteinfo&siprop=general&format=json&origin=*';
-	const response = await axios.get(url, axiosConfig);
-	const data = Object.keys(response.data.query.general["wikibase-propertytypes"]);
-
-	fs.writeFileSync(path.join(__dirname, '../data/datatypeTypes.json'), JSON.stringify(data, null, 4));
+interface GeneralResponse {
+    query?: { general?: { 'wikibase-propertytypes'?: Record<string, unknown> } };
 }
 
-(async function scrape() {
-	await getProperties();
+async function getLanguages(context: 'monolingualtext' | 'label'): Promise<Language[]> {
+    console.log(`Getting ${context} languages...`);
+    const response = await retry(() => axios.get<LanguageResponse>('https://www.wikidata.org/w/api.php', {
+        ...axiosConfig,
+        params: {
+            action: 'query',
+            format: 'json',
+            formatversion: 2,
+            meta: 'wbcontentlanguages',
+            wbclprop: 'code|autonym|name',
+            ...(context === 'monolingualtext' ? { wbclcontext: context } : {})
+        }
+    }));
+    const languages = Object.values(response.data.query?.wbcontentlanguages ?? {});
+    if (languages.length === 0) throw new Error(`No ${context} languages were returned`);
+    return languages;
+}
 
-	const monoUrl = 'https://www.wikidata.org/w/api.php?action=query&format=json&meta=wbcontentlanguages&formatversion=2&wbclcontext=monolingualtext&wbclprop=code%7Cautonym%7Cname';
-	await getLanguages(monoUrl, 'MonolingualLanguages');
+async function getDataTypes(): Promise<string[]> {
+    console.log('Getting Wikidata datatypes...');
+    const response = await retry(() => axios.get<GeneralResponse>('https://www.wikidata.org/w/api.php', {
+        ...axiosConfig,
+        params: { action: 'query', meta: 'siteinfo', siprop: 'general', format: 'json', formatversion: 2 }
+    }));
+    const datatypes = Object.keys(response.data.query?.general?.['wikibase-propertytypes'] ?? {});
+    if (datatypes.length === 0) throw new Error('No Wikidata datatypes were returned');
+    return datatypes;
+}
 
-	await delay(1000);
+export async function main(): Promise<void> {
+    const dataDirectory = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../data');
 
-	const labelUrl = 'https://www.wikidata.org/w/api.php?action=query&format=json&meta=wbcontentlanguages&formatversion=2&wbclprop=code%7Cautonym%7Cname';
-	await getLanguages(labelUrl, 'LabelLanguages');
+    const [properties, monolingualLanguages, labelLanguages, datatypeTypes, siteDetails] = await Promise.all([
+        getProperties(),
+        getLanguages('monolingualtext'),
+        getLanguages('label'),
+        getDataTypes(),
+        getSiteDetails()
+    ]);
 
-	await delay(1000);
+    const unknownDatatypes = [...new Set(properties.map(({ datatype }) => datatype))]
+        .filter((datatype) => !datatypeTypes.includes(datatype));
+    if (unknownDatatypes.length) throw new Error(`Unknown property datatypes: ${unknownDatatypes.join(', ')}`);
 
-	await getDataTypes();
+    await writeJsonFilesAtomic(new Map<string, unknown>([
+        [path.join(dataDirectory, 'properties.json'), properties],
+        [path.join(dataDirectory, 'MonolingualLanguages.json'), monolingualLanguages],
+        [path.join(dataDirectory, 'LabelLanguages.json'), labelLanguages],
+        [path.join(dataDirectory, 'datatypeTypes.json'), datatypeTypes],
+        [path.join(dataDirectory, 'SiteDetails.json'), siteDetails]
+    ]));
+}
 
-	await delay(1000);
-
-	await siteDetails();
-})()
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
+    main().catch((error: unknown) => {
+        console.error(error);
+        process.exitCode = 1;
+    });
+}

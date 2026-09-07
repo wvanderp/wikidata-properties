@@ -5,26 +5,48 @@ on:
     - cron: "54 02 2,16 * *"
   workflow_dispatch:
 
+concurrency:
+  group: update-wikidata-data
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v7
       - uses: pnpm/action-setup@v6
       - uses: actions/setup-node@v7
         with:
-          node-version: "latest"
+          node-version: "24.8.0"
           cache: "pnpm"
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
+
+      - name: Typecheck
+        run: pnpm run typecheck
+
+      - name: Test
+        run: pnpm test
 
       - name: Scrape data
         run: pnpm run scrape
 
       - name: Build
         run: pnpm run build
+
+      - name: Test package entries
+        run: pnpm run test:package
+
+      - name: Test generated data
+        run: pnpm test
+
+      - name: Inspect package contents
+        run: npm pack --dry-run --ignore-scripts
 
       - uses: EndBug/add-and-commit@v11
         with:
