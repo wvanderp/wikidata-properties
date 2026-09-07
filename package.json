@@ -3,32 +3,58 @@
   "description": "Access comprehensive and up-to-date information about Wikidata properties with a single npm package.",
   "license": "MIT",
   "version": "1.0.0",
+  "type": "module",
   "packageManager": "pnpm@10.33.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wvanderp/wikidata-properties.git"
+    "url": "git+https://github.com/wvanderp/wikidata-properties.git"
   },
-  "homepage": "https://github.com/wvanderp/wikidata-properties",
+  "homepage": "https://github.com/wvanderp/wikidata-properties#readme",
   "bugs": {
     "url": "https://github.com/wvanderp/wikidata-properties/issues"
   },
   "main": "lib/index.cjs",
-  "module": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "module": "lib/index.mjs",
+  "types": "lib/index.d.mts",
   "exports": {
     ".": {
-      "types": "./lib/index.d.ts",
-      "import": "./lib/index.js",
-      "require": "./lib/index.cjs"
+      "import": {
+        "types": "./lib/index.d.mts",
+        "default": "./lib/index.mjs"
+      },
+      "require": {
+        "types": "./lib/index.d.cts",
+        "default": "./lib/index.cjs"
+      }
     }
   },
   "files": [
     "lib"
   ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=20"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "wikidata",
+    "properties",
+    "wikibase",
+    "sparql",
+    "linked-data",
+    "knowledge-base",
+    "semantic-web"
+  ],
   "scripts": {
     "scrape": "tsx scripts/index.ts",
     "build": "tsdown",
-    "test": "vitest run"
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "prepack": "pnpm run build",
+    "prepublishOnly": "pnpm run test && pnpm run typecheck"
   },
   "devDependencies": {
     "@types/node": "^26.5.0",
@@ -36,8 +62,8 @@
     "axios": "1.20.0",
     "source-map-support": "^0.5.21",
     "tsx": "^4.20.6",
-    "tsdown": "^0.15.0",
-    "typescript": "^7.0.2",
+    "tsdown": "^0.23.0",
+    "typescript": "^5.9.3",
     "vitest": "^3.2.4",
     "wtf_wikipedia": "^10.4.2"
   }

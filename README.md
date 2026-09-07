@@ -2,15 +2,19 @@
 
 This npm package provides a list of all Wikidata properties, which are used to describe and classify the data stored on Wikidata, a collaborative, multilingual knowledge base that can be read and edited by humans and machines.
 
-This package can be useful for developers working with Wikidata or related projects, as it allows them to access a comprehensive and up-to-date list of Wikidata properties. The package includes type definitions and has been tested with the Mocha testing framework. It also has a build script that can be used to scrape the latest list of properties from Wikidata and generate the necessary files.
+This package can be useful for developers working with Wikidata or related projects, as it allows them to access a comprehensive and up-to-date list of Wikidata properties. The package includes type definitions and is tested with [Vitest](https://vitest.dev). It also has a build script that can be used to scrape the latest list of properties from Wikidata and generate the necessary files.
 
-## how to use
+## Installation
 
-To use the wikidata-properties package, install it using pnpm:
+Install it using your favorite package manager:
 
 ```shell
-pnpm add https://github.com/wvanderp/wikidata-properties
+npm install wikidata-properties
+# or
+pnpm add wikidata-properties
 ```
+
+## How to use
 
 Once the package is installed, you can import it in your project like this:
 
@@ -69,7 +73,20 @@ pnpm test
 pnpm run build
 ```
 
-The build scrapes the latest data from Wikidata before compiling TypeScript. To compile the existing data without scraping, run `pnpm exec tsc -b`.
+`pnpm run scrape` refreshes the data from Wikidata. `pnpm run build` compiles the existing data into the publishable CommonJS and ES module bundles.
+
+## Publishing
+
+Releases are published from `.github/workflows/publish.yml` when a GitHub release with a tag matching the package version (for example, `v1.0.0`) is published. The workflow uses npm trusted publishing (OIDC), so it does not require a long-lived npm token.
+
+Because trusted publishing can only be configured for an existing npm package, publish the first version manually from a clean checkout with two-factor authentication. Then configure the package on npm with this trusted publisher:
+
+* Provider: GitHub Actions
+* Repository owner: `wvanderp`
+* Repository: `wikidata-properties`
+* Workflow: `publish.yml`
+
+Allow direct `npm publish` for the trusted publisher. After a successful automated release, set npm publishing access to require two-factor authentication and disallow tokens, and revoke any obsolete automation tokens.
 
 ## License
 
