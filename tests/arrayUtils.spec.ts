@@ -1,4 +1,4 @@
-import { expect } from 'chai';
+import { describe, expect, it } from 'vitest';
 import { chunk, fromPairs } from '../utils/utils/arrayUtils';
 
 describe('arrayUtils', () => {

@@ -1,6 +1,6 @@
 import fs from 'fs';
 import axios from "axios";
-import { WikidataResponse, Item } from "@wmde/wikibase-datamodel-types"
+import { WikidataResponse, Item } from "@wvanderp/wikibase-datamodel-types"
 import { chunk, fromPairs } from './utils/arrayUtils';
 import delay from './utils/delay';
 
