@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { chunk, fromPairs } from '../utils/utils/arrayUtils';
+import { chunk, fromPairs } from '../scripts/utils/arrayUtils';
 
 describe('arrayUtils', () => {
     describe('chunk', () => {

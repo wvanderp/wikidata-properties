@@ -15,7 +15,7 @@
   "main": "lib/src/index.js",
   "types": "lib/src/index.d.ts",
   "scripts": {
-    "scrape": "tsx utils/index.ts",
+    "scrape": "tsx scripts/index.ts",
     "build": "pnpm run scrape && tsc -b",
     "test": "vitest run"
   },
