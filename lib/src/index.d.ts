@@ -25,9 +25,10 @@ export interface SiteDetails {
         group: string;
     };
 }
+declare const getProperty: (propertyID: string) => Property | null;
 declare const _default: {
     properties: Property[];
-    getProperty: (propertyID: string) => Property | null;
+    getProperty: typeof getProperty;
     datatypeTypes: string[];
     monolingualLanguages: language[];
     labelLanguages: language[];

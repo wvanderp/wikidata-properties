@@ -75,28 +75,28 @@ export async function getProperties() {
 function parseItem(item: Item & { datatype: string }) {
     return {
         id: item.id,
-        label: item.labels['en']?.value ?? null,
-        description: item.descriptions['en']?.value ?? null,
-        alias: item.aliases['en']?.map(alias => alias.value) ?? null,
+        label: item.labels?.['en']?.value ?? null,
+        description: item.descriptions?.['en']?.value ?? null,
+        alias: item.aliases?.['en']?.map(alias => alias.value) ?? null,
 
         labels: fromPairs(
-            Object.values(item.labels).map(label => [label.language, label.value])
+            Object.values(item.labels ?? {}).map(label => [label.language, label.value])
         ),
         descriptions: fromPairs(
-            Object.values(item.descriptions).map(description => [description.language, description.value])
+            Object.values(item.descriptions ?? {}).map(description => [description.language, description.value])
         ),
         aliases: fromPairs(
-            Object.values(item.aliases).map(aliases => [aliases[0].language, aliases.map(alias => alias.value)])
+            Object.values(item.aliases ?? {}).map(aliases => [aliases[0].language, aliases.map(alias => alias.value)])
         ),
 
-        urlFormat: item.claims['P1630'] && item.claims['P1630']?.map(format => ({
+        urlFormat: item.claims?.['P1630']?.map(format => ({
             value: format?.mainsnak?.datavalue?.value,
             rank: format.rank,
             // @ts-expect-error
             language: format?.qualifiers?.P407?.map((qual) => qual?.datavalue?.value?.id),
             appliesWhenRegex: format?.qualifiers?.P8460?.map((regex) => regex?.datavalue?.value),
         })),
-        urlFormatThirdParty: item.claims['P3303'] && item.claims['P3303']?.map(format => ({
+        urlFormatThirdParty: item.claims?.['P3303']?.map(format => ({
             value: format?.mainsnak?.datavalue?.value,
             rank: format.rank,
             // @ts-expect-error
@@ -104,7 +104,7 @@ function parseItem(item: Item & { datatype: string }) {
             appliesWhenRegex: format?.qualifiers?.P8460?.map((regex) => regex?.datavalue?.value),
         })),
 
-        formatRegex: item?.claims['P1793']?.map((claim) => claim.mainsnak.datavalue?.value),
+        formatRegex: item.claims?.['P1793']?.map((claim) => claim.mainsnak.datavalue?.value),
         datatype: item.datatype
         // constraints: item.constraints,
     }
