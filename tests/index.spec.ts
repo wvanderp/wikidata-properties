@@ -1,5 +1,5 @@
 import {expect, test} from 'vitest';
-import properties from '../'
+import properties from '../src/index';
 
 test('should return a property', () => {
     const property = properties.getProperty('P6');

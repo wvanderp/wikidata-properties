@@ -20,6 +20,9 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
+      - name: Scrape data
+        run: pnpm run scrape
+
       - name: Build
         run: pnpm run build
 
