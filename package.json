@@ -3,6 +3,7 @@
   "description": "Access comprehensive and up-to-date information about Wikidata properties with a single npm package.",
   "license": "MIT",
   "version": "1.0.0",
+  "packageManager": "pnpm@10.33.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/wvanderp/wikidata-properties.git"
@@ -15,20 +16,20 @@
   "types": "lib/src/index.d.ts",
   "scripts": {
     "scrape": "ts-node utils/index.ts",
-    "build": "npm run scrape && tsc -b",
+    "build": "pnpm run scrape && tsc -b",
     "test": "mocha"
   },
-  "dependencies": {},
   "devDependencies": {
     "@types/chai": "^5.2.3",
     "@types/mocha": "^10.0.10",
-    "@types/node": "^25.0.3",
-    "@wmde/wikibase-datamodel-types": "git+https://github.com/wvanderp/WikibaseDataModelTypes.git",
-    "axios": "1.13.2",
+    "@types/node": "^26.5.0",
+    "@wmde/wikibase-datamodel-types": "github:wvanderp/WikibaseDataModelTypes#1b2a497b0b1dd6a9dbe90058ac7683d9a0fc6271",
+    "axios": "1.20.0",
     "chai": "^6.2.2",
-    "mocha": "^11.7.5",
+    "mocha": "^12.0.0",
+    "source-map-support": "^0.5.21",
     "ts-node": "^10.9.2",
-    "typescript": "^5.9.3",
-    "wtf_wikipedia": "^10.4.1"
+    "typescript": "^7.0.2",
+    "wtf_wikipedia": "^10.4.2"
   }
 }

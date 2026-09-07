@@ -6,10 +6,10 @@ This package can be useful for developers working with Wikidata or related proje
 
 ## how to use
 
-To use the wikidata-properties package, you will first need to install it using npm:
+To use the wikidata-properties package, install it using pnpm:
 
 ```shell
-npm install https://github.com/wvanderp/wikidata-properties
+pnpm add https://github.com/wvanderp/wikidata-properties
 ```
 
 Once the package is installed, you can import it in your project like this:
@@ -59,7 +59,18 @@ const siteDetails = wikidataProperties.siteDetails;
 console.log(siteDetails); // { ... }
 ```
 
+## Development
+
+Use the pnpm version specified in `package.json`.
+
+```shell
+pnpm install --frozen-lockfile
+pnpm test
+pnpm run build
+```
+
+The build scrapes the latest data from Wikidata before compiling TypeScript. To compile the existing data without scraping, run `pnpm exec tsc -b`.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
