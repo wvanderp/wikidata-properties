@@ -15,7 +15,7 @@
   "main": "lib/src/index.js",
   "types": "lib/src/index.d.ts",
   "scripts": {
-    "scrape": "ts-node utils/index.ts",
+    "scrape": "tsx utils/index.ts",
     "build": "pnpm run scrape && tsc -b",
     "test": "mocha"
   },
@@ -28,7 +28,7 @@
     "chai": "^6.2.2",
     "mocha": "^12.0.0",
     "source-map-support": "^0.5.21",
-    "ts-node": "^10.9.2",
+    "tsx": "^4.20.6",
     "typescript": "^7.0.2",
     "wtf_wikipedia": "^10.4.2"
   }
