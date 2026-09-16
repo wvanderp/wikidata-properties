@@ -3155,6 +3155,11 @@
         "name": "Andegerebinha"
     },
     {
+        "code": "adj",
+        "autonym": "adj",
+        "name": "Adjukru"
+    },
+    {
         "code": "ady-latn",
         "autonym": "ady-latn",
         "name": "Adyghe (Latin script)"
@@ -3385,6 +3390,11 @@
         "name": "Australian Aboriginal languages"
     },
     {
+        "code": "avi",
+        "autonym": "avi",
+        "name": "Avikam"
+    },
+    {
         "code": "axe",
         "autonym": "axe",
         "name": "Ayerrerenge"
@@ -3398,6 +3408,11 @@
         "code": "ayh",
         "autonym": "ayh",
         "name": "Hadhrami Arabic"
+    },
+    {
+        "code": "ayz",
+        "autonym": "ayz",
+        "name": "Maybrat"
     },
     {
         "code": "az-arab",
@@ -3905,6 +3920,26 @@
         "name": "Classical Mongolian"
     },
     {
+        "code": "cmn-latn-cn-pinyin",
+        "autonym": "cmn-latn-cn-pinyin",
+        "name": "Mandarin (Latin script, China, Hanyu Pinyin)"
+    },
+    {
+        "code": "cmn-latn-tw-pinyin",
+        "autonym": "cmn-latn-tw-pinyin",
+        "name": "Mandarin (Latin script, Taiwan, Hanyu Pinyin)"
+    },
+    {
+        "code": "cmn-latn-tw-tongyong",
+        "autonym": "cmn-latn-tw-tongyong",
+        "name": "Mandarin (Latin script, Taiwan, Tongyong Pinyin)"
+    },
+    {
+        "code": "cmn-latn-tw-wadegile",
+        "autonym": "cmn-latn-tw-wadegile",
+        "name": "Mandarin (Latin script, Taiwan, Wade-Giles romanization)"
+    },
+    {
         "code": "cnr",
         "autonym": "cnr",
         "name": "Montenegrin"
@@ -4070,6 +4105,11 @@
         "name": "Zarma"
     },
     {
+        "code": "djk",
+        "autonym": "djk",
+        "name": "Ndyuka"
+    },
+    {
         "code": "dkr",
         "autonym": "dkr",
         "name": "Kuijau"
@@ -4200,9 +4240,24 @@
         "name": "Elamite"
     },
     {
+        "code": "eme",
+        "autonym": "eme",
+        "name": "Emerillon"
+    },
+    {
         "code": "en-au",
         "autonym": "en-au",
         "name": "Australian English"
+    },
+    {
+        "code": "en-dsrt",
+        "autonym": "en-dsrt",
+        "name": "English (Deseret script)"
+    },
+    {
+        "code": "en-emodeng",
+        "autonym": "en-emodeng",
+        "name": "Early Modern English"
     },
     {
         "code": "en-in",
@@ -4238,6 +4293,11 @@
         "code": "eo-hsistemo",
         "autonym": "eo-hsistemo",
         "name": "Esperanto (h-system orthography)"
+    },
+    {
+        "code": "eo-shaw",
+        "autonym": "eo-shaw",
+        "name": "Esperanto (Shavian script)"
     },
     {
         "code": "eo-xsistemo",
@@ -4278,6 +4338,11 @@
         "code": "eya",
         "autonym": "eya",
         "name": "Eyak"
+    },
+    {
+        "code": "fa-034",
+        "autonym": "fa-034",
+        "name": "Persian (South Asia)"
     },
     {
         "code": "fa-af",
@@ -4593,6 +4658,11 @@
         "code": "hnj",
         "autonym": "hnj",
         "name": "Hmong Njua"
+    },
+    {
+        "code": "hr-glag",
+        "autonym": "hr-glag",
+        "name": "Croatian (Glagolitic script)"
     },
     {
         "code": "hsn-hans",
@@ -4960,6 +5030,11 @@
         "name": "Korean (mixed script)"
     },
     {
+        "code": "ko-kr",
+        "autonym": "ko-kr",
+        "name": "Korean (South Korea)"
+    },
+    {
         "code": "kok",
         "autonym": "kok",
         "name": "Konkani"
@@ -5125,9 +5200,34 @@
         "name": "Lambadi"
     },
     {
+        "code": "lmn-deva",
+        "autonym": "lmn-deva",
+        "name": "Lambadi (Devanagari script)"
+    },
+    {
+        "code": "lmn-knda",
+        "autonym": "lmn-knda",
+        "name": "Lambadi (Kannada script)"
+    },
+    {
+        "code": "lmn-taml",
+        "autonym": "lmn-taml",
+        "name": "Lambadi (Tamil script)"
+    },
+    {
+        "code": "lmn-telu",
+        "autonym": "lmn-telu",
+        "name": "Lambadi (Telugu script)"
+    },
+    {
         "code": "lol",
         "autonym": "lol",
         "name": "Mongo"
+    },
+    {
+        "code": "lom",
+        "autonym": "lom",
+        "name": "Loma"
     },
     {
         "code": "lou",
@@ -5300,6 +5400,11 @@
         "name": "Mixtec"
     },
     {
+        "code": "mjd",
+        "autonym": "mjd",
+        "name": "Northwestern Maidu"
+    },
+    {
         "code": "mjx-beng",
         "autonym": "mjx-beng",
         "name": "Mahali (Bengali script)"
@@ -5465,9 +5570,39 @@
         "name": "Ao Naga"
     },
     {
+        "code": "nl-aw",
+        "autonym": "nl-aw",
+        "name": "Aruban Dutch"
+    },
+    {
         "code": "nl-be",
         "autonym": "nl-be",
-        "name": "Flemish"
+        "name": "Belgian Dutch"
+    },
+    {
+        "code": "nl-cw",
+        "autonym": "nl-cw",
+        "name": "Curaçaoan Dutch"
+    },
+    {
+        "code": "nl-nl",
+        "autonym": "nl-nl",
+        "name": "Netherlands Dutch"
+    },
+    {
+        "code": "nl-sr",
+        "autonym": "nl-sr",
+        "name": "Surinamese Dutch"
+    },
+    {
+        "code": "nl-sx",
+        "autonym": "nl-sx",
+        "name": "Sint Maarten Dutch"
+    },
+    {
+        "code": "nl-u-sd-bebru",
+        "autonym": "nl-u-sd-bebru",
+        "name": "Brussels Dutch"
     },
     {
         "code": "nn-hognorsk",
@@ -5650,6 +5785,11 @@
         "name": "Old Welsh"
     },
     {
+        "code": "oym",
+        "autonym": "oym",
+        "name": "Wayampi"
+    },
+    {
         "code": "pa-guru",
         "autonym": "pa-guru",
         "name": "Punjabi (Gurmukhi script)"
@@ -5698,6 +5838,16 @@
         "code": "pbb",
         "autonym": "pbb",
         "name": "Páez"
+    },
+    {
+        "code": "pcd-be",
+        "autonym": "pcd-be",
+        "name": "Belgian Picard"
+    },
+    {
+        "code": "pcd-fr",
+        "autonym": "pcd-fr",
+        "name": "French Picard"
     },
     {
         "code": "peo",
@@ -5788,6 +5938,11 @@
         "code": "pks",
         "autonym": "pks",
         "name": "Pakistan Sign Language"
+    },
+    {
+        "code": "plu",
+        "autonym": "plu",
+        "name": "Palikur"
     },
     {
         "code": "plv",
@@ -5910,6 +6065,11 @@
         "name": "Puyuma"
     },
     {
+        "code": "pzh",
+        "autonym": "pzh",
+        "name": "Pazeh"
+    },
+    {
         "code": "qwh",
         "autonym": "qwh",
         "name": "Huaylas Ancash Quechua"
@@ -5980,6 +6140,11 @@
         "name": "Rohingya (Hanifi Rohingya script)"
     },
     {
+        "code": "rji",
+        "autonym": "rji",
+        "name": "Raji"
+    },
+    {
         "code": "rkt",
         "autonym": "rkt",
         "name": "Rangpuri"
@@ -6043,6 +6208,11 @@
         "code": "rmw",
         "autonym": "rmw",
         "name": "Welsh-Romani"
+    },
+    {
+        "code": "rnp",
+        "autonym": "rnp",
+        "name": "Rangpo"
     },
     {
         "code": "ro-md",
@@ -6152,7 +6322,7 @@
     {
         "code": "saz",
         "autonym": "saz",
-        "name": "Saurashtra"
+        "name": "Sourashtra"
     },
     {
         "code": "sba",
@@ -6165,9 +6335,19 @@
         "name": "Sangu"
     },
     {
+        "code": "sci",
+        "autonym": "sci",
+        "name": "Sri Lanka Malay"
+    },
+    {
         "code": "scl",
         "autonym": "scl",
         "name": "Shina"
+    },
+    {
+        "code": "scz",
+        "autonym": "scz",
+        "name": "Shetlandic"
     },
     {
         "code": "sd-deva",
@@ -6233,6 +6413,11 @@
         "code": "ser",
         "autonym": "ser",
         "name": "Serrano"
+    },
+    {
+        "code": "sfb",
+        "autonym": "sfb",
+        "name": "French Belgian Sign Language"
     },
     {
         "code": "sga",
@@ -6328,6 +6513,11 @@
         "code": "sjo",
         "autonym": "sjo",
         "name": "Xibe"
+    },
+    {
+        "code": "sjs",
+        "autonym": "sjs",
+        "name": "Senhaja De Srair"
     },
     {
         "code": "sjt",
@@ -6483,6 +6673,26 @@
         "code": "suz",
         "autonym": "suz",
         "name": "Sunwar"
+    },
+    {
+        "code": "svm",
+        "autonym": "svm",
+        "name": "Molise Slavic"
+    },
+    {
+        "code": "sw-arab",
+        "autonym": "sw-arab",
+        "name": "Swahili (Arabic script)"
+    },
+    {
+        "code": "sw-arab-cd",
+        "autonym": "sw-arab-cd",
+        "name": "Swahili (Arabic script, Congo)"
+    },
+    {
+        "code": "sw-arab-mz",
+        "autonym": "sw-arab-mz",
+        "name": "Swahili (Arabic script, Mozambique)"
     },
     {
         "code": "sw-cd",
@@ -6755,6 +6965,11 @@
         "name": "Talossan"
     },
     {
+        "code": "tzo",
+        "autonym": "tzo",
+        "name": "Tzotzil"
+    },
+    {
         "code": "ug-cyrl",
         "autonym": "ug-cyrl",
         "name": "Uyghur (Cyrillic script)"
@@ -6805,6 +7020,11 @@
         "name": "Mundari (Nag Mundari script)"
     },
     {
+        "code": "uon",
+        "autonym": "uon",
+        "name": "Kulon"
+    },
+    {
         "code": "urk",
         "autonym": "urk",
         "name": "Urak Lawoiʼ"
@@ -6830,9 +7050,29 @@
         "name": "Vai"
     },
     {
+        "code": "vgt",
+        "autonym": "vgt",
+        "name": "Flemish Sign Language"
+    },
+    {
         "code": "vi-hani",
         "autonym": "vi-hani",
         "name": "Vietnamese (Han script)"
+    },
+    {
+        "code": "vls-be",
+        "autonym": "vls-be",
+        "name": "Belgian Flemish"
+    },
+    {
+        "code": "vls-fr",
+        "autonym": "vls-fr",
+        "name": "French Flemish"
+    },
+    {
+        "code": "vls-nl",
+        "autonym": "vls-nl",
+        "name": "Dutch Flemish"
     },
     {
         "code": "vun",
@@ -6853,6 +7093,11 @@
         "code": "was",
         "autonym": "was",
         "name": "Washo"
+    },
+    {
+        "code": "way",
+        "autonym": "way",
+        "name": "Wayana"
     },
     {
         "code": "wbl-arab",
@@ -6968,6 +7213,11 @@
         "code": "xsu",
         "autonym": "xsu",
         "name": "Sanumá"
+    },
+    {
+        "code": "yag",
+        "autonym": "yag",
+        "name": "Yaghan"
     },
     {
         "code": "yah-cyrl",
