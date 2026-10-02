@@ -3610,6 +3610,11 @@
         "name": "Tai Dam"
     },
     {
+        "code": "bn-sylo",
+        "autonym": "bn-sylo",
+        "name": "Bangla (Sylheti Nagri script)"
+    },
+    {
         "code": "bnb",
         "autonym": "bnb",
         "name": "Bookan"
@@ -4473,6 +4478,11 @@
         "code": "gbz",
         "autonym": "gbz",
         "name": "Zoroastrian Dari"
+    },
+    {
+        "code": "gdo",
+        "autonym": "gdo",
+        "name": "Godoberi"
     },
     {
         "code": "gem",
@@ -5745,6 +5755,11 @@
         "name": "Omaha-Ponca"
     },
     {
+        "code": "onw",
+        "autonym": "onw",
+        "name": "Old Nubian"
+    },
+    {
         "code": "ood",
         "autonym": "ood",
         "name": "O'odham"
@@ -6217,7 +6232,7 @@
     {
         "code": "ro-md",
         "autonym": "ro-md",
-        "name": "Moldavian"
+        "name": "Moldovan Romanian"
     },
     {
         "code": "roa",
