@@ -4163,7 +4163,7 @@
         "apiUrl": "//ka.wikipedia.org/w/api.php",
         "languageCode": "ka",
         "group": "wiki",
-        "logo": "//ka.wikipedia.org/static/images/project-logos/kawiki.png",
+        "logo": "//ka.wikipedia.org/static/images/project-logos/kawiki-200000.png",
         "mobileUrl": "https://ka.wikipedia.org"
     },
     "kawikibooks": {
@@ -5398,6 +5398,17 @@
         "logo": "//ml.wikisource.org/static/images/project-logos/mlwikisource.png",
         "mobileUrl": "https://ml.wikisource.org"
     },
+    "mlwikivoyage": {
+        "shortName": "Wikivoyage",
+        "name": "Wikivoyage",
+        "id": "mlwikivoyage",
+        "pageUrl": "//ml.wikivoyage.org/wiki/$1",
+        "apiUrl": "//ml.wikivoyage.org/w/api.php",
+        "languageCode": "ml",
+        "group": "wikivoyage",
+        "logo": "//ml.wikivoyage.org/static/images/project-logos/wikivoyage.png",
+        "mobileUrl": "https://ml.wikivoyage.org"
+    },
     "mlwiktionary": {
         "shortName": "വിക്കിനിഘണ്ടു",
         "name": "വിക്കിനിഘണ്ടു",
@@ -6098,7 +6109,7 @@
         "apiUrl": "//nr.wikipedia.org/w/api.php",
         "languageCode": "nr",
         "group": "wiki",
-        "logo": "//nr.wikipedia.org/static/images/project-logos/enwiki.png",
+        "logo": "//nr.wikipedia.org/static/images/project-logos/nrwiki.png",
         "mobileUrl": "https://nr.wikipedia.org"
     },
     "nsowiki": {

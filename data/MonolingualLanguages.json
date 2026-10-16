@@ -1192,12 +1192,12 @@
     {
         "code": "ike-cans",
         "autonym": "ᐃᓄᒃᑎᑐᑦ",
-        "name": "Eastern Canadian (Aboriginal syllabics)"
+        "name": "Eastern Canadian Inuktitut (Aboriginal syllabics)"
     },
     {
         "code": "ike-latn",
         "autonym": "inuktitut",
-        "name": "Eastern Canadian (Latin script)"
+        "name": "Eastern Canadian Inuktitut (Latin script)"
     },
     {
         "code": "ilo",
@@ -3585,6 +3585,11 @@
         "name": "Bini"
     },
     {
+        "code": "bjj",
+        "autonym": "bjj",
+        "name": "Kannauji"
+    },
+    {
         "code": "bkn",
         "autonym": "bkn",
         "name": "Bukitan"
@@ -3643,6 +3648,11 @@
         "code": "bra",
         "autonym": "bra",
         "name": "Braj"
+    },
+    {
+        "code": "brh-arab",
+        "autonym": "brh-arab",
+        "name": "Brahui (Arabic script)"
     },
     {
         "code": "brh-latn",
@@ -7173,6 +7183,11 @@
         "code": "wyi",
         "autonym": "wyi",
         "name": "Woiwurrung"
+    },
+    {
+        "code": "xaq",
+        "autonym": "xaq",
+        "name": "Aquitanian"
     },
     {
         "code": "xbm",

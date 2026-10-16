@@ -1222,12 +1222,12 @@
     {
         "code": "ike-cans",
         "autonym": "ᐃᓄᒃᑎᑐᑦ",
-        "name": "Eastern Canadian (Aboriginal syllabics)"
+        "name": "Eastern Canadian Inuktitut (Aboriginal syllabics)"
     },
     {
         "code": "ike-latn",
         "autonym": "inuktitut",
-        "name": "Eastern Canadian (Latin script)"
+        "name": "Eastern Canadian Inuktitut (Latin script)"
     },
     {
         "code": "ilo",
